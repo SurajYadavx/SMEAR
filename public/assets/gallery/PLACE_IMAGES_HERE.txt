@@ -1,0 +1,9 @@
+Drop your clinic photos here as:
+  gallery-01.jpg
+  gallery-02.jpg
+  gallery-03.jpg
+  ... (any number of images)
+
+Then update the GALLERY_IMAGES array in /src/main.js to include each file.
+
+Recommended size: 1200x900px or wider, JPEG quality 85.

@@ -1,0 +1,9 @@
+Drop Google review screenshots here as:
+  review-01.png
+  review-02.png
+  review-03.png
+  ... (any number of screenshots)
+
+Then update the REVIEW_IMAGES array in /src/main.js to include each file.
+
+Recommended: full-width screenshot of the Google review card, PNG or JPG.

@@ -1,0 +1,10 @@
+Drop representative test images here, named exactly:
+  cbc.jpg          → Complete Blood Count
+  urine.jpg        → Urine Routine Examination
+  widal.jpg        → Widal Test
+  sputum.jpg       → Sputum Test (AFB)
+
+When you replace placeholder tests with real ones, update the
+image filenames in the TESTS array in /src/main.js accordingly.
+
+Recommended size: 800x450px (16:9), JPEG quality 80-85.

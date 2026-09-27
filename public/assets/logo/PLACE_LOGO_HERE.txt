@@ -1,0 +1,14 @@
+Drop logo here as:
+  logo.png
+
+Specifications:
+- Format: PNG with transparent background
+- Recommended size: 512x512px or larger (square canvas)
+- Logo centered with small padding (~10% on each side)
+
+This single file serves as:
+- Header logo (44px height)
+- Footer logo (48px height)
+- Favicon (browser tab icon)
+- Apple touch icon (iOS home screen)
+- Open Graph image (WhatsApp/Instagram link previews)
