@@ -19,18 +19,20 @@ window.CONTENT_EN = {
 
   nav: {
     about: 'About',
-    tests: 'Tests',
+    tests: 'Packages & Tests',
     founder: 'Our Director',
     howItWorks: 'How It Works',
     gallery: 'Gallery',
     reviews: 'Reviews',
     faq: 'FAQ',
     contact: 'Contact',
+    email: 'Email Us',
   },
 
   header: {
     callBtn: 'Call Now',
     waBtn: 'WhatsApp',
+    emailBtn: 'Email',
   },
 
   floatBtn: 'WhatsApp Us',
@@ -72,14 +74,36 @@ window.CONTENT_EN = {
 
   tests: {
     eyebrow: 'Diagnostic Services',
-    title: 'Our Tests \u0026 Services',
-    subtitle: 'Tap any card to learn more and book via WhatsApp or call.',
+    title: 'Packages & Tests',
+    subtitle: 'Search tests or packages and compare the right option for you.',
+    searchPlaceholder: 'Search tests or packages',
+    packagesHeading: 'Health Packages',
+    catalogueHeading: 'Popular Tests',
+    allFilter: 'All',
+    details: 'Details',
+    parameterCount: 'tests',
+    noPackages: 'No packages match your search.',
+    noTests: 'No tests match your search.',
+    packageWho: 'Who it suits',
+    packageWhy: 'What it checks',
+    packagePrep: 'Preparation',
+    bookingMessage: 'Hi, I\'d like to book the {test} at Smear Pathology.',
+    trust: {
+      qualified: 'Qualified microbiologist',
+      confidential: 'Confidential reports',
+      pricing: 'Clear pricing — no hidden charges',
+      prescription: 'No prescription needed for health checkup packages',
+    },
     viewDetails: 'View details',
     startingFrom: 'Starting from',
     callToBook: 'Call to Book',
     waToBook: 'WhatsApp to Book',
     trustStrip: 'Qualified Microbiologist \u00b7 Accurate Reports \u00b7 Confidential Results',
+    concernsHeading: 'Browse by Health Concern',
+    packageFilters: ['All', 'Full Body', 'Diabetes', 'Thyroid', 'Heart', 'Women', 'Senior'],
+    healthConcerns: ['Diabetes', 'Thyroid', 'Fever & Infection', 'Heart', 'Liver', 'Kidney', 'Vitamins', "Women's Health", 'Anemia', 'Urine & Stool'],
   },
+
 
   // PLACEHOLDER TEST DATA \u2014 replace with real client-provided list & pricing before launch.
   testData: [
@@ -189,17 +213,20 @@ window.CONTENT_EN = {
   contact: {
     eyebrow: 'Get In Touch',
     title: 'Contact \u0026 Location',
-    subtitle: 'Walk in, call us, or send a WhatsApp \u2014 we\u2019re here to help.',
+    subtitle: 'Walk in, call us, WhatsApp or email \u2014 we\u2019re here to help.',
     addressLabel: 'Address',
     phoneLabel: 'Phone',
     waLabel: 'WhatsApp',
     waLinkText: 'Send a message',
+    emailLabel: 'Email',
+    emailLinkText: 'jssmearpathology0355@gmail.com',
     hoursLabel: 'Hours',
     hoursNote: '* Please confirm hours on phone or WhatsApp before visiting on public holidays.',
     instaLabel: 'Instagram',
     directionsLink: 'Get Directions \u2192',
     callBtn: 'Call Now',
     waBtn: 'WhatsApp Us',
+    emailBtn: 'Email Us',
     directionsBtn: 'Get Directions',
     trustStrip: 'Qualified Microbiologist \u00b7 Accurate Reports \u00b7 Confidential Results',
     mapLabel: 'Find us on the map',
@@ -210,8 +237,23 @@ window.CONTENT_EN = {
     navTitle: 'Navigation',
     contactTitle: 'Contact',
     waLink: 'WhatsApp',
+    emailLink: 'Email Us',
     directionsLink: 'Get Directions',
     copyright: 'All rights reserved.',
     seoLine: 'Diagnostic pathology \u0026 microbiology lab Indapur \u2014 blood tests, urine tests \u0026 more.',
+  },
+
+  viewMore: {
+    viewMore: 'View More',
+    viewLess: 'View Less',
+    showing: 'Showing {shown} of {total}',
+  },
+
+  map: {
+    lat: 18.1240501,
+    lng: 75.0147934,
+    shareUrl: 'https://maps.app.goo.gl/bYwAMgtcDcBKMQsz8',
+    embedUrl: 'https://www.google.com/maps?q=18.1240501,75.0147934&z=17&output=embed',
+    directionsUrl: 'https://www.google.com/maps/dir/?api=1&destination=18.1240501,75.0147934',
   },
 };

@@ -124,6 +124,10 @@
 
   /* unchanged */
   .header-ctas {
+    display: contents;
+  }
+
+  .header-ctas > a {
     display: none;
   }
 
@@ -155,6 +159,15 @@
   .lang-toggle {
     display: flex;
   }
+}
+
+@media (min-width: 900px) and (max-width: 1099px) {
+  .header-inner { gap: 0.3rem; }
+  .nav-link { padding-inline: 0.38rem; font-size: 0.75rem; }
+  .header-ctas { gap: 0.2rem; margin-left: 0.25rem; }
+  .header-ctas .btn-icon { min-width: 38px; padding-inline: 0.55rem; }
+  .header-ctas .btn-icon span { display: none; }
+  .lang-toggle { min-width: 36px; padding-inline: 0.35rem; }
 }
 
 /* Lang toggle inside mobile drawer — style tweak */
@@ -345,8 +358,13 @@ html[lang="mr"] body {
    Contact likewise keeps its existing light/white background.
    Only explicitly listed here are sections that CHANGE from main.css. */
 .section-hero {
-  /* stays as is — dark teal hero */
+  background:
+    linear-gradient(rgba(6, 31, 33, 0.82), rgba(6, 31, 33, 0.68)),
+    url('../../public/assets/gallery/gallery-01.png') center 45% / cover no-repeat;
 }
+
+.hero-inner { grid-template-columns: minmax(0, 1fr); }
+.hero-content { max-width: 700px; }
 
 .section-about {
   background: var(--color-white);
@@ -595,4 +613,78 @@ body {
   height: 22px;
   fill: #25A56A;
   flex-shrink: 0;
+}
+/* ── PHASE 3: HERO VIDEO ──────────────────────────────────── */
+.section-hero {
+  position: relative;
+  overflow: hidden;
+}
+.hero-video-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  z-index: 0;
+  opacity: 0.18;
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-video-bg { display: none; }
+}
+.section-hero .container,
+.section-hero .hero-inner {
+  position: relative;
+  z-index: 1;
+}
+.section-hero .hero-scroll-indicator {
+  position: relative;
+  z-index: 1;
+}
+
+/* ── PHASE 5: EMAIL CONTACT ICON ─────────────────────────── */
+.contact-block__icon--email {
+  color: var(--color-accent);
+}
+
+/* ── PHASE 6: MOBILE NAV OVERLAY ────────────────────────── */
+.mobile-nav-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 98;
+  transition: opacity 250ms ease;
+  cursor: pointer;
+}
+.mobile-nav {
+  transition: transform 300ms cubic-bezier(0.4, 0, 0.2, 1), opacity 300ms ease;
+}
+.mobile-nav:not(.is-open) {
+  pointer-events: none;
+}
+
+/* ── PHASE 7: VIEW MORE SYSTEM ───────────────────────────── */
+.view-more-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+}
+.view-more-count {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+}
+.view-more-btn {
+  min-width: 160px;
+}
+
+/* ── DEVANAGARI FONT OVERRIDE ────────────────────────────── */
+:lang(mr) {
+  font-family: 'Noto Sans Devanagari', 'Inter', sans-serif;
+}
+:lang(mr) h1, :lang(mr) h2, :lang(mr) h3, :lang(mr) h4 {
+  font-family: 'Noto Sans Devanagari', 'Outfit', sans-serif;
 }
