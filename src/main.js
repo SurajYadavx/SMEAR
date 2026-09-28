@@ -1,4 +1,4 @@
-﻿/**
+/**
  * SMEAR PATHOLOGY — MAIN SCRIPT v3
  * 1.CONFIG  2.i18n  3.ScrollLock  4.ContactWiring  5.CatalogueUI
  * 6.TestCards  7.Carousels  8.Modal  9.Lightbox  10.FAQ
@@ -327,7 +327,7 @@ function openCatalogueItem(item, kind) {
 
 // 6. TEST CARDS
 function buildTestCards() {
-  var grid = document.getElementById('tests-grid'); if (!grid) return;
+  var grid = document.getElementById('test-grid'); if (!grid) return;
   grid.innerHTML = '';
   var tests = (_content && _content.testData) ? _content.testData : (window.CONTENT_EN ? window.CONTENT_EN.testData : []);
   var vdLabel = getNestedValue(_content,'tests.viewDetails') || 'View details';
