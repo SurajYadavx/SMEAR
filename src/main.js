@@ -20,12 +20,14 @@ const MAP_DIRECTIONS_URL = 'https://www.google.com/maps/dir/?api=1&destination='
 const LAB_HOURS = 'Mon \u2013 Sat: 7:00 AM \u2013 9:00 PM  |  Sun: 8:00 AM \u2013 2:00 PM';
 
 const GALLERY_IMAGES = [
-  { src: './public/assets/gallery/gallery-01.png', alt: 'Smear Pathology facility 1' },
-  { src: './public/assets/gallery/gallery-02.png', alt: 'Smear Pathology facility 2' },
-  { src: './public/assets/gallery/gallery-03.png', alt: 'Smear Pathology facility 3' },
-  { src: './public/assets/gallery/gallery-04.png', alt: 'Smear Pathology facility 4' },
-  { src: './public/assets/gallery/gallery-05.png', alt: 'Smear Pathology facility 5' },
-  { src: './public/assets/gallery/gallery-06.png', alt: 'Smear Pathology facility 6' },
+  { src: './public/assets/gallery/gallery-02.png', alt: 'Smear Pathology laboratory photo 1' },
+  { src: './public/assets/gallery/gallery-04.png', alt: 'Smear Pathology laboratory photo 2' },
+  { src: './public/assets/gallery/gallery-05.png', alt: 'Smear Pathology laboratory photo 3' },
+  { src: './public/assets/gallery/gallery-06.png', alt: 'Smear Pathology laboratory photo 4' },
+  { src: './public/assets/gallery/gallery-07.png', alt: 'Smear Pathology laboratory photo 5' },
+  { src: './public/assets/gallery/gallery-10.png', alt: 'Smear Pathology laboratory photo 6' },
+  { src: './public/assets/team/lab-equi.jpeg', alt: 'Smear Pathology laboratory equipment' },
+  { src: './public/assets/team/lab_work.png', alt: 'Smear Pathology laboratory workspace' },
 ];
 const REVIEW_IMAGES = [];
 const VIEW_MORE_DEFAULTS = { packages: { mobile: 4, desktop: 6 }, tests: { mobile: 6, desktop: 8 } };
@@ -148,6 +150,7 @@ function bootApp() {
   initHeader();
   initMobileNav();
   initModal();
+  initLeadInquiry();
   initLightbox();
   initScrollFadeIn();
   initCarouselDrag();
@@ -156,7 +159,7 @@ function bootApp() {
 
 // 4. CONTACT WIRING
 function wireContactLinks() {
-  ['#header-call-btn','#hero-call-btn','#mobile-call-btn','#modal-call-btn','#contact-cta-call','#footer-call-btn','#bottom-bar-call-btn'].forEach(function (sel) {
+  ['#header-call-btn','#hero-call-btn','#mobile-call-btn','#modal-call-btn','#contact-cta-call','#footer-call-btn','#bottom-bar-call-btn','#call-float'].forEach(function (sel) {
     var el = document.querySelector(sel); if (el) el.href = CONTACT_PHONE_TEL;
   });
   ['#header-wa-btn','#hero-wa-btn','#mobile-wa-btn','#modal-wa-btn','#contact-cta-wa','#footer-wa-btn','#contact-wa-link','.whatsapp-float','#bottom-bar-wa-btn'].forEach(function (sel) {
@@ -282,8 +285,12 @@ function buildCatalogueUI() {
       else { packageGrid.innerHTML=''; renderViewMoreUI('package-grid',vp,makePackageCard,'packages'); }
     }
     if (testGrid) {
-      if (vt.length===0) { testGrid.innerHTML='<div class="catalogue-empty">'+label('noTests','No tests found.')+'</div>'; var vmT=document.getElementById('test-grid-vm-wrap'); if(vmT)vmT.remove(); }
-      else { testGrid.innerHTML=''; renderViewMoreUI('test-grid',vt,makeTestCard,'tests'); }
+      if (activeSearch || activeFilter !== 'all') {
+        if (vt.length===0) { testGrid.innerHTML='<div class="catalogue-empty">'+label('noTests','No tests found.')+'</div>'; var vmT=document.getElementById('test-grid-vm-wrap'); if(vmT)vmT.remove(); }
+        else { testGrid.innerHTML=''; renderViewMoreUI('test-grid',vt,makeTestCard,'tests'); }
+      } else {
+        buildTestCards();
+      }
     }
   }
 
@@ -414,6 +421,50 @@ function initModal() {
   overlay.addEventListener('click',function(e){if(e.target===overlay)closeModal();});
   overlay.addEventListener('touchmove',preventTouchScroll,{passive:false});
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&overlay.getAttribute('aria-hidden')==='false')closeModal();});
+}
+function initLeadInquiry() {
+  var overlay=document.getElementById('lead-inquiry-overlay');
+  var closeButton=document.getElementById('lead-inquiry-close');
+  var form=document.getElementById('lead-inquiry-form');
+  if(!overlay||!closeButton||!form||overlay.dataset.bound)return;
+  overlay.dataset.bound='1';
+
+  function closePrompt() {
+    if(overlay.getAttribute('aria-hidden')==='true')return;
+    overlay.setAttribute('aria-hidden','true');
+    unlockScroll();
+  }
+  function openPrompt() {
+    overlay.setAttribute('aria-hidden','false');
+    lockScroll();
+    document.getElementById('lead-inquiry-name').focus();
+  }
+
+  closeButton.addEventListener('click',closePrompt);
+  overlay.addEventListener('click',function(e){if(e.target===overlay)closePrompt();});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')closePrompt();});
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(!form.reportValidity())return;
+    var name=document.getElementById('lead-inquiry-name').value.trim();
+    var phone=document.getElementById('lead-inquiry-phone').value.trim();
+    var message='Hi, I have a question about your services. My name is '+name+' and my contact number is '+phone+'.';
+    var url='https://wa.me/91'+CONTACT_PHONE+'?text='+encodeURIComponent(message);
+    window.open(url,'_blank','noopener,noreferrer');
+    closePrompt();
+  });
+
+  try { if(sessionStorage.getItem('smear_lead_prompt_seen')==='1')return; } catch(e) {}
+  var triggerAt=0.48+Math.random()*0.2;
+  function maybeOpenPrompt() {
+    var scrollable=document.documentElement.scrollHeight-window.innerHeight;
+    if(scrollable<=0||window.scrollY/scrollable<triggerAt)return;
+    if(document.querySelector('.modal-overlay[aria-hidden="false"]'))return;
+    try { sessionStorage.setItem('smear_lead_prompt_seen','1'); } catch(e) {}
+    window.removeEventListener('scroll',maybeOpenPrompt);
+    openPrompt();
+  }
+  window.addEventListener('scroll',maybeOpenPrompt,{passive:true});
 }
 function openModal(test) {
   var overlay=document.getElementById('test-modal'); if(!overlay)return;

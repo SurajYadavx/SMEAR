@@ -7,7 +7,7 @@
 window.CONTENT_EN = {
   lang: 'en',
   dir: 'ltr',
-  langToggle: 'मर',          // label shown to switch TO Marathi
+  langToggle: 'म',          // label shown to switch TO Marathi
 
   langPopup: {
     title: 'Choose Your Language',
@@ -37,6 +37,17 @@ window.CONTENT_EN = {
 
   floatBtn: 'WhatsApp Us',
 
+  leadPrompt: {
+    eyebrow: 'Quick question',
+    title: 'Need help choosing a test?',
+    description: 'Leave your name and number to open a WhatsApp message draft.',
+    nameLabel: 'Your name',
+    phoneLabel: 'Phone number',
+    submit: 'Continue on WhatsApp',
+    dismiss: 'Continue browsing',
+    note: 'Nothing is sent until you press Send in WhatsApp.',
+  },
+
   hero: {
     eyebrow: 'Indapur \u2022 Pune \u2022 Maharashtra',
     headline: 'The Most Trusted\nLaboratory of Indapur',
@@ -60,6 +71,12 @@ window.CONTENT_EN = {
     badge3Desc: 'Most routine tests are completed and reported the same day, so you and your physician can act promptly on the results.',
     badge4Title: 'Community Focused',
     badge4Desc: 'We exist to bring quality diagnostics closer to Indapur\u2019s families \u2014 affordable, accessible, and close to home.',
+  },
+
+  laboratory: {
+    eyebrow: 'Inside Our Laboratory',
+    title: 'A Closer Look at Our Lab',
+    subtitle: 'Explore the spaces and equipment behind every accurate result.',
   },
 
   founder: {

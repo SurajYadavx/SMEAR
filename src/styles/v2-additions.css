@@ -126,8 +126,14 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 0 var(--space-md);
+  padding: 1rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-white);
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-base), box-shadow var(--transition-base), border-color var(--transition-base);
 }
+.how-step:hover { transform: translateY(-3px); border-color: var(--color-accent); box-shadow: var(--shadow-md); }
 .how-step__num {
   width: 56px;
   height: 56px;
@@ -145,6 +151,9 @@
   position: relative;
   z-index: 1;
 }
+.how-step:nth-child(3) .how-step__num { background: var(--color-green-dark); }
+.how-step:nth-child(5) .how-step__num { background: var(--color-primary-light); }
+.how-step:nth-child(7) .how-step__num { background: var(--color-green); }
 .how-step__title {
   font-family: var(--font-heading);
   font-size: 1rem;
