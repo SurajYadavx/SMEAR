@@ -1,390 +1,407 @@
-// PLACEHOLDER DATA — prices, parameter counts and inclusions are illustrative. Replace with the lab's real list before launch. Medical wording must be confirmed by the lab.
-window.PACKAGE_DATA = {
-  en: [
-    {
-      id: 'basic-health-checkup',
-      name: 'Basic Health Checkup',
-      tagline: 'A practical start for routine screening',
-      params: 45,
-      price: 599,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Full Body',
-      highlights: ['CBC with differential', 'Fasting sugar', 'Lipid basics'],
-      groups: [
-        { title: 'Complete Blood Count', items: ['Hb', 'WBC', 'Platelets', 'MCV', 'MCH'] },
-        { title: 'Blood Sugar', items: ['Fasting Blood Sugar', 'Random Blood Sugar'] },
-        { title: 'Liver Function', items: ['SGOT', 'SGPT', 'Total Bilirubin'] },
-        { title: 'Kidney Function', items: ['Creatinine', 'BUN'] },
-        { title: 'Urine Routine', items: ['Protein', 'Sugar', 'Pus cells'] }
-      ],
-      who: 'Good for routine screening before a seasonal checkup or when you want a quick baseline overview.',
-      why: 'Helps spot anemia, infection signs, sugar trends, kidney strain, and basic liver health in one sample visit.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting' 
-    },
-    {
-      id: 'full-body-checkup',
-      name: 'Full Body Checkup',
-      tagline: 'Balanced wellness screening for everyday health',
-      params: 85,
-      price: 1499,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Full Body',
-      highlights: ['Thyroid profile', 'HbA1c', 'Calcium & vitamin D'],
-      groups: [
-        { title: 'Complete Blood Count', items: ['Hb', 'WBC', 'Platelets', 'Hematocrit'] },
-        { title: 'Thyroid', items: ['T3', 'T4', 'TSH'] },
-        { title: 'Diabetes', items: ['HbA1c', 'Fasting Sugar'] },
-        { title: 'Liver Function', items: ['SGOT', 'SGPT', 'ALP', 'Albumin'] },
-        { title: 'Kidney Function', items: ['Creatinine', 'Urea', 'Uric Acid'] },
-        { title: 'Vitamins', items: ['Vitamin D', 'Calcium'] }
-      ],
-      who: 'Suitable for adults who want a broader picture of pulse, energy, metabolism, and organ health.',
-      why: 'This helps review thyroid status, blood sugar control, vitamin levels, and major organ function in one package.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'advanced-full-body-vitamin',
-      name: 'Advanced Full Body + Vitamins',
-      tagline: 'Broader screening with vitamin and inflammation checks',
-      params: 110,
-      price: 2299,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Full Body',
-      highlights: ['CRP', 'Vit B12', 'Iron studies'],
-      groups: [
-        { title: 'Complete Blood Count', items: ['Hb', 'WBC', 'Platelets', 'RBC count'] },
-        { title: 'Lipid', items: ['Total Cholesterol', 'LDL', 'HDL', 'Triglycerides'] },
-        { title: 'Thyroid', items: ['TSH', 'T3', 'T4'] },
-        { title: 'Vitamin & Iron', items: ['Vitamin B12', 'Iron', 'Ferritin', 'TIBC'] },
-        { title: 'Inflammation', items: ['CRP', 'Electrolytes'] }
-      ],
-      who: 'Helpful if you have fatigue, body aches, or want a deeper health review with vitamin markers.',
-      why: 'It gives a stronger snapshot of immunity, inflammation, iron status, thyroid balance, and metabolic health.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'diabetes-care',
-      name: 'Diabetes Care',
-      tagline: 'Simple monitoring for sugar and kidney health',
-      params: 12,
-      price: 699,
-      reports: '24 hrs',
-      fasting: '8–10 hrs',
-      sample: 'Blood',
-      concern: 'Diabetes',
-      highlights: ['HbA1c', 'Fasting sugar', 'Kidney basics'],
-      groups: [
-        { title: 'Diabetes', items: ['Fasting Blood Sugar', 'PP Blood Sugar', 'HbA1c'] },
-        { title: 'Kidney Basics', items: ['Creatinine', 'Urea'] },
-        { title: 'Urine', items: ['Urine Sugar', 'Albumin'] }
-      ],
-      who: 'Useful for those monitoring sugar regularly or noticing increased thirst, weakness, or urination.',
-      why: 'Keeps an eye on blood sugar control and kidney stress, which often go together in diabetics.',
-      prep: 'Fast for 8–10 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'thyroid-profile',
-      name: 'Thyroid Profile',
-      tagline: 'Checks common thyroid concerns simply and clearly',
-      params: 3,
-      price: 499,
-      reports: '24 hrs',
-      fasting: 'No fasting',
-      sample: 'Blood',
-      concern: 'Thyroid',
-      highlights: ['TSH', 'T3', 'T4'],
-      groups: [
-        { title: 'Thyroid', items: ['T3', 'T4', 'TSH'] }
-      ],
-      who: 'Helpful if you feel tired, gain or lose weight suddenly, or have irregular periods.',
-      why: 'This profile helps assess whether thyroid activity is too low or too high.',
-      prep: 'No fasting is needed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'No fasting'
-    },
-    {
-      id: 'heart-health',
-      name: 'Heart Health',
-      tagline: 'Review of cholesterol, sugar, and heart risk markers',
-      params: 20,
-      price: 999,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Heart',
-      highlights: ['Lipid profile', 'CRP', 'Blood sugar'],
-      groups: [
-        { title: 'Lipid Profile', items: ['Total Cholesterol', 'LDL', 'HDL', 'Triglycerides'] },
-        { title: 'Cardiac Risk', items: ['CRP', 'Fasting Sugar'] },
-        { title: 'Kidney Basics', items: ['Creatinine', 'Urea'] }
-      ],
-      who: 'Suitable for adults with family history, high stress, or a history of high cholesterol.',
-      why: 'It helps review the major markers that affect heart and circulation health.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'womens-wellness',
-      name: 'Women\'s Wellness',
-      tagline: 'Focused review for common female health markers',
-      params: 60,
-      price: 1299,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Women',
-      highlights: ['CBC', 'Iron', 'Vitamin D'],
-      groups: [
-        { title: 'Blood & Iron', items: ['CBC', 'Iron Studies', 'Ferritin'] },
-        { title: 'Thyroid', items: ['TSH', 'T3', 'T4'] },
-        { title: 'Vitamin & Bone', items: ['Vitamin D', 'Calcium', 'B12'] },
-        { title: 'Urine Routine', items: ['Protein', 'Sugar', 'Pus cells'] }
-      ],
-      who: 'Helpful for fatigue, irregular periods, low immunity, or general health screening.',
-      why: 'This review checks iron, vitamins, thyroid balance, and general blood health.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'senior-citizen-checkup',
-      name: 'Senior Citizen Checkup',
-      tagline: 'A fuller review for age-related screening needs',
-      params: 90,
-      price: 1799,
-      reports: '24 hrs',
-      fasting: '10–12 hrs',
-      sample: 'Blood',
-      concern: 'Senior',
-      highlights: ['Kidney', 'Liver', 'Electrolytes'],
-      groups: [
-        { title: 'Complete Blood Count', items: ['Hb', 'WBC', 'Platelets'] },
-        { title: 'Kidney Function', items: ['Creatinine', 'Urea', 'Electrolytes'] },
-        { title: 'Liver Function', items: ['SGOT', 'SGPT', 'ALP'] },
-        { title: 'Urine Routine', items: ['Protein', 'Sugar', 'Cells'] }
-      ],
-      who: 'Well suited for older adults wanting a regular health review and better early screening.',
-      why: 'Helps assess organ function, sugar control, blood health, and general wellness trends.',
-      prep: 'Fast for 10–12 hours. Water is allowed. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'Fasting'
-    },
-    {
-      id: 'fever-monsoon-panel',
-      name: 'Fever / Monsoon Panel',
-      tagline: 'Common infection screen for fever and seasonal illness',
-      params: 10,
-      price: 899,
-      reports: 'Same/next day',
-      fasting: 'No fasting',
-      sample: 'Blood',
-      concern: 'Fever/Infection',
-      highlights: ['CBC', 'Malaria', 'Dengue'],
-      groups: [
-        { title: 'Blood Screening', items: ['CBC', 'Malaria Test', 'Dengue NS1'] },
-        { title: 'Infection Markers', items: ['CRP', 'Widal / Typhi'] },
-        { title: 'Urine Routine', items: ['Protein', 'Pus cells', 'Sugar'] }
-      ],
-      who: 'Useful during fever, weakness, or monsoon illness when infection testing is needed quickly.',
-      why: 'Helps review common bacterial or viral infection markers before starting treatment or follow-up.',
-      prep: 'No fasting is required. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'No fasting'
-    },
-    {
-      id: 'urine-infection-screen',
-      name: 'Urine & Infection Screen',
-      tagline: 'Focused check for urinary and stool infection concerns',
-      params: 15,
-      price: 499,
-      reports: '24–48 hrs',
-      fasting: 'No fasting',
-      sample: 'Urine',
-      concern: 'Urine & Stool Infection',
-      highlights: ['Urine culture', 'Stool routine', 'Infection check'],
-      groups: [
-        { title: 'Urine', items: ['Urine Routine', 'Urine Culture & Sensitivity'] },
-        { title: 'Stool', items: ['Stool Routine'] },
-        { title: 'Infection Signs', items: ['Pus cells', 'Bacteria', 'Leukocytes'] }
-      ],
-      who: 'Useful when there is burning while passing urine, abdominal discomfort, or recurring infections.',
-      why: 'Helps identify common urinary or stool infection patterns and guides the right follow-up.',
-      prep: 'No fasting is required. Inform us about any medicines you take.',
-      delivery: 'Reports are shared by WhatsApp or collected on request.',
-      sticker: 'No fasting'
-    }
-  ],
-  mr: [
-    {
-      id: 'basic-health-checkup',
-      name: 'मूलभूत आरोग्य तपासणी',
-      tagline: 'नियमित तपासणीसाठी सोपी सुरुवात',
-      params: 45,
-      price: 599,
-      reports: '२४ तास',
-      fasting: '१०–१२ तास',
-      sample: 'रक्त',
-      concern: 'पूर्ण शरीर',
-      highlights: ['सीबीसी', 'उपवासातील साखर', 'लिपिड बेसिक'],
-      groups: [
-        { title: 'सीबीसी', items: ['Hb', 'WBC', 'Platelets', 'MCV', 'MCH'] },
-        { title: 'रक्तातील साखर', items: ['उपवास साखर', 'रँडम साखर'] },
-        { title: 'यकृत', items: ['SGOT', 'SGPT', 'Total Bilirubin'] },
-        { title: 'किडनी', items: ['Creatinine', 'BUN'] },
-        { title: 'मूत्र तपासणी', items: ['Protein', 'Sugar', 'Pus cells'] }
-      ],
-      who: 'सामान्य आरोग्य तपासणी किंवा बेसलाइन माहिती पाहण्यासाठी योग्य.',
-      why: 'रक्तालगत, साखर, किडनी आणि यकृत यांची मूलभूत माहिती मिळते.',
-      prep: '१०–१२ तास उपवास. पाणी चालते. कोणतेही औषध घेत असल्यास सांगावे.',
-      delivery: 'अहवाल WhatsApp वर पाठवला जातो किंवा घेतला जाऊ शकतो.',
-      sticker: 'उपवास' 
-    },
-    {
-      id: 'full-body-checkup',
-      name: 'फुल बॉडी चेकअप',
-      tagline: 'दैनंदिन आरोग्यासाठी संतुलित तपासणी',
-      params: 85,
-      price: 1499,
-      reports: '२४ तास',
-      fasting: '१०–१२ तास',
-      sample: 'रक्त',
-      concern: 'पूर्ण शरीर',
-      highlights: ['थायरॉईड', 'HbA1c', 'कॅल्शियम', 'व्हिटामिन डी'],
-      groups: [
-        { title: 'सीबीसी', items: ['Hb', 'WBC', 'Platelets', 'Hematocrit'] },
-        { title: 'थायरॉईड', items: ['T3', 'T4', 'TSH'] },
-        { title: 'डायबेटीज', items: ['HbA1c', 'Fasting Sugar'] },
-        { title: 'यकृत', items: ['SGOT', 'SGPT', 'ALP', 'Albumin'] },
-        { title: 'किडनी', items: ['Creatinine', 'Urea', 'Uric Acid'] },
-        { title: 'व्हिटामिन', items: ['Vitamin D', 'Calcium'] }
-      ],
-      who: 'उर्जेमुळे, थकवा, चयापचय आणि आरोग्य तपासणी करायची असल्यास योग्य.',
-      why: 'थायरॉईड, साखर, व्हिटामिन आणि प्रमुख अवयवांची माहिती मिळते.',
-      prep: '१०–१२ तास उपवास. पाणी चालते. कोणतेही औषध घेत असल्यास सांगावे.',
-      delivery: 'अहवाल WhatsApp वर पाठवला जातो किंवा घेतला जाऊ शकतो.',
-      sticker: 'उपवास'
-    }
-  ]
-};
+// PLACEHOLDER DATA — prices, parameter counts and inclusions are illustrative.
+// Replace with the lab's real list before launch.
+// Medical wording must be confirmed by the lab owner (Mr. Pradip S. Jadhav).
+// Do NOT copy wording or prices from Metropolis, Redcliffe, or BookMyTest.
+// All Marathi text is AI-generated and needs native review before going live.
 
-var packageTranslationsMr = {
-  'advanced-full-body-vitamin': {
-    name: 'सविस्तर आरोग्य व जीवनसत्त्व तपासणी', tagline: 'जीवनसत्त्वे आणि दाह तपासण्यांसह विस्तृत तपासणी', concern: 'पूर्ण शरीर',
-    highlights: ['CRP', 'व्हिटॅमिन B12', 'लोह तपासणी'], who: 'थकवा, अंगदुखी किंवा जीवनसत्त्वांच्या तपासणीसह सविस्तर आरोग्य आढावा हवा असल्यास उपयुक्त.',
-    why: 'रोगप्रतिकारक शक्ती, दाह, लोह, थायरॉईड आणि चयापचय आरोग्याची माहिती देते.', prep: '१०–१२ तास उपवास. पाणी चालते. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवास'
+window.PACKAGE_DATA = [
+
+  // ── 1. BASIC HEALTH CHECKUP ───────────────────────────────
+  {
+    id:             'basic-health-checkup',
+    slug:           'basic-health-checkup',
+    name:           'Basic Health Checkup',
+    nameMr:         'मूलभूत आरोग्य तपासणी',          // needs native review
+    tagline:        'A practical start for routine screening',
+    taglineMr:      'नित्य तपासणीसाठी योग्य सुरुवात', // needs native review
+    category:       'Full Body',
+    categoryMr:     'संपूर्ण शरीर',
+    price:          599,
+    mrp:            null,          // no invented discount — set real value when known
+    paramCount:     45,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     'Same day / 24 hrs',
+    reportTimeMr:   'त्याच दिवशी / २४ तास',
+    sample:         'Blood + Urine',
+    homeCollection: true,
+    image:          null,          // filename in public/assets/packages/ — add when available
+
+    // Grouped test list (what's actually run)
+    profiles: [
+      { title: 'Complete Blood Count', titleMr: 'संपूर्ण रक्त गणना', tests: ['Haemoglobin', 'WBC', 'Platelets', 'MCV', 'MCH', 'MCHC', 'RBC'] },
+      { title: 'Blood Sugar',           titleMr: 'रक्त शर्करा',        tests: ['Fasting Blood Sugar'] },
+      { title: 'Liver Function',        titleMr: 'यकृत कार्य',         tests: ['SGOT', 'SGPT', 'Total Bilirubin', 'Direct Bilirubin'] },
+      { title: 'Kidney Function',       titleMr: 'मूत्रपिंड कार्य',    tests: ['Creatinine', 'Blood Urea Nitrogen'] },
+      { title: 'Urine Routine',         titleMr: 'मूत्र रूटीन',        tests: ['Colour', 'Appearance', 'Protein', 'Sugar', 'Pus Cells', 'RBC'] }
+    ],
+
+    highlights: ['CBC with differential', 'Fasting blood sugar', 'Liver + kidney basics', 'Urine routine'],
+
+    whoShouldTake:   'Adults who want a quick baseline overview before a seasonal checkup or after feeling off for a few days.',
+    whoShouldTakeMr: 'प्रौढांसाठी जे हंगामी तपासणीपूर्वी किंवा काही दिवस अस्वस्थ वाटल्यावर प्राथमिक माहिती मिळवू इच्छितात.', // needs native review
+    whyItMatters:    'Catches anaemia, infection signs, early blood sugar trends, and basic liver/kidney strain — all in one sample visit.',
+    whyItMattersMr:  'अशक्तपणा, संसर्गाची चिन्हे, रक्त शर्करेतील बदल आणि यकृत/मूत्रपिंडावरील ताण एकाच भेटीत कळतात.', // needs native review
+
+    bookingSteps: [
+      'Call or WhatsApp us to confirm your slot',
+      'Fast for 10–12 hours before sample collection (water allowed)',
+      'Visit the lab or request home collection',
+      'Sample collected in a few minutes',
+      'Report shared same day via WhatsApp or on request'
+    ],
+
+    faq: [
+      { q: 'Do I need a doctor\'s prescription?',      a: 'No prescription is required for this health checkup package.' },
+      { q: 'Is fasting required?',                     a: 'Yes — please fast for 10–12 hours before the blood draw. Water is fine.' },
+      { q: 'How long before I get my report?',         a: 'Most reports from this package are ready the same day or within 24 hours.' },
+      { q: 'Can this be done at home?',                a: 'Home collection is available — contact us to book a visit.' },
+      { q: 'Are children\'s doses and ranges different?', a: 'Yes — reference ranges differ by age. Our team will note the patient\'s age when reports are prepared.' }
+    ]
   },
-  'diabetes-care': {
-    name: 'मधुमेह तपासणी', tagline: 'साखर आणि किडनी आरोग्याची नियमित तपासणी', concern: 'डायबेटीज',
-    highlights: ['HbA1c', 'उपवासातील साखर', 'किडनी तपासणी'], who: 'रक्तातील साखरेचे नियमित निरीक्षण करणाऱ्यांसाठी उपयुक्त.',
-    why: 'रक्तातील साखरेचे नियंत्रण आणि किडनीवरील ताण तपासण्यास मदत होते.', prep: '८–१० तास उपवास. पाणी चालते. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवास'
+
+  // ── 2. FULL BODY CHECKUP ──────────────────────────────────
+  {
+    id:             'full-body-checkup',
+    slug:           'full-body-checkup',
+    name:           'Full Body Checkup',
+    nameMr:         'संपूर्ण शरीर तपासणी',           // needs native review
+    tagline:        'Balanced wellness screening for everyday health',
+    taglineMr:      'दैनंदिन आरोग्यासाठी संतुलित तपासणी', // needs native review
+    category:       'Full Body',
+    categoryMr:     'संपूर्ण शरीर',
+    price:          1499,
+    mrp:            null,
+    paramCount:     85,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     '24 hrs',
+    reportTimeMr:   '२४ तास',
+    sample:         'Blood + Urine',
+    homeCollection: true,
+    image:          null,
+
+    profiles: [
+      { title: 'Complete Blood Count', titleMr: 'संपूर्ण रक्त गणना', tests: ['Haemoglobin', 'WBC', 'Platelets', 'Hematocrit', 'MCV', 'MCH', 'MCHC', 'RBC'] },
+      { title: 'Thyroid',              titleMr: 'थायरॉइड',           tests: ['T3', 'T4', 'TSH'] },
+      { title: 'Diabetes',             titleMr: 'मधुमेह',            tests: ['HbA1c', 'Fasting Blood Sugar'] },
+      { title: 'Liver Function',       titleMr: 'यकृत कार्य',        tests: ['SGOT', 'SGPT', 'ALP', 'Albumin', 'Total Protein', 'Total Bilirubin'] },
+      { title: 'Kidney Function',      titleMr: 'मूत्रपिंड कार्य',   tests: ['Creatinine', 'Urea', 'Uric Acid', 'BUN'] },
+      { title: 'Lipid Profile',        titleMr: 'लिपिड प्रोफाइल',   tests: ['Total Cholesterol', 'Triglycerides', 'HDL', 'LDL', 'VLDL'] },
+      { title: 'Vitamins & Minerals',  titleMr: 'जीवनसत्त्वे',       tests: ['Vitamin D (25-OH)', 'Calcium'] },
+      { title: 'Urine Routine',        titleMr: 'मूत्र रूटीन',       tests: ['Protein', 'Sugar', 'Pus Cells', 'Appearance', 'pH'] }
+    ],
+
+    highlights: ['Thyroid profile (T3/T4/TSH)', 'HbA1c (3-month sugar average)', 'Lipid profile', 'Vitamin D', 'Complete liver + kidney'],
+
+    whoShouldTake:   'Adults 25 and above who want a broader picture of metabolism, thyroid, vitamins, and organ health — ideal as an annual checkup.',
+    whoShouldTakeMr: '२५ वर्षांवरील प्रौढांसाठी जे चयापचय, थायरॉइड, जीवनसत्त्वे आणि अवयव आरोग्याची विस्तृत माहिती मिळवू इच्छितात.', // needs native review
+    whyItMatters:    'Covers thyroid imbalance, long-term sugar control, cholesterol trends, vitamin D deficiency, and major organ function in a single visit.',
+    whyItMattersMr:  'थायरॉइड असंतुलन, दीर्घकालीन रक्त शर्करा नियंत्रण, कोलेस्ट्रॉल, व्हिटॅमिन डी कमतरता आणि अवयव कार्य एकाच भेटीत तपासता येते.', // needs native review
+
+    bookingSteps: [
+      'Call or WhatsApp to book',
+      'Fast for 10–12 hours (water allowed)',
+      'Visit lab or request home collection',
+      'Report ready in 24 hours'
+    ],
+
+    faq: [
+      { q: 'Why is TSH included?',      a: 'Thyroid disorders are common and often go undetected — TSH is a key screening marker.' },
+      { q: 'What does HbA1c show?',     a: 'HbA1c reflects your average blood sugar over the past 2–3 months, which is more useful than a single fasting reading.' },
+      { q: 'Is fasting required?',      a: 'Yes — fast 10–12 hours before your appointment. Water is fine.' },
+      { q: 'Can I add tests?',          a: 'Yes — call us and we can often add individual tests at a combined rate.' },
+      { q: 'Is home collection available?', a: 'Yes — book via WhatsApp or call and we\'ll arrange a home visit.' }
+    ]
   },
-  'thyroid-profile': {
-    name: 'थायरॉईड तपासणी', tagline: 'थायरॉईडच्या सामान्य समस्यांची तपासणी', concern: 'थायरॉईड',
-    highlights: ['TSH', 'T3', 'T4'], who: 'थकवा, अचानक वजनबदल किंवा अनियमित मासिक पाळी असल्यास उपयुक्त.',
-    why: 'थायरॉईडचे कार्य कमी किंवा जास्त आहे का याचे मूल्यांकन करते.', prep: 'उपवासाची गरज नाही. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवासाची गरज नाही'
+
+  // ── 3. DIABETES CARE PANEL ────────────────────────────────
+  {
+    id:             'diabetes-care-panel',
+    slug:           'diabetes-care-panel',
+    name:           'Diabetes Care Panel',
+    nameMr:         'मधुमेह काळजी पॅनेल',            // needs native review
+    tagline:        'Monitoring for diagnosed or at-risk individuals',
+    taglineMr:      'मधुमेह असलेल्या किंवा जोखीम असलेल्यांसाठी नियमित तपासणी', // needs native review
+    category:       'Diabetes',
+    categoryMr:     'मधुमेह',
+    price:          799,
+    mrp:            null,
+    paramCount:     12,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     'Same day',
+    reportTimeMr:   'त्याच दिवशी',
+    sample:         'Blood + Urine',
+    homeCollection: true,
+    image:          null,
+
+    profiles: [
+      { title: 'Glucose Control',  titleMr: 'ग्लुकोज नियंत्रण',   tests: ['Fasting Blood Sugar', 'Post Prandial Blood Sugar', 'HbA1c'] },
+      { title: 'Kidney Markers',   titleMr: 'मूत्रपिंड सूचक',     tests: ['Creatinine', 'Urea', 'Microalbumin in Urine'] },
+      { title: 'Lipid Screen',     titleMr: 'लिपिड तपासणी',       tests: ['Total Cholesterol', 'Triglycerides', 'HDL', 'LDL'] },
+      { title: 'Urine',            titleMr: 'मूत्र',               tests: ['Routine Urine Examination'] }
+    ],
+
+    highlights: ['HbA1c', 'Fasting + PP sugar', 'Kidney function', 'Cholesterol screen'],
+
+    whoShouldTake:   'People already diagnosed with diabetes (Type 1 or Type 2) who need regular monitoring, or those with a strong family history of diabetes.',
+    whoShouldTakeMr: 'मधुमेह (टाइप १ किंवा टाइप २) असलेल्या किंवा कौटुंबिक इतिहास असलेल्या व्यक्तींसाठी.', // needs native review
+    whyItMatters:    'Tracks long-term sugar control, kidney impact (a common complication), and cholesterol — three key pillars of diabetes management.',
+    whyItMattersMr:  'दीर्घकालीन रक्त शर्करा, मूत्रपिंडावर परिणाम (सामान्य गुंतागुंत) आणि कोलेस्ट्रॉल — मधुमेह व्यवस्थापनाचे तीन महत्त्वाचे घटक.', // needs native review
+
+    bookingSteps: [
+      'Fast for 10–12 hours before the blood test',
+      'Bring urine sample in a clean container if possible, or collect at the lab',
+      'Results typically same day'
+    ],
+
+    faq: [
+      { q: 'How often should a diabetic person do this panel?',  a: 'Generally every 3–6 months, depending on your doctor\'s advice and how well sugar is controlled.' },
+      { q: 'What does microalbumin in urine show?',             a: 'It is an early marker of kidney involvement in diabetics — catching it early allows treatment before serious damage.' },
+      { q: 'Can I do this if my sugar is well controlled?',     a: 'Yes — regular monitoring is important even when you feel fine.' }
+    ]
   },
-  'heart-health': {
-    name: 'हृदय आरोग्य तपासणी', tagline: 'कोलेस्ट्रॉल, साखर आणि हृदयाशी संबंधित घटकांचा आढावा', concern: 'हृदय',
-    highlights: ['लिपिड प्रोफाइल', 'CRP', 'रक्तातील साखर'], who: 'कुटुंबात हृदयरोगाचा इतिहास किंवा कोलेस्ट्रॉल वाढलेले असल्यास उपयुक्त.',
-    why: 'हृदय व रक्ताभिसरणाशी संबंधित प्रमुख घटकांचा आढावा घेते.', prep: '१०–१२ तास उपवास. पाणी चालते. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवास'
+
+  // ── 4. THYROID PROFILE ────────────────────────────────────
+  {
+    id:             'thyroid-profile',
+    slug:           'thyroid-profile',
+    name:           'Thyroid Profile',
+    nameMr:         'थायरॉइड प्रोफाइल',              // needs native review
+    tagline:        'T3, T4 and TSH — the core thyroid screen',
+    taglineMr:      'T3, T4 आणि TSH — मूलभूत थायरॉइड तपासणी', // needs native review
+    category:       'Thyroid',
+    categoryMr:     'थायरॉइड',
+    price:          399,
+    mrp:            null,
+    paramCount:     3,
+    fasting:        'Not required',
+    fastingMr:      'आवश्यक नाही',
+    reportTime:     'Same day',
+    reportTimeMr:   'त्याच दिवशी',
+    sample:         'Blood',
+    homeCollection: true,
+    image:          null,
+
+    profiles: [
+      { title: 'Thyroid Hormones', titleMr: 'थायरॉइड संप्रेरक', tests: ['T3 (Triiodothyronine)', 'T4 (Thyroxine)', 'TSH (Thyroid Stimulating Hormone)'] }
+    ],
+
+    highlights: ['T3', 'T4', 'TSH — all three in one visit', 'No fasting needed'],
+
+    whoShouldTake:   'Anyone experiencing unexplained weight changes, fatigue, hair loss, mood shifts, or irregular periods — or anyone with a family history of thyroid disease.',
+    whoShouldTakeMr: 'ज्यांना अचानक वजन बदल, थकवा, केस गळणे, मूड बदल किंवा अनियमित मासिक पाळी जाणवते त्यांच्यासाठी.', // needs native review
+    whyItMatters:    'The thyroid gland controls metabolism, energy, and mood. Imbalances (hypo- or hyperthyroid) are common and highly treatable once identified.',
+    whyItMattersMr:  'थायरॉइड ग्रंथी चयापचय, ऊर्जा आणि मूडवर नियंत्रण ठेवते. असंतुलन सामान्य आहे आणि उपचार करता येते.', // needs native review
+
+    bookingSteps: [
+      'No fasting required — you can eat and drink normally',
+      'Walk in or book a home collection slot',
+      'Report the same day'
+    ],
+
+    faq: [
+      { q: 'Does time of day matter for thyroid test?',   a: 'TSH is usually highest in the morning. For consistent monitoring over time, try to test at a similar time of day.' },
+      { q: 'No fasting — really?',                        a: 'Correct — thyroid hormones are not significantly affected by meals.' },
+      { q: 'If TSH is abnormal, what next?',              a: 'Consult your doctor — they may request additional tests like Anti-TPO antibodies or an ultrasound, which we can also assist with.' }
+    ]
   },
-  'womens-wellness': {
-    name: 'महिलांचे आरोग्य तपासणी पॅकेज', tagline: 'महिलांच्या आरोग्याशी संबंधित सामान्य घटकांची तपासणी', concern: 'महिला',
-    highlights: ['CBC', 'लोह', 'व्हिटॅमिन D'], who: 'थकवा, अनियमित मासिक पाळी किंवा सर्वसाधारण आरोग्य तपासणीसाठी उपयुक्त.',
-    why: 'लोह, जीवनसत्त्वे, थायरॉईड आणि रक्ताच्या आरोग्याची तपासणी करते.', prep: '१०–१२ तास उपवास. पाणी चालते. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवास'
+
+  // ── 5. WOMEN'S WELLNESS PANEL ─────────────────────────────
+  {
+    id:             'womens-wellness-panel',
+    slug:           'womens-wellness-panel',
+    name:           "Women's Wellness Panel",
+    nameMr:         'महिला आरोग्य पॅनेल',             // needs native review
+    tagline:        'Targeted screening for women of all ages',
+    taglineMr:      'सर्व वयोगटातील महिलांसाठी लक्ष्यित तपासणी', // needs native review
+    category:       "Women's Health",
+    categoryMr:     'महिला आरोग्य',
+    price:          1199,
+    mrp:            null,
+    paramCount:     22,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     '24 hrs',
+    reportTimeMr:   '२४ तास',
+    sample:         'Blood + Urine',
+    homeCollection: true,
+    image:          null,
+
+    profiles: [
+      { title: 'Blood & Iron',     titleMr: 'रक्त आणि लोह',        tests: ['Haemoglobin', 'CBC', 'Serum Iron', 'TIBC', 'Ferritin'] },
+      { title: 'Thyroid',          titleMr: 'थायरॉइड',             tests: ['TSH'] },
+      { title: 'Diabetes',         titleMr: 'मधुमेह',              tests: ['Fasting Blood Sugar', 'HbA1c'] },
+      { title: 'Bone Health',      titleMr: 'हाडांचे आरोग्य',      tests: ['Vitamin D (25-OH)', 'Calcium', 'Phosphorus'] },
+      { title: 'Liver & Kidney',   titleMr: 'यकृत आणि मूत्रपिंड', tests: ['SGOT', 'SGPT', 'Creatinine', 'Uric Acid'] },
+      { title: 'Urine Routine',    titleMr: 'मूत्र रूटीन',         tests: ['Routine Urine Examination'] }
+    ],
+
+    highlights: ['Iron + Ferritin (anaemia screen)', 'TSH', 'Vitamin D + Calcium', 'HbA1c'],
+
+    whoShouldTake:   'Women aged 20 and above — especially useful for those experiencing fatigue, irregular periods, hair loss, or approaching menopause.',
+    whoShouldTakeMr: '२० वर्षांवरील महिला — विशेषतः ज्यांना थकवा, अनियमित मासिक पाळी, केस गळणे जाणवते.', // needs native review
+    whyItMatters:    'Iron deficiency and Vitamin D deficiency are extremely common in women and often missed. This panel covers the most frequently seen gaps.',
+    whyItMattersMr:  'लोहाची आणि व्हिटॅमिन डीची कमतरता महिलांमध्ये सामान्य आहे आणि अनेकदा दुर्लक्षित राहते.', // needs native review
+
+    bookingSteps: [
+      'Fast for 10–12 hours',
+      'Book a lab visit or home collection',
+      'Report shared in 24 hours'
+    ],
+
+    faq: [
+      { q: 'Is this suitable for teenage girls?',  a: 'Yes — the panel is relevant from age 15–16 onwards. Discuss with us if there are specific concerns.' },
+      { q: 'Can pregnant women take this?',        a: 'Please consult your doctor first — some reference ranges change during pregnancy.' },
+      { q: 'Does this include hormonal tests?',    a: 'Not in the standard panel. Hormonal tests (FSH, LH, Prolactin, Estradiol) can be added — ask us.' }
+    ]
   },
-  'senior-citizen-checkup': {
-    name: 'ज्येष्ठ नागरिक आरोग्य तपासणी', tagline: 'वयानुसार आरोग्य तपासणीसाठी सविस्तर आढावा', concern: 'ज्येष्ठ नागरिक',
-    highlights: ['किडनी', 'यकृत', 'इलेक्ट्रोलाइट्स'], who: 'नियमित आरोग्य आढावा घेऊ इच्छिणाऱ्या ज्येष्ठांसाठी उपयुक्त.',
-    why: 'अवयवांचे कार्य, साखरेचे नियंत्रण आणि रक्ताच्या आरोग्याचा आढावा घेते.', prep: '१०–१२ तास उपवास. पाणी चालते. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवास'
+
+  // ── 6. SENIOR CARE PANEL ──────────────────────────────────
+  {
+    id:             'senior-care-panel',
+    slug:           'senior-care-panel',
+    name:           'Senior Care Panel',
+    nameMr:         'ज्येष्ठ नागरिक काळजी पॅनेल',    // needs native review
+    tagline:        'Comprehensive screening for adults 50 and above',
+    taglineMr:      '५० वर्षांवरील प्रौढांसाठी सर्वसमावेशक तपासणी', // needs native review
+    category:       'Senior Health',
+    categoryMr:     'ज्येष्ठ आरोग्य',
+    price:          1899,
+    mrp:            null,
+    paramCount:     65,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     '24 hrs',
+    reportTimeMr:   '२४ तास',
+    sample:         'Blood + Urine',
+    homeCollection: true,
+    image:          null,
+
+    profiles: [
+      { title: 'Complete Blood Count', titleMr: 'संपूर्ण रक्त गणना',  tests: ['Haemoglobin', 'WBC', 'Platelets', 'MCV', 'MCH', 'MCHC', 'RBC'] },
+      { title: 'Diabetes',             titleMr: 'मधुमेह',             tests: ['Fasting Blood Sugar', 'HbA1c', 'Post Prandial Blood Sugar'] },
+      { title: 'Thyroid',              titleMr: 'थायरॉइड',            tests: ['T3', 'T4', 'TSH'] },
+      { title: 'Heart & Lipids',       titleMr: 'हृदय आणि लिपिड',    tests: ['Total Cholesterol', 'Triglycerides', 'HDL', 'LDL', 'VLDL'] },
+      { title: 'Kidney Function',      titleMr: 'मूत्रपिंड कार्य',    tests: ['Creatinine', 'BUN', 'Uric Acid', 'eGFR'] },
+      { title: 'Liver Function',       titleMr: 'यकृत कार्य',         tests: ['SGOT', 'SGPT', 'ALP', 'Total Bilirubin', 'Albumin', 'Total Protein'] },
+      { title: 'Bone & Vitamins',      titleMr: 'हाडे आणि जीवनसत्त्वे', tests: ['Vitamin D (25-OH)', 'Calcium', 'Phosphorus', 'Vitamin B12'] },
+      { title: 'Urine Routine',        titleMr: 'मूत्र रूटीन',        tests: ['Routine Urine Examination'] }
+    ],
+
+    highlights: ['eGFR (kidney health)', 'Vitamin B12', 'HbA1c', 'Full lipid profile', 'Bone markers'],
+
+    whoShouldTake:   'Men and women aged 50 and above — especially those managing chronic conditions, or anyone wanting a thorough annual review.',
+    whoShouldTakeMr: '५० वर्षांवरील पुरुष आणि महिला — विशेषतः जुनाट आजार असलेले किंवा वार्षिक तपासणी इच्छिणारे.', // needs native review
+    whyItMatters:    'After 50, multiple systems need regular review. This panel looks at the areas most likely to change: kidney filtering, bone density markers, B12 status, and long-term sugar and heart-risk markers.',
+    whyItMattersMr:  '५० नंतर अनेक अवयव प्रणाली नियमित तपासणीची गरज असते — मूत्रपिंड, हाडे, B12, रक्त शर्करा आणि हृदय जोखीम.', // needs native review
+
+    bookingSteps: [
+      'Fast for 10–12 hours before the blood draw',
+      'Home collection is available — ideal for senior patients',
+      'Report ready in 24 hours'
+    ],
+
+    faq: [
+      { q: 'Can this be done at home for elderly patients?', a: 'Yes — home collection is available. We recommend booking a morning slot when possible.' },
+      { q: 'What is eGFR?',                                  a: 'Estimated Glomerular Filtration Rate — a key measure of how well your kidneys are filtering blood.' },
+      { q: 'Does this cover cardiac markers?',               a: 'It includes a full lipid profile which indicates heart disease risk. Specific cardiac markers (like Troponin or NT-proBNP) can be added on request.' }
+    ]
   },
-  'fever-monsoon-panel': {
-    name: 'ताप व पावसाळी आजार तपासणी', tagline: 'ताप आणि हंगामी आजारांसाठी सामान्य संसर्ग तपासणी', concern: 'ज्वर/संक्रमण',
-    highlights: ['CBC', 'मलेरिया', 'डेंग्यू'], who: 'ताप, अशक्तपणा किंवा पावसाळ्यातील आजारांमध्ये उपयुक्त.',
-    why: 'सामान्य जिवाणू किंवा विषाणू संसर्गाच्या घटकांचा आढावा घेते.', prep: 'उपवासाची गरज नाही. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवासाची गरज नाही'
+
+  // ── 7. HEART CARE PANEL ───────────────────────────────────
+  {
+    id:             'heart-care-panel',
+    slug:           'heart-care-panel',
+    name:           'Heart Care Panel',
+    nameMr:         'हृदय काळजी पॅनेल',              // needs native review
+    tagline:        'Lipid and cardiovascular risk screening',
+    taglineMr:      'लिपिड आणि हृदय जोखीम तपासणी',   // needs native review
+    category:       'Heart',
+    categoryMr:     'हृदय',
+    price:          699,
+    mrp:            null,
+    paramCount:     10,
+    fasting:        '10–12 hours',
+    fastingMr:      '१०–१२ तास',
+    reportTime:     'Same day',
+    reportTimeMr:   'त्याच दिवशी',
+    sample:         'Blood',
+    homeCollection: false,         // confirm with client
+    image:          null,
+
+    profiles: [
+      { title: 'Lipid Profile',   titleMr: 'लिपिड प्रोफाइल',   tests: ['Total Cholesterol', 'Triglycerides', 'HDL Cholesterol', 'LDL Cholesterol', 'VLDL Cholesterol', 'Cholesterol/HDL Ratio'] },
+      { title: 'Glucose',         titleMr: 'ग्लुकोज',           tests: ['Fasting Blood Sugar'] },
+      { title: 'Liver (basic)',    titleMr: 'यकृत (मूलभूत)',     tests: ['SGOT', 'SGPT'] },
+      { title: 'Kidney (basic)',   titleMr: 'मूत्रपिंड (मूलभूत)', tests: ['Creatinine'] }
+    ],
+
+    highlights: ['Complete lipid profile', 'HDL + LDL breakdown', 'Cholesterol/HDL risk ratio'],
+
+    whoShouldTake:   'Adults 30 and above with risk factors: family history of heart disease, high BP, obesity, sedentary lifestyle, or smoking history.',
+    whoShouldTakeMr: '३० वर्षांवरील प्रौढ ज्यांना कौटुंबिक हृदयरोग इतिहास, उच्च रक्तदाब, लठ्ठपणा किंवा धूम्रपानाचा इतिहास आहे.', // needs native review
+    whyItMatters:    'High LDL and low HDL are key modifiable risk factors for heart disease. Early detection allows dietary and lifestyle changes before medication is needed.',
+    whyItMattersMr:  'उच्च LDL आणि कमी HDL हे हृदयरोगाचे प्रमुख बदलण्यायोग्य जोखीम घटक आहेत. लवकर तपासणी करणे फायदेशीर ठरते.', // needs native review
+
+    bookingSteps: [
+      'Fast for 10–12 hours — this is particularly important for accurate lipid readings',
+      'Walk in or book in advance',
+      'Report ready same day'
+    ],
+
+    faq: [
+      { q: 'Why must I fast for a lipid test?',      a: 'Triglycerides are strongly affected by recent meals — fasting gives the most accurate baseline reading.' },
+      { q: 'What is a good cholesterol level?',      a: 'This varies by individual risk factors. Your doctor is the right person to interpret results in context of your health history.' },
+      { q: 'Can I take my BP medication before the test?', a: 'Generally yes, but confirm with your doctor about any specific medications.' }
+    ]
   },
-  'urine-infection-screen': {
-    name: 'मूत्र व संसर्ग तपासणी', tagline: 'मूत्रमार्ग आणि मलाशी संबंधित संसर्गाची तपासणी', concern: 'मूत्र व मल संसर्ग',
-    highlights: ['मूत्र कल्चर', 'मल तपासणी', 'संसर्ग तपासणी'], who: 'लघवी करताना जळजळ, पोटात त्रास किंवा वारंवार संसर्ग होत असल्यास उपयुक्त.',
-    why: 'मूत्र किंवा मलाशी संबंधित सामान्य संसर्गाची चिन्हे तपासते.', prep: 'उपवासाची गरज नाही. औषधे घेत असल्यास प्रयोगशाळेला सांगा.', sticker: 'उपवासाची गरज नाही'
+
+  // ── 8. FEVER / INFECTION PANEL ────────────────────────────
+  {
+    id:             'fever-infection-panel',
+    slug:           'fever-infection-panel',
+    name:           'Fever & Infection Panel',
+    nameMr:         'ताप आणि संसर्ग पॅनेल',          // needs native review
+    tagline:        'Quick screen for common febrile illnesses',
+    taglineMr:      'सामान्य ताप आजारांसाठी जलद तपासणी', // needs native review
+    category:       'Fever / Infection',
+    categoryMr:     'ताप / संसर्ग',
+    price:          899,
+    mrp:            null,
+    paramCount:     8,
+    fasting:        'Not required',
+    fastingMr:      'आवश्यक नाही',
+    reportTime:     'Same day',
+    reportTimeMr:   'त्याच दिवशी',
+    sample:         'Blood',
+    homeCollection: false,         // confirm with client
+    image:          null,
+
+    profiles: [
+      { title: 'Blood Count',     titleMr: 'रक्त गणना',  tests: ['CBC with Differential', 'ESR'] },
+      { title: 'Infection Flags', titleMr: 'संसर्ग चिन्हे', tests: ['CRP (C-Reactive Protein)', 'Widal Test', 'Dengue NS1 Antigen', 'Malaria (MP) Test'] }
+    ],
+
+    highlights: ['CBC + ESR', 'CRP', 'Widal (typhoid)', 'Dengue NS1', 'Malaria test'],
+
+    whoShouldTake:   'Anyone with fever lasting more than 2 days, especially if accompanied by body ache, weakness, or no obvious cause.',
+    whoShouldTakeMr: 'दोन दिवसांपेक्षा जास्त काळ ताप असलेल्यांसाठी, विशेषतः अंगदुखी, अशक्तपणा किंवा उघड कारण नसल्यास.', // needs native review
+    whyItMatters:    'Malaria, dengue, and typhoid are prevalent in this region. Early identification allows targeted treatment and prevents complications.',
+    whyItMattersMr:  'मलेरिया, डेंग्यू आणि टायफॉइड या परिसरात सामान्य आहेत. लवकर ओळख उपचारात मदत करते.', // needs native review
+
+    bookingSteps: [
+      'No fasting required',
+      'Walk in or call us — we try to prioritise fever cases quickly',
+      'Most results same day'
+    ],
+
+    faq: [
+      { q: 'Is this panel for a specific illness?',   a: 'No — it screens for the most common causes of fever in our area all at once, so you don\'t need to guess beforehand.' },
+      { q: 'What if dengue NS1 is negative but I still have symptoms?', a: 'Dengue NS1 is most sensitive in the first 5 days of illness. Dengue IgM/IgG can be added if symptoms persist beyond that.' },
+      { q: 'Do I need a prescription?',               a: 'No prescription is required to get tested.' }
+    ]
   }
-};
 
-window.PACKAGE_DATA.en.forEach(function (item) {
-  var translation = packageTranslationsMr[item.id];
-  if (!translation) return;
-  var localized = Object.assign({}, item, translation, {
-    sample: item.sample === 'Urine' ? 'मूत्र' : 'रक्त',
-    reports: item.reports === '24 hrs' ? '२४ तास' : item.reports
-  });
-  var existingIndex = window.PACKAGE_DATA.mr.findIndex(function (entry) {
-    return entry.id === item.id;
-  });
-  if (existingIndex === -1) window.PACKAGE_DATA.mr.push(localized);
-});
-
-window.TEST_CATALOGUE = {
-  en: [
-    { id: 'cbc', name: 'CBC', price: 300, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'General', description: 'Checks red cells, white cells, and platelets.' },
-    { id: 'hemoglobin', name: 'Hemoglobin', price: 80, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'Anemia', description: 'Measures the oxygen-carrying hemoglobin level.' },
-    { id: 'esr', name: 'ESR', price: 100, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'Fever/Infection', description: 'Looks for inflammation and infection activity.' },
-    { id: 'fasting-blood-sugar', name: 'Fasting Blood Sugar', price: 60, sample: 'Blood', reports: 'Same day', category: 'Diabetes', concern: 'Diabetes', description: 'Checks sugar after fasting.' },
-    { id: 'pp-blood-sugar', name: 'PP Blood Sugar', price: 60, sample: 'Blood', reports: 'Same day', category: 'Diabetes', concern: 'Diabetes', description: 'Checks sugar after a meal.' },
-    { id: 'hba1c', name: 'HbA1c', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Diabetes', concern: 'Diabetes', description: 'Helps check average sugar control over weeks.' },
-    { id: 'lipid-profile', name: 'Lipid Profile', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Heart', concern: 'Heart', description: 'Reviews cholesterol and triglycerides.' },
-    { id: 'liver-function', name: 'Liver Function', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Liver', concern: 'Liver', description: 'Looks at liver enzymes and bile markers.' },
-    { id: 'kidney-function', name: 'Kidney Function', price: 450, sample: 'Blood', reports: '24 hrs', category: 'Kidney', concern: 'Kidney', description: 'Checks kidney filtration and waste markers.' },
-    { id: 'thyroid-profile', name: 'Thyroid Profile (T3/T4/TSH)', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Thyroid', concern: 'Thyroid', description: 'Reviews thyroid activity and balance.' },
-    { id: 'tsh', name: 'TSH', price: 300, sample: 'Blood', reports: '24 hrs', category: 'Thyroid', concern: 'Thyroid', description: 'Useful for screening thyroid hormone control.' },
-    { id: 'vitamin-d', name: 'Vitamin D', price: 1200, sample: 'Blood', reports: '24 hrs', category: 'Vitamin', concern: 'Vitamins', description: 'Checks vitamin D levels and deficiency risk.' },
-    { id: 'vitamin-b12', name: 'Vitamin B12', price: 800, sample: 'Blood', reports: '24 hrs', category: 'Vitamin', concern: 'Vitamins', description: 'Evaluates B12 status and energy-related symptoms.' },
-    { id: 'urine-routine', name: 'Urine Routine', price: 100, sample: 'Urine', reports: 'Same day', category: 'Urine', concern: 'Urine & Stool Infection', description: 'Simple urine review for infection and kidney markers.' },
-    { id: 'urine-culture-sensitivity', name: 'Urine Culture & Sensitivity', price: 450, sample: 'Urine', reports: '24–48 hrs', category: 'Urine', concern: 'Urine & Stool Infection', description: 'Checks for bacteria and guides treatment.' },
-    { id: 'stool-routine', name: 'Stool Routine', price: 100, sample: 'Stool', reports: '24 hrs', category: 'Stool', concern: 'Urine & Stool Infection', description: 'Looks for infection or digestive irregularities.' },
-    { id: 'widal', name: 'Widal', price: 250, sample: 'Blood', reports: 'Same day', category: 'Infection', concern: 'Fever/Infection', description: 'Helps assess possible typhoid infection.' },
-    { id: 'malaria-test', name: 'Malaria Test', price: 250, sample: 'Blood', reports: 'Same day', category: 'Infection', concern: 'Fever/Infection', description: 'Checks for malaria markers.' },
-    { id: 'dengue-ns1', name: 'Dengue NS1', price: 700, sample: 'Blood', reports: '24 hrs', category: 'Infection', concern: 'Fever/Infection', description: 'Screens for early dengue infection.' },
-    { id: 'crp', name: 'CRP', price: 450, sample: 'Blood', reports: '24 hrs', category: 'Inflammation', concern: 'Fever/Infection', description: 'Reviews inflammation and infection response.' },
-    { id: 'sputum-afb', name: 'Sputum AFB Smear', price: 200, sample: 'Sputum', reports: '24 hrs', category: 'Microbiology', concern: 'Fever/Infection', description: 'Supports review for respiratory infection concerns.' },
-    { id: 'blood-group', name: 'Blood Group', price: 100, sample: 'Blood', reports: 'Same day', category: 'General', concern: 'General', description: 'Checks blood group for medical or transfusion needs.' }
-  ],
-  mr: [
-    { id: 'cbc', name: 'सीबीसी', price: 300, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'सामान्य', description: 'लाल पेशी, पांढऱ्या पेशी आणि प्लेटलेट तपासते.' },
-    { id: 'hemoglobin', name: 'हीमोग्लोबिन', price: 80, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'अनिमिया', description: 'ऑक्सिजन वाहून नेणाऱ्या हेमोग्लोबिनची किंमत तपासते.' },
-    { id: 'esr', name: 'ईएसआर', price: 100, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'ज्वर/संक्रमण', description: 'दाह आणि संसर्ग कशा पद्धतीने चालू आहे ते पाहते.' },
-    { id: 'fasting-blood-sugar', name: 'उपवास साखर', price: 60, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'डायबेटीज', concern: 'डायबेटीज', description: 'उपवासानंतर साखरेचे मूल्य तपासते.' },
-    { id: 'pp-blood-sugar', name: 'PP साखर', price: 60, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'डायबेटीज', concern: 'डायबेटीज', description: 'जेवणानंतर साखरेचे मूल्य तपासते.' },
-    { id: 'hba1c', name: 'HbA1c', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'डायबेटीज', concern: 'डायबेटीज', description: 'मागील काही आठवड्यांची सरासरी साखर स्थिती तपासते.' },
-    { id: 'lipid-profile', name: 'लिपिड प्रोफाइल', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'हृदय', concern: 'हृदय', description: 'कोलेस्ट्रॉल आणि ट्रायग्लिसराइडचे मूल्य तपासते.' },
-    { id: 'liver-function', name: 'यकृत कार्य', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'यकृत', concern: 'यकृत', description: 'यकृताची कार्यक्षमता आणि पित्त मार्कर तपासते.' },
-    { id: 'kidney-function', name: 'किडनी कार्य', price: 450, sample: 'रक्त', reports: '२४ तास', category: 'किडनी', concern: 'किडनी', description: 'किडनी फिल्टरिंग आणि कचरा मार्कर तपासते.' },
-    { id: 'thyroid-profile', name: 'थायरॉईड प्रोफाइल (T3/T4/TSH)', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'थायरॉईड', concern: 'थायरॉईड', description: 'थायरॉईडची कार्यक्षमता तपासते.' },
-    { id: 'tsh', name: 'TSH', price: 300, sample: 'रक्त', reports: '२४ तास', category: 'थायरॉईड', concern: 'थायरॉईड', description: 'थायरॉईड नियंत्रण तपासण्यासाठी उपयुक्त.' },
-    { id: 'vitamin-d', name: 'व्हिटामिन डी', price: 1200, sample: 'रक्त', reports: '२४ तास', category: 'व्हिटामिन', concern: 'व्हिटामिन', description: 'व्हिटामिन डी पातळी तपासते.' },
-    { id: 'vitamin-b12', name: 'व्हिटामिन B12', price: 800, sample: 'रक्त', reports: '२४ तास', category: 'व्हिटामिन', concern: 'व्हिटामिन', description: 'B12 स्थिती आणि थकवा यांचे मूल्यांकन करते.' },
-    { id: 'urine-routine', name: 'मूत्र रूटीन', price: 100, sample: 'मूत्र', reports: 'त्याच दिवशी', category: 'मूत्र', concern: 'मूत्र व मल संसर्ग', description: 'सामान्य मूत्र तपासणीसाठी.' },
-    { id: 'urine-culture-sensitivity', name: 'मूत्र कल्चर आणि सेन्सिटिव्हिटी', price: 450, sample: 'मूत्र', reports: '२४–४८ तास', category: 'मूत्र', concern: 'मूत्र व मल संसर्ग', description: 'बॅक्टेरिया तपासते आणि उपचार मार्गदर्शक ठरते.' },
-    { id: 'stool-routine', name: 'मल रूटीन', price: 100, sample: 'मल', reports: '२४ तास', category: 'मल', concern: 'मूत्र व मल संसर्ग', description: 'संसर्ग किंवा पचन समस्या तपासते.' },
-    { id: 'widal', name: 'विडाल', price: 250, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'संसर्ग', concern: 'ज्वर/संक्रमण', description: 'टायफॉइड संसर्गाचा अंदाज घेते.' },
-    { id: 'malaria-test', name: 'मलेरिया टेस्ट', price: 250, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'संसर्ग', concern: 'ज्वर/संक्रमण', description: 'मलेरिया तपासते.' },
-    { id: 'dengue-ns1', name: 'डेंग्यू NS1', price: 700, sample: 'रक्त', reports: '२४ तास', category: 'संसर्ग', concern: 'ज्वर/संक्रमण', description: 'लवकर डेंग्यू संक्रमण तपासते.' },
-    { id: 'crp', name: 'CRP', price: 450, sample: 'रक्त', reports: '२४ तास', category: 'दाह', concern: 'ज्वर/संक्रमण', description: 'दाह आणि संसर्ग प्रतिसाद तपासते.' },
-    { id: 'sputum-afb', name: 'सप्युम AFB स्मीयर', price: 200, sample: 'सप्युम', reports: '२४ तास', category: 'माइक्रोबायोलॉजी', concern: 'ज्वर/संक्रमण', description: 'श्वसन संक्रमणावर तपासणीसाठी उपयुक्त.' },
-    { id: 'blood-group', name: 'रक्त गट', price: 100, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'सामान्य', concern: 'सामान्य', description: 'वैद्यकीय गरजांसाठी रक्त गट तपासते.' }
-  ]
-};
+];

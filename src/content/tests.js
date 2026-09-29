@@ -1,51 +1,49 @@
-// PLACEHOLDER DATA — prices, parameter counts and inclusions are illustrative. Replace with the lab's real list before launch. Medical wording must be confirmed by the lab.
-window.TESTS_CATALOGUE = {
-  en: [
-    { id: 'cbc', name: 'CBC', price: 300, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'General' },
-    { id: 'hemoglobin', name: 'Hemoglobin', price: 80, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'Anemia' },
-    { id: 'esr', name: 'ESR', price: 100, sample: 'Blood', reports: 'Same day', category: 'Blood', concern: 'Fever/Infection' },
-    { id: 'fasting-blood-sugar', name: 'Fasting Blood Sugar', price: 60, sample: 'Blood', reports: 'Same day', category: 'Diabetes', concern: 'Diabetes' },
-    { id: 'pp-blood-sugar', name: 'PP Blood Sugar', price: 60, sample: 'Blood', reports: 'Same day', category: 'Diabetes', concern: 'Diabetes' },
-    { id: 'hba1c', name: 'HbA1c', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Diabetes', concern: 'Diabetes' },
-    { id: 'lipid-profile', name: 'Lipid Profile', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Heart', concern: 'Heart' },
-    { id: 'liver-function', name: 'Liver Function', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Liver', concern: 'Liver' },
-    { id: 'kidney-function', name: 'Kidney Function', price: 450, sample: 'Blood', reports: '24 hrs', category: 'Kidney', concern: 'Kidney' },
-    { id: 'thyroid-profile', name: 'Thyroid Profile (T3/T4/TSH)', price: 500, sample: 'Blood', reports: '24 hrs', category: 'Thyroid', concern: 'Thyroid' },
-    { id: 'tsh', name: 'TSH', price: 300, sample: 'Blood', reports: '24 hrs', category: 'Thyroid', concern: 'Thyroid' },
-    { id: 'vitamin-d', name: 'Vitamin D', price: 1200, sample: 'Blood', reports: '24 hrs', category: 'Vitamin', concern: 'Vitamins' },
-    { id: 'vitamin-b12', name: 'Vitamin B12', price: 800, sample: 'Blood', reports: '24 hrs', category: 'Vitamin', concern: 'Vitamins' },
-    { id: 'urine-routine', name: 'Urine Routine', price: 100, sample: 'Urine', reports: 'Same day', category: 'Urine', concern: 'Urine & Stool Infection' },
-    { id: 'urine-culture-sensitivity', name: 'Urine Culture & Sensitivity', price: 450, sample: 'Urine', reports: '24–48 hrs', category: 'Urine', concern: 'Urine & Stool Infection' },
-    { id: 'stool-routine', name: 'Stool Routine', price: 100, sample: 'Stool', reports: '24 hrs', category: 'Stool', concern: 'Urine & Stool Infection' },
-    { id: 'widal', name: 'Widal', price: 250, sample: 'Blood', reports: 'Same day', category: 'Infection', concern: 'Fever/Infection' },
-    { id: 'malaria-test', name: 'Malaria Test', price: 250, sample: 'Blood', reports: 'Same day', category: 'Infection', concern: 'Fever/Infection' },
-    { id: 'dengue-ns1', name: 'Dengue NS1', price: 700, sample: 'Blood', reports: '24 hrs', category: 'Infection', concern: 'Fever/Infection' },
-    { id: 'crp', name: 'CRP', price: 450, sample: 'Blood', reports: '24 hrs', category: 'Inflammation', concern: 'Fever/Infection' },
-    { id: 'sputum-afb', name: 'Sputum AFB Smear', price: 200, sample: 'Sputum', reports: '24 hrs', category: 'Microbiology', concern: 'Fever/Infection' },
-    { id: 'blood-group', name: 'Blood Group', price: 100, sample: 'Blood', reports: 'Same day', category: 'General', concern: 'General' }
-  ],
-  mr: [
-    { id: 'cbc', name: 'सीबीसी', price: 300, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'सामान्य' },
-    { id: 'hemoglobin', name: 'हीमोग्लोबिन', price: 80, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'अनिमिया' },
-    { id: 'esr', name: 'ईएसआर', price: 100, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'रक्त', concern: 'ज्वर/संक्रमण' },
-    { id: 'fasting-blood-sugar', name: 'उपवास साखर', price: 60, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'डायबेटीज', concern: 'डायबेटीज' },
-    { id: 'pp-blood-sugar', name: 'PP साखर', price: 60, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'डायबेटीज', concern: 'डायबेटीज' },
-    { id: 'hba1c', name: 'HbA1c', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'डायबेटीज', concern: 'डायबेटीज' },
-    { id: 'lipid-profile', name: 'लिपिड प्रोफाइल', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'हृदय', concern: 'हृदय' },
-    { id: 'liver-function', name: 'यकृत कार्य', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'यकृत', concern: 'यकृत' },
-    { id: 'kidney-function', name: 'किडनी कार्य', price: 450, sample: 'रक्त', reports: '२४ तास', category: 'किडनी', concern: 'किडनी' },
-    { id: 'thyroid-profile', name: 'थायरॉईड प्रोफाइल (T3/T4/TSH)', price: 500, sample: 'रक्त', reports: '२४ तास', category: 'थायरॉईड', concern: 'थायरॉईड' },
-    { id: 'tsh', name: 'TSH', price: 300, sample: 'रक्त', reports: '२४ तास', category: 'थायरॉईड', concern: 'थायरॉईड' },
-    { id: 'vitamin-d', name: 'व्हिटामिन डी', price: 1200, sample: 'रक्त', reports: '२४ तास', category: 'व्हिटामिन', concern: 'व्हिटामिन' },
-    { id: 'vitamin-b12', name: 'व्हिटामिन B12', price: 800, sample: 'रक्त', reports: '२४ तास', category: 'व्हिटामिन', concern: 'व्हिटामिन' },
-    { id: 'urine-routine', name: 'मूत्र रूटीन', price: 100, sample: 'मूत्र', reports: 'त्याच दिवशी', category: 'मूत्र', concern: 'मूत्र व मल संसर्ग' },
-    { id: 'urine-culture-sensitivity', name: 'मूत्र कल्चर आणि सेन्सिटिव्हिटी', price: 450, sample: 'मूत्र', reports: '२४–४८ तास', category: 'मूत्र', concern: 'मूत्र व मल संसर्ग' },
-    { id: 'stool-routine', name: 'मल रूटीन', price: 100, sample: 'मल', reports: '२४ तास', category: 'मल', concern: 'मूत्र व मल संसर्ग' },
-    { id: 'widal', name: 'विडाल', price: 250, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'संसर्ग', concern: 'ज्वर/संक्रमण' },
-    { id: 'malaria-test', name: 'मलेरिया टेस्ट', price: 250, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'संसर्ग', concern: 'ज्वर/संक्रमण' },
-    { id: 'dengue-ns1', name: 'डेंग्यू NS1', price: 700, sample: 'रक्त', reports: '२४ तास', category: 'संसर्ग', concern: 'ज्वर/संक्रमण' },
-    { id: 'crp', name: 'CRP', price: 450, sample: 'रक्त', reports: '२४ तास', category: 'दाह', concern: 'ज्वर/संक्रमण' },
-    { id: 'sputum-afb', name: 'सप्युम AFB स्मीयर', price: 200, sample: 'सप्युम', reports: '२४ तास', category: 'माइक्रोबायोलॉजी', concern: 'ज्वर/संक्रमण' },
-    { id: 'blood-group', name: 'रक्त गट', price: 100, sample: 'रक्त', reports: 'त्याच दिवशी', category: 'सामान्य', concern: 'सामान्य' }
-  ]
-};
+// PLACEHOLDER DATA — prices are illustrative. Replace with confirmed lab rates before launch.
+// Medical wording must be confirmed by the lab owner.
+// All Marathi text is AI-generated — needs native speaker review.
+
+window.TEST_CATALOGUE = [
+  // ── BLOOD ─────────────────────────────────────────────────
+  { id: 'cbc',               name: 'CBC (Complete Blood Count)',       nameMr: 'सीबीसी (संपूर्ण रक्त गणना)',       price: 300, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Blood', categoryMr: 'रक्त',    description: 'Screens for anaemia, infection, and blood disorders.' },
+  { id: 'hemoglobin',        name: 'Haemoglobin (Hb)',                 nameMr: 'हीमोग्लोबिन',                      price: 80,  sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Blood', categoryMr: 'रक्त',    description: 'Checks for anaemia and iron status.' },
+  { id: 'esr',               name: 'ESR (Erythrocyte Sedimentation Rate)', nameMr: 'ईएसआर',                        price: 100, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Blood', categoryMr: 'रक्त',    description: 'Non-specific marker of inflammation or infection.' },
+  { id: 'blood-group',       name: 'Blood Group & Rh Typing',          nameMr: 'रक्त गट आणि Rh',                   price: 100, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'General', categoryMr: 'सामान्य', description: 'Determines ABO and Rh blood type for medical needs.' },
+
+  // ── DIABETES ──────────────────────────────────────────────
+  { id: 'fasting-blood-sugar', name: 'Fasting Blood Sugar (FBS)',      nameMr: 'उपवास रक्त शर्करा',                price: 60,  sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Diabetes', categoryMr: 'मधुमेह',  description: 'Baseline blood glucose — requires 10–12 hr fast.' },
+  { id: 'pp-blood-sugar',     name: 'Post-Prandial Blood Sugar (PPBS)',  nameMr: 'जेवणानंतर रक्त शर्करा',           price: 60,  sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Diabetes', categoryMr: 'मधुमेह',  description: 'Blood glucose 2 hrs after a meal.' },
+  { id: 'hba1c',              name: 'HbA1c (Glycated Haemoglobin)',      nameMr: 'HbA1c (ग्लायकेटेड हीमोग्लोबिन)', price: 500, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Diabetes', categoryMr: 'मधुमेह',  description: '3-month average blood sugar — no fasting needed.' },
+
+  // ── HEART ─────────────────────────────────────────────────
+  { id: 'lipid-profile',     name: 'Lipid Profile',                    nameMr: 'लिपिड प्रोफाइल',                   price: 500, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Heart', categoryMr: 'हृदय',      description: 'Cholesterol + Triglycerides + HDL/LDL — requires 10–12 hr fast.' },
+
+  // ── LIVER ─────────────────────────────────────────────────
+  { id: 'liver-function',    name: 'Liver Function Test (LFT)',         nameMr: 'यकृत कार्य चाचणी',                 price: 500, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Liver', categoryMr: 'यकृत',      description: 'Assesses liver enzymes, proteins, and bilirubin.' },
+
+  // ── KIDNEY ────────────────────────────────────────────────
+  { id: 'kidney-function',   name: 'Kidney Function Test (KFT)',        nameMr: 'मूत्रपिंड कार्य चाचणी',            price: 450, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Kidney', categoryMr: 'मूत्रपिंड',  description: 'Creatinine, urea, uric acid — kidney health markers.' },
+
+  // ── THYROID ───────────────────────────────────────────────
+  { id: 'tsh',               name: 'TSH',                              nameMr: 'TSH',                               price: 300, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Thyroid', categoryMr: 'थायरॉइड', description: 'Key marker of thyroid function — no fasting needed.' },
+  { id: 't3-t4-tsh',        name: 'T3 / T4 / TSH (Thyroid Profile)',   nameMr: 'T3 / T4 / TSH (थायरॉइड प्रोफाइल)', price: 399, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Thyroid', categoryMr: 'थायरॉइड', description: 'Complete thyroid screen — no fasting needed.' },
+
+  // ── VITAMINS ──────────────────────────────────────────────
+  { id: 'vitamin-d',         name: 'Vitamin D (25-OH)',                 nameMr: 'व्हिटॅमिन डी',                     price: 1200,sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Vitamins', categoryMr: 'जीवनसत्त्वे', description: 'Vitamin D deficiency is very common — important for bone and immune health.' },
+  { id: 'vitamin-b12',       name: 'Vitamin B12',                       nameMr: 'व्हिटॅमिन B12',                    price: 800, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Vitamins', categoryMr: 'जीवनसत्त्वे', description: 'Important for nerve health and energy — vegetarians often deficient.' },
+
+  // ── URINE ─────────────────────────────────────────────────
+  { id: 'urine-routine',     name: 'Urine Routine Examination',         nameMr: 'मूत्र रूटीन तपासणी',               price: 100, sample: 'Urine', sampleMr: 'मूत्र', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Urine', categoryMr: 'मूत्र',    description: 'Routine urine analysis — checks for infection, sugar, protein.' },
+  { id: 'urine-culture',     name: 'Urine Culture & Sensitivity',       nameMr: 'मूत्र कल्चर आणि सेन्सिटिव्हिटी',   price: 450, sample: 'Urine', sampleMr: 'मूत्र', reportTime: '24–48 hrs',reportTimeMr: '२४–४८ तास',    category: 'Urine', categoryMr: 'मूत्र',    description: 'Identifies bacteria in urine and guides antibiotic selection.' },
+
+  // ── STOOL ─────────────────────────────────────────────────
+  { id: 'stool-routine',     name: 'Stool Routine Examination',         nameMr: 'मल रूटीन तपासणी',                  price: 100, sample: 'Stool', sampleMr: 'मल',   reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Stool', categoryMr: 'मल',      description: 'Checks for infection, parasites, or digestive issues.' },
+
+  // ── FEVER / INFECTION ─────────────────────────────────────
+  { id: 'widal',             name: 'Widal Test',                        nameMr: 'विडाल टेस्ट',                      price: 250, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Infection', categoryMr: 'संसर्ग', description: 'Screens for typhoid (Salmonella) infection.' },
+  { id: 'malaria-test',      name: 'Malaria Test (MP)',                 nameMr: 'मलेरिया टेस्ट',                    price: 250, sample: 'Blood', sampleMr: 'रक्त', reportTime: 'Same day', reportTimeMr: 'त्याच दिवशी', category: 'Infection', categoryMr: 'संसर्ग', description: 'Detects malaria parasites in blood smear.' },
+  { id: 'dengue-ns1',        name: 'Dengue NS1 Antigen',               nameMr: 'डेंग्यू NS1',                      price: 700, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Infection', categoryMr: 'संसर्ग', description: 'Early dengue detection (most sensitive days 1–5).' },
+  { id: 'crp',               name: 'CRP (C-Reactive Protein)',         nameMr: 'CRP',                               price: 450, sample: 'Blood', sampleMr: 'रक्त', reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Infection', categoryMr: 'संसर्ग', description: 'Marker of active inflammation or infection.' },
+
+  // ── MICROBIOLOGY ──────────────────────────────────────────
+  { id: 'sputum-afb',        name: 'Sputum AFB Smear',                 nameMr: 'सप्युम AFB स्मीयर',                price: 200, sample: 'Sputum', sampleMr: 'कफ',  reportTime: '24 hrs',   reportTimeMr: '२४ तास',       category: 'Microbiology', categoryMr: 'सूक्ष्मजीवशास्त्र', description: 'Screens for tuberculosis (TB) from sputum sample.' }
+];

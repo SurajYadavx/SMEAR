@@ -62,6 +62,8 @@
     <link rel="stylesheet" href="./src/styles/main.css" />
     <link rel="stylesheet" href="./src/styles/v2-additions.css" />
     <link rel="stylesheet" href="./src/styles/v3-polish.css" />
+    <link rel="stylesheet" href="./src/styles/v5-shop.css" />
+    <link rel="stylesheet" href="./src/styles/v6-polish.css" />
   </head>
 
   <body>
@@ -126,6 +128,32 @@
     <!-- ════════════════════════════════════════════════════
        FLOATING WHATSAPP BUTTON
   ════════════════════════════════════════════════════ -->
+    <!-- ════════════════════════════════════════════════════
+       TEST MODAL
+  ════════════════════════════════════════════════════ -->
+    <div id="test-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-card">
+        <button id="modal-close" class="modal-close" aria-label="Close modal">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+        <div class="modal-image-wrap">
+          <img id="modal-img" src="" alt="" class="modal-img" style="display:none;" />
+          <div id="modal-img-placeholder" class="modal-img-placeholder" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="modal-price" id="modal-price"></div>
+          <h2 class="modal-title" id="modal-title"></h2>
+          <p class="modal-desc" id="modal-desc"></p>
+          <div class="modal-ctas">
+            <a href="#" id="modal-call-btn" class="btn btn--primary" style="justify-content:center; width:100%"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg> <span data-i18n="modal.callBtn">Call to Book</span></a>
+            <a href="#" id="modal-wa-btn" class="btn btn--whatsapp" style="justify-content:center; width:100%" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="18" height="18"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg> <span data-i18n="modal.waBtn">WhatsApp</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <a
       id="whatsapp-float"
       href="#"
@@ -404,6 +432,29 @@
             </a>
           </div>
         </div>
+
+        <!-- NEW: Large glossy features on the right -->
+        <div class="hero-features fade-in">
+          <div class="hero-feature-card">
+            <div class="hf-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            </div>
+            <div class="hf-text">
+              <h3>24/7 Full Services Available</h3>
+              <p>We are open round the clock for emergencies</p>
+            </div>
+          </div>
+          <div class="hero-feature-card">
+            <div class="hf-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+            </div>
+            <div class="hf-text">
+              <h3>Home Sample Collection</h3>
+              <p>Safe and hygienic testing at your doorstep</p>
+            </div>
+          </div>
+        </div>
+
       </div>
       <div class="hero-scroll-indicator" aria-hidden="true"><span></span></div>
     </section>
@@ -679,48 +730,150 @@
       </div>
     </section>
 
+    <!-- ════════════════════════════════════════════════════
+       HOW WE WORK SECTION
+  ════════════════════════════════════════════════════ -->
+    <section id="how-we-work" class="section-how-we-work" aria-labelledby="hww-heading">
+      <div class="container">
+        <div class="hww-grid">
+          <div class="hww-left fade-in" style="display: flex; flex-direction: column; justify-content: center; padding-right: 2rem;">
+            <h3 style="font-size: 1.2rem; color: var(--color-primary); text-transform: uppercase; letter-spacing: 2px; font-weight: 700; margin-bottom: 1rem;">HOW WE WORK</h3>
+            <h2 id="hww-heading" style="font-size: 3rem; font-weight: 800; color: #0d3b3e; line-height: 1.1; margin-bottom: 1.5rem;">Home Visit<br>Sample Collection</h2>
+            <p style="color: var(--color-text); font-size: 1.1rem; line-height: 1.6; max-width: 400px; margin-bottom: 2rem;">Get tested from the comfort of your home. Our trained phlebotomists ensure a safe, hygienic, and hassle-free experience.</p>
+            <div class="hww-image" style="border-radius: 24px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.08);">
+              <img src="./public/assets/team/home-test.png" alt="Home Visit Sample Collection" loading="lazy" style="width: 100%; height: auto; display: block;" />
+            </div>
+          </div>
+          <div class="hww-content fade-in">
+            <div class="hww-step">
+              <div class="hww-step-icon">1</div>
+              <h3>Online Booking</h3>
+              <p>Book your appointment online through our website or the app. Mention the date and location and pay via cash or online.</p>
+            </div>
+            <div class="hww-step">
+              <div class="hww-step-icon">2</div>
+              <h3>Home Visit Sample Collection</h3>
+              <p>Our phlebotomist will visit at the given location to collect the sample and transfers it our certified lab for diagnosis.</p>
+            </div>
+            <div class="hww-step">
+              <div class="hww-step-icon">3</div>
+              <h3>Reports Shared Online</h3>
+              <p>Most of the reports are available within 24 to 48 hours of sample collection. Your reports will be shared on your mentioned email id for your convenience.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════
+       ACCREDITATION & TRUST MARQUEE
+  ════════════════════════════════════════════════════ -->
+    <section class="section-marquee" aria-label="Accreditations and Trust Badges">
+      <div class="marquee-container">
+        <div class="marquee-track">
+          <!-- Duplicated for seamless scrolling -->
+          <div class="marquee-item">ISO 9001:2015 Certified</div>
+          <div class="marquee-item">Fully Automated Lab</div>
+          <div class="marquee-item">100% Accurate Reports</div>
+          <div class="marquee-item">Daily Quality Controls</div>
+          <div class="marquee-item">Trained Phlebotomists</div>
+          <div class="marquee-item">ISO 9001:2015 Certified</div>
+          <div class="marquee-item">Fully Automated Lab</div>
+          <div class="marquee-item">100% Accurate Reports</div>
+          <div class="marquee-item">Daily Quality Controls</div>
+          <div class="marquee-item">Trained Phlebotomists</div>
+        </div>
+      </div>
+    </section>
+
     <section id="tests" class="section-tests" aria-labelledby="tests-heading">
       <div class="container">
         <div class="section-header fade-in">
           <span class="section-eyebrow" data-i18n="tests.eyebrow">Diagnostic Services</span>
           <h2 id="tests-heading" class="section-title" data-i18n="tests.title">
-            Packages &amp; Tests
+            Health Categories
           </h2>
           <p class="section-subtitle" data-i18n="tests.subtitle">
-            Search tests or packages and compare the right option for you.
+            Browse our wide range of health checkup packages and tests by category.
           </p>
         </div>
 
-        <div class="catalogue-search-wrap fade-in">
-          <label class="catalogue-search" for="catalogue-search-input">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M10.5 3a7.5 7.5 0 015.9 12.8l4.4 4.4 1.4-1.4-4.4-4.4A7.5 7.5 0 1110.5 3zm0 2a5.5 5.5 0 100 11 5.5 5.5 0 000-11z" />
+        <div class="categories-grid fade-in" id="categories-grid">
+          <!-- These categories redirect to shop.html -->
+          <a href="shop.html?cat=General" class="category-card">
+            <div class="category-icon">⚕️</div>
+            <h3>General Health</h3>
+            <p>Full body checkups & routine tests</p>
+          </a>
+          <a href="shop.html?cat=Diabetes" class="category-card">
+            <div class="category-icon">🩸</div>
+            <h3>Diabetes</h3>
+            <p>Blood sugar & HbA1c monitoring</p>
+          </a>
+          <a href="shop.html?cat=Heart" class="category-card">
+            <div class="category-icon">❤️</div>
+            <h3>Heart & Lipid</h3>
+            <p>Cholesterol & cardiac profiles</p>
+          </a>
+          <a href="shop.html?cat=Fever" class="category-card">
+            <div class="category-icon">🤒</div>
+            <h3>Fever & Infection</h3>
+            <p>Dengue, Malaria, Typhoid & CBC</p>
+          </a>
+          <a href="shop.html?cat=Arthritis" class="category-card">
+            <div class="category-icon">🦴</div>
+            <h3>Bone & Joint</h3>
+            <p>Arthritis, Calcium & Vitamin D</p>
+          </a>
+          <a href="shop.html?cat=Women Health" class="category-card">
+            <div class="category-icon">👩</div>
+            <h3>Women's Health</h3>
+            <p>PCOS, Thyroid & Wellness</p>
+          </a>
+        </div>
+        
+        <!-- ═══════════ SEARCH + FILTERS ════════════════════════ -->
+        <div class="shop-search-section fade-in" aria-label="Search and filter" style="margin-top:40px;">
+          <div class="shop-search-wrapper">
+            <label for="shop-search-input" class="sr-only">Search packages and tests</label>
+            <svg class="shop-search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
             </svg>
             <input
-              id="catalogue-search-input"
               type="search"
-              placeholder="Search tests or packages"
-              aria-label="Search tests or packages"
-              data-i18n-attr="placeholder:tests.searchPlaceholder aria-label:tests.searchPlaceholder"
+              id="shop-search-input"
+              class="shop-search-input"
+              placeholder="Search packages or tests…"
+              autocomplete="off"
+              spellcheck="false"
             />
-          </label>
+          </div>
+          <div class="shop-category-filters" id="shop-category-filters" role="group" aria-label="Filter by category">
+            <!-- Chips built by shop.js -->
+          </div>
         </div>
 
-        <div class="catalogue-filters fade-in" id="package-filters"></div>
-        <div class="catalogue-concern-grid fade-in" id="concern-grid"></div>
-
-        <div class="catalogue-section fade-in">
+        <!-- ═══════════ PACKAGES GRID ════════════════════════════ -->
+        <div class="shop-section fade-in" aria-labelledby="shop-packages-heading" style="margin-top:40px;">
           <div class="catalogue-section__head">
-            <h3 data-i18n="tests.packagesHeading">Health Packages</h3>
+            <h3 id="shop-packages-heading" class="shop-section__title">Health Packages</h3>
           </div>
-          <div class="catalogue-grid package-grid" id="package-grid"></div>
+          <div class="shop-grid" id="shop-package-grid" aria-label="Package catalogue">
+            <!-- Rendered by shop.js -->
+            <p style="color:#5a7070;grid-column:1/-1;">Loading packages…</p>
+          </div>
         </div>
 
-        <div class="catalogue-section fade-in">
+        <!-- ═══════════ INDIVIDUAL TESTS ═════════════════════════ -->
+        <div class="shop-section fade-in" aria-labelledby="shop-tests-heading" style="margin-top:40px;">
           <div class="catalogue-section__head">
-            <h3 data-i18n="tests.catalogueHeading">Popular Tests</h3>
+            <h3 id="shop-tests-heading" class="shop-section__title">Individual Tests</h3>
           </div>
-          <div class="catalogue-grid test-grid" id="test-grid"></div>
+          <div class="shop-grid" id="shop-test-grid" aria-label="Individual tests catalogue">
+            <!-- Rendered by shop.js -->
+            <p style="color:#5a7070;grid-column:1/-1;">Loading tests…</p>
+          </div>
         </div>
 
         <div class="catalogue-trust fade-in">
@@ -1454,6 +1607,35 @@
     </section>
 
     <!-- ════════════════════════════════════════════════════
+       INLINE LEAD CARD
+  ════════════════════════════════════════════════════ -->
+    <section class="section-lead-inline fade-in">
+      <div class="container">
+        <div class="lead-card-inline">
+          <div class="lead-card-inline__content">
+            <h2 data-i18n="lead.title">Need Help Booking?</h2>
+            <p data-i18n="lead.desc">Leave your details and our team will get back to you shortly to assist with your tests.</p>
+          </div>
+          <form class="lead-card-inline__form" id="inline-lead-form" onsubmit="event.preventDefault(); var name=document.getElementById('inline-name').value; var phone=document.getElementById('inline-phone').value; var msg='Hi, my name is '+name+' (Phone: '+phone+'). I need help with booking tests.'; window.open('https://wa.me/91'+(typeof CONTACT_PHONE!=='undefined'?CONTACT_PHONE:'7410745222')+'?text='+encodeURIComponent(msg), '_blank');">
+            <div class="form-group">
+              <label for="inline-name" class="sr-only">Name</label>
+              <input type="text" id="inline-name" placeholder="Your Name" required class="form-input" />
+            </div>
+            <div class="form-group">
+              <label for="inline-phone" class="sr-only">Phone Number</label>
+              <input type="tel" id="inline-phone" placeholder="Phone Number" required pattern="[0-9]{10}" class="form-input" />
+            </div>
+            <div class="form-group checkbox-group">
+              <input type="checkbox" id="inline-tc" required />
+              <label for="inline-tc">I agree to the <a href="terms.html">Terms</a> &amp; <a href="privacy.html">Privacy Policy</a></label>
+            </div>
+            <button type="submit" class="btn btn--primary">Request Callback on WhatsApp</button>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════
        FOOTER
   ════════════════════════════════════════════════════ -->
     <footer class="site-footer" role="contentinfo">
@@ -1679,6 +1861,32 @@
       </div>
     </footer>
 
+    <!-- ════════════════════════════════════════════════════
+       TEST MODAL
+  ════════════════════════════════════════════════════ -->
+    <div id="test-modal" class="modal-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-card">
+        <button id="modal-close" class="modal-close" aria-label="Close modal">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+        <div class="modal-image-wrap">
+          <img id="modal-img" src="" alt="" class="modal-img" style="display:none;" />
+          <div id="modal-img-placeholder" class="modal-img-placeholder" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="modal-price" id="modal-price"></div>
+          <h2 class="modal-title" id="modal-title"></h2>
+          <p class="modal-desc" id="modal-desc"></p>
+          <div class="modal-ctas">
+            <a href="#" id="modal-call-btn" class="btn btn--primary" style="justify-content:center; width:100%"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg> <span data-i18n="modal.callBtn">Call to Book</span></a>
+            <a href="#" id="modal-wa-btn" class="btn btn--whatsapp" style="justify-content:center; width:100%" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="18" height="18"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg> <span data-i18n="modal.waBtn">WhatsApp</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- ── Content files (loaded before main.js) ─────────────── -->
     <script src="./src/config.js"></script>
     <script src="./src/content/content.en.js"></script>
@@ -1687,6 +1895,7 @@
     <script src="./src/content/tests.js"></script>
     <script src="./src/cart.js"></script>
     <script src="./src/partials.js"></script>
+    <script src="./src/shop.js"></script>
     <!-- ── Main JS ───────────────────────────────────────────── -->
     <script src="./src/main.js"></script>
   </body>

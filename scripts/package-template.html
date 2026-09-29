@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en" id="html-root">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{{seo_title}}</title>
+    <meta name="description" content="{{seo_desc}}" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://smearpathology.in/packages/{{slug}}.html" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../public/assets/logo/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    
+    <link rel="stylesheet" href="../src/styles/main.css" />
+    <link rel="stylesheet" href="../src/styles/v2-additions.css" />
+    <link rel="stylesheet" href="../src/styles/v3-polish.css" />
+    <link rel="stylesheet" href="../src/styles/v5-shop.css" />`n    <link rel="stylesheet" href="../src/styles/v6-polish.css" />
+  </head>
+  <body>
+    <!-- ── HEADER ───────────────────────────────────────────── -->
+    {{site_header}}
+    <!-- ── /HEADER ──────────────────────────────────────────── -->
+
+    <main id="package-detail-main">
+      <div class="container package-detail-container">
+        <!-- Breadcrumb -->
+        <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+          <a href="../index.html" data-i18n="nav.home">Home</a> &rsaquo; 
+          <a href="../shop.html" data-i18n="nav.shop">Shop</a> &rsaquo; 
+          <span aria-current="page">{{name}}</span>
+        </nav>
+
+        <article class="package-detail">
+          <header class="package-hero">
+            <div class="package-hero-content">
+              <span class="package-hero-eyebrow">{{category}}</span>
+              <h1 class="package-hero-title">{{name}}</h1>
+              <p class="package-hero-tagline">{{tagline}}</p>
+              
+              <div class="package-hero-meta">
+                <div class="meta-item">
+                  <strong>Tests:</strong> <span>{{paramCount}} Parameters</span>
+                </div>
+                <div class="meta-item">
+                  <strong>Fasting:</strong> <span>{{fasting}}</span>
+                </div>
+                <div class="meta-item">
+                  <strong>Report:</strong> <span>{{reportTime}}</span>
+                </div>
+              </div>
+
+              <div class="package-hero-pricing">
+                <span class="package-price">&#8377;{{price}}</span>
+                {{mrp_html}}
+              </div>
+
+              <div class="package-hero-actions">
+                <button class="btn btn--green btn--lg" onclick="window.SmearCart.add('{{id}}', 'package', '{{name}}', {{price}})" aria-label="Add {{name}} to cart">
+                  Add to Cart
+                </button>
+                <a href="../cart.html" class="btn btn--outline-primary btn--lg">View Cart</a>
+              </div>
+            </div>
+          </header>
+
+          <section class="package-details-body">
+            <!-- Highlights -->
+            {{highlights_html}}
+
+            <!-- Included Profiles & Tests -->
+            {{profiles_html}}
+          </section>
+        </article>
+      </div>
+    </main>
+
+    <!-- ── FOOTER ───────────────────────────────────────────── -->
+    {{site_footer}}
+    <!-- ── /FOOTER ──────────────────────────────────────────── -->
+
+    <!-- Floating action buttons -->
+    <a id="whatsapp-float" href="#" aria-label="Chat on WhatsApp" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" aria-hidden="true"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg>
+      <span class="whatsapp-float__label">WhatsApp Us</span>
+    </a>
+    <a id="call-float" href="#" class="call-float" aria-label="Call Smear Pathology">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
+      <span>Call Now</span>
+    </a>
+
+    <!-- Ensure relative paths for scripts correctly resolve up one level -->
+    <script src="../src/config.js"></script>
+    <script src="../src/content/content.en.js"></script>
+    <script src="../src/content/content.mr.js"></script>
+    <script src="../src/content/packages.js"></script>
+    <script src="../src/content/tests.js"></script>
+    <script src="../src/cart.js"></script>
+    <script src="../src/partials.js"></script>
+  </body>
+</html>

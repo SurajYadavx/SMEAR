@@ -6,31 +6,7 @@
  */
 
 // 1. CONFIG
-const CONTACT_PHONE = '7410745222';
-const CONTACT_PHONE_DISPLAY = '+91 74107 45222';
-const CONTACT_PHONE_TEL = 'tel:+91' + CONTACT_PHONE;
-const CONTACT_EMAIL = 'jssmearpathology0355@gmail.com';
-const CONTACT_EMAIL_HREF = 'mailto:' + CONTACT_EMAIL;
-const CONTACT_WHATSAPP_URL = 'https://wa.me/91' + CONTACT_PHONE + '?text=Hi%2C%20I%27d%20like%20to%20know%20more%20about%20Smear%20Pathology';
-const MAP_LAT = 18.1240501;
-const MAP_LNG = 75.0147934;
-const MAP_SHARE_URL = 'https://maps.app.goo.gl/bYwAMgtcDcBKMQsz8';
-const MAP_EMBED_URL = 'https://www.google.com/maps?q=' + MAP_LAT + ',' + MAP_LNG + '&z=17&output=embed';
-const MAP_DIRECTIONS_URL = 'https://www.google.com/maps/dir/?api=1&destination=' + MAP_LAT + ',' + MAP_LNG;
-const LAB_HOURS = 'Mon \u2013 Sat: 7:00 AM \u2013 9:00 PM  |  Sun: 8:00 AM \u2013 2:00 PM';
-
-const GALLERY_IMAGES = [
-  { src: './public/assets/gallery/gallery-02.png', alt: 'Smear Pathology laboratory photo 1' },
-  { src: './public/assets/gallery/gallery-04.png', alt: 'Smear Pathology laboratory photo 2' },
-  { src: './public/assets/gallery/gallery-05.png', alt: 'Smear Pathology laboratory photo 3' },
-  { src: './public/assets/gallery/gallery-06.png', alt: 'Smear Pathology laboratory photo 4' },
-  { src: './public/assets/gallery/gallery-07.png', alt: 'Smear Pathology laboratory photo 5' },
-  { src: './public/assets/gallery/gallery-10.png', alt: 'Smear Pathology laboratory photo 6' },
-  { src: './public/assets/team/lab-equi.jpeg', alt: 'Smear Pathology laboratory equipment' },
-  { src: './public/assets/team/lab_work.png', alt: 'Smear Pathology laboratory workspace' },
-];
-const REVIEW_IMAGES = [];
-const VIEW_MORE_DEFAULTS = { packages: { mobile: 4, desktop: 6 }, tests: { mobile: 6, desktop: 8 } };
+// Config values (CONTACT_PHONE, MAP_LAT, etc.) have been moved to src/config.js.
 
 var _content = null;
 
