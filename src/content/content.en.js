@@ -18,6 +18,9 @@ window.CONTENT_EN = {
   },
 
   nav: {
+    home: 'Home',
+    shop: 'Shop',
+    homeCollection: 'Home Collection',
     about: 'About',
     tests: 'Packages & Tests',
     founder: 'Our Director',
@@ -33,6 +36,7 @@ window.CONTENT_EN = {
     callBtn: 'Call Now',
     waBtn: 'WhatsApp',
     emailBtn: 'Email',
+    cartBtn: 'My Cart',
   },
 
   floatBtn: 'WhatsApp Us',
@@ -257,7 +261,9 @@ window.CONTENT_EN = {
     emailLink: 'Email Us',
     directionsLink: 'Get Directions',
     copyright: 'All rights reserved.',
-    seoLine: 'Diagnostic pathology \u0026 microbiology lab Indapur \u2014 blood tests, urine tests \u0026 more.',
+    seoLine: 'Diagnostic pathology & microbiology lab Indapur \u2014 blood tests, urine tests & more.',
+    termsLink: 'Terms & Conditions',
+    privacyLink: 'Privacy Policy',
   },
 
   viewMore: {

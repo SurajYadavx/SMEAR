@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 //  SMEAR PATHOLOGY â€” MARATHI CONTENT (i18n)
 //
 //  TODO: à¤¹à¥‡ à¤­à¤¾à¤·à¤¾à¤‚à¤¤à¤° AI-generated à¤†à¤¹à¥‡ à¤†à¤£à¤¿ à¤…à¤¦à¥à¤¯à¤¾à¤ª à¤à¤–à¤¾à¤¦à¥à¤¯à¤¾
@@ -24,6 +24,9 @@ window.CONTENT_MR = {
   },
 
   nav: {
+    home: '\u0918\u0930', // needs native review
+    shop: '\u0936\u0949\u092a', // needs native review
+    homeCollection: '\u0918\u0930\u0940 \u0928\u092e\u0941\u0928\u093e \u0938\u0902\u0915\u0932\u0928', // needs native review
     about: '\u0906\u092e\u094d\u0939\u093e\u0902\u092c\u0926\u094d\u0926\u0932',
     tests: '\u0924\u092a\u093e\u0938\u0923\u094d\u092f\u093e',
     founder: '\u0938\u0902\u091a\u093e\u0932\u0915',
@@ -37,6 +40,7 @@ window.CONTENT_MR = {
   header: {
     callBtn: '\u092b\u094b\u0928 \u0915\u0930\u093e',
     waBtn: 'WhatsApp',
+    cartBtn: '\u092e\u093e\u091d\u0940 \u092f\u093e\u0926\u0940', // needs native review
   },
   leadPrompt: {
     eyebrow: '\u0925\u094b\u0921\u093e \u092a\u094d\u0930\u0936\u094d\u0928',
@@ -240,6 +244,8 @@ window.CONTENT_MR = {
     directionsLink: '\u0926\u093f\u0936\u093e \u092e\u093f\u0933\u0935\u093e',
     copyright: '\u0938\u0930\u094d\u0935 \u0939\u0915\u094d\u0915 \u0930\u093e\u0916\u0940\u0935.',
     seoLine: '\u0928\u093f\u0926\u093e\u0928 \u092a\u094d\u0930\u092f\u094b\u0917\u0936\u093e\u0933\u093e, \u0907\u0902\u0926\u093e\u092a\u0942\u0930 \u2014 \u0930\u0915\u094d\u0924 \u0924\u092a\u093e\u0938\u0923\u0940, \u0932\u0918\u0935\u0940 \u0924\u092a\u093e\u0938\u0923\u0940 \u0906\u0923\u093f \u0907\u0924\u0930 \u0938\u0947\u0935\u093e.',
+    termsLink: '\u0905\u091f\u0940 \u0906\u0923\u093f \u0936\u0930\u094d\u0924\u0940', // needs native review
+    privacyLink: '\u0917\u094b\u092a\u0928\u0940\u092f\u0924\u093e \u0927\u094b\u0930\u0923', // needs native review
   },
   viewMore: {
     viewMore: '\u0906\u0923\u0916\u0940 \u092a\u0939\u093e',
