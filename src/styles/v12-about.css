@@ -1,0 +1,227 @@
+/* ── v12: ABOUT / WHO WE ARE REDESIGN ── */
+.v12-about {
+  padding: 100px 0;
+  background-color: var(--color-white);
+  position: relative;
+  overflow: hidden;
+}
+
+.v12-about::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at top right, rgba(42, 168, 176, 0.03), transparent 60%);
+  pointer-events: none;
+}
+
+.v12-about__header {
+  margin-bottom: 64px;
+}
+
+.v12-eyebrow {
+  display: inline-block;
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--color-accent);
+  margin-bottom: 16px;
+  background: rgba(42, 168, 176, 0.1);
+  padding: 6px 16px;
+  border-radius: 30px;
+}
+
+.v12-title {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--color-primary);
+  letter-spacing: -0.02em;
+}
+
+.v12-about__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 64px;
+  align-items: start;
+}
+
+@media (min-width: 992px) {
+  .v12-about__grid {
+    grid-template-columns: 1.1fr 1fr;
+    gap: 80px;
+  }
+}
+
+/* ── LEFT COLUMN: STORY ── */
+.v12-about__story {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.v12-story-block {
+  position: relative;
+  padding-left: 24px;
+  border-left: 2px solid rgba(13, 59, 62, 0.08);
+  transition: border-color 0.3s ease;
+}
+
+.v12-story-block:hover {
+  border-color: var(--color-accent);
+}
+
+.v12-story-title {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 16px;
+}
+
+.v12-story-text {
+  font-family: var(--font-body, 'Inter');
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text-mid);
+  margin-bottom: 12px;
+}
+.v12-story-text:last-child { margin-bottom: 0; }
+
+.v12-credentials {
+  display: inline-block;
+  font-weight: 600;
+  color: var(--color-accent);
+  background: rgba(42, 168, 176, 0.05);
+  padding: 4px 12px;
+  border-radius: 4px;
+  margin-top: 8px;
+  font-size: 0.95rem;
+}
+
+/* ── RIGHT COLUMN: VISUAL IDENTITY ── */
+.v12-about__visual {
+  position: relative;
+}
+
+.v12-identity-card {
+  background: linear-gradient(145deg, #ffffff, #f8fafb);
+  border: 1px solid rgba(13, 59, 62, 0.08);
+  border-radius: 32px;
+  padding: 48px;
+  box-shadow: 0 20px 60px rgba(13, 59, 62, 0.05);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Background Diagram Element */
+.v12-identity-card::after {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 300px;
+  height: 300px;
+  background-image: 
+    radial-gradient(circle at center, rgba(42,168,176,0.05) 0%, transparent 70%),
+    repeating-linear-gradient(45deg, rgba(42,168,176,0.03) 0, rgba(42,168,176,0.03) 1px, transparent 1px, transparent 10px);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.v12-disciplines-map {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 48px;
+  position: relative;
+  z-index: 1;
+}
+
+.v12-discipline {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  background: rgba(13, 59, 62, 0.04);
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.v12-discipline:hover {
+  background: var(--color-primary);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.v12-discipline-dot {
+  width: 4px;
+  height: 4px;
+  background: var(--color-accent);
+  border-radius: 50%;
+}
+
+.v12-principles {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  z-index: 1;
+}
+
+.v12-principle {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  transition: transform 0.3s ease;
+}
+
+.v12-principle:hover {
+  transform: translateX(8px);
+}
+
+.v12-principle-num {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--color-accent);
+  background: rgba(42, 168, 176, 0.1);
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.v12-principle-content h4 {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 6px;
+}
+
+.v12-principle-content p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--color-text-mid);
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .v12-about { padding: 80px 0; }
+  .v12-title { font-size: 2.2rem; }
+  .v12-identity-card { padding: 32px 24px; border-radius: 24px; }
+  .v12-story-block { gap: 32px; padding-left: 16px; }
+  .v12-principle { gap: 16px; }
+}

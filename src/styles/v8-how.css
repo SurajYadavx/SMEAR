@@ -1,0 +1,191 @@
+/* ── V8: HOW IT WORKS REDESIGN ──────────────────────────────── */
+
+.section-how.v8-how {
+  padding: 100px 0;
+  background-color: var(--color-white, #ffffff);
+  overflow: hidden;
+}
+
+.v8-journey {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 48px;
+}
+
+/* The connecting line */
+.v8-journey__line {
+  position: absolute;
+  top: 32px;
+  bottom: 32px;
+  left: 45px;
+  width: 2px;
+  background: var(--color-border, #dde8ea);
+  z-index: 1;
+  transition: all 0.5s ease;
+}
+
+.v8-journey__step {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+  z-index: 2;
+  position: relative;
+}
+
+/* Marker / Node */
+.v8-journey__indicator {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  background: var(--color-white, #ffffff);
+  padding: 24px 0;
+  width: 80px;
+}
+
+.v8-journey__num {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text-light, #a0b5b7);
+  width: 24px;
+  text-align: right;
+  transition: all 0.4s ease;
+}
+
+.v8-journey__dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-border, #dde8ea);
+  border: 3px solid var(--color-white, #ffffff);
+  box-shadow: 0 0 0 2px var(--color-border, #dde8ea);
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+
+/* Card Content */
+.v8-journey__card {
+  flex: 1;
+  padding: 24px;
+  background: transparent;
+  border-radius: 16px;
+  border: 1px solid transparent;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.v8-journey__icon {
+  width: 32px;
+  height: 32px;
+  color: var(--color-text-light, #a0b5b7);
+  margin-bottom: 16px;
+  transition: all 0.4s ease;
+}
+
+.v8-journey__title {
+  font-family: var(--font-heading, 'Outfit');
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-primary, #0d3b3e);
+  margin-bottom: 8px;
+  transition: color 0.3s ease;
+}
+
+.v8-journey__desc {
+  font-size: 1.05rem;
+  color: var(--color-text-mid, #3a5558);
+  line-height: 1.6;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+/* Hover Interactions (Dim inactive, highlight active) */
+.v8-journey:hover .v8-journey__step {
+  opacity: 0.4;
+  filter: grayscale(80%);
+}
+
+.v8-journey .v8-journey__step:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+}
+
+.v8-journey__step:hover .v8-journey__num {
+  color: var(--color-accent, #2aa8b0);
+  transform: scale(1.1);
+}
+
+.v8-journey__step:hover .v8-journey__dot {
+  background: var(--color-accent, #2aa8b0);
+  box-shadow: 0 0 0 5px rgba(42, 168, 176, 0.15);
+  border-color: var(--color-white, #ffffff);
+}
+
+.v8-journey__step:hover .v8-journey__card {
+  background: var(--color-off-white, #f8fafb);
+  border-color: rgba(42, 168, 176, 0.1);
+  box-shadow: var(--shadow-md, 0 8px 24px rgba(13,59,62,0.06));
+  transform: translateY(-4px);
+}
+
+.v8-journey__step:hover .v8-journey__icon {
+  color: var(--color-accent, #2aa8b0);
+  transform: translateY(-4px);
+}
+
+.v8-journey__step:hover .v8-journey__desc {
+  color: var(--color-text, #1a2e30);
+}
+
+/* Line active effect */
+.v8-journey:hover .v8-journey__line {
+  background: rgba(42, 168, 176, 0.2);
+}
+
+/* Desktop (Horizontal Layout) */
+@media (min-width: 992px) {
+  .v8-journey {
+    flex-direction: row;
+    gap: 0;
+    margin-top: 80px;
+  }
+  
+  .v8-journey__line {
+    top: 48px;
+    bottom: auto;
+    left: 24px;
+    right: 24px;
+    width: auto;
+    height: 2px;
+  }
+  
+  .v8-journey__step {
+    flex-direction: column;
+    flex: 1;
+    gap: 24px;
+    padding: 0 12px;
+  }
+  
+  .v8-journey__indicator {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+    padding: 0 12px;
+    background: transparent;
+  }
+  
+  .v8-journey__num {
+    text-align: left;
+    font-size: 1.5rem;
+    width: auto;
+  }
+  
+  .v8-journey__card {
+    padding: 24px;
+    width: 100%;
+  }
+}

@@ -19,7 +19,9 @@
     <link rel="stylesheet" href="./src/styles/main.css" />
     <link rel="stylesheet" href="./src/styles/v2-additions.css" />
     <link rel="stylesheet" href="./src/styles/v3-polish.css" />
-    <link rel="stylesheet" href="./src/styles/v5-shop.css" />`n    <link rel="stylesheet" href="./src/styles/v6-polish.css" />
+    <link rel="stylesheet" href="./src/styles/v5-shop.css" />
+    <link rel="stylesheet" href="./src/styles/v6-polish.css" />
+    <link rel="stylesheet" href="./src/styles/v9-callback.css" />
   </head>
   <body>
 
@@ -153,48 +155,36 @@
       </div>
     </section>
 
-    <!-- ═══════════ LEAD / BOOKING HELP CARD ════════════════ -->
-    <section class="lead-card-section" aria-labelledby="lead-card-heading" id="lead-card-section">
+    <!-- ════════════════════════════════════════════════════
+       INLINE LEAD CARD
+    ════════════════════════════════════════════════════ -->
+    <section class="section-lead-inline v9-callback" id="lead-card-section">
       <div class="container">
-        <div class="lead-card">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="40" height="40" aria-hidden="true" style="color:#2a9d8f"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.76 12a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.68 1h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 8.91a16 16 0 0 0 5.61 5.61l.91-.91a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          <h2 id="lead-card-heading" class="lead-card__title">Need Help Booking?</h2>
-          <p class="lead-card__desc">Share your name and phone number and we'll contact you on WhatsApp to help you choose the right test and confirm your slot.</p>
-
-          <!-- Success state (hidden initially) -->
-          <div id="lead-card-success" class="lead-card__success" style="display:none" aria-live="polite">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="48" height="48" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-            <p>Thank you! We'll reach out on WhatsApp shortly. You can also <a href="#" id="lead-success-call">call us directly</a>.</p>
+        <div class="v9-callback__container">
+          <div class="v9-callback__content">
+            <h2 data-i18n="lead.title">Need Help Booking?</h2>
+            <p data-i18n="lead.desc">Share your name and phone number and we'll contact you on WhatsApp to help you choose the right test and confirm your slot.</p>
           </div>
-
-          <form id="shop-lead-form" class="lead-card__form" novalidate>
-            <div class="lead-card__fields">
-              <div class="lead-card__field">
-                <span>Your Name</span>
-                <input type="text" id="lead-name" name="name" placeholder="Eg. Rahul Patil" autocomplete="name" required minlength="2" />
+          <form class="v9-callback__form" id="inline-lead-form"
+            onsubmit="event.preventDefault(); var name=document.getElementById('inline-name').value; var phone=document.getElementById('inline-phone').value; var msg='Hi, my name is '+name+' (Phone: '+phone+'). I need help with booking tests.'; window.open('https://wa.me/91'+(typeof CONTACT_PHONE!=='undefined'?CONTACT_PHONE:'7410745222')+'?text='+encodeURIComponent(msg), '_blank');">
+            <div class="v9-callback__inputs">
+              <div class="v9-form-group">
+                <label for="inline-name" class="sr-only">Name</label>
+                <input type="text" id="inline-name" placeholder="Your Name" required class="v9-input" />
               </div>
-              <div class="lead-card__field">
-                <span>Mobile Number</span>
-                <input type="tel" id="lead-phone" name="phone" placeholder="10-digit number" autocomplete="tel" required pattern="[0-9]{10}" inputmode="numeric" maxlength="10" />
+              <div class="v9-form-group">
+                <label for="inline-phone" class="sr-only">Phone Number</label>
+                <input type="tel" id="inline-phone" placeholder="Phone Number" required pattern="[0-9]{10}" class="v9-input" />
               </div>
             </div>
-            <label class="lead-card__checkbox">
-              <input type="checkbox" id="lead-terms" required />
-              I agree to the <a href="terms.html" target="_blank" rel="noopener noreferrer">Terms</a> and
-              <a href="privacy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
-              I consent to being contacted on WhatsApp about my booking.
-            </label>
-            <label class="lead-card__checkbox">
-              <input type="checkbox" id="lead-wa-opt" />
-              Send me test reminders and health tips on WhatsApp. <em>(Optional)</em>
-            </label>
-            <button type="submit" id="lead-submit-btn" class="btn btn--primary lead-card__submit" disabled>
-              Send My Request via WhatsApp
+            <div class="v9-form-group v9-checkbox-group">
+              <input type="checkbox" id="inline-tc" required class="v9-checkbox" />
+              <label for="inline-tc" class="v9-checkbox-label">I agree to the <a href="terms.html">Terms</a> &amp; <a href="privacy.html">Privacy Policy</a></label>
+            </div>
+            <button type="submit" class="v9-btn-whatsapp">
+              <svg class="v9-wa-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+              <span>Request Callback on WhatsApp</span>
             </button>
-            <p class="lead-card__note">
-              <!-- PLACEHOLDER — real response time: confirm with client -->
-              We typically respond within a few hours during lab working hours.
-            </p>
           </form>
         </div>
       </div>
