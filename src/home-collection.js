@@ -12,27 +12,54 @@
   function getLang() { try { return localStorage.getItem('smear_lang') || 'en'; } catch (e) { return 'en'; } }
   function esc(s) { return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
+  function extractPrice(previewContent) {
+    if (!previewContent) return null;
+    var commaMatch = previewContent.match(/,1\s*(\d{3,6})/g);
+    if (commaMatch && commaMatch.length > 0) {
+      var last = commaMatch[commaMatch.length > 1 ? commaMatch.length - 1 : 0];
+      var numMatch = last.match(/(\d{3,6})/);
+      return numMatch ? parseInt(numMatch[1], 10) : null;
+    }
+    var match = previewContent.match(/[\u20b9$£]\s*(\d+)/);
+    return match ? parseInt(match[1], 10) : null;
+  }
+
+  function extractDiscount(previewContent) {
+    if (!previewContent) return 0;
+    var match = previewContent.match(/(\d+)%\s*OFF/i);
+    return match ? parseInt(match[1], 10) : 0;
+  }
+
   function renderHCPackages() {
     var grid = document.getElementById('hc-package-grid');
     if (!grid) return;
-    var lang = getLang();
-    var packages = (window.PACKAGE_DATA || []).filter(function (p) { return p.homeCollection; });
+    var packages = window.SMEAR_PACKAGES || [];
     if (packages.length === 0) {
-      grid.innerHTML = '<p style="color:#5a7070;grid-column:1/-1">Home collection packages will be listed here. <a href="shop.html">Browse all packages.</a></p>';
+      grid.innerHTML = '<p style="color:#5a7070;grid-column:1/-1">Home collection packages will be listed here. <a href="packages.html">Browse all packages.</a></p>';
       return;
     }
-    packages.forEach(function (pkg) {
-      var name  = (lang === 'mr' && pkg.nameMr) ? pkg.nameMr : (pkg.name || '');
-      var price = pkg.price || 0;
-      var slug  = pkg.slug || '';
-      var card  = document.createElement('a');
-      card.className = 'shop-pkg-card';
-      card.href = slug ? 'packages/' + slug + '.html' : 'shop.html';
-      card.innerHTML = '' +
-        '<div class="shop-pkg-card__body">' +
-          '<p class="shop-pkg-card__name">' + esc(name) + '</p>' +
-          (price ? '<p class="shop-pkg-card__price">\u20b9' + price + '</p>' : '') +
-        '</div>';
+    // Take first 6 as "popular" home collection packages
+    packages.slice(0, 6).forEach(function (pkg) {
+      var price = extractPrice(pkg.sourceData ? pkg.sourceData.preview_content : null);
+      var discount = extractDiscount(pkg.sourceData ? pkg.sourceData.preview_content : null);
+      var card = document.createElement('a');
+      card.className = 'pkg-card';
+      card.href = 'package-detail.html?id=' + encodeURIComponent(pkg.id);
+      card.innerHTML = `
+        <div class="pkg-card__img-wrap">
+          <div class="pkg-card__placeholder">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
+          </div>
+          ${discount ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : ''}
+        </div>
+        <div class="pkg-card__body">
+          <div class="pkg-card__category">${pkg.categoryName || 'Package'}</div>
+          <h3 class="pkg-card__name">${pkg.name}</h3>
+          <div class="pkg-card__price">
+            <span class="price-val">₹${price || '--'}</span>
+          </div>
+        </div>
+      `;
       grid.appendChild(card);
     });
   }
