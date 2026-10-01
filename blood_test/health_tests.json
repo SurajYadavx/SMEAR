@@ -1,0 +1,5467 @@
+[
+  {
+    "test_name": "1,5 ANHYDROGLUCITOL TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 940"
+  },
+  {
+    "test_name": "11Q DELETION ATM (CLL) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "11Q DELETION ATM (CLL) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "13Q DELETION MM (CLL) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "13Q DELETION MM (CLL) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "14Q32.3 IGH GENE REARRANGEMENT (ALL,NHL) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 6030"
+  },
+  {
+    "test_name": "14Q32.3 IGH GENE REARRANGEMENT (ALL,NHL) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5830"
+  },
+  {
+    "test_name": "17 HYDROXY PROGESTERONE (17 OHP) NEONATAL SCREEN BY FIA",
+    "lab": "Thyrocare",
+    "price": "Rs. 540"
+  },
+  {
+    "test_name": "17 KETOSTEROIDS",
+    "lab": "Thyrocare",
+    "price": "Rs. 3950"
+  },
+  {
+    "test_name": "17 OH CORTICOSTEROIDS",
+    "lab": "Thyrocare",
+    "price": "Rs. 4345"
+  },
+  {
+    "test_name": "17 OH PROGESTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "17P DELETION P53 (MM, CLL) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "17P DELETION P53 (MM, CLL) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "1P/19Q CO-DELETION",
+    "lab": "Thyrocare",
+    "price": "Rs. 13145"
+  },
+  {
+    "test_name": "20Q CHROMOSOME DELETION (MDS) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "20Q CHROMOSOME DELETION (MDS) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "22Q DELETION ( MICRODELETION DIGEORGE SYNDROME) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5620"
+  },
+  {
+    "test_name": "25-OH VITAMIN D (TOTAL)",
+    "lab": "Thyrocare",
+    "price": "Rs. 399"
+  },
+  {
+    "test_name": "3 METHYL HISTIDINE QUANTITATIVE EDTA PLASMA",
+    "lab": "Thyrocare",
+    "price": "Rs. 6510"
+  },
+  {
+    "test_name": "3 METHYL HISTIDINE QUANTITATIVE URINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 6570"
+  },
+  {
+    "test_name": "5 HIAA",
+    "lab": "Thyrocare",
+    "price": "Rs. 3445"
+  },
+  {
+    "test_name": "5 NUCLEOTIDASE ACTIVITY",
+    "lab": "Thyrocare",
+    "price": "Rs. 6300"
+  },
+  {
+    "test_name": "5Q DELETION/MONOSOMY (MDS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "5Q DELETION/MONOSOMY (MDS) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "7Q DELETION/MONOSOMY (MDS) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "7Q DELETION/MONOSOMY (MDS) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5195"
+  },
+  {
+    "test_name": "7Q11.23 DELETION IN WILLIAMS BEUREN SYNDROME",
+    "lab": "Thyrocare",
+    "price": "Rs. 11025"
+  },
+  {
+    "test_name": "AAROGYAM 1+1 DUAL OFFER",
+    "lab": "Thyrocare",
+    "price": "Rs. 3198"
+  },
+  {
+    "test_name": "AAROGYAM 1.1 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "AAROGYAM 1.2 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1989"
+  },
+  {
+    "test_name": "AAROGYAM 1.3 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2649"
+  },
+  {
+    "test_name": "AAROGYAM 1.4 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3189"
+  },
+  {
+    "test_name": "AAROGYAM 1.5 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3259"
+  },
+  {
+    "test_name": "AAROGYAM 1.6 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3499"
+  },
+  {
+    "test_name": "AAROGYAM 1.7 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4699"
+  },
+  {
+    "test_name": "AAROGYAM 1.8 With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 5400"
+  },
+  {
+    "test_name": "AAROGYAM 24X7 (NON FASTING) - ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 5500"
+  },
+  {
+    "test_name": "AAROGYAM 24X7 (NON FASTING) - BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 3200"
+  },
+  {
+    "test_name": "AAROGYAM 24X7 (NON FASTING) - MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "AAROGYAM A PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1039"
+  },
+  {
+    "test_name": "AAROGYAM A PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "AAROGYAM A PRO",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "AAROGYAM A PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "AAROGYAM A With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "AAROGYAM ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1589"
+  },
+  {
+    "test_name": "AAROGYAM B PLUS - PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1839"
+  },
+  {
+    "test_name": "AAROGYAM B PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "AAROGYAM B PRO",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "AAROGYAM B PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "AAROGYAM B With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "AAROGYAM BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1049"
+  },
+  {
+    "test_name": "AAROGYAM C PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2639"
+  },
+  {
+    "test_name": "AAROGYAM C PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "AAROGYAM C PLUS WITH FT3 FT4 PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2959"
+  },
+  {
+    "test_name": "AAROGYAM C PRO INCLUDING CRM ADVANCED WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2879"
+  },
+  {
+    "test_name": "AAROGYAM C PRO INCLUDING CRM WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2719"
+  },
+  {
+    "test_name": "AAROGYAM C PRO WITH FT3 FT4 PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2179"
+  },
+  {
+    "test_name": "AAROGYAM C PRO WITH HEART ATTACK RISK",
+    "lab": "Thyrocare",
+    "price": "Rs. 2699"
+  },
+  {
+    "test_name": "AAROGYAM C PRO WITH HEART ATTACK RISK PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "AAROGYAM C PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "AAROGYAM C With UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2149"
+  },
+  {
+    "test_name": "AAROGYAM CAMP PROFILE 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "AAROGYAM CAMP PROFILE 2",
+    "lab": "Thyrocare",
+    "price": "Rs. 2299"
+  },
+  {
+    "test_name": "AAROGYAM CAMP PROFILE 3",
+    "lab": "Thyrocare",
+    "price": "Rs. 3299"
+  },
+  {
+    "test_name": "AAROGYAM COMPANION 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "AAROGYAM COMPANION 2",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "AAROGYAM COMPREHENSIVE PRIME",
+    "lab": "Thyrocare",
+    "price": "Rs. 859"
+  },
+  {
+    "test_name": "AAROGYAM CORP PACKAGE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "AAROGYAM COUPLE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1749"
+  },
+  {
+    "test_name": "AAROGYAM COUPLE OFFER",
+    "lab": "Thyrocare",
+    "price": "Rs. 1749"
+  },
+  {
+    "test_name": "AAROGYAM D PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3439"
+  },
+  {
+    "test_name": "AAROGYAM D PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3099"
+  },
+  {
+    "test_name": "AAROGYAM D PRO PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "AAROGYAM D PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2199"
+  },
+  {
+    "test_name": "AAROGYAM D WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "AAROGYAM E PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4639"
+  },
+  {
+    "test_name": "AAROGYAM E PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3599"
+  },
+  {
+    "test_name": "AAROGYAM E PRO PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4399"
+  },
+  {
+    "test_name": "AAROGYAM E PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "AAROGYAM E WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4099"
+  },
+  {
+    "test_name": "AAROGYAM F PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 5839"
+  },
+  {
+    "test_name": "AAROGYAM F PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4599"
+  },
+  {
+    "test_name": "AAROGYAM F PRO PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 5599"
+  },
+  {
+    "test_name": "AAROGYAM F PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4399"
+  },
+  {
+    "test_name": "AAROGYAM F WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 5399"
+  },
+  {
+    "test_name": "AAROGYAM FEMALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "AAROGYAM FULL BODY CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "AAROGYAM LITE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "AAROGYAM MALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2299"
+  },
+  {
+    "test_name": "AAROGYAM MENS PANEL WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "AAROGYAM MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "AAROGYAM MONSOON BASIC PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "AAROGYAM PURUSH PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "AAROGYAM STREE PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "AAROGYAM TAX SAVER ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4579"
+  },
+  {
+    "test_name": "AAROGYAM TAX SAVER BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "AAROGYAM WINTER ADVANCED WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "AAROGYAM WINTER BASIC WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "AAROGYAM X",
+    "lab": "Thyrocare",
+    "price": "Rs. 4500"
+  },
+  {
+    "test_name": "AAROGYAM X 1 PLUS 1 WITH ALLERGY SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 4505"
+  },
+  {
+    "test_name": "AAROGYAM X PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 7039"
+  },
+  {
+    "test_name": "AAROGYAM X PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 5499"
+  },
+  {
+    "test_name": "AAROGYAM X PRO PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 6799"
+  },
+  {
+    "test_name": "AAROGYAM X PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4899"
+  },
+  {
+    "test_name": "AAROGYAM X WITH ALLERGY SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 4500"
+  },
+  {
+    "test_name": "AAROGYAM XL",
+    "lab": "Thyrocare",
+    "price": "Rs. 5299"
+  },
+  {
+    "test_name": "AAROGYAM XL 1+1 WITH FREE ALLERGY TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 5199"
+  },
+  {
+    "test_name": "AAROGYAM XL PLUS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 8239"
+  },
+  {
+    "test_name": "AAROGYAM XL PLUS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 6649"
+  },
+  {
+    "test_name": "AAROGYAM XL PRO PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 7999"
+  },
+  {
+    "test_name": "AAROGYAM XL PRO WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 5899"
+  },
+  {
+    "test_name": "ABSOLUTE EOSINOPHIL COUNT EDTA BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 205"
+  },
+  {
+    "test_name": "ACETONE KETONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 100"
+  },
+  {
+    "test_name": "ACETYLCHOLINE RECEPTOR AUTOANTIBODY",
+    "lab": "Thyrocare",
+    "price": "Rs. 2420"
+  },
+  {
+    "test_name": "ACHR (ACETYL CHOLINE RECEPTOR) ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 4700"
+  },
+  {
+    "test_name": "ACID PHOSPHATASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "ACID PHOSPHATASE (TOTAL & PROSTATIC FRACRION) PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 600"
+  },
+  {
+    "test_name": "ACID PHOSPHATASE TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 325"
+  },
+  {
+    "test_name": "ACTH (ADRENO CORTICOTROPIC HORMONE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1900"
+  },
+  {
+    "test_name": "ACTH STIMULATION TEST 17 OH PROGESTERONE SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 3840"
+  },
+  {
+    "test_name": "ACTH STIMULATION TEST ALDOSTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 5720"
+  },
+  {
+    "test_name": "ACTH STIMULATION TEST ANDROSTENEDIONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4680"
+  },
+  {
+    "test_name": "ACTH STIMULATION TEST CORTISOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 1820"
+  },
+  {
+    "test_name": "ACTH STIMULATION TEST DHEAS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2860"
+  },
+  {
+    "test_name": "ACTINOMYCETES CULTURE / SPUTUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1505"
+  },
+  {
+    "test_name": "ACTINOMYCETES CULTURE / TISSUE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1380"
+  },
+  {
+    "test_name": "ACTITEST AND FIBROTEST PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 17325"
+  },
+  {
+    "test_name": "ACTIVE VITAMIN B12 (HOLOTRANSCOBALAMIN)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ACYL CARNITINE NEONATAL QUANTITATIVE DRIED BLOOD SPOT",
+    "lab": "Thyrocare",
+    "price": "Rs. 4725"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / ASCITIC FLUID",
+    "lab": "Thyrocare",
+    "price": "Rs. 1040"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / CSF",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / PERICARDIAL FLUID",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / PERITONEAL FLUID",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / PLEURAL FLUID",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / PUS",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADA (ADENOSINE DEAMINASE) / SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 965"
+  },
+  {
+    "test_name": "ADENOSINE DEAMINASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 870"
+  },
+  {
+    "test_name": "ADENOVIRUS DNA DETECTION BY RT PCR / EYE SWAB",
+    "lab": "Thyrocare",
+    "price": "Rs. 4610"
+  },
+  {
+    "test_name": "ADENOVIRUS DNA DETECTION BY RT PCR / NASAL SWAB",
+    "lab": "Thyrocare",
+    "price": "Rs. 4960"
+  },
+  {
+    "test_name": "ADENOVIRUS DNA DETECTION BY RT PCR / ORAL SWAB",
+    "lab": "Thyrocare",
+    "price": "Rs. 4770"
+  },
+  {
+    "test_name": "ADENOVIRUS DNA DETECTION BY RT PCR / RESPIRATORY FLUID",
+    "lab": "Thyrocare",
+    "price": "Rs. 4610"
+  },
+  {
+    "test_name": "ADENOVIRUS IGG ANTIBODY",
+    "lab": "Thyrocare",
+    "price": "Rs. 1750"
+  },
+  {
+    "test_name": "ADENOVIRUS IGM ANTIBODY",
+    "lab": "Thyrocare",
+    "price": "Rs. 1750"
+  },
+  {
+    "test_name": "ADH (ANTI DIURETIC HORMONE VASOPRESSIN)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5725"
+  },
+  {
+    "test_name": "ADRENOCORTICOTROPIC HORMONE (ACTH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "ADULT HEMOGLOBIN ELECTROPHORESIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1250"
+  },
+  {
+    "test_name": "ADVANCE RENAL (KIDNEY) PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 949"
+  },
+  {
+    "test_name": "ADVANCED FULL BODY CHECK UP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1349"
+  },
+  {
+    "test_name": "ADVANCED FULL BODY CHECKUP WITH VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1549"
+  },
+  {
+    "test_name": "ADVANCED RENAL PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 989"
+  },
+  {
+    "test_name": "AFB CULTURE (MGIT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1630"
+  },
+  {
+    "test_name": "AIVOCARE ADVANCED FULLBODY CHECK UP",
+    "lab": "Thyrocare",
+    "price": "Rs. 16499"
+  },
+  {
+    "test_name": "AIVOCARE ADVANCED HEART ATTACK SCREENING PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4799"
+  },
+  {
+    "test_name": "AIVOCARE METABOLIC HEALTH PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 9499"
+  },
+  {
+    "test_name": "ALANINE TRANSAMINASE (SGPT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 225"
+  },
+  {
+    "test_name": "ALBUMIN - SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "ALCOHOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "ALDOLASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1185"
+  },
+  {
+    "test_name": "ALDOSTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1760"
+  },
+  {
+    "test_name": "ALKALINE PHOSPHATASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "ALL VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "ALLERGY ALMOND ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ALMOND (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ALPHA LACTOGLOBULIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ALTERNARIA ALTERNATA ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ANIMAL PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3250"
+  },
+  {
+    "test_name": "ALLERGY APPLE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY APPLE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS FLAVUS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS FUMIGATUS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS FUMIGATUS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS NIGER ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS NIGER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY ASPERGILLUS TERREUS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ASTHMA / RHINITIS SCREENING (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5099"
+  },
+  {
+    "test_name": "ALLERGY BAHIA GRASS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BAJRA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BANANA ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BANANA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BARLEY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BEEF (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BEEF (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BERMUDA GRASS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BERMUDA GRASS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BETA LACTOGLOBULIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BLUE MUSSEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BRAZIL NUT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BRINJAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY BUFFALO DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CABBAGE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CABBAGE (PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CANDIDA ALBICANS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1170"
+  },
+  {
+    "test_name": "ALLERGY CAPSICUM (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CARDAMOM (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CARROT (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CASEIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CASHEW NUT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CASHEW NUT (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CAT DANDER ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CAT DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CAULIFLOWER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CELERY ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CEREAL/VEG FOOD PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5499"
+  },
+  {
+    "test_name": "ALLERGY CHEESE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHERRY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHICK PEA ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHICK PEA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHICKEN ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHICKEN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY CHICKEN DROPPING (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHICKEN FEATHERS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHILI PEPPER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CHOCOLATE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CLADOSPORIUM HERBARUM ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CLOVES (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COCKROACH DUST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COCKROACH GERMAN ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COCOA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COCONUT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COCONUT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COMMON PIGWEED (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COMMON SILVER BIRCH ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COMPREHENSIVE PANEL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 12300"
+  },
+  {
+    "test_name": "ALLERGY COMPREHENSIVE PROFILE (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 14000"
+  },
+  {
+    "test_name": "ALLERGY COTTON LINTERS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COW DANDER ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY COW DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CRAB (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CUCUMBER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CUCUMBER (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CULTIVATED RYE (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CUMIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CURD (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY CURRY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DAL CHANA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DETERGENT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DOG DANDER ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DOG DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG AMOXYCILLIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG AMPICILLIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG ASPIRIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG BROMHEXINE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG BRUFEN (IBUPROFEN) (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG CEFIXIME (CEFACLOR) (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG CIPROFLOXACIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG CLOXACILLIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG DICLOFENAC (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG DOXYCYCLINE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG ERYTHROMYCIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG INSULIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG METAMIZOL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG NORFLOXACIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG OFLOXACIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG OXACILLIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG PANEL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5720"
+  },
+  {
+    "test_name": "ALLERGY DRUG PARACETAMOL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG PENICILLIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG SULPHA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG TETRACYCLINE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG TINIDAZOLE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DRUG XYLOCAINE (LIDOCAINE) (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY DUST PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3250"
+  },
+  {
+    "test_name": "ALLERGY ECZEMA SCREENING PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3999"
+  },
+  {
+    "test_name": "ALLERGY EGG ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY EGG (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY EGG PLANT/AUBERGINE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY EGG WHITE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1170"
+  },
+  {
+    "test_name": "ALLERGY ELM ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY FENNEL SEED (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY FIG (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY FISH (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY FISH COD ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY FOOD PANEL 1 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4999"
+  },
+  {
+    "test_name": "ALLERGY FRUIT PANEL 1 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2999"
+  },
+  {
+    "test_name": "ALLERGY FRUIT PANEL 2 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2999"
+  },
+  {
+    "test_name": "ALLERGY GARLIC ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GARLIC (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GINGER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GLUTEN ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GLUTEN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GOAT DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GRAPE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY GUAVA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HAIR DYE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HAY DUST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HAZEL NUT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HONEY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HORSE DANDER ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HORSE DANDER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HOUSE DUST ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HOUSE DUST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY HOUSE DUST MITE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY HOUSE FLY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY INHALANT ADVANCED PACKAGE (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 5999"
+  },
+  {
+    "test_name": "ALLERGY INHALANT COMPREHENSIVE PACKAGE (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 10999"
+  },
+  {
+    "test_name": "ALLERGY INHALANT PANEL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4730"
+  },
+  {
+    "test_name": "ALLERGY INSULIN HUMAN ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1400"
+  },
+  {
+    "test_name": "ALLERGY JOHNSON GRASS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY JOHNSON GRASS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY JOWAR (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY KIWI (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY LEMON ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY LEMON (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY LENTIL ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY LENTIL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY LOBSTER (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MAIZE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MAIZE (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MANGO (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MASOOR DAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MELON (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MESQUITE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MILK ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MILK (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY MILLET (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MOONG DAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MOSQUITO (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUCOR RACEMOSUS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUGWORT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUGWORT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUSHROOM (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUSTARD (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY MUTTON (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY NON VEG FOOD PANEL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3630"
+  },
+  {
+    "test_name": "ALLERGY NON-VEGETARIAN PANEL 1 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3999"
+  },
+  {
+    "test_name": "ALLERGY NON-VEGETARIAN PANEL 2 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4700"
+  },
+  {
+    "test_name": "ALLERGY NUT PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4600"
+  },
+  {
+    "test_name": "ALLERGY OATS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ONION ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ONION (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ORANGE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY ORANGE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PAINTS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PANEL - DRUG",
+    "lab": "Thyrocare",
+    "price": "Rs. 2370"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD PLUS DRUG",
+    "lab": "Thyrocare",
+    "price": "Rs. 4888"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD PLUS INHALANT",
+    "lab": "Thyrocare",
+    "price": "Rs. 4700"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD PLUS NON-VEG",
+    "lab": "Thyrocare",
+    "price": "Rs. 3866"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD, INHALANT NON-VEG PLUS DRUG",
+    "lab": "Thyrocare",
+    "price": "Rs. 5279"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD, INHALANT PLUS DRUG",
+    "lab": "Thyrocare",
+    "price": "Rs. 6100"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD, INHALANT PLUS NON-VEG",
+    "lab": "Thyrocare",
+    "price": "Rs. 5291"
+  },
+  {
+    "test_name": "ALLERGY PANEL - FOOD, INHALANT, NON-VEG PLUS DRUG",
+    "lab": "Thyrocare",
+    "price": "Rs. 5279"
+  },
+  {
+    "test_name": "ALLERGY PANEL - INHALANT",
+    "lab": "Thyrocare",
+    "price": "Rs. 2491"
+  },
+  {
+    "test_name": "ALLERGY PANEL - NON-VEG",
+    "lab": "Thyrocare",
+    "price": "Rs. 1304"
+  },
+  {
+    "test_name": "ALLERGY PANEL FOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 3036"
+  },
+  {
+    "test_name": "ALLERGY PANEL VEG FOOD AND DRUG (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 9000"
+  },
+  {
+    "test_name": "ALLERGY PANEL VEG FOOD AND INHALANT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 8000"
+  },
+  {
+    "test_name": "ALLERGY PANEL VEG FOOD AND NONVEG (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 8000"
+  },
+  {
+    "test_name": "ALLERGY PANEL VEG FOOD INHALANT AND DRUG (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 10000"
+  },
+  {
+    "test_name": "ALLERGY PANEL VEG FOOD NONVEG FOOD AND INHALANT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 10000"
+  },
+  {
+    "test_name": "ALLERGY PAPAYA ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PAPAYA (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PAPER DUST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY PAPRIKA- SWEET PEPPER (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PARROT FEATHERS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PARTHENIUM (COMMON RAGWEED) (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEA (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEACH ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEANUT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEANUT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEAR (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEAR (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PEAS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PENICILLIUM CHRYSOGENUM ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PENICILLOYL G ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1495"
+  },
+  {
+    "test_name": "ALLERGY PENICILLOYL V ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1400"
+  },
+  {
+    "test_name": "ALLERGY PERFUME (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PHADIATOP ADULT",
+    "lab": "Thyrocare",
+    "price": "Rs. 1065"
+  },
+  {
+    "test_name": "ALLERGY PIGEON DROPPING (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PIGEON FEATHERS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PIGEON FEATHERS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PINEAPPLE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PINEAPPLE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PISTACHIO NUT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PLUM (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY POLLEN PANEL (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 6000"
+  },
+  {
+    "test_name": "ALLERGY POMEGRANATE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PORK (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PORK (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY POTATO (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY POTATO (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PRAWN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY PUMPKIN SEED (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RAGI (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RAISIN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RAJMA DAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RICE ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RICE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY RYE GRASS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SAFFRON (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SALMON (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SEMOLINA(RAWA) (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SESAME (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SESAME SEED (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SHRIMP ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SHRIMP (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SOYA BEAN (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SOYBEAN ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SPINACH (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SPINACH (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY STORAGE MITE (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY STRAWBERRY (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY STRAWBERRY (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SUNFLOWER (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY SWEET POTATO (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TIMOTHY GRASS ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TIMOTHY GRASS (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TOBBACO (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TOMATO ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TOMATOES (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TOOR DAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TUNA (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TURKEY MEAT (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY TURMERIC (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY UDAD DAL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY VEG FOOD PANEL (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 6160"
+  },
+  {
+    "test_name": "ALLERGY VEGETABLE PANEL 1 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3300"
+  },
+  {
+    "test_name": "ALLERGY VEGETABLE PANEL 2 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3200"
+  },
+  {
+    "test_name": "ALLERGY VEGETABLE PANEL 3 (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3200"
+  },
+  {
+    "test_name": "ALLERGY WALNUT (BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY WATERMELON (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY WHEAT ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY WHEAT FLOUR (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY WOOD DUST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 905"
+  },
+  {
+    "test_name": "ALLERGY YEAST ( BY PHADIA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY YEAST (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALLERGY YOGURT (BY ELISA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1100"
+  },
+  {
+    "test_name": "ALPHA FETO PROTEIN (AFP)",
+    "lab": "Thyrocare",
+    "price": "Rs. 865"
+  },
+  {
+    "test_name": "ALPHA HYDROXYBUTYRATE DEHYDROGENASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "ALPHA-1-ANTITRYPSIN (AAT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1425"
+  },
+  {
+    "test_name": "ALPHA1 ACID GLYCOPROTEIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 682"
+  },
+  {
+    "test_name": "ALPHA2 MACROGLOBULIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "ALUMINIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "AMH ADVANCED PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2699"
+  },
+  {
+    "test_name": "AMINO ACID PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2266"
+  },
+  {
+    "test_name": "AMPHETAMINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 231"
+  },
+  {
+    "test_name": "AMYLASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 570"
+  },
+  {
+    "test_name": "ANA TITRE (IMMUNOFLUORESCENCE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 895"
+  },
+  {
+    "test_name": "ANDROSTENEDIONE (A4)",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "ANEMIA PROFILE - BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2600"
+  },
+  {
+    "test_name": "ANEMIA PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3599"
+  },
+  {
+    "test_name": "ANGIOTENSIN CONVERTING ENZYME",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "ANTI - DSDNA",
+    "lab": "Thyrocare",
+    "price": "Rs. 890"
+  },
+  {
+    "test_name": "ANTI CCP (ACCP)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1649"
+  },
+  {
+    "test_name": "ANTI CHLAMYDIA ANTIBODY IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ANTI CHLAMYDIA ANTIBODY IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ANTI DEAMIDATED GLIADIN PEPTIDE - IGA",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ANTI DEAMIDATED GLIADIN PEPTIDE - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ANTI GLOMERULAR BASEMENT MEMBRANE PROTEIN - IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 2170"
+  },
+  {
+    "test_name": "ANTI HEPATITIS A VIRUS (ANTI HAV) - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ANTI HEPATITIS A VIRUS (HAV) - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "ANTI HEPATITIS B CORE ANTIGEN (AHBC) - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "ANTI HEPATITIS B CORE ANTIGEN (AHBC) - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "ANTI HEPATITIS B ENVELOPE ANTIGEN (AHBE) -TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 960"
+  },
+  {
+    "test_name": "ANTI HEPATITIS B SURFACE ANTIGEN - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 870"
+  },
+  {
+    "test_name": "ANTI HEPATITIS C VIRUS (ANTI HCV) - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 1300"
+  },
+  {
+    "test_name": "ANTI HEPATITIS E VIRUS (Anti HEV) - IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1550"
+  },
+  {
+    "test_name": "ANTI MULLERIAN HORMONE (AMH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2200"
+  },
+  {
+    "test_name": "ANTI NUCLEAR ANTIBODIES (ANA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 880"
+  },
+  {
+    "test_name": "ANTI PHOSPHOLIPID ANTIBODY (APL) - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "ANTI PHOSPHOLIPID ANTIBODY (APL) - IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "ANTI SACCHAROMYCES CEREVISIAE IGA ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ANTI SACCHAROMYCES CEREVISIAE IGG ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ANTI SCL - 70 ANTIBODY",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ANTI SPERM ANTIBODY (ASAB)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1133"
+  },
+  {
+    "test_name": "ANTI STREPTOLYSIN - O (ASO)",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "ANTI THYROGLOBULIN ANTIBODY (ATG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1270"
+  },
+  {
+    "test_name": "Anti-TPO antibody (Anti-Thyroid Peroxidase)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1345"
+  },
+  {
+    "test_name": "ANTI-TPO ANTIBODY (ANTI-THYROID PEROXIDASE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "ANTIDNASE-B (DNB)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4745"
+  },
+  {
+    "test_name": "ANTIMONY",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ANTINUCLEAR ANTIBODIES-17 BLOT",
+    "lab": "Thyrocare",
+    "price": "Rs. 3735"
+  },
+  {
+    "test_name": "APOLIPOPROTEIN - A1 (APO-A1)",
+    "lab": "Thyrocare",
+    "price": "Rs. 650"
+  },
+  {
+    "test_name": "APOLIPOPROTEIN - B (APO-B)",
+    "lab": "Thyrocare",
+    "price": "Rs. 650"
+  },
+  {
+    "test_name": "APOLIPROTEIN RATIO",
+    "lab": "Thyrocare",
+    "price": "Rs. 850"
+  },
+  {
+    "test_name": "ARSENIC TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE A",
+    "lab": "Thyrocare",
+    "price": "Rs. 2899"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3499"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE B",
+    "lab": "Thyrocare",
+    "price": "Rs. 4399"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2299"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE M WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2199"
+  },
+  {
+    "test_name": "ARTHRITIS PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 4000"
+  },
+  {
+    "test_name": "ASPARTATE AMINOTRANSFERASE (SGOT )",
+    "lab": "Thyrocare",
+    "price": "Rs. 220"
+  },
+  {
+    "test_name": "ASPERGILLUS GALACTOMANNAN ANTIGEN",
+    "lab": "Thyrocare",
+    "price": "Rs. 2420"
+  },
+  {
+    "test_name": "AUTOIMMUNE PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2800"
+  },
+  {
+    "test_name": "B-CELL (CD19) ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1600"
+  },
+  {
+    "test_name": "BAD OBSTETRIC HISTORY MAX (BOH MAX)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3999"
+  },
+  {
+    "test_name": "BAD OBSTETRIC HISTORY MINI (BOH MINI)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2799"
+  },
+  {
+    "test_name": "BARBITURATES",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "BARIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "BENZODIAZEPINES",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "BERYLLIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "BETA 2 GLYCOPROTEIN 1 - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "BETA 2 GLYCOPROTEIN 1 - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "BETA HCG",
+    "lab": "Thyrocare",
+    "price": "Rs. 815"
+  },
+  {
+    "test_name": "BETA-THALASSEMIA SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 572"
+  },
+  {
+    "test_name": "BETA2 MICROGLOBULIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "BICARBONATE",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "BILIRUBIN (INDIRECT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 300"
+  },
+  {
+    "test_name": "BILIRUBIN - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "BILIRUBIN -DIRECT",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "Biofire-Respiratory panel 2.1",
+    "lab": "Thyrocare",
+    "price": "Rs. 16045"
+  },
+  {
+    "test_name": "BISMUTH TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1080"
+  },
+  {
+    "test_name": "BLOOD ELEMENT ANALYSIS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "BLOOD GROUPING AND RH TYPING",
+    "lab": "Thyrocare",
+    "price": "Rs. 230"
+  },
+  {
+    "test_name": "BLOOD KETONE (D3HB)",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "BLOOD UREA",
+    "lab": "Thyrocare",
+    "price": "Rs. 145"
+  },
+  {
+    "test_name": "BLOOD UREA NITROGEN (BUN)",
+    "lab": "Thyrocare",
+    "price": "Rs. 130"
+  },
+  {
+    "test_name": "BONE PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2599"
+  },
+  {
+    "test_name": "BONE PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1949"
+  },
+  {
+    "test_name": "C ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "C-PEPTIDE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1235"
+  },
+  {
+    "test_name": "C-REACTIVE PROTEIN (CRP)",
+    "lab": "Thyrocare",
+    "price": "Rs. 525"
+  },
+  {
+    "test_name": "CA 15.3",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "CA 19.9",
+    "lab": "Thyrocare",
+    "price": "Rs. 1410"
+  },
+  {
+    "test_name": "CA 72.4-GASTRIC CANCER MARKER",
+    "lab": "Thyrocare",
+    "price": "Rs. 1600"
+  },
+  {
+    "test_name": "CA-125",
+    "lab": "Thyrocare",
+    "price": "Rs. 1395"
+  },
+  {
+    "test_name": "CADMIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "CAESIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "CALCITONIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "CALCIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 245"
+  },
+  {
+    "test_name": "CARBAMAZEPINE / TEGRETOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "CARCINO EMBRYONIC ANTIGEN (CEA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 820"
+  },
+  {
+    "test_name": "CARDIAC PACKAGE 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 1548"
+  },
+  {
+    "test_name": "CARDIAC RISK MARKER 5 Tests",
+    "lab": "Thyrocare",
+    "price": "Rs. 499"
+  },
+  {
+    "test_name": "CARDIAC RISK MARKERS",
+    "lab": "Thyrocare",
+    "price": "Rs. 499"
+  },
+  {
+    "test_name": "CARDIAC RISK MARKERS ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "CARDIOLIPIN ANTIBODY (ACL) - IGA",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "CARDIOLIPIN ANTIBODY (ACL) - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 890"
+  },
+  {
+    "test_name": "CARDIOLIPIN ANTIBODY (ACL) -IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 890"
+  },
+  {
+    "test_name": "CBC / HEMOGRAM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 349"
+  },
+  {
+    "test_name": "CD3CD4CD8",
+    "lab": "Thyrocare",
+    "price": "Rs. 2230"
+  },
+  {
+    "test_name": "CERULOPLASMIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "CHIKUNGUNYA RAPID TEST (IGG/IGM)",
+    "lab": "Thyrocare",
+    "price": "Rs. 572"
+  },
+  {
+    "test_name": "CHIKUNGUNYA-IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "CHILDREN HEALTH CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2149"
+  },
+  {
+    "test_name": "CHLAMYDIA TRACHOMATIS PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 4190"
+  },
+  {
+    "test_name": "CHLORIDE",
+    "lab": "Thyrocare",
+    "price": "Rs. 255"
+  },
+  {
+    "test_name": "CHOLINESTERASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "CHROMIUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "CHROMOGRANIN A",
+    "lab": "Thyrocare",
+    "price": "Rs. 6055"
+  },
+  {
+    "test_name": "COBALT TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "COCAINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "COMPLEMENT 3 (C3)",
+    "lab": "Thyrocare",
+    "price": "Rs. 805"
+  },
+  {
+    "test_name": "COMPLEMENT 4 (C4)",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "COMPLETE HEALTH CHECK WITH VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "COMPLETE HEALTH PROFILE FEMALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3690"
+  },
+  {
+    "test_name": "COMPLETE HEALTH PROFILE MALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3690"
+  },
+  {
+    "test_name": "COMPLETE HEMOGRAM CBC",
+    "lab": "Thyrocare",
+    "price": "Rs. 349"
+  },
+  {
+    "test_name": "COMPLETE URINE ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 199"
+  },
+  {
+    "test_name": "COMPLETE URINE ANALYSIS 24 Tests",
+    "lab": "Thyrocare",
+    "price": "Rs. 199"
+  },
+  {
+    "test_name": "COMPLETE VITAMINS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "COMPREHENSIVE FULL BODY CHECKUP WITH VITAMIN D AND B12",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "COMPREHENSIVE HEALTH CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 2299"
+  },
+  {
+    "test_name": "COMPREHENSIVE HEART HEALTH CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "COMPREHENSIVE METABOLIC BLOOD PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 3400"
+  },
+  {
+    "test_name": "COPPER",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "CORTISOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 635"
+  },
+  {
+    "test_name": "COTININE",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "COVID ANTIBODY GT",
+    "lab": "Thyrocare",
+    "price": "Rs. 700"
+  },
+  {
+    "test_name": "COVID ANTIBODY TOTAL- ELISA",
+    "lab": "Thyrocare",
+    "price": "Rs. 300"
+  },
+  {
+    "test_name": "Creatine phosphokinase-MB (CPK-MB)",
+    "lab": "Thyrocare",
+    "price": "Rs. 365"
+  },
+  {
+    "test_name": "CREATININE - SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 220"
+  },
+  {
+    "test_name": "CREATININE PHOSPHOKINASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 363"
+  },
+  {
+    "test_name": "CYSTATIN C",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "CYTOMEGALO VIRUS (CMV) - IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "CYTOMEGALO VIRUS (CMV) - IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "DENGUE NS1 ANTIGEN",
+    "lab": "Thyrocare",
+    "price": "Rs. 765"
+  },
+  {
+    "test_name": "DENGUE RAPID TEST (IGG/IGM)",
+    "lab": "Thyrocare",
+    "price": "Rs. 363"
+  },
+  {
+    "test_name": "DENGUE-IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "DENGUE-IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "DETAILED FOOD INTOLERANCE WITH IGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 6800"
+  },
+  {
+    "test_name": "DETOX DIET IMPACT CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "DHEA - SULPHATE (DHEAS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1089"
+  },
+  {
+    "test_name": "DIABETES CARE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "DIABETIC PANEL 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "DIABETIC PANEL 2",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "DIABETIC PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 5290"
+  },
+  {
+    "test_name": "DIABETIC PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2099"
+  },
+  {
+    "test_name": "DIAREV ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "DIAREV BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2649"
+  },
+  {
+    "test_name": "DIGOXIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "DIHYDROTESTOSTERONE (DHT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "DIRECT COOMBS TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "DIRECT RENIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 5290"
+  },
+  {
+    "test_name": "DOA PANEL-6",
+    "lab": "Thyrocare",
+    "price": "Rs. 902"
+  },
+  {
+    "test_name": "DOCTOR RECOMMENDED FULL BODY CHECKUP ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "DOCTOR RECOMMENDED FULL BODY CHECKUP BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1760"
+  },
+  {
+    "test_name": "DOUBLE MARKER FIRST TRIMESTER 8-13 WEEK (FMF CERTIFIED)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "DRUG PANEL 10",
+    "lab": "Thyrocare",
+    "price": "Rs. 1719"
+  },
+  {
+    "test_name": "DRUG PANEL 2",
+    "lab": "Thyrocare",
+    "price": "Rs. 506"
+  },
+  {
+    "test_name": "DRUG PANEL 3",
+    "lab": "Thyrocare",
+    "price": "Rs. 620"
+  },
+  {
+    "test_name": "DRUG PANEL 4",
+    "lab": "Thyrocare",
+    "price": "Rs. 847"
+  },
+  {
+    "test_name": "DRUG PANEL 5",
+    "lab": "Thyrocare",
+    "price": "Rs. 1078"
+  },
+  {
+    "test_name": "DRUG PANEL 6",
+    "lab": "Thyrocare",
+    "price": "Rs. 1035"
+  },
+  {
+    "test_name": "DRUG PANEL 7",
+    "lab": "Thyrocare",
+    "price": "Rs. 1219"
+  },
+  {
+    "test_name": "DRUG PANEL 8",
+    "lab": "Thyrocare",
+    "price": "Rs. 1349"
+  },
+  {
+    "test_name": "DRUG PANEL 9",
+    "lab": "Thyrocare",
+    "price": "Rs. 1539"
+  },
+  {
+    "test_name": "ECHINOCOCCUS - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "ELEMENTS 22 (TOXIC AND NUTRIENTS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2049"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK - ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK - ADVANCED (MALE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1099"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK - BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 749"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK - BASIC (MALE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 849"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK - COMPREHENSIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK- ADVANCED WITH ECG AND VITALS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK- BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 749"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK- COMPREHENSIVE (MALE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "EMPLOYEE HEALTH CHECK- COMPREHENSIVE WITH ECG AND VITALS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "ENTAMOEBA HISTOLYTICA - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "EPSTEIN BARR VIRAL CAPSID ANTIGEN - IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 1455"
+  },
+  {
+    "test_name": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+    "lab": "Thyrocare",
+    "price": "Rs. 100"
+  },
+  {
+    "test_name": "ERYTHROPOIETIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "ESTRADIOL/OESTROGEN (E2)",
+    "lab": "Thyrocare",
+    "price": "Rs. 650"
+  },
+  {
+    "test_name": "ETHANOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "EXECUTIVE CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "EXECUTIVE FULL BODY HEALTH CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "EXTENSIVE FULL BODY HEALTH CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2899"
+  },
+  {
+    "test_name": "FASTING BLOOD SUGAR",
+    "lab": "Thyrocare",
+    "price": "Rs. 80"
+  },
+  {
+    "test_name": "FAT SOLUBLE VITAMINS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "FEMALE HORMONAL PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1900"
+  },
+  {
+    "test_name": "FERRITIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 825"
+  },
+  {
+    "test_name": "FESTIVE HEALTHY COUPLE PACKAGE WITH VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 3000"
+  },
+  {
+    "test_name": "FESTIVE HEALTHY PACKAGE WITH VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "FEVER PANEL - ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2050"
+  },
+  {
+    "test_name": "FEVER PANEL - ADVANCED (RAPID)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2200"
+  },
+  {
+    "test_name": "FEVER PANEL - BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "FEVER PANEL - BASIC (RAPID)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1650"
+  },
+  {
+    "test_name": "FEVER PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 780"
+  },
+  {
+    "test_name": "FGFR 1 GENE REARRANGEMENT T(8P11.2) / HEPARIN BLOOD",
+    "lab": "Thyrocare",
+    "price": "Rs. 5145"
+  },
+  {
+    "test_name": "FGFR 1 GENE REARRANGEMENT T(8P11.2) / HEPARIN BONE MARROW",
+    "lab": "Thyrocare",
+    "price": "Rs. 5145"
+  },
+  {
+    "test_name": "FIBROSIS INDEX (FIB-4)",
+    "lab": "Thyrocare",
+    "price": "Rs. 400"
+  },
+  {
+    "test_name": "FILARIA ANTIGEN RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1455"
+  },
+  {
+    "test_name": "FLU PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 3000"
+  },
+  {
+    "test_name": "FLUORESCENT SMEAR TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "FOLATE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1300"
+  },
+  {
+    "test_name": "FOLLICLE STIMULATING HORMONE (FSH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 580"
+  },
+  {
+    "test_name": "FOOD INTOLERANCE PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 6500"
+  },
+  {
+    "test_name": "FREE ANDROGEN INDEX (FAIN)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1650"
+  },
+  {
+    "test_name": "FREE PSA",
+    "lab": "Thyrocare",
+    "price": "Rs. 1430"
+  },
+  {
+    "test_name": "FREE TESTOSTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1725"
+  },
+  {
+    "test_name": "FREE THYROXINE (FT4)",
+    "lab": "Thyrocare",
+    "price": "Rs. 300"
+  },
+  {
+    "test_name": "FREE TRIIODOTHYRONINE (FT3)",
+    "lab": "Thyrocare",
+    "price": "Rs. 300"
+  },
+  {
+    "test_name": "FREEDOM HEALTHY PACKAGE 2024",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "FREEDOM HEALTHY PACKAGE 2025",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "FRUCTOSAMINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "FT3-FT4-UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 590"
+  },
+  {
+    "test_name": "FULL BODY HEALTH CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "FULL BODY PLUS PCOS TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 2229"
+  },
+  {
+    "test_name": "GAMMA GLUTAMYL TRANSFERASE (GGT)",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "GASTRIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 840"
+  },
+  {
+    "test_name": "GASTRO / GUT HEALTH PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 902"
+  },
+  {
+    "test_name": "GENEXPERT",
+    "lab": "Thyrocare",
+    "price": "Rs. 3240"
+  },
+  {
+    "test_name": "GLP 1 MONITORING PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2239"
+  },
+  {
+    "test_name": "GLP 1 MONITORING WITH VITALS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "GLP 1 PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2239"
+  },
+  {
+    "test_name": "GLP 1 PACKAGE WITH VITALS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "GLUCOSE-6-PHOSPHATE DEHYDROGENASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 805"
+  },
+  {
+    "test_name": "GRAMS STAINING",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "GUTKULTURE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4249"
+  },
+  {
+    "test_name": "GUTKULTURE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "GUTKULTURE COMPREHENSIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4349"
+  },
+  {
+    "test_name": "GUTKULTURE STANDARD",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "H3N2 PLUS INFLUENZA PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "H3T - PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 890"
+  },
+  {
+    "test_name": "HAPTOGLOBIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "HbA1c",
+    "lab": "Thyrocare",
+    "price": "Rs. 199"
+  },
+  {
+    "test_name": "HBA1C WITH GRAPH",
+    "lab": "Thyrocare",
+    "price": "Rs. 550"
+  },
+  {
+    "test_name": "HDL CHOLESTEROL - DIRECT",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "HEALTH CHECK PRO",
+    "lab": "Thyrocare",
+    "price": "Rs. 852"
+  },
+  {
+    "test_name": "HEALTHSCREEN ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "HEALTHSCREEN BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "HEALTHSCREEN C PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1803"
+  },
+  {
+    "test_name": "HEALTHY 2024 COUPLE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2935"
+  },
+  {
+    "test_name": "HEALTHY 2025 PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2025"
+  },
+  {
+    "test_name": "HEALTHY 2026 FULL BODY CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "HEALTHY 2026 PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2026"
+  },
+  {
+    "test_name": "HEALTHY PROFILE 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "HEALTHY PROFILE 2",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "HELICOBACTER PYLORI - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "HELICOBACTER PYLORI - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 960"
+  },
+  {
+    "test_name": "HEMOGLOBIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 200"
+  },
+  {
+    "test_name": "HEMOGLOBIN VARIANT ANALYSIS - HPLC",
+    "lab": "Thyrocare",
+    "price": "Rs. 830"
+  },
+  {
+    "test_name": "HEMOGLOBIN VARIANT STUDIES (HB ELECTROPHORESIS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1300"
+  },
+  {
+    "test_name": "HEPATITIS A VIRUS ANTIBODY IGM(HAVM) RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 535"
+  },
+  {
+    "test_name": "HEPATITIS B CORE ANTIBODY RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 737"
+  },
+  {
+    "test_name": "HEPATITIS B ENEVELOPE ANTIGEN(HBEAG) RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 535"
+  },
+  {
+    "test_name": "HEPATITIS B ENVELOPE ANTIBODY RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "HEPATITIS B ENVELOPE ANTIGEN (HBEAG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "HEPATITIS B PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3099"
+  },
+  {
+    "test_name": "HEPATITIS B SURFACE ANTIBODY (ANTI-HBs)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "HEPATITIS B SURFACE ANTIGEN (HBsAg)",
+    "lab": "Thyrocare",
+    "price": "Rs. 555"
+  },
+  {
+    "test_name": "HEPATITIS B SURFACE ANTIGEN (HBsAg) Rapid Test",
+    "lab": "Thyrocare",
+    "price": "Rs. 506"
+  },
+  {
+    "test_name": "HEPATITIS B VIRUS (HBV) QUALITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 3810"
+  },
+  {
+    "test_name": "HEPATITIS B VIRUS (HBV) QUANTITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 7335"
+  },
+  {
+    "test_name": "HEPATITIS C VIRUS (HCV) QUALITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 3810"
+  },
+  {
+    "test_name": "HEPATITIS C VIRUS (HCV) QUANTITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 6799"
+  },
+  {
+    "test_name": "HEPATITIS C VIRUS - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 480"
+  },
+  {
+    "test_name": "HEPATITIS C VIRUS - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1150"
+  },
+  {
+    "test_name": "HEPATITIS E VIRUS ANTIBODY IGM(HEVM) RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 535"
+  },
+  {
+    "test_name": "HEPATITIS E VIRUS IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "HEPATITIS PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 4599"
+  },
+  {
+    "test_name": "HEPATITIS PANEL I",
+    "lab": "Thyrocare",
+    "price": "Rs. 4600"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS (HSV)-IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS (HSV)-IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS I (HSV)-IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS I (HSV)-IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS II (HSV)-IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HERPES SIMPLEX VIRUS II (HSV)-IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "HIGH RISK HPV GENOTYPING",
+    "lab": "Thyrocare",
+    "price": "Rs. 1800"
+  },
+  {
+    "test_name": "HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP)",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "HIGH SENSITIVITY TROPONIN I",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "HIV - WESTERN BLOT",
+    "lab": "Thyrocare",
+    "price": "Rs. 3630"
+  },
+  {
+    "test_name": "HIV 1/2 ANTIBODY RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 528"
+  },
+  {
+    "test_name": "HIV I AND II",
+    "lab": "Thyrocare",
+    "price": "Rs. 600"
+  },
+  {
+    "test_name": "HIV-1, RNA QUALITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 2970"
+  },
+  {
+    "test_name": "HIV-1, RNA QUANTITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 4505"
+  },
+  {
+    "test_name": "HLA B27 FLOW CYTOMETRY",
+    "lab": "Thyrocare",
+    "price": "Rs. 2255"
+  },
+  {
+    "test_name": "HLA B27 QUALITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 2370"
+  },
+  {
+    "test_name": "HLA-B27",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "HMPV REAL TIME QUALITATIVE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 3455"
+  },
+  {
+    "test_name": "HMPV Virus Test",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "HOMA INSULIN RESISTANCE INDEX",
+    "lab": "Thyrocare",
+    "price": "Rs. 460"
+  },
+  {
+    "test_name": "HOMOCYSTEINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1149"
+  },
+  {
+    "test_name": "HORMONAL EVALUATION",
+    "lab": "Thyrocare",
+    "price": "Rs. 2800"
+  },
+  {
+    "test_name": "HORMONE PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2350"
+  },
+  {
+    "test_name": "HUMAN EPIDIDYMIS PROTEIN 4",
+    "lab": "Thyrocare",
+    "price": "Rs. 3030"
+  },
+  {
+    "test_name": "HUMAN GROWTH HORMONE (HGH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "IGM LOW CONCENTRATION",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "IMMATURE PLATELET FRACTION ( IPF )",
+    "lab": "Thyrocare",
+    "price": "Rs. 585"
+  },
+  {
+    "test_name": "IMMUNE FUNCTION PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 2700"
+  },
+  {
+    "test_name": "IMMUNOGLOBULIN A (IGA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 885"
+  },
+  {
+    "test_name": "IMMUNOGLOBULIN E (IGE)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1400"
+  },
+  {
+    "test_name": "IMMUNOGLOBULIN G (IGG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 855"
+  },
+  {
+    "test_name": "IMMUNOGLOBULIN M (IGM)",
+    "lab": "Thyrocare",
+    "price": "Rs. 885"
+  },
+  {
+    "test_name": "INDIRECT COOMBS TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 690"
+  },
+  {
+    "test_name": "INFERTILITY - EXTENDED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4599"
+  },
+  {
+    "test_name": "INFERTILITY PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3859"
+  },
+  {
+    "test_name": "INFERTILITY PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1659"
+  },
+  {
+    "test_name": "INFLUENZA PANEL (INFLUENZA A AND B AND H1N1)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2899"
+  },
+  {
+    "test_name": "INFLUENZA PANEL (INFLUENZA A AND B AND H1N1)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3000"
+  },
+  {
+    "test_name": "INHIBIN A",
+    "lab": "Thyrocare",
+    "price": "Rs. 2420"
+  },
+  {
+    "test_name": "INSULIN - FASTING",
+    "lab": "Thyrocare",
+    "price": "Rs. 785"
+  },
+  {
+    "test_name": "INSULIN - PP",
+    "lab": "Thyrocare",
+    "price": "Rs. 620"
+  },
+  {
+    "test_name": "INSULIN ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1455"
+  },
+  {
+    "test_name": "INSULIN INDICES",
+    "lab": "Thyrocare",
+    "price": "Rs. 600"
+  },
+  {
+    "test_name": "INSULIN LIKE GROWTH FACTOR 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 960"
+  },
+  {
+    "test_name": "INTACT PARATHYROID HORMONE (PTH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1580"
+  },
+  {
+    "test_name": "INTERLEUKIN-6",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "INTOLERANCE - BUFFALO MILK",
+    "lab": "Thyrocare",
+    "price": "Rs. 1030"
+  },
+  {
+    "test_name": "INTOLERANCE - COW MILK",
+    "lab": "Thyrocare",
+    "price": "Rs. 1030"
+  },
+  {
+    "test_name": "INTOLERANCE - CURD",
+    "lab": "Thyrocare",
+    "price": "Rs. 1030"
+  },
+  {
+    "test_name": "INTOLERANCE - MOZZARELLA CHEESE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1030"
+  },
+  {
+    "test_name": "INTOLERANCE - YOGURT",
+    "lab": "Thyrocare",
+    "price": "Rs. 1030"
+  },
+  {
+    "test_name": "IONIC CALCIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "IRON",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "IRON DEFICIENCY PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 349"
+  },
+  {
+    "test_name": "IRON DEFICIENCY PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1035"
+  },
+  {
+    "test_name": "JAANCH - ANTENATAL PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2449"
+  },
+  {
+    "test_name": "JAANCH - DIABETIC PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "JAANCH - DIABETIC PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2099"
+  },
+  {
+    "test_name": "JAANCH - DIABETIC SCREEN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1319"
+  },
+  {
+    "test_name": "JAANCH - HEALTHY HEART ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "JAANCH - HEALTHY HEART BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "JAANCH - INFERTILITY PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3859"
+  },
+  {
+    "test_name": "JAANCH - INFERTILITY PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1659"
+  },
+  {
+    "test_name": "JAANCH - INFERTILITY PROFILE EXTENDED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4399"
+  },
+  {
+    "test_name": "JAANCH - MENS HAIRFALL SCREENING ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2629"
+  },
+  {
+    "test_name": "JAANCH - MENS SKIN CARE CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2450"
+  },
+  {
+    "test_name": "JAANCH - MONSOON FEVER PANEL ADVANCED (RAPID)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "JAANCH - NUTRA360 CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "JAANCH - PCOD ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4750"
+  },
+  {
+    "test_name": "JAANCH - PCOD BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 4150"
+  },
+  {
+    "test_name": "JAANCH - POSTPARTUM HEALTH CHECKUP ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "JAANCH - POSTPARTUM HEALTH CHECKUP BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "JAANCH - STD PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 5619"
+  },
+  {
+    "test_name": "JAANCH - STD PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2349"
+  },
+  {
+    "test_name": "JAANCH - STD PROFILE EXTENDED",
+    "lab": "Thyrocare",
+    "price": "Rs. 7999"
+  },
+  {
+    "test_name": "JAANCH - TUMOUR PANEL ADVANCED FEMALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "JAANCH - TUMOUR PANEL FEMALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1949"
+  },
+  {
+    "test_name": "JAANCH - TUMOUR PANEL MALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1949"
+  },
+  {
+    "test_name": "Jaanch - Winter Fever Panel Advanced",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "Jaanch - Winter Fever Panel Advanced Including Influenza",
+    "lab": "Thyrocare",
+    "price": "Rs. 4899"
+  },
+  {
+    "test_name": "JAANCH - WINTER FEVER PANEL BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2530"
+  },
+  {
+    "test_name": "JAANCH - WINTER FEVER PANEL BASIC (RAPID)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1760"
+  },
+  {
+    "test_name": "JAANCH - WOMENS HAIRFALL SCREENING ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2629"
+  },
+  {
+    "test_name": "JAANCH - WOMENS SKIN CARE CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2629"
+  },
+  {
+    "test_name": "JAANCH ALCOHOL IMPACT ADVANCED PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2749"
+  },
+  {
+    "test_name": "JAANCH ALCOHOL IMPACT SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "JAANCH ANEMIA PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 4304"
+  },
+  {
+    "test_name": "JAANCH ANEMIA PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2356"
+  },
+  {
+    "test_name": "JAANCH ANTENATAL PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1359"
+  },
+  {
+    "test_name": "JAANCH ANTENATAL PROFILE EXTENDED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3799"
+  },
+  {
+    "test_name": "JAANCH AUTOIMMUNE ADVANCED PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3499"
+  },
+  {
+    "test_name": "JAANCH AUTOIMMUNE SCREENING PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "JAANCH AUTOIMMUNE THYROID SCREENING PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 2645"
+  },
+  {
+    "test_name": "JAANCH BONE AND MUSCLE HEALTH",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "JAANCH CANCER SCREENING BREAST AND OVARIAN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "JAANCH CANCER SCREENING FEMALE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "JAANCH CANCER SCREENING FEMALE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "JAANCH CANCER SCREENING MALE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "JAANCH CANCER SCREENING MALE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "JAANCH CELIAC DISEASE SCREENING PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 3099"
+  },
+  {
+    "test_name": "JAANCH DENGUE PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "JAANCH DIABETES ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "JAANCH DIABETES COMPREHENSIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2699"
+  },
+  {
+    "test_name": "JAANCH FATTY LIVER SCREENING PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1429"
+  },
+  {
+    "test_name": "JAANCH FEMALE HORMONE SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "JAANCH FERTILITY FEMALE CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 2999"
+  },
+  {
+    "test_name": "JAANCH FERTILITY MALE CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "JAANCH HEALTHY MIND PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "JAANCH HEART ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2099"
+  },
+  {
+    "test_name": "JAANCH HEART COMPREHENSIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2799"
+  },
+  {
+    "test_name": "JAANCH HEART SCREEN ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1399"
+  },
+  {
+    "test_name": "JAANCH HEART SCREEN BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "JAANCH HEART SCREEN EXTENDED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2599"
+  },
+  {
+    "test_name": "JAANCH HEART SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 899"
+  },
+  {
+    "test_name": "JAANCH HEAT SHIELD ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "JAANCH HEAT SHIELD BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1199"
+  },
+  {
+    "test_name": "JAANCH HYPERTENSION PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3599"
+  },
+  {
+    "test_name": "JAANCH IMMUNITY HEALTH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "JAANCH MALE HORMONE SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 3599"
+  },
+  {
+    "test_name": "JAANCH MALE INFERTILITY PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 979"
+  },
+  {
+    "test_name": "JAANCH MENOPAUSE ASSESSMENT PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 3565"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER MINI PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 749"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER PANEL ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER PANEL ADVANCED (INCLUDING INFLUENZA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 4199"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER PANEL BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER PANEL- BASIC(RAPID)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "JAANCH MONSOON FEVER SCREEN WITH URINE ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1056"
+  },
+  {
+    "test_name": "JAANCH NUTRITION CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 4999"
+  },
+  {
+    "test_name": "JAANCH OBESITY ADVANCED PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3299"
+  },
+  {
+    "test_name": "JAANCH OBESITY BASIC PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2049"
+  },
+  {
+    "test_name": "JAANCH PCOD MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 1779"
+  },
+  {
+    "test_name": "JAANCH POST DELIVERY HEALTH CHECK",
+    "lab": "Thyrocare",
+    "price": "Rs. 2599"
+  },
+  {
+    "test_name": "JAANCH PREMARITAL HEALTH CHECK UP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "JAANCH PREOPERATIVE PACKAGE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "JAANCH RHEUMATOID ARTHIRITIS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2099"
+  },
+  {
+    "test_name": "JAANCH SLE PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 4990"
+  },
+  {
+    "test_name": "JAANCH SMOKING IMPACT PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "JAANCH THYROID PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1949"
+  },
+  {
+    "test_name": "JAANCH THYROID PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 549"
+  },
+  {
+    "test_name": "JAANCH THYROID PROFILE- BASIC PLUS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1200"
+  },
+  {
+    "test_name": "JAANCH WINTER FEVER MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 704"
+  },
+  {
+    "test_name": "JAANCH WINTER FEVER PANEL ADVANCED RAPID",
+    "lab": "Thyrocare",
+    "price": "Rs. 1869"
+  },
+  {
+    "test_name": "JAANCH WINTER FEVER SCREEN WITH URINE ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1056"
+  },
+  {
+    "test_name": "JAANCH- PRE-OPERATIVE EYE SURGERY PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "JAANCH- PRE-OPERATIVE PACKAGE MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 1020"
+  },
+  {
+    "test_name": "JAANCH- PREOPERATIVE PACKAGE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "KALA AZAR ANTIBODY RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "KAPPA LIGHT CHAIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "KETAMINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "KIDNEY FUNCTION TEST (KIDPRO)",
+    "lab": "Thyrocare",
+    "price": "Rs. 849"
+  },
+  {
+    "test_name": "KIDNEY PROFILE WITH ELECTROLYTES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1230"
+  },
+  {
+    "test_name": "KIDPRO WITHOUT CALCIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 450"
+  },
+  {
+    "test_name": "LACTATE",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "LACTATE DEHYDROGENASE (LDH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 390"
+  },
+  {
+    "test_name": "LAMBDA LIGHT CHAIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "LDL CHOLESTEROL - DIRECT",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "LEAD TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "LEPTOSPIRA RAPID TEST (IGG/IGM)",
+    "lab": "Thyrocare",
+    "price": "Rs. 625"
+  },
+  {
+    "test_name": "LEPTOSPIRA-IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "LIFESTYLE WELLNESS PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 4249"
+  },
+  {
+    "test_name": "LIPASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 671"
+  },
+  {
+    "test_name": "LIPID PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 399"
+  },
+  {
+    "test_name": "LITHIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 620"
+  },
+  {
+    "test_name": "LIVER FUNCTION TESTS",
+    "lab": "Thyrocare",
+    "price": "Rs. 499"
+  },
+  {
+    "test_name": "LIVER KIDNEY MICROSOMES",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "LONGEVITY PANEL",
+    "lab": "Thyrocare",
+    "price": "Rs. 4749"
+  },
+  {
+    "test_name": "LP-PLA2",
+    "lab": "Thyrocare",
+    "price": "Rs. 1080"
+  },
+  {
+    "test_name": "LUTEINISING HORMONE (LH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 565"
+  },
+  {
+    "test_name": "MAGNESIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 540"
+  },
+  {
+    "test_name": "MALARIAL ANTIGEN",
+    "lab": "Thyrocare",
+    "price": "Rs. 635"
+  },
+  {
+    "test_name": "MALARIAL PARASITE",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "MALE HORMONES SCREENING PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "MANGANESE TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1080"
+  },
+  {
+    "test_name": "MASTER HEALTH CHECK PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "MDMA / ECSTASY",
+    "lab": "Thyrocare",
+    "price": "Rs. 535"
+  },
+  {
+    "test_name": "MEASLES ANTIBODY - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "MEASLES ANTIBODY - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "MENS SKIN CARE CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2450"
+  },
+  {
+    "test_name": "MERCURY TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "METABOLIC PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "METABOLIC PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2899"
+  },
+  {
+    "test_name": "METHADONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "METHAMPHETAMINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "METHAQUALONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "METHOTREXATE TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 2940"
+  },
+  {
+    "test_name": "MMR IMMUNITY PROFILE IGG ANTIBODY",
+    "lab": "Thyrocare",
+    "price": "Rs. 1550"
+  },
+  {
+    "test_name": "MMR IMMUNITY PROFILE IGG IGM ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 2800"
+  },
+  {
+    "test_name": "MOLYBDENUM TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "MONSOON GASTRO INFECTION",
+    "lab": "Thyrocare",
+    "price": "Rs. 1174"
+  },
+  {
+    "test_name": "MORPHINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "MPO - ANCA ( P - ANCA )",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "MUMPS ANTIBODY - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "MUMPS ANTIBODY - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 725"
+  },
+  {
+    "test_name": "MYOGLOBIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "N ACETYL BETA D GLUCOSAMINIDASE",
+    "lab": "Thyrocare",
+    "price": "Rs. 480"
+  },
+  {
+    "test_name": "NEONATAL HEMOGLOBIN ELECTROPHORESIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "NEOT",
+    "lab": "Thyrocare",
+    "price": "Rs. 341"
+  },
+  {
+    "test_name": "NEWBORN SCREENING 4",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "NICKEL TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "NICOTINE METABOLITES",
+    "lab": "Thyrocare",
+    "price": "Rs. 2170"
+  },
+  {
+    "test_name": "NK CELL (CD16+CD56) ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2266"
+  },
+  {
+    "test_name": "NNEISSERIA GONORRHOEAE PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 4190"
+  },
+  {
+    "test_name": "NT-PROBNP",
+    "lab": "Thyrocare",
+    "price": "Rs. 1800"
+  },
+  {
+    "test_name": "OPIATES",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "PALEO PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3899"
+  },
+  {
+    "test_name": "PALEO PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2599"
+  },
+  {
+    "test_name": "PANCREATIC PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "PCOD PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "PCOS CARE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3000"
+  },
+  {
+    "test_name": "PCOS MANAGE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "PCOS MINI",
+    "lab": "Thyrocare",
+    "price": "Rs. 1600"
+  },
+  {
+    "test_name": "PERIPHERAL BLOOD SMEAR",
+    "lab": "Thyrocare",
+    "price": "Rs. 720"
+  },
+  {
+    "test_name": "PERIPHERAL BLOOD SMEAR (PBS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 720"
+  },
+  {
+    "test_name": "PHENCYCLIDINE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "PHENOBARBITAL/GARDENAL SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 840"
+  },
+  {
+    "test_name": "PHENYTOIN / DILANTIN / EPTOIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "PHOSPHOROUS",
+    "lab": "Thyrocare",
+    "price": "Rs. 245"
+  },
+  {
+    "test_name": "PLACENTAL GROWTH FACTOR",
+    "lab": "Thyrocare",
+    "price": "Rs. 2350"
+  },
+  {
+    "test_name": "PLATELET COUNT",
+    "lab": "Thyrocare",
+    "price": "Rs. 305"
+  },
+  {
+    "test_name": "PLATINUM HEALTH CHECK UP - MALE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2135"
+  },
+  {
+    "test_name": "PLATINUM HEALTH CHECKUP - MALE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2135"
+  },
+  {
+    "test_name": "POLLUTION IMPACT ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2599"
+  },
+  {
+    "test_name": "POLLUTION IMPACT BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "POLLUTION INFLAMMATION PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 799"
+  },
+  {
+    "test_name": "Postprandial Blood Sugar(PPBS)",
+    "lab": "Thyrocare",
+    "price": "Rs. 90"
+  },
+  {
+    "test_name": "POTASSIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "PR3 - ANCA ( C-ANCA )",
+    "lab": "Thyrocare",
+    "price": "Rs. 1430"
+  },
+  {
+    "test_name": "PRE-OPERATIVE PANEL III",
+    "lab": "Thyrocare",
+    "price": "Rs. 2565"
+  },
+  {
+    "test_name": "PRE-PREGNANCY PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2600"
+  },
+  {
+    "test_name": "PREALBUMIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "PREECLAMPSIA MARKERS",
+    "lab": "Thyrocare",
+    "price": "Rs. 4500"
+  },
+  {
+    "test_name": "PREECLAMPSIA PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3740"
+  },
+  {
+    "test_name": "PREECLAMPSIA PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2719"
+  },
+  {
+    "test_name": "PREGNANCY ASSOCIATED PLASMA PROTEIN A",
+    "lab": "Thyrocare",
+    "price": "Rs. 1525"
+  },
+  {
+    "test_name": "PROCALCITONIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1525"
+  },
+  {
+    "test_name": "PROGESTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 680"
+  },
+  {
+    "test_name": "PROLACTIN (PRL)",
+    "lab": "Thyrocare",
+    "price": "Rs. 600"
+  },
+  {
+    "test_name": "PROPERDIN FACTOR B",
+    "lab": "Thyrocare",
+    "price": "Rs. 1185"
+  },
+  {
+    "test_name": "PROPOXYPHENE",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "PROSTATE PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 900"
+  },
+  {
+    "test_name": "PROSTATE SPECIFIC ANTIGEN (PSA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 249"
+  },
+  {
+    "test_name": "PROTEIN - TOTAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "PROTEIN ELECTROPHORESIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 940"
+  },
+  {
+    "test_name": "PYRUVATE",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "QUADRUPLE MARKER SECOND TRIMESTER 14-22 WEEK",
+    "lab": "Thyrocare",
+    "price": "Rs. 2360"
+  },
+  {
+    "test_name": "QUANTIFERON - TB",
+    "lab": "Thyrocare",
+    "price": "Rs. 1560"
+  },
+  {
+    "test_name": "QUANTIFERON -TB GOLD PLUS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2799"
+  },
+  {
+    "test_name": "RANDOM BLOOD SUGAR",
+    "lab": "Thyrocare",
+    "price": "Rs. 86"
+  },
+  {
+    "test_name": "RETICULOCYTE COUNT (%)",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "RHEUMATOID FACTOR (RF)",
+    "lab": "Thyrocare",
+    "price": "Rs. 665"
+  },
+  {
+    "test_name": "ROMA (RISK OF OVARIAN MALIGNANCY)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "ROUTINE URINE ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 180"
+  },
+  {
+    "test_name": "RUBELLA - IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "RUBELLA - IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "SCRUB TYPHUS RAPID TEST (IGG/IGM)",
+    "lab": "Thyrocare",
+    "price": "Rs. 572"
+  },
+  {
+    "test_name": "SELENIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "SENIOR CITIZEN PROFILE FEMALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2398"
+  },
+  {
+    "test_name": "SENIOR CITIZEN PROFILE MALE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2398"
+  },
+  {
+    "test_name": "SERUM AMYLOID A PROTEIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 710"
+  },
+  {
+    "test_name": "SERUM COPPER",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "SERUM ELECTROLYTES",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "SERUM GLOBULIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "SERUM ZINC",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "SEX HORMONE BINDING GLOBULIN (SHBG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1230"
+  },
+  {
+    "test_name": "SIALIC ACID",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "SICKLE CELL TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "Sickle cells in Blood by Light microscopy - INLAB",
+    "lab": "Thyrocare",
+    "price": "Rs. 2640"
+  },
+  {
+    "test_name": "SILVER TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 1185"
+  },
+  {
+    "test_name": "SM (SMITH) ANTIBODY, IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 265"
+  },
+  {
+    "test_name": "SMALL DENSE LDL",
+    "lab": "Thyrocare",
+    "price": "Rs. 550"
+  },
+  {
+    "test_name": "SMEAR AFB",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "SMOKERS PANEL ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3000"
+  },
+  {
+    "test_name": "SMOKERS PANEL BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2000"
+  },
+  {
+    "test_name": "SODIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "SOLUBLE FMS-LIKE TYROSINE KINASE 1",
+    "lab": "Thyrocare",
+    "price": "Rs. 2135"
+  },
+  {
+    "test_name": "SPORTPERSON COMBO HORMONE PLUS WELLNESS",
+    "lab": "Thyrocare",
+    "price": "Rs. 3399"
+  },
+  {
+    "test_name": "SPORTS FITNESS - ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3199"
+  },
+  {
+    "test_name": "SPORTS FITNESS - BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "SPORTS FITNESS - COMPREHENSIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 6199"
+  },
+  {
+    "test_name": "SPORTS PERSON PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "SPUTUM CULTURE AND SUSCEPTIBILITY",
+    "lab": "Thyrocare",
+    "price": "Rs. 940"
+  },
+  {
+    "test_name": "STD PROFILE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2940"
+  },
+  {
+    "test_name": "STEROID PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2899"
+  },
+  {
+    "test_name": "STEROID PROFILE-10",
+    "lab": "Thyrocare",
+    "price": "Rs. 2550"
+  },
+  {
+    "test_name": "STEROID PROFILE-9",
+    "lab": "Thyrocare",
+    "price": "Rs. 2300"
+  },
+  {
+    "test_name": "STRONTIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "SUMMER WELLNESS WITH VITAMINS AND ELECTROLYTES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "SUPER HEALTHY PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2560"
+  },
+  {
+    "test_name": "SYPHILIS RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "T-CELL (CD3) ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 2266"
+  },
+  {
+    "test_name": "TB - WHOLE GENOME SEQUENCING",
+    "lab": "Thyrocare",
+    "price": "Rs. 0"
+  },
+  {
+    "test_name": "TB - WHOLE GENOME SEQUENCING",
+    "lab": "Thyrocare",
+    "price": "Rs. 7499"
+  },
+  {
+    "test_name": "TB MDR SCREEN (LPA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3615"
+  },
+  {
+    "test_name": "TB PCR",
+    "lab": "Thyrocare",
+    "price": "Rs. 2055"
+  },
+  {
+    "test_name": "TB XDR SCREEN (LPA)",
+    "lab": "Thyrocare",
+    "price": "Rs. 3615"
+  },
+  {
+    "test_name": "TBNK CELL ANALYSIS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1936"
+  },
+  {
+    "test_name": "TESTOSTERONE",
+    "lab": "Thyrocare",
+    "price": "Rs. 735"
+  },
+  {
+    "test_name": "TETRAHYDROCANNABINOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "THALLIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "THYROGLOBULIN (TG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1395"
+  },
+  {
+    "test_name": "THYROID PROFILE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "THYROID STIMULATING HORMONE (TSH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "THYROID TEST (T3-T4-USTSH)",
+    "lab": "Thyrocare",
+    "price": "Rs. 299"
+  },
+  {
+    "test_name": "TIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "TISSUE TRANSGLUTAMINASE - IGA (TTG)",
+    "lab": "Thyrocare",
+    "price": "Rs. 1495"
+  },
+  {
+    "test_name": "TORCH ALL EIGHT",
+    "lab": "Thyrocare",
+    "price": "Rs. 2700"
+  },
+  {
+    "test_name": "TORCH ALL TEN (C.M.I.A)",
+    "lab": "Thyrocare",
+    "price": "Rs. 2199"
+  },
+  {
+    "test_name": "TORCH PANEL - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 1499"
+  },
+  {
+    "test_name": "TORCH PANEL IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "Total Bile Acid",
+    "lab": "Thyrocare",
+    "price": "Rs. 1550"
+  },
+  {
+    "test_name": "TOTAL CHOLESTEROL",
+    "lab": "Thyrocare",
+    "price": "Rs. 245"
+  },
+  {
+    "test_name": "TOTAL HEALTH PROFILE PLUS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1503"
+  },
+  {
+    "test_name": "TOTAL IGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 935"
+  },
+  {
+    "test_name": "TOTAL IRON BINDING CAPACITY (TIBC)",
+    "lab": "Thyrocare",
+    "price": "Rs. 390"
+  },
+  {
+    "test_name": "TOTAL LEUCOCYTES COUNT",
+    "lab": "Thyrocare",
+    "price": "Rs. 225"
+  },
+  {
+    "test_name": "TOTAL RBC",
+    "lab": "Thyrocare",
+    "price": "Rs. 225"
+  },
+  {
+    "test_name": "TOTAL THYROXINE (T4)",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "TOTAL TRIIODOTHYRONINE (T3)",
+    "lab": "Thyrocare",
+    "price": "Rs. 230"
+  },
+  {
+    "test_name": "TOXO GONDII - IgG",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "TOXO GONDII - IgM",
+    "lab": "Thyrocare",
+    "price": "Rs. 455"
+  },
+  {
+    "test_name": "TRANSFERRIN SERUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 470"
+  },
+  {
+    "test_name": "TREPONEMA PALLIDUM ANTIBODY (TPAB)",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "TREPONEMA PALLIDUM HAEMAGGLUTINATION",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "TRIGLYCERIDES",
+    "lab": "Thyrocare",
+    "price": "Rs. 235"
+  },
+  {
+    "test_name": "TRIPLE H",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "TRIPLE MARKER SECOND TRIMESTER 14-22 WEEK",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "TROPONIN I HEART ATTACK RISK",
+    "lab": "Thyrocare",
+    "price": "Rs. 299"
+  },
+  {
+    "test_name": "TROPONIN I RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 605"
+  },
+  {
+    "test_name": "TSH - ULTRASENSITIVE",
+    "lab": "Thyrocare",
+    "price": "Rs. 260"
+  },
+  {
+    "test_name": "TSH RECEPTOR ANTIBODIES",
+    "lab": "Thyrocare",
+    "price": "Rs. 1455"
+  },
+  {
+    "test_name": "TSH-LH-FSH-PRL",
+    "lab": "Thyrocare",
+    "price": "Rs. 1239"
+  },
+  {
+    "test_name": "TYPHOID TESTS",
+    "lab": "Thyrocare",
+    "price": "Rs. 860"
+  },
+  {
+    "test_name": "UNCONJUGATED ESTRIOL (E3)",
+    "lab": "Thyrocare",
+    "price": "Rs. 350"
+  },
+  {
+    "test_name": "URANIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1080"
+  },
+  {
+    "test_name": "URIC ACID",
+    "lab": "Thyrocare",
+    "price": "Rs. 210"
+  },
+  {
+    "test_name": "URINARY CORTISOL",
+    "lab": "Thyrocare",
+    "price": "Rs. 360"
+  },
+  {
+    "test_name": "URINARY MICROALBUMIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 550"
+  },
+  {
+    "test_name": "URINE ANALYSIS AND CULTURE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1099"
+  },
+  {
+    "test_name": "URINE CULTURE AND SUSCEPTIBILITY",
+    "lab": "Thyrocare",
+    "price": "Rs. 945"
+  },
+  {
+    "test_name": "URINE ELECTROLYTES",
+    "lab": "Thyrocare",
+    "price": "Rs. 341"
+  },
+  {
+    "test_name": "URINE ELEMENT ANALYSIS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 999"
+  },
+  {
+    "test_name": "URINE MICROALBUMIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "URINE PREGNANCY RAPID TEST",
+    "lab": "Thyrocare",
+    "price": "Rs. 240"
+  },
+  {
+    "test_name": "URINE PROTEIN CREATININE RATIO",
+    "lab": "Thyrocare",
+    "price": "Rs. 380"
+  },
+  {
+    "test_name": "URINOGRAM",
+    "lab": "Thyrocare",
+    "price": "Rs. 341"
+  },
+  {
+    "test_name": "USTSH-LH-FSH-PRL",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "UTSH-LH-FSH-PRL",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "VALPROIC ACID",
+    "lab": "Thyrocare",
+    "price": "Rs. 595"
+  },
+  {
+    "test_name": "VANADIUM",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VARICELLA ZOSTER VIRUS ANTIBODY - IGG",
+    "lab": "Thyrocare",
+    "price": "Rs. 840"
+  },
+  {
+    "test_name": "VARICELLA ZOSTER VIRUS ANTIBODY - IGM",
+    "lab": "Thyrocare",
+    "price": "Rs. 840"
+  },
+  {
+    "test_name": "VDRL (RPR) FOR SYPHILIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 250"
+  },
+  {
+    "test_name": "VEGETERIAN VEGAN CARE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "VIRAL MARKER",
+    "lab": "Thyrocare",
+    "price": "Rs. 1299"
+  },
+  {
+    "test_name": "VITAMIN A",
+    "lab": "Thyrocare",
+    "price": "Rs. 2455"
+  },
+  {
+    "test_name": "VITAMIN B COMPLEX PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "VITAMIN B-12",
+    "lab": "Thyrocare",
+    "price": "Rs. 399"
+  },
+  {
+    "test_name": "VITAMIN B1/THIAMIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B2/RIBOFLAVIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B3/NICOTINIC ACID",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B5/PANTOTHENIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B6/PYRIDOXAL - 5 - PHOSPHATE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B7/BIOTIN",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  },
+  {
+    "test_name": "VITAMIN B9/FOLIC ACID",
+    "lab": "Thyrocare",
+    "price": "Rs. 1250"
+  },
+  {
+    "test_name": "VITAMIN D 1,25 - DIHYDROXY",
+    "lab": "Thyrocare",
+    "price": "Rs. 3030"
+  },
+  {
+    "test_name": "VITAMIN D PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "VITAMIN D3",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "VITAMIN E",
+    "lab": "Thyrocare",
+    "price": "Rs. 2420"
+  },
+  {
+    "test_name": "VITAMIN K",
+    "lab": "Thyrocare",
+    "price": "Rs. 2420"
+  },
+  {
+    "test_name": "VITAMIN PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1699"
+  },
+  {
+    "test_name": "VITAMINS & MINERALS PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 3099"
+  },
+  {
+    "test_name": "WELLNESS ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 1599"
+  },
+  {
+    "test_name": "WELLNESS COMPLETE ANALYSIS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1500"
+  },
+  {
+    "test_name": "WELLNESS FEMALE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "WELLNESS MALE PACKAGE",
+    "lab": "Thyrocare",
+    "price": "Rs. 2399"
+  },
+  {
+    "test_name": "WELLNESS SPORTSPERSON PROFILE",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "WIDAL",
+    "lab": "Thyrocare",
+    "price": "Rs. 264"
+  },
+  {
+    "test_name": "WIDAL TUBE AGGLUTINATION",
+    "lab": "Thyrocare",
+    "price": "Rs. 451"
+  },
+  {
+    "test_name": "WINTER WELLNESS PACKAGE WITH VITAMINS",
+    "lab": "Thyrocare",
+    "price": "Rs. 1999"
+  },
+  {
+    "test_name": "WOMEN ADVANCED PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2595"
+  },
+  {
+    "test_name": "WOMEN BASIC PROFILE WITH UTSH",
+    "lab": "Thyrocare",
+    "price": "Rs. 2055"
+  },
+  {
+    "test_name": "WOMEN CANCER SCREENING ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2749"
+  },
+  {
+    "test_name": "WOMEN CANCER SCREENING PACKAGE ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 5999"
+  },
+  {
+    "test_name": "WOMEN CANCER SCREENING PACKAGE BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 2749"
+  },
+  {
+    "test_name": "WOMEN HEALTH CHECKUP ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2499"
+  },
+  {
+    "test_name": "WOMEN WELLNESS ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 2099"
+  },
+  {
+    "test_name": "WOMEN WELLNESS BASIC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1899"
+  },
+  {
+    "test_name": "WOMENS HAIRFALL TEST ADVANCED",
+    "lab": "Thyrocare",
+    "price": "Rs. 3499"
+  },
+  {
+    "test_name": "WOMENS MASTER CHECKUP WITH CANCER & ARTHRITIS SCREENING",
+    "lab": "Thyrocare",
+    "price": "Rs. 1799"
+  },
+  {
+    "test_name": "WOMENS SKIN CARE CHECKUP",
+    "lab": "Thyrocare",
+    "price": "Rs. 2629"
+  },
+  {
+    "test_name": "ZINC",
+    "lab": "Thyrocare",
+    "price": "Rs. 1205"
+  }
+]

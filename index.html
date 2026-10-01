@@ -200,7 +200,8 @@
 
       <nav class="header-nav" aria-label="Main navigation">
         <a href="index.html" class="nav-link" data-i18n="nav.home">Home</a>
-        <a href="shop.html" class="nav-link" data-i18n="nav.shop">Shop</a>
+        <a href="packages.html" class="nav-link">Packages</a>
+        <a href="blood-tests.html" class="nav-link">Blood Tests</a>
         <a href="home-collection.html" class="nav-link" data-i18n="nav.homeCollection">Home Collection</a>
         <a href="#about" class="nav-link" data-i18n="nav.about">About</a>
         <a href="#founder" class="nav-link" data-i18n="nav.founder">Our Director</a>
@@ -249,7 +250,8 @@
     <div id="mobile-nav" class="mobile-nav" aria-hidden="true">
       <nav aria-label="Mobile navigation">
         <a href="index.html" class="mobile-nav__link" data-i18n="nav.home">Home</a>
-        <a href="shop.html" class="mobile-nav__link" data-i18n="nav.shop">Shop</a>
+        <a href="packages.html" class="mobile-nav__link">Packages</a>
+        <a href="blood-tests.html" class="mobile-nav__link">Blood Tests</a>
         <a href="home-collection.html" class="mobile-nav__link" data-i18n="nav.homeCollection">Home Collection</a>
         <a href="#about" class="mobile-nav__link" data-i18n="nav.about">About</a>
         <a href="#founder" class="mobile-nav__link" data-i18n="nav.founder">Our Director</a>
@@ -642,103 +644,19 @@
     </div>
   </section>
 
-  <section id="tests" class="section-tests" aria-labelledby="tests-heading">
+  <section id="tests" class="section-tests" aria-labelledby="tests-heading" style="text-align: center; padding: 80px 20px;">
     <div class="container">
       <div class="section-header fade-in">
         <span class="section-eyebrow" data-i18n="tests.eyebrow">Diagnostic Services</span>
-        <h2 id="tests-heading" class="section-title" data-i18n="tests.title">
-          Health Categories
+        <h2 id="tests-heading" class="section-title">
+          Health Packages & Blood Tests
         </h2>
-        <p class="section-subtitle" data-i18n="tests.subtitle">
+        <p class="section-subtitle">
           Browse our wide range of health checkup packages and tests by category.
         </p>
-      </div>
-
-      <div class="categories-grid fade-in" id="categories-grid">
-        <!-- These categories redirect to shop.html -->
-        <a href="shop.html?cat=General" class="category-card">
-          <div class="category-icon">⚕️</div>
-          <h3>General Health</h3>
-          <p>Full body checkups & routine tests</p>
-        </a>
-        <a href="shop.html?cat=Diabetes" class="category-card">
-          <div class="category-icon">🩸</div>
-          <h3>Diabetes</h3>
-          <p>Blood sugar & HbA1c monitoring</p>
-        </a>
-        <a href="shop.html?cat=Heart" class="category-card">
-          <div class="category-icon">❤️</div>
-          <h3>Heart & Lipid</h3>
-          <p>Cholesterol & cardiac profiles</p>
-        </a>
-        <a href="shop.html?cat=Fever" class="category-card">
-          <div class="category-icon">🤒</div>
-          <h3>Fever & Infection</h3>
-          <p>Dengue, Malaria, Typhoid & CBC</p>
-        </a>
-        <a href="shop.html?cat=Arthritis" class="category-card">
-          <div class="category-icon">🦴</div>
-          <h3>Bone & Joint</h3>
-          <p>Arthritis, Calcium & Vitamin D</p>
-        </a>
-        <a href="shop.html?cat=Women Health" class="category-card">
-          <div class="category-icon">👩</div>
-          <h3>Women's Health</h3>
-          <p>PCOS, Thyroid & Wellness</p>
-        </a>
-      </div>
-
-      <!-- ═══════════ SEARCH + FILTERS ════════════════════════ -->
-      <div class="shop-search-section fade-in" aria-label="Search and filter" style="margin-top:40px;">
-        <div class="shop-search-wrapper">
-          <label for="shop-search-input" class="sr-only">Search packages and tests</label>
-          <svg class="shop-search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
-            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="11" cy="11" r="8"></circle>
-            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-          </svg>
-          <input type="search" id="shop-search-input" class="shop-search-input" placeholder="Search packages or tests…"
-            autocomplete="off" spellcheck="false" />
-        </div>
-        <div class="shop-category-filters" id="shop-category-filters" role="group" aria-label="Filter by category">
-          <!-- Chips built by shop.js -->
-        </div>
-      </div>
-
-      <!-- ═══════════ PACKAGES GRID ════════════════════════════ -->
-      <div class="shop-section fade-in" aria-labelledby="shop-packages-heading" style="margin-top:40px;">
-        <div class="catalogue-section__head">
-          <h3 id="shop-packages-heading" class="shop-section__title">Health Packages</h3>
-        </div>
-        <div class="shop-grid" id="shop-package-grid" aria-label="Package catalogue">
-          <!-- Rendered by shop.js -->
-          <p style="color:#5a7070;grid-column:1/-1;">Loading packages…</p>
-        </div>
-      </div>
-
-      <!-- ═══════════ INDIVIDUAL TESTS ═════════════════════════ -->
-      <div class="shop-section fade-in" aria-labelledby="shop-tests-heading" style="margin-top:40px;">
-        <div class="catalogue-section__head">
-          <h3 id="shop-tests-heading" class="shop-section__title">Individual Tests</h3>
-        </div>
-        <div class="shop-grid" id="shop-test-grid" aria-label="Individual tests catalogue">
-          <!-- Rendered by shop.js -->
-          <p style="color:#5a7070;grid-column:1/-1;">Loading tests…</p>
-        </div>
-      </div>
-
-      <div class="catalogue-trust fade-in">
-        <div class="trust-tile" data-i18n="tests.trust.qualified">
-          Qualified microbiologist
-        </div>
-        <div class="trust-tile" data-i18n="tests.trust.confidential">
-          Confidential reports
-        </div>
-        <div class="trust-tile" data-i18n="tests.trust.pricing">
-          Clear pricing — no hidden charges
-        </div>
-        <div class="trust-tile" data-i18n="tests.trust.prescription">
-          No prescription needed for health checkup packages
+        <div style="margin-top: 30px; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+          <a href="packages.html" class="btn btn--primary" style="display: inline-flex;">Explore Packages &rarr;</a>
+          <a href="blood-tests.html" class="btn btn--outline-primary" style="display: inline-flex;">Search Blood Tests &rarr;</a>
         </div>
       </div>
     </div>
