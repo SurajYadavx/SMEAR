@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-rapid-culture-by-bactec-mgit-blood",
+  "test_name": "AFB Rapid Culture by Bactec Fx \u2013 Blood",
+  "slug": "afb-rapid-culture-by-bactec-mgit-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-rapid-culture-by-bactec-mgit-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-rapid-culture-by-bactec-mgit-blood",
+  "page_title": "AFB Rapid Culture By Bactec Mgit Blood Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1420
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 weeks : 6:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the AFB Rapid Culture by Bactec Fx \u2013 Blood test measure?",
+      "answer": "This test detects Mycobacterium tuberculosis (MTB Complex) or Non-tuberculosis bacteria (NTM or MOTT) in your blood sample."
+    },
+    {
+      "question": "Why is the AFB Rapid Culture by Bactec Fx \u2013 Blood test done?",
+      "answer": "This test is mainly done to diagnose infections caused by Mycobacterium tuberculosis (MTB Complex) or Non-tuberculosis bacteria (NTM or MOTT). Other reasons for performing this test include: \u2022 To monitor the effectiveness of treatment for tuberculosis or other bacterial infections. \u2022 To determine the specific bacteria causing an infection. \u2022 To guide appropriate antibiotic therapy and treatment decisions."
+    },
+    {
+      "question": "When is the AFB Rapid Culture by Bactec Fx \u2013 Blood test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have: \u2022 Symptoms suggestive of tuberculosis, such as persistent cough, weight loss, night sweats, or fever. \u2022 A known exposure to someone with tuberculosis. \u2022 An immunocompromised condition, such as HIV/AIDS. \u2022 A confirmed diagnosis of tuberculosis or other bacterial infection. \u2022 Suspected non-tuberculous mycobacterial (NTM) infection based on clinical presentation."
+    },
+    {
+      "question": "What if the results of the AFB Rapid Culture by Bactec Fx \u2013 Blood test are abnormal?",
+      "answer": "Abnormal results may suggest an active tuberculosis infection or another bacterial infection."
+    },
+    {
+      "question": "What to expect during the the AFB Rapid Culture by Bactec Fx \u2013 Blood test?",
+      "answer": "During the test: \u2022 A small sample of blood will be collected from your vein. \u2022 The blood sample will be placed in a special bottle for culture. \u2022 The bottle will be sent to the laboratory for processing and incubation."
+    },
+    {
+      "question": "What preparations are required before the AFB Rapid Culture by Bactec Fx \u2013 Blood test?",
+      "answer": "Before the test: \u2022 No specific preparation is required. \u2022 Follow any instructions provided by your doctor regarding fasting or medication restrictions, if any. \u2022 Ensure that the specimen type, site, clinical history, and clinician number are properly mentioned on the test request form. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the AFB Rapid Culture by Bactec Fx \u2013 Blood test?",
+      "answer": "Other tests that may be ordered alongside the AFB Rapid Culture by Bactec Fx \u2013 Blood test include: \u2022 Acid-fast staining: This test can provide rapid preliminary results on whether acid-fast bacteria are present in a sample. \u2022 Molecular tests: PCR-based tests can help identify specific strains of Mycobacterium tuberculosis or Non-tuberculosis bacteria."
+    },
+    {
+      "question": "What is the AFB Rapid Culture by Bactec Fx \u2013 Blood test also known as?",
+      "answer": "TB culture with drug susceptibility testing (DST), mycobacterial culture"
+    },
+    {
+      "question": "What is tuberculosis (TB)?",
+      "answer": "Tuberculosis (TB) is a contagious bacterial infection caused by the Mycobacterium tuberculosis bacteria. It primarily affects the lungs but can also affect other parts of the body. TB can spread through the air when an infected individual coughs, sneezes, or talks. Early diagnosis and appropriate treatment are crucial for effective management of tuberculosis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

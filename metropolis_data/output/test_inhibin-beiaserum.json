@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-inhibin-beiaserum",
+  "test_name": "Inhibin B Test",
+  "slug": "inhibin-beiaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/inhibin-beiaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/inhibin-beiaserum",
+  "page_title": "Inhibin B Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2740
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Inhibin B Test indicate in women?",
+      "answer": "It reflects ovarian reserve and fertility potential. Low levels may indicate reduced egg supply or early menopause."
+    },
+    {
+      "question": "What does the Inhibin B Test indicate in men?",
+      "answer": "It measures testicular function and sperm production. Low levels suggest poor sperm output or testicular dysfunction."
+    },
+    {
+      "question": "Is fasting required for the Inhibin B Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can the Inhibin B Test detect ovarian tumours?",
+      "answer": "Yes, it helps detect and monitor granulosa cell tumours. Rising levels after treatment may indicate recurrence."
+    },
+    {
+      "question": "When should women take the Inhibin B Test for fertility evaluation?",
+      "answer": "The best time is during the early follicular phase (day 2\u20135) of the menstrual cycle for accurate interpretation."
+    },
+    {
+      "question": "Can medications affect Inhibin B Test results?",
+      "answer": "Yes, hormonal medications or fertility treatments may affect hormone levels. Always inform your doctor before testing."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ceruloplasmincopper-oxidaseserum",
+  "test_name": "Ceruloplasmin Test",
+  "slug": "ceruloplasmincopper-oxidaseserum",
+  "source_url": "https://www.metropolisindia.com/parameter/ceruloplasmincopper-oxidaseserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ceruloplasmincopper-oxidaseserum",
+  "page_title": "Ceruloplasmin Test - Cost, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Ceruloplasmin Test measure?",
+      "answer": "It measures the level of ceruloplasmin, a copper-carrying protein made by your liver, to assess copper metabolism and liver function."
+    },
+    {
+      "question": "What does a low ceruloplasmin level mean?",
+      "answer": "Low levels often suggest Wilson\u2019s disease, Menkes disease, malnutrition, or severe liver dysfunction."
+    },
+    {
+      "question": "What causes high ceruloplasmin levels?",
+      "answer": "High levels can occur due to inflammation, infections, pregnancy, or while taking oral contraceptives."
+    },
+    {
+      "question": "Do I need to fast before the Ceruloplasmin Test?",
+      "answer": "Fasting not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can medications affect the results?",
+      "answer": "Yes, certain drugs like oral contraceptives, hormone therapies, or zinc supplements may influence ceruloplasmin readings."
+    },
+    {
+      "question": "How is the Ceruloplasmin Test done?",
+      "answer": "A small blood sample is drawn from your arm and tested using Immunoturbidimetry to measure ceruloplasmin levels."
+    },
+    {
+      "question": "Can this test detect Wilson\u2019s disease?",
+      "answer": "Yes, low ceruloplasmin levels are a key indicator of Wilson\u2019s disease, especially when combined with copper tests."
+    },
+    {
+      "question": "How long will it take to receive my results?",
+      "answer": "Reports are generally available within 6 hours once your sample reaches the lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

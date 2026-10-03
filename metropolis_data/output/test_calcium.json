@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-calcium",
+  "test_name": "Calcium Blood Test",
+  "slug": "calcium",
+  "source_url": "https://www.metropolisindia.com/parameter/calcium",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calcium",
+  "page_title": "Calcium Test - Price, Range and Preparation | Book Calcium Blood Test Online",
+  "pricing": {
+    "selling_price": 250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What affects serum calcium levels?",
+      "answer": "Several factors regulate calcium levels, including Parathyroid Hormone (PTH), vitamin D, and calcitonin. Diet, kidney function, certain medications, like diuretics, and albumin protein levels in your blood can all influence calcium measurements."
+    },
+    {
+      "question": "Do high calcium levels increase creatinine?",
+      "answer": "Yes, persistently high calcium levels can impair kidney function, leading to dehydration and reduced blood flow to the kidneys. This kidney stress can cause creatinine levels to rise, indicating potential kidney damage."
+    },
+    {
+      "question": "Are there any emerging technologies or advancements in serum calcium testing that I should be aware of?",
+      "answer": "Point-of-Care Testing (POCT) for ionised calcium is increasingly used in hospitals. These portable devices allow rapid bedside testing, particularly useful in critical care settings like ICUs and operating rooms for immediate results."
+    },
+    {
+      "question": "What is the best time to take the calcium test?",
+      "answer": "A calcium test can be taken at any time of day. However, your doctor may prefer a morning sample for consistency, especially if it's part of a panel requiring fasting tests."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the calcium test, and for how long?",
+      "answer": "Fasting is not usually required for a standalone calcium test. However, it may be part of larger blood panels requiring 8-12 hours of fasting. Always follow your doctor's specific instructions for your test."
+    },
+    {
+      "question": "Can dehydration affect my calcium test results?",
+      "answer": "Yes, severe dehydration can cause haemoconcentration, leading to falsely high total calcium readings. It's important to maintain adequate hydration before your test for accurate results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the calcium test?",
+      "answer": "Inform your doctor about all medications, vitamins, and supplements you're taking. Some, like calcium supplements, vitamin D, lithium, and certain diuretics, can interfere with results. Your doctor will advise if temporary discontinuation is needed."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the calcium test?",
+      "answer": "A trained phlebotomist cleans your arm area, usually inside the elbow, then inserts a small needle into a vein to collect blood into a vial. The entire procedure is quick and takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal with blood tests. You might feel a slight prick when the needle enters and may experience minor bruising, slight bleeding, or soreness at the site. Fainting or infection is very rare."
+    },
+    {
+      "question": "What level of calcium test is normal?",
+      "answer": "The normal range for total serum calcium in adults is typically 8.6-10.0 mg/dL."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "metro-test-total-proteins-test",
+  "test_name": "Total Proteins Test",
+  "slug": "total-proteins-test",
+  "source_url": "https://www.metropolisindia.com/parameter/total-proteins-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/total-proteins-test",
+  "page_title": "Total Protein Test - Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take test_name?",
+      "answer": "This is the Proteins-total test"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This is the Proteins-total test"
+    },
+    {
+      "question": "More Info on test_name",
+      "answer": "This is the Proteins-total test"
+    },
+    {
+      "question": "What does the Total Proteins Test measure?",
+      "answer": "It measures total protein, albumin, and globulin levels in your blood to evaluate liver, kidney, and nutritional health."
+    },
+    {
+      "question": "What do low total protein levels indicate?",
+      "answer": "Low total protein levels may suggest liver or kidney disease, malnutrition, or poor absorption of nutrients."
+    },
+    {
+      "question": "What causes high total protein levels?",
+      "answer": "High levels can result from dehydration, chronic inflammation, infections, or plasma cell disorders like multiple myeloma."
+    },
+    {
+      "question": "What is the A/G ratio and why is it important?",
+      "answer": "The Albumin/Globulin (A/G) ratio helps doctors determine whether your protein imbalance is due to liver, kidney, or immune-related problems."
+    },
+    {
+      "question": "Is fasting necessary before the Total Proteins Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How is the blood sample collected for the test?",
+      "answer": "A phlebotomist draws a small amount of blood from a vein in your arm using a sterile needle. The process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks with the test?",
+      "answer": "Risks are minimal and may include slight bruising or mild discomfort at the puncture site, which usually resolves quickly."
+    },
+    {
+      "question": "Can dehydration affect my test results?",
+      "answer": "Yes, dehydration can raise total protein levels, while overhydration can lower them."
+    },
+    {
+      "question": "What is the normal total protein range?",
+      "answer": "Normal total protein levels generally range from 6.4 to 8.3 g/dL."
+    },
+    {
+      "question": "How often should I take a Total Proteins Test?",
+      "answer": "Your doctor may recommend it during annual check-ups or when monitoring existing liver or kidney conditions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

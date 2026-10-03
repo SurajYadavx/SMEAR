@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-calculus-stone-analysis-by-automated-ftir-kidney-renal-calculus",
+  "test_name": "Kidney Stone Analysis Test",
+  "slug": "calculus-stone-analysis-by-automated-ftir-kidney-renal-calculus",
+  "source_url": "https://www.metropolisindia.com/parameter/calculus-stone-analysis-by-automated-ftir-kidney-renal-calculus",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calculus-stone-analysis-by-automated-ftir-kidney-renal-calculus",
+  "page_title": "Kidney Stone Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1635
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Kidney Stone Analysis Test detect?",
+      "answer": "It identifies the chemical composition of the kidney stone (e.g., calcium oxalate, uric acid, struvite) to determine why it formed."
+    },
+    {
+      "question": "How is the stone sample collected?",
+      "answer": "You can collect a stone passed in urine in a clean, dry container, or it may be surgically removed and submitted by your doctor."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No. Fasting is not required."
+    },
+    {
+      "question": "What happens if my stone contains multiple minerals?",
+      "answer": "Mixed stones are common. The report typically lists each mineral component and its percentage to guide prevention."
+    },
+    {
+      "question": "Can kidney stones come back after removal?",
+      "answer": "Yes. Recurrence is common if underlying causes are not addressed; stone analysis helps create a prevention plan."
+    },
+    {
+      "question": "How long can I store the stone before testing?",
+      "answer": "In general, stones can be stored dry in a clean container at room temperature for weeks without affecting FTIR analysis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-pre-eclampsia-screening",
+  "test_name": "Pre-eclampsia screening Serum",
+  "slug": "pre-eclampsia-screening",
+  "source_url": "https://www.metropolisindia.com/parameter/pre-eclampsia-screening",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pre-eclampsia-screening",
+  "page_title": "Pre Eclampsia Screening Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3330
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-vitamin-a-test",
+  "test_name": "Vitamin A (Retinol), Serum Test",
+  "slug": "vitamin-a-test",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-a-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-a-test",
+  "page_title": "Vitamin A Retinol Serum Test - Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5090
+  },
+  "specimen": "Serum Test",
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

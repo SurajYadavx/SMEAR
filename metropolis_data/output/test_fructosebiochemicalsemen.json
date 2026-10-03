@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-fructosebiochemicalsemen",
+  "test_name": "Fructose Biochemical in Semen",
+  "slug": "fructosebiochemicalsemen",
+  "source_url": "https://www.metropolisindia.com/parameter/fructosebiochemicalsemen",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fructosebiochemicalsemen",
+  "page_title": "Seminal Fructose Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 210
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "male",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

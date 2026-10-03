@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-lap-score",
+  "test_name": "LAP Score",
+  "slug": "lap-score",
+  "source_url": "https://www.metropolisindia.com/parameter/lap-score",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lap-score",
+  "page_title": "LAP Score Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1420
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the LAP Score Test measure?",
+      "answer": "The LAP Score Test measures the activity of alkaline phosphatase, an enzyme present in white blood cells, particularly neutrophils."
+    },
+    {
+      "question": "Why is the LAP Score Test done?",
+      "answer": "\u2022 To differentiate Chronic Myeloid Leukaemias from Leukaemoid reaction \u2022 To make an accurate diagnosis of Chronic Myeloid Leukaemias \u2022 To distinguish between benign and malignant leukocytosis \u2022 To guide appropriate treatment plans for patients with suspected leukaemia"
+    },
+    {
+      "question": "When is the LAP Score Test recommended and who should take the test?",
+      "answer": "The LAP Score Test may be recommended if you have \u2022 high white blood cell count with an unclear cause, \u2022 suspected leukaemia or leukaemia-like symptoms, \u2022 previously diagnosed leukaemia to monitor response to treatment, or \u2022 a family history of leukaemia or genetic risk factors for haematological disorders."
+    },
+    {
+      "question": "What if the results of the LAP Score Test are abnormal?",
+      "answer": "Abnormal results may indicate other hematologic disorders or leukemoid reactions."
+    },
+    {
+      "question": "What to expect during the LAP Score Test?",
+      "answer": "To conduct the test, a blood sample will be collected using a needle from a vein in your arm. The sample will be sent to the laboratory for analysis"
+    },
+    {
+      "question": "What preparations are required before the LAP Score Test?",
+      "answer": "\u2022 Provide your medical history and any relevant heamato-pathological reports. \u2022 Inform your doctor about any medications you are taking, as certain drugs may affect test results. Also, tell them if you have any specific requirements. \u2022 Follow any other instructions given by your healthcare provider."
+    },
+    {
+      "question": "What other tests may be ordered with the LAP Score Test?",
+      "answer": "In addition to the LAP Score Test, Complete Blood Count (CBC) and Bone Marrow Aspiration or Biopsy may be ordered. These tests provide a comprehensive evaluation of blood and bone marrow cells to help diagnose and monitor various haematological conditions."
+    },
+    {
+      "question": "What is the LAP Score Test also known as?",
+      "answer": "Leukocyte Alkaline Phosphatase Test"
+    },
+    {
+      "question": "What is Chronic Myeloid Leukaemia?",
+      "answer": "Chronic Myeloid Leukaemia (CML) is a type of cancer that affects the bone marrow and causes an overproduction of abnormal white blood cells. It is often characterised by a specific genetic abnormality called the Philadelphia chromosome. CML can be effectively managed with targeted therapies."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

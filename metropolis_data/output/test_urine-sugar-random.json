@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-urine-sugar-random",
+  "test_name": "Urine Sugar (Random)",
+  "slug": "urine-sugar-random",
+  "source_url": "https://www.metropolisindia.com/parameter/urine-sugar-random",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urine-sugar-random",
+  "page_title": "Urine Sugar (Random) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 30
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

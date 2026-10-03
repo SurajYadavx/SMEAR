@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-vgkc-antibody-csf",
+  "test_name": "VGKC Antibody, CSF",
+  "slug": "vgkc-antibody-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/vgkc-antibody-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vgkc-antibody-csf",
+  "page_title": "VGKC Antibody CSF Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 9775
+  },
+  "specimen": "CSF",
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

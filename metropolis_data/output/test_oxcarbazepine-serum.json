@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-oxcarbazepine-serum",
+  "test_name": "Oxcarbazepine Serum Test",
+  "slug": "oxcarbazepine-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/oxcarbazepine-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/oxcarbazepine-serum",
+  "page_title": "Oxcarbazepine Serum Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4940
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Oxcarbazepine Serum Test?",
+      "answer": "Monitoring serum concentration during oxcarbazepine therapy, Assessing compliance, Assessing potential toxicity"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Test is recommended for patients being treated with Oxcarbazepine for seizures"
+    },
+    {
+      "question": "More Info on Oxcarbazepine Serum Test",
+      "answer": "In clinical practice, the OCBZ dosage should be individually adjusted for each patient to achieve the desired therapeutic response. Toxicity associated with OCBZ includes hyponatremia, dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, abdominal pain, tremor, dyspepsia, and abnormal gait. Hence Therapeutic monitoring of Oxcarbazepine and its active metabolite are important for achieving proper serum/plasma concentration to inhibit epileptic seizures and avoid adverse effects."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

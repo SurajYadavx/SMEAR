@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-by-lbc",
+  "test_name": "LBC",
+  "slug": "by-lbc",
+  "source_url": "https://www.metropolisindia.com/parameter/by-lbc",
+  "canonical_url": "https://www.metropolisindia.com/parameter/by-lbc",
+  "page_title": "Liquid based cytology (LBC) Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "3rd day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does LBC measure?",
+      "answer": "LBC examines cell samples collected during cervical cancer screening or other cytological evaluations. It involves suspending the collected cells in a liquid fixative, processing the suspension to concentrate the cells, transferring them onto glass slides, staining the slides, and examining them under a microscope"
+    },
+    {
+      "question": "Why is LBC done?",
+      "answer": "By LBC helps identify abnormal cell types, evaluate tissue morphology, and detect the presence of cancerous cells or other diseases affecting specific organs. It is thus performed for various reasons, including: \u2022 Diagnosing cancer \u2022 Assessing the stage and grade of cancer \u2022 Monitoring treatment effectiveness \u2022 Identifying infection or inflammation \u2022 Evaluating the presence of abnormal cells or tumors in organs"
+    },
+    {
+      "question": "When is LBC recommended and who should take the test?",
+      "answer": "By LBC may be recommended if you \u2022 Have a lump, nodule, or abnormal growth in any organ. \u2022 Experience symptoms like unexplained pain, swelling, or difficulty swallowing. \u2022 Need to monitor the progression of an existing condition. \u2022 Undergo routine screenings for early detection of certain cancers."
+    },
+    {
+      "question": "What if the results of LBC are abnormal?",
+      "answer": "If the By LBC results are abnormal, it may indicate the presence of abnormal cells, infections, inflammation, or cancerous growth. However, abnormal results do not necessarily mean you have cancer. Consult with your doctor to understand the implications of your specific test results."
+    },
+    {
+      "question": "What to expect during LBC?",
+      "answer": "During the By LBC procedure: \u2022 A healthcare professional will use a fine needle to extract cells from the target organ. \u2022 The collected sample will be fixed on a slide using liquid-based cytology preparation. \u2022 The slide will be sent to the laboratory for analysis and microscopic examination."
+    },
+    {
+      "question": "What preparations are required before LBC?",
+      "answer": "To prepare for By LBC: \u2022 Inform your healthcare provider about any medications, allergies, or bleeding disorders you may have. \u2022 Follow any fasting or dietary restrictions as instructed by your doctor. \u2022 Wear loose and comfortable clothing that allows easy access to the target organ for sample collection."
+    },
+    {
+      "question": "What other tests may be ordered with LBC?",
+      "answer": "Other tests that may be ordered with By LBC include: \u2022 Immunohistochemistry: This test uses specific antibodies to identify proteins in tissues, aiding in the diagnosis of certain diseases. \u2022 Molecular testing: It helps detect specific genetic mutations or alterations associated with various diseases, including cancer. \u2022 Radiological imaging: X-rays, CT scans, or MRIs may complement By LBC in visualising the affected organ."
+    },
+    {
+      "question": "What is LBC also known as?",
+      "answer": "Liquid-based Cytology, Fine Needle Aspiration Cytology (FNAC)"
+    },
+    {
+      "question": "What is cancer?",
+      "answer": "Cancer is a complex disease characterised by the uncontrolled growth and division of abnormal cells. These cells can invade nearby tissues and spread to other parts of the body. Early detection and accurate diagnosis through tests like LBC are crucial for effective management and treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

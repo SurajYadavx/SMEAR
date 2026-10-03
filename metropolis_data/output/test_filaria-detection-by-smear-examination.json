@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-filaria-detection-by-smear-examination",
+  "test_name": "Filaria Detection",
+  "slug": "filaria-detection-by-smear-examination",
+  "source_url": "https://www.metropolisindia.com/parameter/filaria-detection-by-smear-examination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/filaria-detection-by-smear-examination",
+  "page_title": "Filaria Antigen Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1315
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

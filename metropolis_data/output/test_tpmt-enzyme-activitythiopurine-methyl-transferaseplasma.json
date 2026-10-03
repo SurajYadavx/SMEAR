@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-tpmt-enzyme-activitythiopurine-methyl-transferaseplasma",
+  "test_name": "TPMT Enzyme Activity Thiopurine Methyl Transferase Plasma Test",
+  "slug": "tpmt-enzyme-activitythiopurine-methyl-transferaseplasma",
+  "source_url": "https://www.metropolisindia.com/parameter/tpmt-enzyme-activitythiopurine-methyl-transferaseplasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tpmt-enzyme-activitythiopurine-methyl-transferaseplasma",
+  "page_title": "Tpmt Enzyme Activity Plasma Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5170
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is a TPMT Test used for?",
+      "answer": "It measures TPMT enzyme activity to determine how your body breaks down thiopurine drugs."
+    },
+    {
+      "question": "Why is this test important before starting medication?",
+      "answer": "It helps prevent severe side effects by identifying patients who cannot safely metabolise thiopurine drugs."
+    },
+    {
+      "question": "Do I need to fast before the TPMT Test?",
+      "answer": "Fasting is not required."
+    },
+    {
+      "question": "Who should take this test?",
+      "answer": "People prescribed thiopurine drugs for autoimmune diseases, cancers, or transplant therapy."
+    },
+    {
+      "question": "How is the TPMT Test performed?",
+      "answer": "A blood sample is collected in an EDTA vacutainer and analysed using Enzyme Immunoassay (EIA)."
+    },
+    {
+      "question": "What do low TPMT levels mean?",
+      "answer": "Low TPMT enzyme activity indicates higher risk of toxicity; your doctor may adjust or change your medication."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are typically available on the same day after the sample reaches the Metropolis Lab."
+    },
+    {
+      "question": "Is home sample collection available?",
+      "answer": "Yes, Metropolis Healthcare offers home sample collection for the TPMT Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

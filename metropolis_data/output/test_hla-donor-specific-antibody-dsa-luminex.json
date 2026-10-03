@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-donor-specific-antibody-dsa-luminex",
+  "test_name": "Donor Specific Antibody (DSA) Test",
+  "slug": "hla-donor-specific-antibody-dsa-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-donor-specific-antibody-dsa-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-donor-specific-antibody-dsa-luminex",
+  "page_title": "HLA Donor Specific Antibody Dsa Luminex Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 11500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the DSA Test measure?",
+      "answer": "The DSA Test measures HLA antigens on blood cells to assess compatibility for organ transplantation."
+    },
+    {
+      "question": "Why is the DSA Test done?",
+      "answer": "\u2022 To assess compatibility between organ transplant donors and recipients \u2022 To determine the risk of organ rejection after transplantation \u2022 To monitor the effectiveness of immunosuppressive therapy post-transplantation \u2022 To identify antibodies that may cause complications during pregnancy or blood transfusions"
+    },
+    {
+      "question": "When is DSA Test recommended and who should take the test?",
+      "answer": "The DSA Test is recommended for individuals who \u2022 are scheduled to undergo organ transplantation, \u2022 have previously received an organ transplant, \u2022 require monitoring for potential organ rejection, or \u2022 are planning to have a child or need a blood transfusion."
+    },
+    {
+      "question": "What if the results of the DSA Test are abnormal?",
+      "answer": "Abnormal DSA Test results may indicate \u2022 higher risk of organ rejection due to incompatible HLA antigens, or \u2022 presence of antibodies that can cause complications during pregnancy or transfusions."
+    },
+    {
+      "question": "What to expect during the DSA Test?",
+      "answer": "Blood samples will be collected from the recipient and potential donor(s). These samples will be sent for analysis."
+    },
+    {
+      "question": "What preparations are required before the DSA Test?",
+      "answer": "\u2022 Inform your healthcare provider about any medications, supplements, or allergies you have. Also, tell them if you have any specific requirements. \u2022 Provide relevant clinical history and complete any required consent forms. \u2022 Follow any instructions given by your doctor regarding fasting or medication restrictions prior to the test."
+    },
+    {
+      "question": "What other tests may be ordered with the DSA Test?",
+      "answer": "\u2022 Crossmatch Test: Identifies if there are antibodies in your blood that could react against the potential donor's cells \u2022 Antibody Screening: Helps identify antibodies that may cause complications during pregnancy or blood transfusions \u2022 HLA Typing: Determines your tissue type for matching purposes and evaluates compatibility with potential donors"
+    },
+    {
+      "question": "What is the DSA Test also known as?",
+      "answer": "HLA Studies or HLA-Special tests"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure where a healthy organ from a donor is placed into a recipient's body to replace a damaged or non-functional organ. It is often performed to treat end-stage organ failure and improve quality of life for individuals with various conditions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

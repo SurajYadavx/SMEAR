@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-single-marker-with-reporting-cea",
+  "test_name": "CEA IHC",
+  "slug": "ihc-single-marker-with-reporting-cea",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cea",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cea",
+  "page_title": "CEA IHC \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2290
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

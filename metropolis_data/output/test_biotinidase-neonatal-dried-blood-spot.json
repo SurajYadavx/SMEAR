@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-biotinidase-neonatal-dried-blood-spot",
+  "test_name": "Biotinidase Activity Neonatal Dried Blood Spot",
+  "slug": "biotinidase-neonatal-dried-blood-spot",
+  "source_url": "https://www.metropolisindia.com/parameter/biotinidase-neonatal-dried-blood-spot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/biotinidase-neonatal-dried-blood-spot",
+  "page_title": "Biotinidase Activity Neonatal screen from Dried Blood Spot Test",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

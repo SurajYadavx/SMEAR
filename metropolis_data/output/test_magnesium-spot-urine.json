@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-magnesium-spot-urine",
+  "test_name": "Magnesium Levels in Urine",
+  "slug": "magnesium-spot-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/magnesium-spot-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/magnesium-spot-urine",
+  "page_title": "Magnesium Levels in Urine \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 695
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-vitamin-b2-riboflavin-edta-whole-blood",
+  "test_name": "Vitamin B2 Test",
+  "slug": "vitamin-b2-riboflavin-edta-whole-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-b2-riboflavin-edta-whole-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-b2-riboflavin-edta-whole-blood",
+  "page_title": "Vitamin B2 Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4080
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

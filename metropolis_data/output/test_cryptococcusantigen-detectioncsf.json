@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-cryptococcusantigen-detectioncsf",
+  "test_name": "Cryptococcus Antigen Detection By Agglutination - CSF",
+  "slug": "cryptococcusantigen-detectioncsf",
+  "source_url": "https://www.metropolisindia.com/parameter/cryptococcusantigen-detectioncsf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cryptococcusantigen-detectioncsf",
+  "page_title": "Cryptococcus Antigen Detection CSF Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3045
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Cryptococcus antigen detection test measure?",
+      "answer": "The Cryptococcus antigen test detects the presence of Cryptococcus neoformans or Cryptococcus gattii infection in your cerebrospinal fluid."
+    },
+    {
+      "question": "Why is the Cryptococcus antigen detection test done?",
+      "answer": "\u2022 To diagnose the presence of Cryptococcus neoformans or Cryptococcus gattii infection \u2022 To monitor the effectiveness of treatment for cryptococcal infection \u2022 To assess the response to antifungal therapy \u2022 To evaluate the risk of disease progression in individuals with HIV/AIDS"
+    },
+    {
+      "question": "When is the Cryptococcus antigen detection test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you \u2022 have symptoms suggestive of cryptococcal infection, such as headache, fever, confusion, or stiff neck, \u2022 are immunocompromised, such as individuals with HIV/AIDS or those undergoing immunosuppressive therapy, \u2022 have been exposed to a known source of Cryptococcus infection, or \u2022 have a history of cryptococcal infection and require monitoring."
+    },
+    {
+      "question": "What if the results of the Cryptococcus antigen detection test are abnormal?",
+      "answer": "An abnormal result, which is positive, suggests the presence of an active cryptococcal infection."
+    },
+    {
+      "question": "What to expect during the Cryptococcus antigen detection test?",
+      "answer": "During the test, a sample of cerebrospinal fluid (CSF) is collected using a sterile leak-proof container. The sample is sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the Cryptococcus antigen detection test?",
+      "answer": "\u2022 Your doctor may ask for specific details such as specimen type, site, clinical history, and clinician's contact information to ensure accurate reporting. \u2022 Follow any instructions provided by your doctor regarding fasting or medication restrictions before the test. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Cryptococcus antigen detection test?",
+      "answer": "\u2022 Fungal culture: This test helps identify the specific type of Cryptococcus fungus causing the infection. \u2022 India Ink Staining: It is another method used to visualise Cryptococcus organisms in body fluids or tissues. \u2022 Antibody testing: Serological tests can detect antibodies produced by your immune system in response to Cryptococcus infection."
+    },
+    {
+      "question": "What is the Cryptococcus antigen detection test also known as?",
+      "answer": "Cryptococcal antigen test or Cryptococcal antigen latex agglutination test"
+    },
+    {
+      "question": "What is cryptococcosis?",
+      "answer": "Cryptococcosis is a fungal infection caused by Cryptococcus neoformans or Cryptococcus gattii. It predominantly affects individuals with weakened immune systems, such as those with HIV/AIDS or organ transplant recipients. The infection can involve various organs, including the lungs and the central nervous system, and may lead to life-threatening complications if left untreated."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

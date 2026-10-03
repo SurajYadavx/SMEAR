@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jc-dna-detection-by-real-time-pcr-urine",
+  "test_name": "JC DNA Detection by Real-time PCR - Urine Pathology Test",
+  "slug": "jc-dna-detection-by-real-time-pcr-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-by-real-time-pcr-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-by-real-time-pcr-urine",
+  "page_title": "JC DNA Detection By Real Time PCR Urine Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4785
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JC DNA Detection by Real-time PCR - Urine measure?",
+      "answer": "This test detects the presence of JC polyomavirus in your urine."
+    },
+    {
+      "question": "Why is JC DNA Detection by Real-time PCR - Urine done?",
+      "answer": "\u2022 To diagnose and monitor JC virus infection in people with weakened immune systems \u2022 To monitor the effectiveness of treatment for progressive multifocal leukoencephalopathy \u2022 To confirm suspected progressive multifocal leukoencephalopathy"
+    },
+    {
+      "question": "When is the JC DNA Detection test recommended and who should take the test?",
+      "answer": "This test may be recommended if you have \u2022 a weakened immune system due to conditions such as HIV or cancer, or \u2022 symptoms of progressive multifocal leukoencephalopathy such as weakness, vision problems, or difficulty speaking."
+    },
+    {
+      "question": "What if the results of the JC DNA Detection test are abnormal?",
+      "answer": "The normal result for this test is negative, indicating that the virus is not present in your urine. If the test result is positive, it may indicate that you have an active JC virus infection or are at risk of developing progressive multifocal leukoencephalopathy."
+    },
+    {
+      "question": "What to expect during the JC DNA Detection Urine test?",
+      "answer": "You will be asked to provide a 15ml spot urine sample in a sterile leak-proof container. The sample will be sent to the laboratory for testing using the real-time PCR method."
+    },
+    {
+      "question": "What preparations are required before the JC DNA Detection test?",
+      "answer": "Follow your doctor's instructions on any dietary or medication restrictions prior to the test. Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the JC DNA Detection test?",
+      "answer": "Along with this test, your doctor may advise blood tests to check for antibodies to the virus."
+    },
+    {
+      "question": "What is JC DNA Detection by Real-time PCR - Urine also known as?",
+      "answer": "Urine JC virus PCR test"
+    },
+    {
+      "question": "What is Progressive Multifocal Leukoencephalopathy (PML)?",
+      "answer": "Progressive multifocal leukoencephalopathy (PML) is a rare and serious viral infection that affects the brain. It is caused by the JC polyomavirus and most commonly affects people with weakened immune systems. Symptoms include weakness, vision problems, and difficulty speaking."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

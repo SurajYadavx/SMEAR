@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-chlorides-urine-24h",
+  "test_name": "Chlorides Urine 24H",
+  "slug": "chlorides-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/chlorides-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chlorides-urine-24h",
+  "page_title": "Chlorides Urine 24H \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 340
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

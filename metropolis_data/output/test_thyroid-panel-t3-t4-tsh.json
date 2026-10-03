@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-thyroid-panel-t3-t4-tsh",
+  "test_name": "Thyroid Profile Test",
+  "slug": "thyroid-panel-t3-t4-tsh",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroid-panel-t3-t4-tsh",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroid-panel-t3-t4-tsh",
+  "page_title": "Thyroid Profile Total (T3, T4 & TSH) Test Online - Price, Purpose & Preparation",
+  "pricing": {
+    "selling_price": 680
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "No Specific Preparation",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the thyroid panel T3, T4 & TSH test?",
+      "answer": "The best time for blood collection is early morning, as TSH levels naturally fluctuate throughout the day and are typically highest in the morning, providing consistent baseline readings."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the thyroid panel T3, T4 & TSH test, and for how long?",
+      "answer": "Fasting is generally not required for thyroid function tests. However, some doctors may recommend 8-10 hours of fasting if the test is part of a comprehensive health panel."
+    },
+    {
+      "question": "Can dehydration affect my thyroid panel T3, T4 & TSH test results?",
+      "answer": "Yes, severe dehydration can concentrate your blood and potentially alter hormone measurements. It's advisable to stay well-hydrated before your test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the thyroid panel T3, T4 & TSH test?",
+      "answer": "No special dietary changes are needed. Inform your doctor about all medications, especially biotin supplements, which should be stopped 8 hours before testing to avoid interference."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the thyroid panel T3, T4 & TSH test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a small needle into a vein to collect blood, then removes the needle and applies a bandage."
+    },
+    {
+      "question": "What level of thyroid panel T3, T4 & TSH test is normal?",
+      "answer": "Normal ranges are TSH: 0.54-5.3 \u03bcIU/mL, T3: 84.6-201.8 ng/dL, and T4: 5.1-14.1 \u03bcg/dL. Your results must be interpreted by a qualified doctor, considering your symptoms and health history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

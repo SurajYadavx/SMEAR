@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-hiv-1-rna-detection-by-taqman-plasma",
+  "test_name": "HIV-1 RNA Detection by Taqman RT-PCR",
+  "slug": "hiv-1-rna-detection-by-taqman-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-1-rna-detection-by-taqman-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-1-rna-detection-by-taqman-plasma",
+  "page_title": "HIV 1 RNA Detection By Taqman Plasma Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3860
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

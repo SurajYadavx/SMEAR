@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-git-panel-veg-non-veg",
+  "test_name": "Allergy - Gastrointestinal Tract (GIT) Panel (Veg + Non Veg)",
+  "slug": "allergy-git-panel-veg-non-veg",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-git-panel-veg-non-veg",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-git-panel-veg-non-veg",
+  "page_title": "Allergy GIT Veg & Non Veg Panel Price| Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 26000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

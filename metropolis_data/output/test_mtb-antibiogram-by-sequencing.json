@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-mtb-antibiogram-by-sequencing",
+  "test_name": "MTB Antibiogram Test (TB NGS) by Next Generation Sequencing - Pure Culture",
+  "slug": "mtb-antibiogram-by-sequencing",
+  "source_url": "https://www.metropolisindia.com/parameter/mtb-antibiogram-by-sequencing",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mtb-antibiogram-by-sequencing",
+  "page_title": "MTB Antibiogram Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8925
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "16th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does MTB Antibiogram (TB NGS) (Tuberculosis Next-generation sequencing) test measure?",
+      "answer": "This test detects the mutations in Mycobacterium tuberculosis (MTB) that cause resistance to anti-tuberculosis drugs."
+    },
+    {
+      "question": "Why is MTB Antibiogram (TB NGS) test done?",
+      "answer": "\u2022 To identify drug-resistant strains of Mycobacterium tuberculosis in patients with TB \u2022 To choose the appropriate antibiotics for treating TB and prevent the development of drug-resistant strains \u2022 To guide clinicians in adjusting treatment plans for patients who are not responding to standard TB therapy"
+    },
+    {
+      "question": "When is MTB Antibiogram test recommended and who should take the test?",
+      "answer": "This test may be recommended if you \u2022 have a confirmed diagnosis of tuberculosis, \u2022 have a history of previous TB treatment or exposure to drug-resistant strains, \u2022 are not responding to standard TB treatment, or \u2022 are at high risk of developing drug-resistant TB due to factors such as close contact with an individual with drug-resistant TB or a history of non-compliance with treatment."
+    },
+    {
+      "question": "What if the results of the MTB Antibiogram test are abnormal?",
+      "answer": "Abnormal results may suggest the need for alternative or modified treatment regimens to effectively treat tuberculosis."
+    },
+    {
+      "question": "What to expect during the MTB Antibiogram test?",
+      "answer": "During this test, a sample of your sputum or other respiratory specimen will be collected. This sample to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the MTB Antibiogram test?",
+      "answer": "\u2022 Provide accurate information about your clinical history, including previous TB treatment and exposure to drug-resistant strains. \u2022 Follow any instructions given by your doctor regarding discontinuing medications that may interfere with the accuracy of the test. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the MTB Antibiogram test?",
+      "answer": "\u2022 Acid-fast bacilli (AFB) smear microscopy: This initial test detects the presence of Mycobacterium tuberculosis in sputum or other respiratory samples. \u2022 Culture and drug susceptibility testing (DST): This test determines the presence of TB bacteria and their sensitivity to specific antibiotics."
+    },
+    {
+      "question": "What is the MTB Antibiogram (TB NGS) by Next Generation Sequencing also known as?",
+      "answer": "TB NGS or Mycobacterium tuberculosis Next Generation Sequencing"
+    },
+    {
+      "question": "What is tuberculosis?",
+      "answer": "Tuberculosis (TB) is a contagious bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other organs. TB spreads through the air when an infected individual coughs or sneezes. Symptoms include persistent cough, weight loss, fatigue, and fever."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

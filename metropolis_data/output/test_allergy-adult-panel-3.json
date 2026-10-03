@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-allergy-adult-panel-3",
+  "test_name": "Allergy - Adult panel - 3",
+  "slug": "allergy-adult-panel-3",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-adult-panel-3",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-adult-panel-3",
+  "page_title": "Allergy Test For Adults 3 Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8710
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Allergy Adult Panel 3 test detect?",
+      "answer": "It identifies specific allergens such as dust, food, pollen, and animal dander that may trigger allergic reactions in adults."
+    },
+    {
+      "question": "Is fasting required before taking the Allergy Adult Panel 3 test?",
+      "answer": "No, fasting is not required. You can eat and drink as usual before your appointment."
+    },
+    {
+      "question": "Can medications affect my Allergy Adult Panel 3 test results?",
+      "answer": "Yes, antihistamines or steroids can reduce your allergic response. Inform your doctor about all medicines you take before testing."
+    },
+    {
+      "question": "How is the sample collected for the Allergy Adult Panel 3 test?",
+      "answer": "A small blood sample is drawn from your arm, processed in the lab, and analysed using the immunoblot method."
+    },
+    {
+      "question": "What are the risks associated with the test?",
+      "answer": "Risks are minimal, limited to slight pain or bruising at the puncture site, which usually resolves quickly."
+    },
+    {
+      "question": "What does a high IgE level mean in the Allergy Adult Panel 3 test?",
+      "answer": "High IgE levels indicate your immune system is sensitised to one or more allergens and reacting abnormally to their presence."
+    },
+    {
+      "question": "Can the Allergy Adult Panel 3 test identify food allergies?",
+      "answer": "Yes, it detects IgE-mediated reactions to foods like milk, nuts, seafood, and grains."
+    },
+    {
+      "question": "How reliable is the Allergy Adult Panel 3 test?",
+      "answer": "It uses advanced MAST immunoblot technology, offering high accuracy and reproducibility in identifying allergic sensitisation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

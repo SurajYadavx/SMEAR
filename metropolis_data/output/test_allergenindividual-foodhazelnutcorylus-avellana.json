@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodhazelnutcorylus-avellana",
+  "test_name": "Allergen,Individual-FoodHazelnutCorylus avellana",
+  "slug": "allergenindividual-foodhazelnutcorylus-avellana",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodhazelnutcorylus-avellana",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodhazelnutcorylus-avellana",
+  "page_title": "Hazelnut Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodHazelnutCorylus avellana",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

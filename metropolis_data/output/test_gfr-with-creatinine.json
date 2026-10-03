@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-gfr-with-creatinine",
+  "test_name": "GFR With Cystatin C Serum (Upto 18 Years)",
+  "slug": "gfr-with-creatinine",
+  "source_url": "https://www.metropolisindia.com/parameter/gfr-with-creatinine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gfr-with-creatinine",
+  "page_title": "GFR With Cystatin C Serum (Upto 18 Years) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "NULL",
+      "answer": "NULL"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-apolipoproteins-a1b",
+  "test_name": "Apolipoprotein B/A1 Test",
+  "slug": "apolipoproteins-a1b",
+  "source_url": "https://www.metropolisindia.com/parameter/apolipoproteins-a1b",
+  "canonical_url": "https://www.metropolisindia.com/parameter/apolipoproteins-a1b",
+  "page_title": "Apolipoprotein B/A1 Test -  Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1155
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

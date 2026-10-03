@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodalmondbadam-amygdalus-communis",
+  "test_name": "Allergen,Individual-FoodAlmondBadam (Amygdalus Communis)",
+  "slug": "allergenindividual-foodalmondbadam-amygdalus-communis",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodalmondbadam-amygdalus-communis",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodalmondbadam-amygdalus-communis",
+  "page_title": "Almond Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodAlmondBadam (Amygdalus Communis)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

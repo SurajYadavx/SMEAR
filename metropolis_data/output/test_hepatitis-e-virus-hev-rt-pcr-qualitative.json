@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-hepatitis-e-virus-hev-rt-pcr-qualitative",
+  "test_name": "Hepatitis E Virus (HEV) RT-PCR, Qualitative",
+  "slug": "hepatitis-e-virus-hev-rt-pcr-qualitative",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-e-virus-hev-rt-pcr-qualitative",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-e-virus-hev-rt-pcr-qualitative",
+  "page_title": "Hepatitis E Virus Qualitative Rt Pcr Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5500
+  },
+  "specimen": "Qualitative",
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "NULL",
+      "answer": "NULL"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

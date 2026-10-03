@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-tsh-ultrasensitive",
+  "test_name": "TSH Test (Ultrasensitive)",
+  "slug": "tsh-ultrasensitive",
+  "source_url": "https://www.metropolisindia.com/parameter/tsh-ultrasensitive",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tsh-ultrasensitive",
+  "page_title": "TSH Test - Price, Purpose, Procedure| Book Online",
+  "pricing": {
+    "selling_price": 350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required; high biotin doses (> 5 mg/day) should be avoided at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the TSH test?",
+      "answer": "TSH levels naturally fluctuate throughout the day and are highest in the early morning. While you can take the test anytime, morning collection is often recommended for consistency, especially when monitoring treatment."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the TSH test, and for how long?",
+      "answer": "No, fasting is not required for a standalone TSH test. You can eat and drink normally before the test. However, if combined with other tests, your doctor may provide specific fasting instructions."
+    },
+    {
+      "question": "Can dehydration affect my TSH test results?",
+      "answer": "Mild dehydration typically doesn't significantly impact TSH results, but severe dehydration may affect blood test accuracy by concentrating blood components. Stay normally hydrated before testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the TSH test?",
+      "answer": "No special diet is needed. However, stop high-dose biotin supplements (> 5 mg/day) at least 8 hours before testing. Inform your doctor about all medications you're taking, as some may affect results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the TSH test?",
+      "answer": "A trained phlebotomist cleans your arm, applies a tourniquet, and inserts a small needle into a vein to collect blood. The procedure is quick and minimally uncomfortable."
+    },
+    {
+      "question": "What level of TSH test is normal?",
+      "answer": "Normal TSH levels typically range from 0.54 to 5.3 \u03bcIU/mL, though this may vary slightly between laboratories. Your doctor will interpret results based on your individual health status."
+    },
+    {
+      "question": "What is the TSH test also known as?",
+      "answer": "The TSH Test is also known as the Thyrotropin Test, the TSH Ultrasensitive Test, or the TSH-U Test."
+    },
+    {
+      "question": "Is the TSH 3rd-generation test painful?",
+      "answer": "The test is not painful. You may feel a slight prick when the needle enters your arm, but this brief discomfort lasts only a few seconds and is generally well-tolerated by most people."
+    },
+    {
+      "question": "What foods reduce thyroid?",
+      "answer": "Foods that may reduce thyroid function include soy products, cruciferous vegetables (like broccoli and cabbage), processed foods, and those high in gluten, especially for people with autoimmune thyroid disorders. Always consult your doctor for personalised dietary advice."
+    },
+    {
+      "question": "What does it mean if your TSH 3rd-generation is high?",
+      "answer": "High TSH levels (above 5.3 \u03bcIU/mL) typically indicate hypothyroidism, meaning your thyroid gland isn't producing enough hormones, prompting your pituitary gland to release more TSH."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

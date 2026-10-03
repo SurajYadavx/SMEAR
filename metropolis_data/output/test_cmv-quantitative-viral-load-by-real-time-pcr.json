@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cmv-quantitative-viral-load-by-real-time-pcr",
+  "test_name": "CMV Quantitative (Viral load)",
+  "slug": "cmv-quantitative-viral-load-by-real-time-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/cmv-quantitative-viral-load-by-real-time-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cmv-quantitative-viral-load-by-real-time-pcr",
+  "page_title": "CMV Quantitative (Viral load) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8840
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hours (ert 5:00pm)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

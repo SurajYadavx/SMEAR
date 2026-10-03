@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-antibiogram-for-mtb-complex-rifampicin",
+  "test_name": "AFB (TB) - Antibiogram For MTb Complex - Rifampicin Drug By MGIT - Pure Growth Of MTB Complex",
+  "slug": "afb-antibiogram-for-mtb-complex-rifampicin",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-antibiogram-for-mtb-complex-rifampicin",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-antibiogram-for-mtb-complex-rifampicin",
+  "page_title": "AFB Antibiogram For MTB Complex Rifampicin Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2520
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 5 weeks 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB (TB) Antibiogram - Rifampicin measure?",
+      "answer": "AFB (TB) Antibiogram - Rifampicin measures the drug susceptibility of Mycobacterium tuberculosis (the bacteria that causes TB) to the antibiotic Rifampicin."
+    },
+    {
+      "question": "Why is AFB (TB) Antibiogram - Rifampicin done?",
+      "answer": "\u2022 To determine if Mycobacterium tuberculosis is resistant to Rifampicin, aiding in effective treatment selection \u2022 To assess the drug susceptibility pattern of TB to ensure appropriate and timely therapy \u2022 To monitor the emergence of drug resistance during TB treatment"
+    },
+    {
+      "question": "When is AFB (TB) Antibiogram - Rifampicin recommended and who should take the test?",
+      "answer": "This test is recommended \u2022 when a patient is diagnosed with tuberculosis and needs drug susceptibility testing, \u2022 if a patient has previously been treated for tuberculosis but shows signs of recurrent or persistent infection, or \u2022 for patients at high risk of drug-resistant TB, such as those with a history of non-compliance with treatment or exposure to someone with drug-resistant TB."
+    },
+    {
+      "question": "What if the results of the AFB (TB) Antibiogram - Rifampicin are abnormal?",
+      "answer": "Abnormal results may indicate resistance to Rifampicin, suggesting the need for alternative drug choices."
+    },
+    {
+      "question": "What to expect during the AFB (TB) Antibiogram - Rifampicin?",
+      "answer": "During this test, a healthcare professional will take a sample of your Tuberculosis bacteria. They will test this sample using the MGIT method to determine drug susceptibility."
+    },
+    {
+      "question": "What preparations are required before the AFB (TB) Antibiogram - Rifampicin?",
+      "answer": "\u2022 Follow any instructions provided by your healthcare provider regarding dietary restrictions or medication adjustments. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB (TB) Antibiogram - Rifampicin?",
+      "answer": "\u2022 AFB smear and culture: These tests are used to initially detect and identify Mycobacterium tuberculosis. \u2022 Genotypic testing: :ine probe assays or polymerase chain reaction (PCR) can identify specific genetic mutations associated with drug resistance."
+    },
+    {
+      "question": "What is AFB (TB) Antibiogram - Rifampicin also known as?",
+      "answer": "TB drug susceptibility testing for Rifampicin or TB antibiotic sensitivity testing for Rifampicin"
+    },
+    {
+      "question": "What is tuberculosis (TB)?",
+      "answer": "Tuberculosis is an infectious disease caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

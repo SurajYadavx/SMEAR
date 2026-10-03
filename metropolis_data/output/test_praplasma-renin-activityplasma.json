@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-praplasma-renin-activityplasma",
+  "test_name": "PRA Plasma Renin Activity",
+  "slug": "praplasma-renin-activityplasma",
+  "source_url": "https://www.metropolisindia.com/parameter/praplasma-renin-activityplasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/praplasma-renin-activityplasma",
+  "page_title": "PRA Plasma Renin Activity \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6210
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required; dietary and posture instructions must be followed",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Plasma Renin Activity test measure?",
+      "answer": "It measures the activity of the enzyme renin, which helps control blood pressure and body fluid balance."
+    },
+    {
+      "question": "Why is posture important for this test?",
+      "answer": "Renin levels change depending on whether you are lying down or standing, so posture helps interpret results accurately."
+    },
+    {
+      "question": "Can I take my usual medicines before the test?",
+      "answer": "Some medicines affect renin levels. Inform your doctor before the test so they can guide you appropriately."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "Fasting is not required for the Plasma Renin Activity Test."
+    },
+    {
+      "question": "How is the sample collected?",
+      "answer": "A healthcare professional draws about 3 ml of blood from a vein into an EDTA vacutainer for testing."
+    },
+    {
+      "question": "What can high renin levels indicate?",
+      "answer": "High renin levels may suggest adrenal insufficiency, kidney artery narrowing, or certain forms of hypertension."
+    },
+    {
+      "question": "What do low renin levels mean?",
+      "answer": "Low levels may point to conditions like primary hyperaldosteronism or excessive salt and steroid intake."
+    },
+    {
+      "question": "When will I get my report?",
+      "answer": "Reports are usually available on the same day once the sample reaches the Metropolis Lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

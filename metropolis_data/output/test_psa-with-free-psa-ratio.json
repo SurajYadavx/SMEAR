@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-psa-with-free-psa-ratio",
+  "test_name": "Free PSA Test",
+  "slug": "psa-with-free-psa-ratio",
+  "source_url": "https://www.metropolisindia.com/parameter/psa-with-free-psa-ratio",
+  "canonical_url": "https://www.metropolisindia.com/parameter/psa-with-free-psa-ratio",
+  "page_title": "Free PSA Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1830
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "male",
+  "preparation": "Avoid prostate manipulation (DRE/USG) for 7 days before the test; avoid high-dose Biotin (>5 mg/day) for at least 8 hours before sample collection\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Free PSA Test measure?",
+      "answer": "It measures unbound prostate-specific antigen and calculates the Free-to-Total PSA ratio to assess prostate cancer risk."
+    },
+    {
+      "question": "Is fasting required for the Free PSA Test?",
+      "answer": "No, fasting is not required for this test."
+    },
+    {
+      "question": "What does a low Free PSA ratio mean?",
+      "answer": "A low Free PSA ratio (<10%) indicates a higher likelihood of prostate cancer."
+    },
+    {
+      "question": "How soon can I get my Free PSA Test report?",
+      "answer": "Reports are available within 6 hours after the sample is processed."
+    },
+    {
+      "question": "What factors can affect PSA levels?",
+      "answer": "Prostate manipulation, infections, ejaculation, and certain medications can alter PSA levels."
+    },
+    {
+      "question": "Can this test detect early prostate cancer?",
+      "answer": "Yes, when used with Total PSA, it helps identify early signs of prostate cancer."
+    },
+    {
+      "question": "What method is used for this test?",
+      "answer": "The test uses Electrochemiluminescence Immunoassay (ECLIA) for accurate results."
+    },
+    {
+      "question": "Do I need to stop any medications before the test?",
+      "answer": "Inform your doctor about prostate medications; they may affect PSA levels."
+    },
+    {
+      "question": "Is the Free PSA Test painful?",
+      "answer": "No, it only involves a simple blood draw from your arm."
+    },
+    {
+      "question": "Can I book the Free PSA Test online?",
+      "answer": "Yes, you can easily book it online or through the Metropolis Healthcare app for home sample collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

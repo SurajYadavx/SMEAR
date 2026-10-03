@@ -1,0 +1,262 @@
+[
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-silver-nf",
+    "slug": "health-checkup-silver-nf",
+    "name": "Health Checkup Silver NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-platinum-nf",
+    "slug": "health-checkup-platinum-nf",
+    "name": "Health Checkup Platinum NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-advance-nf",
+    "slug": "health-checkup-advance-nf",
+    "name": "Health Checkup Advance NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-gold-nf",
+    "slug": "health-checkup-gold-nf",
+    "name": "Health Checkup Gold NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-advance-diet-consultation",
+    "slug": "health-checkup-advance-diet-consultation",
+    "name": "Health Checkup Advance + Diet Consultation",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-comprehensive-nf",
+    "slug": "health-checkup-comprehensive-nf",
+    "name": "Health Checkup Comprehensive NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-gold-body-vitals-consult",
+    "slug": "health-checkup-gold-body-vitals-consult",
+    "name": "Health Checkup Gold + Body Vitals + Consult",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-platinum-body-vitals-consult",
+    "slug": "health-checkup-platinum-body-vitals-consult",
+    "name": "Health Checkup Platinum + Body Vitals + Consult",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-advance-body-vitals-consult",
+    "slug": "health-checkup-advance-body-vitals-consult",
+    "name": "Health Checkup Advance + Body Vitals + Consult",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-comprehensive-body-vitals-consult",
+    "slug": "health-checkup-comprehensive-body-vitals-consult",
+    "name": "Health Checkup Comprehensive + Body Vitals + Consult",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-platinum-diet-consultation",
+    "slug": "health-checkup-platinum-diet-consultation",
+    "name": "Health Checkup Platinum + Diet Consultation",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-silver-diet-consultation",
+    "slug": "health-checkup-silver-diet-consultation",
+    "name": "Health Checkup Silver + Diet Consultation",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-essential",
+    "slug": "health-checkup-essential",
+    "name": "Health Checkup Essential",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-basic-nf",
+    "slug": "health-checkup-basic-nf",
+    "name": "Health Checkup Basic NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-platinum",
+    "slug": "health-checkup-platinum",
+    "name": "Health Checkup Platinum",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-silver",
+    "slug": "health-checkup-silver",
+    "name": "Health Checkup Silver",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-comprehensive",
+    "slug": "health-checkup-comprehensive",
+    "name": "Health Checkup Comprehensive",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-silver-body-vitals-consult",
+    "slug": "health-checkup-silver-body-vitals-consult",
+    "name": "Health Checkup Silver + Body Vitals + Consult",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-gold-diet-consultation",
+    "slug": "health-checkup-gold-diet-consultation",
+    "name": "Health Checkup Gold + Diet Consultation",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-comprehensive-diet-consultation",
+    "slug": "health-checkup-comprehensive-diet-consultation",
+    "name": "Health Checkup Comprehensive + Diet Consultation",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-gold",
+    "slug": "health-checkup-gold",
+    "name": "Health Checkup Gold",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-master-health-checkup-nf",
+    "slug": "master-health-checkup-nf",
+    "name": "Master Health Checkup NF",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-advance",
+    "slug": "health-checkup-advance",
+    "name": "Health Checkup Advance",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "package",
+    "smear_id": "smear-pkg-health-checkup-basic",
+    "slug": "health-checkup-basic",
+    "name": "Health Checkup Basic",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "test",
+    "smear_id": "smear-test-leukemia-panel-ph-like-b-all-bone-marrow-2",
+    "slug": "leukemia-panel-ph-like-b-all-bone-marrow-2",
+    "name": "Leukemia Panel - Ph-like B-ALL, Bone Marrow",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  },
+  {
+    "type": "test",
+    "smear_id": "smear-test-hla-typing-test-2",
+    "slug": "hla-typing-test-2",
+    "name": "HLA Typing Test",
+    "normalized_source_name": null,
+    "has_source_record": false,
+    "source_has_price": false,
+    "reason": "No price in source_map"
+  }
+]

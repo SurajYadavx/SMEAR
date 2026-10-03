@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-lead-blood-by-icpms",
+  "test_name": "Lead (Blood)",
+  "slug": "lead-blood-by-icpms",
+  "source_url": "https://www.metropolisindia.com/parameter/lead-blood-by-icpms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lead-blood-by-icpms",
+  "page_title": "Lead (Blood) \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2520
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 8 pm",
+  "gender": "Male, Female",
+  "preparation": "Avoid environmental contamination during sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Lead Blood Test check for?",
+      "answer": "It measures the amount of lead in your blood to detect exposure or poisoning."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "Fasting not required. You can eat and drink normally."
+    },
+    {
+      "question": "What does a high lead level mean?",
+      "answer": "High levels indicate lead exposure that may require treatment or environmental investigation."
+    },
+    {
+      "question": "Who should get tested for lead?",
+      "answer": "Children, industrial workers, and anyone exposed to contaminated paint, soil, or water."
+    },
+    {
+      "question": "How is the sample collected?",
+      "answer": "A blood sample is drawn into a special K?EDTA tube using sterile, metal-free equipment."
+    },
+    {
+      "question": "Can home collection be done for this test?",
+      "answer": "Yes, Metropolis Healthcare offers safe and contamination-free home sample collection."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are usually available the same day once the sample reaches the Metropolis Lab."
+    },
+    {
+      "question": "What should I do if my lead levels are high?",
+      "answer": "Consult your doctor for treatment and identify possible lead sources in your environment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

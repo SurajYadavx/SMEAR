@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-urine-sugar-fasting",
+  "test_name": "Urine Sugar (Fasting) Test",
+  "slug": "urine-sugar-fasting",
+  "source_url": "https://www.metropolisindia.com/parameter/urine-sugar-fasting",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urine-sugar-fasting",
+  "page_title": "Urine Sugar (Fasting) Test \u2013 Procedure, Normal Range, Cost & Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 25
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

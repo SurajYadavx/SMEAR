@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jc-bk-dna-detection-plasma",
+  "test_name": "JC-BK Virus DNA Detection By Real-time PCR - EDTA Plasma Test",
+  "slug": "jc-bk-dna-detection-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/jc-bk-dna-detection-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jc-bk-dna-detection-plasma",
+  "page_title": "JC BK DNA Detection Plasma Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5930
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JC-BK Virus DNA Detection Test measure?",
+      "answer": "This test detects the presence of JC Polyoma and BK viruses in EDTA Plasma samples."
+    },
+    {
+      "question": "Why is JC-BK Virus DNA Detection Test done?",
+      "answer": "\u2022 To detect JC Polyoma and BK viruses in patients with weakened immune systems \u2022 To help diagnose conditions like progressive multifocal leukoencephalopathy (PML) caused by the viruses \u2022 To monitor the effectiveness of antiviral therapy for these conditions"
+    },
+    {
+      "question": "When is JC-BK Virus DNA Detection Test recommended and who should take the test?",
+      "answer": "The test is usually recommended for people with weakened immune systems, such as those living with HIV/AIDS, undergoing chemotherapy or organ transplantation, or suffering from autoimmune diseases. It is also recommended for patients with neurological symptoms such as confusion, memory loss, or speech impairments."
+    },
+    {
+      "question": "What if the results of the JC-BK Virus DNA Detection Test are abnormal?",
+      "answer": "Abnormal results indicate the presence of one or both viruses. This could suggest conditions like kidney damage, PML, or cancer."
+    },
+    {
+      "question": "What to expect during the JC-BK Virus DNA Detection plasma Test?",
+      "answer": "The test involves collecting 3ml of EDTA (Ethylenediaminetetraacetic acid) Plasma in a sterile plain vacutainer. The sample is then sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the JC-BK Virus DNA Detection Test?",
+      "answer": "\u2022 Follow your doctor\u2019s advice regarding medication use and other preparation steps. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with JC-BK Virus DNA Detection Test?",
+      "answer": "Complete Blood Count (CBC): To check if patients have low white blood cell counts Viral culture: To identify viruses that are causing an infection"
+    },
+    {
+      "question": "What is JC-BK Virus DNA Detection Test also known as?",
+      "answer": "John Cunningham and BK Polyoma Panel test"
+    },
+    {
+      "question": "What is Progressive Multifocal Leukoencephalopathy (PML)?",
+      "answer": "PML is a rare but serious disease that affects the central nervous system. It is caused by the JC polyoma virus and can lead to severe neurological symptoms such as vision loss, speech difficulties, and memory problems."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

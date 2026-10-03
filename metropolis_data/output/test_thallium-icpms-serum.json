@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-thallium-icpms-serum",
+  "test_name": "Thallium Serum Test",
+  "slug": "thallium-icpms-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/thallium-icpms-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thallium-icpms-serum",
+  "page_title": "Thallium Icpms Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2860
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodwheatgehon-triticum-aestivum",
+  "test_name": "Allergen,Individual-Food Wheat Gehon  (Triticum Aestivum)",
+  "slug": "allergenindividual-foodwheatgehon-triticum-aestivum",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodwheatgehon-triticum-aestivum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodwheatgehon-triticum-aestivum",
+  "page_title": "Wheat Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-Food Wheat Gehon  (Triticum Aestivum)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

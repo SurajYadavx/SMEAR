@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-adaadenosine-deaminasepus",
+  "test_name": "ADA - Adenosine Deaminase - Pus",
+  "slug": "adaadenosine-deaminasepus",
+  "source_url": "https://www.metropolisindia.com/parameter/adaadenosine-deaminasepus",
+  "canonical_url": "https://www.metropolisindia.com/parameter/adaadenosine-deaminasepus",
+  "page_title": "Adenosine Deaminase (ADA) Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 840
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

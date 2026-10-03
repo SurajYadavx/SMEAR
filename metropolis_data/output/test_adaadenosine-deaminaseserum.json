@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-adaadenosine-deaminaseserum",
+  "test_name": "ADA - Adenosine Deaminase By Biochemical Method - Serum",
+  "slug": "adaadenosine-deaminaseserum",
+  "source_url": "https://www.metropolisindia.com/parameter/adaadenosine-deaminaseserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/adaadenosine-deaminaseserum",
+  "page_title": "ADA Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 895
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

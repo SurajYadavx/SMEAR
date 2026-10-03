@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-phenobarbitone-gardinal-serum",
+  "test_name": "Phenobarbitone Test",
+  "slug": "phenobarbitone-gardinal-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/phenobarbitone-gardinal-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/phenobarbitone-gardinal-serum",
+  "page_title": "Phenobarbitone Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1145
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Phenobarbitone  Test?",
+      "answer": "Monitoring for appropriate therapeutic concentration of phenobarbital and in Assessing compliance or toxicity"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Test is recommended for patients being treated with Phenobarbitone for generalised and partial seizures"
+    },
+    {
+      "question": "More Info on Phenobarbitone  Test",
+      "answer": "Toxicity due to phenobarbital overdose is characterized by CNS sedation and reduced respiratory function. Mild symptoms characterized by ataxia, nystagmus, fatigue, or attention loss, occur at blood concentrations above 40.0 mcg/mL. Symptoms become severe at concentrations of 60.0 mcg/mL and higher. Toxicity becomes life-threatening at concentrations over 100.0 mcg/mL. Death usually occurs due to respiratory arrest when pulmonary support is not supplied manually. Thus This assay is useful for monitoring appropriate therapeutic concentration and assessing compliance or toxicity."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

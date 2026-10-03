@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-culture-sensitivity-aerobic-bacteria-other-samples",
+  "test_name": "Culture & Sensitivity - Aerobic Bacteria, Other Sample",
+  "slug": "culture-sensitivity-aerobic-bacteria-other-samples",
+  "source_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-other-samples",
+  "canonical_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-other-samples",
+  "page_title": "Culture & Sensitivity - Aerobic Bacteria, Other Sample Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1210
+  },
+  "specimen": "Other Sample",
+  "fasting": "no",
+  "report_time": "5th day",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the purpose of a Culture & Sensitivity - Aerobic Bacteria test?",
+      "answer": "It helps detect bacterial infections and identifies the most effective antibiotics for treatment."
+    },
+    {
+      "question": "What type of sample is required for this test?",
+      "answer": "It uses other clinical samples such as sputum, pus, wound fluid, swabs, or body secretions depending on the suspected infection site."
+    },
+    {
+      "question": "Can antibiotics affect the results?",
+      "answer": "Yes. Antibiotics taken before collection may suppress bacterial growth and affect accuracy. Inform your doctor/lab about any ongoing medications."
+    },
+    {
+      "question": "How are bacteria identified in this test?",
+      "answer": "Bacteria are cultured on suitable media and identified using conventional methods and/or automated identification systems (e.g., VITEK), depending on the lab workflow."
+    },
+    {
+      "question": "What does it mean if my report shows \u201cresistant\u201d?",
+      "answer": "\u201cResistant\u201d means the bacteria are unlikely to respond to that antibiotic at standard doses; your doctor will choose an alternative based on the susceptibility report."
+    },
+    {
+      "question": "Can the test detect multiple bacteria?",
+      "answer": "Yes. If more than one clinically significant organism is present, each may be reported separately, subject to sample type and contamination considerations."
+    },
+    {
+      "question": "How should I collect the sample?",
+      "answer": "Use a sterile, leak-proof container provided by the lab and follow collection instructions carefully to prevent contamination."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

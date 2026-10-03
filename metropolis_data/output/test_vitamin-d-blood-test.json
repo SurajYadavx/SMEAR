@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-vitamin-d-blood-test",
+  "test_name": "Vitamin D Test",
+  "slug": "vitamin-d-blood-test",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-d-blood-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-d-blood-test",
+  "page_title": "Vitamin D Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1900
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "A high biotin dose (>5 mg/day) should be avoided at least 8 hours before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "How much vitamin D is needed daily?",
+      "answer": "The recommended daily amount of vitamin D for adults is typically 600 International Units (IU). However, some people may need higher doses as prescribed by a doctor based on their deficiency levels and health conditions."
+    },
+    {
+      "question": "What are the differences between vitamin D2 and vitamin D3?",
+      "answer": "Vitamin D2 comes from plant sources and fortified foods, while Vitamin D3 is naturally produced in skin from sunlight and found in animal-based foods. Vitamin D3 is generally more effective at maintaining blood levels."
+    },
+    {
+      "question": "Who should get the vitamin D advanced (D2, D3 & D Total) test done?",
+      "answer": "This specialised test is useful for individuals taking vitamin D2 supplements or those with complex deficiency cases. It helps doctors identify the source of vitamin D and monitor treatment effectiveness more precisely."
+    },
+    {
+      "question": "What is the best time to take the vitamin D test?",
+      "answer": "There's no specific best time of day for the test. Vitamin D levels remain stable in the blood. So you can provide your sample at any convenient time throughout the day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the vitamin D test, and for how long?",
+      "answer": "No fasting is required for a standard vitamin D test. However, if other tests requiring fasting are ordered alongside, follow your doctor's specific instructions for preparation."
+    },
+    {
+      "question": "Can dehydration affect my vitamin D test results?",
+      "answer": "Severe dehydration can concentrate blood components, potentially affecting test accuracy. It's best to stay normally hydrated before any blood test to ensure reliable results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the vitamin D test?",
+      "answer": "No special dietary preparation is needed. However, inform your doctor about all medications and supplements, especially vitamin D supplements, as they directly affect test results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the vitamin D test?",
+      "answer": "A healthcare professional cleans your arm, inserts a small needle into a vein, and collects blood into a vial. The entire process is quick and typically takes less than five minutes."
+    },
+    {
+      "question": "What level of vitamin D test is normal?",
+      "answer": "The normal levels of the vitamin D test are 30-100 ng/mL (sufficiency). Levels below 20 ng/mL indicate deficiency, 20-29 ng/mL show insufficiency, and above 100 ng/mL suggest potential toxicity."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

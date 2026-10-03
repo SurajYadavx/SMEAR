@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-protein-c-activity-functional-citrated-plasma",
+  "test_name": "Protein C Activity Functional Citrated plasma Test",
+  "slug": "protein-c-activity-functional-citrated-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/protein-c-activity-functional-citrated-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/protein-c-activity-functional-citrated-plasma",
+  "page_title": "Protein C Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 01:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Inform your doctor about all medications, especially anticoagulants like warfarin or heparin",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is a Protein C Activity Test used for?",
+      "answer": "It measures how effectively your Protein C functions to prevent abnormal blood clots."
+    },
+    {
+      "question": "Do I need to fast before the Protein C Activity Test?",
+      "answer": "Fasting is not required; you can eat and drink normally."
+    },
+    {
+      "question": "Can medications affect Protein C Activity Test results?",
+      "answer": "Yes, anticoagulants like warfarin or heparin and hormonal treatments can alter test results."
+    },
+    {
+      "question": "What does a low Protein C Activity result mean?",
+      "answer": "It may indicate Protein C deficiency, liver disease, Vitamin K deficiency, or the effect of anticoagulant use."
+    },
+    {
+      "question": "How is the Protein C Activity Test performed?",
+      "answer": "A blood sample is drawn into a sodium citrate tube, and plasma is tested using a chromogenic assay."
+    },
+    {
+      "question": "When should the test be repeated?",
+      "answer": "If you were on anticoagulant medication during the first test, your doctor may repeat it after discontinuation for accuracy."
+    },
+    {
+      "question": "Is the test done during pregnancy?",
+      "answer": "Is the test done during pregnancy."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

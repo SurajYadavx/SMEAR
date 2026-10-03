@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-karyotyping-by-g-banding-for-neonates",
+  "test_name": "Karyotyping by G-Banding for neonates Test",
+  "slug": "karyotyping-by-g-banding-for-neonates",
+  "source_url": "https://www.metropolisindia.com/parameter/karyotyping-by-g-banding-for-neonates",
+  "canonical_url": "https://www.metropolisindia.com/parameter/karyotyping-by-g-banding-for-neonates",
+  "page_title": "Karyotyping by G-Banding for neonates Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4680
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Karyotyping by G-Banding for neonates Test?",
+      "answer": "For Numerical and Structural Chromosomal Abnormalities ."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This test is for neonates."
+    },
+    {
+      "question": "More Info on Karyotyping by G-Banding for neonates Test",
+      "answer": "For Numerical and Structural Chromosomal Abnormalities with faster TAT in neonatal samples. Detailed clinical history of the patient is required."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

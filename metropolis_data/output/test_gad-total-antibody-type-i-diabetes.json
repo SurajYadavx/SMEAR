@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-gad-total-antibody-type-i-diabetes",
+  "test_name": "GAD Total Antibody Type I Diabetes Serum",
+  "slug": "gad-total-antibody-type-i-diabetes",
+  "source_url": "https://www.metropolisindia.com/parameter/gad-total-antibody-type-i-diabetes",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gad-total-antibody-type-i-diabetes",
+  "page_title": "Gad Total Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive GAD Antibody Test mean?",
+      "answer": "It indicates autoimmune activity targeting pancreatic beta cells, suggesting Type 1 diabetes or LADA."
+    },
+    {
+      "question": "Is fasting required before a GAD Antibody Test?",
+      "answer": "No fasting is required. You can eat and drink normally."
+    },
+    {
+      "question": "Can this test detect neurological disorders?",
+      "answer": "Yes, GAD antibodies are also linked to autoimmune neurological conditions like stiff person syndrome and ataxia."
+    },
+    {
+      "question": "How long does it take to get GAD Antibody Test results?",
+      "answer": "Results are available on the same day, typically by 7:00 PM."
+    },
+    {
+      "question": "Is home sample collection available for this test?",
+      "answer": "Yes, home collection is available in most cities through Metropolis Healthcare."
+    },
+    {
+      "question": "Can a person have GAD antibodies without diabetes?",
+      "answer": "Yes, some individuals may have GAD antibodies due to other autoimmune conditions or as an early predictor of future diabetes."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

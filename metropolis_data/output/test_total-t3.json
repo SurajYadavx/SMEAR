@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-total-t3",
+  "test_name": "T3-Total Tri Iodothyronine Serum Test",
+  "slug": "total-t3",
+  "source_url": "https://www.metropolisindia.com/parameter/total-t3",
+  "canonical_url": "https://www.metropolisindia.com/parameter/total-t3",
+  "page_title": "Total T3 Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 230
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

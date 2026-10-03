@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-covid-19-rt-pcr-test",
+  "test_name": "COVID-19 RT PCR Test",
+  "slug": "covid-19-rt-pcr-test",
+  "source_url": "https://www.metropolisindia.com/parameter/covid-19-rt-pcr-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/covid-19-rt-pcr-test",
+  "page_title": "COVID-19 RT PCR Test- Price, Normal Range, Purpose, Results Book & Get Reports Online | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 48 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

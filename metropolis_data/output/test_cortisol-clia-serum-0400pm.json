@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cortisol-clia-serum-0400pm",
+  "test_name": "Cortisol 04.00 pm, Serum",
+  "slug": "cortisol-clia-serum-0400pm",
+  "source_url": "https://www.metropolisindia.com/parameter/cortisol-clia-serum-0400pm",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cortisol-clia-serum-0400pm",
+  "page_title": "Cortisol 4 Pm Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 775
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 10 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

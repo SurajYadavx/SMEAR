@@ -1,0 +1,245 @@
+{
+  "packages_total": 60,
+  "tests_total": 1429,
+  "categories_total": 17,
+  "packages_with_price": 36,
+  "packages_without_price": 24,
+  "tests_with_price": 1429,
+  "tests_without_price": 0,
+  "package_price_mapping_failures": 24,
+  "test_price_mapping_failures": 0,
+  "unmatched_records_details": [
+    {
+      "id": "smear-pkg-health-checkup-silver-nf",
+      "slug": "health-checkup-silver-nf",
+      "name": "Health Checkup Silver NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-platinum-nf",
+      "slug": "health-checkup-platinum-nf",
+      "name": "Health Checkup Platinum NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-advance-nf",
+      "slug": "health-checkup-advance-nf",
+      "name": "Health Checkup Advance NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-gold-nf",
+      "slug": "health-checkup-gold-nf",
+      "name": "Health Checkup Gold NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-advance-diet-consultation",
+      "slug": "health-checkup-advance-diet-consultation",
+      "name": "Health Checkup Advance + Diet Consultation",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-comprehensive-nf",
+      "slug": "health-checkup-comprehensive-nf",
+      "name": "Health Checkup Comprehensive NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-gold-body-vitals-consult",
+      "slug": "health-checkup-gold-body-vitals-consult",
+      "name": "Health Checkup Gold + Body Vitals + Consult",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-platinum-body-vitals-consult",
+      "slug": "health-checkup-platinum-body-vitals-consult",
+      "name": "Health Checkup Platinum + Body Vitals + Consult",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-advance-body-vitals-consult",
+      "slug": "health-checkup-advance-body-vitals-consult",
+      "name": "Health Checkup Advance + Body Vitals + Consult",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-comprehensive-body-vitals-consult",
+      "slug": "health-checkup-comprehensive-body-vitals-consult",
+      "name": "Health Checkup Comprehensive + Body Vitals + Consult",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-platinum-diet-consultation",
+      "slug": "health-checkup-platinum-diet-consultation",
+      "name": "Health Checkup Platinum + Diet Consultation",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-silver-diet-consultation",
+      "slug": "health-checkup-silver-diet-consultation",
+      "name": "Health Checkup Silver + Diet Consultation",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-essential",
+      "slug": "health-checkup-essential",
+      "name": "Health Checkup Essential",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-basic-nf",
+      "slug": "health-checkup-basic-nf",
+      "name": "Health Checkup Basic NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-platinum",
+      "slug": "health-checkup-platinum",
+      "name": "Health Checkup Platinum",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-silver",
+      "slug": "health-checkup-silver",
+      "name": "Health Checkup Silver",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-comprehensive",
+      "slug": "health-checkup-comprehensive",
+      "name": "Health Checkup Comprehensive",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-silver-body-vitals-consult",
+      "slug": "health-checkup-silver-body-vitals-consult",
+      "name": "Health Checkup Silver + Body Vitals + Consult",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-gold-diet-consultation",
+      "slug": "health-checkup-gold-diet-consultation",
+      "name": "Health Checkup Gold + Diet Consultation",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-comprehensive-diet-consultation",
+      "slug": "health-checkup-comprehensive-diet-consultation",
+      "name": "Health Checkup Comprehensive + Diet Consultation",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-gold",
+      "slug": "health-checkup-gold",
+      "name": "Health Checkup Gold",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-master-health-checkup-nf",
+      "slug": "master-health-checkup-nf",
+      "name": "Master Health Checkup NF",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-advance",
+      "slug": "health-checkup-advance",
+      "name": "Health Checkup Advance",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    },
+    {
+      "id": "smear-pkg-health-checkup-basic",
+      "slug": "health-checkup-basic",
+      "name": "Health Checkup Basic",
+      "type": "package",
+      "reason": "Source extraction file genuinely contains no selling_price for this item (only discount or missing entirely)."
+    }
+  ],
+  "duplicate_ids": 0,
+  "duplicate_slugs": 0,
+  "source_brand_violations": 0,
+  "source_url_violations": 0,
+  "source_phone_violations": 0,
+  "source_whatsapp_violations": 0,
+  "category_counts": {
+    "Men's Health": 24,
+    "General Health": 138,
+    "Women's Health": 12,
+    "Cancer Screening": 17,
+    "Other": 731,
+    "Infection": 119,
+    "Allergy": 165,
+    "Kidney": 28,
+    "Blood & Hematology": 79,
+    "Diabetes": 25,
+    "Vitamins & Nutrition": 39,
+    "Hormones": 21,
+    "Liver": 25,
+    "Bone & Joint": 21,
+    "Thyroid": 19,
+    "Heart & Cardiac": 24,
+    "Pregnancy": 2
+  },
+  "representative_packages": [
+    {
+      "id": "smear-pkg-comprehensive-health-checkup-male",
+      "name": "Comprehensive Health Checkup - Male",
+      "price": 10000
+    },
+    {
+      "id": "smear-pkg-health-checkup-expert-female",
+      "name": "Health Checkup Expert - Female",
+      "price": 8500
+    }
+  ],
+  "representative_tests": [
+    {
+      "id": "smear-test-lactate-biochemical-plasma-test",
+      "name": "Lactate Biochemical Plasma Test",
+      "price": 1365
+    },
+    {
+      "id": "smear-test-hiv-qualitative-blood-test",
+      "name": "Hiv Qualitative Blood Test",
+      "price": 4885
+    },
+    {
+      "id": "smear-test-amh-supreme-test",
+      "name": "AMH Supreme Test",
+      "price": 4860
+    },
+    {
+      "id": "smear-test-nextgen-brca-somatic-ffpe-tissue",
+      "name": "NextGen BRCA Somatic, FFPE tissue",
+      "price": 22000
+    },
+    {
+      "id": "smear-test-kappa-light-chains-by-flow-cytometry",
+      "name": "Kappa Light Chains by Flow Cytometry",
+      "price": 2810
+    }
+  ]
+}

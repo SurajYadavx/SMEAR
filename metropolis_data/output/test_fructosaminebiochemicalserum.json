@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-fructosaminebiochemicalserum",
+  "test_name": "Fructosamine",
+  "slug": "fructosaminebiochemicalserum",
+  "source_url": "https://www.metropolisindia.com/parameter/fructosaminebiochemicalserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fructosaminebiochemicalserum",
+  "page_title": "Fructosamine \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1270
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

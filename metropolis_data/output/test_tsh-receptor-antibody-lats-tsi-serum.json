@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-tsh-receptor-antibody-lats-tsi-serum",
+  "test_name": "TSH Receptor Antibody Test",
+  "slug": "tsh-receptor-antibody-lats-tsi-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/tsh-receptor-antibody-lats-tsi-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tsh-receptor-antibody-lats-tsi-serum",
+  "page_title": "TSH Receptor Antibody Test Price and Book Online | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5030
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose Biotin (>5 mg/day) for at least 8 hours before sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the TSH Receptor Antibody Test detect?",
+      "answer": "It detects antibodies that affect the thyroid gland\u2019s TSH receptors, helping diagnose autoimmune thyroid disorders such as Graves\u2019 disease or Hashimoto\u2019s thyroiditis."
+    },
+    {
+      "question": "Do I need to fast before the TSH Receptor Antibody Test?",
+      "answer": "No, fasting is not required for this test."
+    },
+    {
+      "question": "Can Biotin supplements affect my TSH Receptor Antibody Test results?",
+      "answer": "Yes. High-dose Biotin can interfere with results. Avoid taking it at least 8 hours before your blood draw."
+    },
+    {
+      "question": "How is the TSH Receptor Antibody Test performed?",
+      "answer": "A small blood sample is taken from a vein in your arm and analysed using the ECLIA method for accurate antibody detection."
+    },
+    {
+      "question": "What do high TSH Receptor Antibody levels mean?",
+      "answer": "High levels indicate Graves\u2019 disease or autoimmune hyperthyroidism. Your doctor will interpret results along with other thyroid tests (TSH, T3, T4)."
+    },
+    {
+      "question": "How long does it take to receive the TSH Receptor Antibody Test report?",
+      "answer": "Reports are generally ready within 6 hours after the sample reaches the laboratory."
+    },
+    {
+      "question": "What is a normal range for TSH Receptor Antibody?",
+      "answer": "A negative result is less than 1.75 IU/L. Values above this suggest active autoimmune thyroid disease."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

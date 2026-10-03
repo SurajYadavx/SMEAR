@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-c-reactive-protein-test",
+  "test_name": "CRP Test",
+  "slug": "c-reactive-protein-test",
+  "source_url": "https://www.metropolisindia.com/parameter/c-reactive-protein-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/c-reactive-protein-test",
+  "page_title": "C-Reactive Protein (CRP) Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No Special preparation.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Do I need to fast before the CRP test?",
+      "answer": "No fasting is required for the CRP test."
+    },
+    {
+      "question": "What does a high CRP level mean?",
+      "answer": "A high CRP level indicates inflammation in the body, which could be due to infection, injury, or chronic disease."
+    },
+    {
+      "question": "What is a normal CRP range?",
+      "answer": "Normal CRP levels are typically below 10 mg/L."
+    },
+    {
+      "question": "Can stress affect CRP levels?",
+      "answer": "Yes, stress and poor lifestyle habits can mildly elevate CRP levels."
+    },
+    {
+      "question": "How is the CRP test performed?",
+      "answer": "A small blood sample is drawn from a vein in your arm and tested in the lab."
+    },
+    {
+      "question": "What are the types of CRP tests?",
+      "answer": "The standard CRP test checks general inflammation, while the high-sensitivity CRP (hs-CRP) test assesses heart disease risk."
+    },
+    {
+      "question": "How soon will I get my CRP report?",
+      "answer": "Reports are available within 4 hours once your sample reaches the lab."
+    },
+    {
+      "question": "What conditions can increase CRP?",
+      "answer": "Infections, autoimmune disorders, heart disease, obesity, and chronic inflammation can raise CRP."
+    },
+    {
+      "question": "Can CRP levels return to normal?",
+      "answer": "Yes, CRP levels fall as inflammation or infection resolves with treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

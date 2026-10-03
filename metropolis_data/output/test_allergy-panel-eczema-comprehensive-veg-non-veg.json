@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-allergy-panel-eczema-comprehensive-veg-non-veg",
+  "test_name": "Allergy panel - Eczema Comprehensive Veg + non Veg",
+  "slug": "allergy-panel-eczema-comprehensive-veg-non-veg",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-panel-eczema-comprehensive-veg-non-veg",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-panel-eczema-comprehensive-veg-non-veg",
+  "page_title": "Eczema Food Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 21165
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 8 pm",
+  "gender": "Male, Female",
+  "preparation": "Provide complete medical and medication history before testing",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Allergy Panel - Eczema Comprehensive (Veg + Non Veg) Test detect?",
+      "answer": "It identifies allergic reactions to 34 food and environmental allergens that may trigger eczema flare-ups."
+    },
+    {
+      "question": "Is fasting required for the Allergy Panel - Eczema Comprehensive (Veg + Non Veg) Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How is the Allergy Panel - Eczema Comprehensive (Veg + Non Veg) Test done?",
+      "answer": "A small blood sample is collected from your arm and analysed using ImmunoCAP technology to measure allergen-specific IgE levels."
+    },
+    {
+      "question": "What does a high IgE level mean in this test?",
+      "answer": "High IgE levels suggest strong allergic sensitisation to one or more tested allergens."
+    },
+    {
+      "question": "Can antihistamines affect the test results?",
+      "answer": "Yes, certain antihistamines or steroids can influence IgE measurements. Inform your doctor before testing."
+    },
+    {
+      "question": "What conditions can this test help diagnose?",
+      "answer": "It helps detect food allergies, eczema (atopic dermatitis), urticaria, and other skin-related allergic conditions."
+    },
+    {
+      "question": "How accurate is the Allergy Panel - Eczema Comprehensive (Veg + Non Veg) Test?",
+      "answer": "The test uses advanced ImmunoCAP technology, which provides highly accurate and reliable results for allergen detection."
+    },
+    {
+      "question": "Are there any risks associated with the test?",
+      "answer": "Risks are minimal. You may experience mild discomfort or bruising at the blood draw site, which resolves quickly."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

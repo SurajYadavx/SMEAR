@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-vesicobullous-disorder-profile",
+  "test_name": "Vesicobullous Disorder Profile",
+  "slug": "vesicobullous-disorder-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/vesicobullous-disorder-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vesicobullous-disorder-profile",
+  "page_title": "Vesicobullous Disorder Profile Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 9360
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Vesicobullous Disorder Profile measure?",
+      "answer": "The Vesicobullous Disorder Profile measures the levels of specific antibodies (Desmoglein I & III, Bullous Pemphigoid BP 230 & 180) in your blood that are associated with autoimmune vesiculobullous diseases."
+    },
+    {
+      "question": "Why is the Vesicobullous Disorder Profile done?",
+      "answer": "\u2022 To diagnose autoimmune vesiculobullous diseases like pemphigus and bullous pemphigoid \u2022 To differentiate between different subtypes of vesiculobullous disorders \u2022 To guide treatment decisions by monitoring antibody levels during therapy \u2022 To evaluate disease activity and assess response to treatment"
+    },
+    {
+      "question": "When is the Vesicobullous Disorder Profile recommended, and who should take the test?",
+      "answer": "The Vesicobullous Disorder Profile is recommended \u2022 if you have symptoms such as blistering or erosions on your skin or mucous membranes, \u2022 if you have a suspected autoimmune vesiculobullous disorder based on clinical examination, or \u2022 if you have an existing diagnosis of an autoimmune vesiculobullous disorder and require periodic monitoring of antibody levels."
+    },
+    {
+      "question": "What if the results of the Vesicobullous Disorder Profile are abnormal?",
+      "answer": "If the results of the Vesicobullous Disorder Profile are abnormal, it may indicate the presence of autoimmune vesiculobullous diseases."
+    },
+    {
+      "question": "What to expect during the Vesicobullous Disorder Profile?",
+      "answer": "During the test, a small sample of your blood will be collected. The sample will be sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Vesicobullous Disorder Profile?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are taking, as they may interfere with the test results. \u2022 Follow any other instructions provided by your healthcare provider regarding medication adjustments or skincare routine before the test."
+    },
+    {
+      "question": "What other tests may be ordered with the Vesicobullous Disorder Profile?",
+      "answer": "\u2022 Skin biopsy: A small piece of skin is removed and examined under a microscope to confirm the diagnosis and determine the subtype of vesiculobullous disorder. \u2022 Immunofluorescence testing: This test helps in identifying specific proteins involved in autoimmune vesiculobullous diseases by analyzing skin or mucosal tissue samples."
+    },
+    {
+      "question": "What is the Vesicobullous Disorder Profile also known as?",
+      "answer": "Vesiculobullous Profile or Autoimmune Blistering Disorder Profile"
+    },
+    {
+      "question": "What is pemphigus?",
+      "answer": "Pemphigus is a rare autoimmune disorder characterised by the formation of blisters on the skin and mucous membranes. It occurs when the immune system mistakenly attacks proteins that hold skin cells together, leading to the separation of these cells and the development of blisters."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

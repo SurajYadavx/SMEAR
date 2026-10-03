@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-alpha-1-antitrypsinserum",
+  "test_name": "Alpha-1 Antitrypsin (AAT), Serum",
+  "slug": "alpha-1-antitrypsinserum",
+  "source_url": "https://www.metropolisindia.com/parameter/alpha-1-antitrypsinserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alpha-1-antitrypsinserum",
+  "page_title": "Alpha-1 Antitrypsin (AAT), Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2520
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Alpha-1 Antitrypsin (AAT) test measure?",
+      "answer": "This test measures the concentration of alpha-1 antitrypsin (AAT) in the blood serum."
+    },
+    {
+      "question": "Why is the Alpha-1 Antitrypsin (AAT) test done?",
+      "answer": "The test is typically performed to diagnose and monitor conditions related to alpha-1 antitrypsin deficiency, a genetic disorder that can lead to lung and liver problems."
+    },
+    {
+      "question": "When is the Alpha-1 Antitrypsin (AAT) test recommended, and who should take the test?",
+      "answer": "This test is recommended when there is suspicion of alpha-1 antitrypsin deficiency or related lung and liver conditions, especially in individuals with symptoms like shortness of breath, chronic obstructive pulmonary disease (COPD), or liver disease."
+    },
+    {
+      "question": "What if the results of the Alpha-1 Antitrypsin (AAT) test are positive?",
+      "answer": "A positive result may indicate abnormal alpha-1 antitrypsin levels in the blood serum, suggesting the possibility of alpha-1 antitrypsin deficiency or related conditions. Further diagnostic tests and medical evaluation are necessary to confirm the diagnosis and develop a treatment plan."
+    },
+    {
+      "question": "What to expect during the Alpha-1 Antitrypsin (AAT) test?",
+      "answer": "The test involves a blood draw, where a healthcare professional collects a serum sample from a vein, typically in the arm. The procedure is minimally invasive and relatively quick."
+    },
+    {
+      "question": "What preparations are required before the Alpha-1 Antitrypsin (AAT) test?",
+      "answer": "Patients typically do not need specific preparations before the test. However, it's important to follow any instructions provided by the healthcare provider."
+    },
+    {
+      "question": "Which other tests are ordered with the Alpha-1 Antitrypsin (AAT) test?",
+      "answer": "Additional tests and imaging studies may be ordered to assess lung and liver function and confirm the diagnosis of alpha-1 antitrypsin deficiency or related conditions."
+    },
+    {
+      "question": "What is the Alpha-1 Antitrypsin (AAT) test also known as?",
+      "answer": "The Alpha-1 Antitrypsin (AAT) test may also be referred to as the serum AAT test or the AAT blood test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

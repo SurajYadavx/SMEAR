@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-gastrincliaserum",
+  "test_name": "Gastrin",
+  "slug": "gastrincliaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/gastrincliaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gastrincliaserum",
+  "page_title": "Gastrin \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1630
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

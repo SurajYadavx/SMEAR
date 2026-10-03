@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-panels-with-reporting-breast-iii-er-pr-c-erb-b2-ki-67",
+  "test_name": "Breast IHC Panel-ER, PR, HER2/neu (c-erb-B2), Ki-67",
+  "slug": "ihc-panels-with-reporting-breast-iii-er-pr-c-erb-b2-ki-67",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-panels-with-reporting-breast-iii-er-pr-c-erb-b2-ki-67",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-panels-with-reporting-breast-iii-er-pr-c-erb-b2-ki-67",
+  "page_title": "Ki-67 Test for Breast Cancer | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6510
+  },
+  "specimen": "Ki-67",
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

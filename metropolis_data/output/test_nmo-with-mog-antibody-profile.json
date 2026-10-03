@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-nmo-with-mog-antibody-profile",
+  "test_name": "NMO With MOG Antibody Profile, Serum",
+  "slug": "nmo-with-mog-antibody-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/nmo-with-mog-antibody-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nmo-with-mog-antibody-profile",
+  "page_title": "Book NMO with MOG Antibody Profile Test | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7670
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

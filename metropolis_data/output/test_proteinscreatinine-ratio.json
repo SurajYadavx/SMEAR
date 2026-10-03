@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-proteinscreatinine-ratio",
+  "test_name": "UPCR Test (Urine Protein Creatinine Ratio)",
+  "slug": "proteinscreatinine-ratio",
+  "source_url": "https://www.metropolisindia.com/parameter/proteinscreatinine-ratio",
+  "canonical_url": "https://www.metropolisindia.com/parameter/proteinscreatinine-ratio",
+  "page_title": "UPCR Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 650
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "10 ml of spot urine collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the proteins/creatinine ratio?",
+      "answer": "The first-morning urine sample is considered best, as it's more concentrated after overnight rest. However, a random spot sample can be collected at any convenient time during the day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the proteins/creatinine ratio, and for how long?",
+      "answer": "No, fasting is not required for this test. You can eat and drink normally before providing your urine sample unless your doctor gives specific instructions otherwise."
+    },
+    {
+      "question": "Can dehydration affect my proteins/creatinine ratio results?",
+      "answer": "While the ratio corrects for urine concentration variations, severe dehydration can temporarily strain the kidneys and may slightly alter results. Maintain normal hydration when taking the test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the proteins/creatinine ratio?",
+      "answer": "No special dietary preparation needed. Avoid intense exercise for 24 hours before testing. Inform your doctor about all medications, vitamins, and supplements you're currently taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the proteins/creatinine ratio?",
+      "answer": "This test doesn't require a blood draw. It's performed exclusively on a urine sample. You'll receive a sterile container to provide a clean-catch mid-stream urine sample."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "There are no risks associated with this test. Providing a urine sample is completely non-invasive and safe, with no potential complications or side effects."
+    },
+    {
+      "question": "What level of proteins/creatinine ratio is normal?",
+      "answer": "Normal levels are less than 0.2 mg/mg. Results between 0.2 and 2.0 mg/mg indicate moderately increased protein levels, while values above 2.0 mg/mg suggest severely increased levels requiring medical evaluation."
+    },
+    {
+      "question": "What is the proteins/creatinine ratio also known as?",
+      "answer": "The test is also called the Urine Albumin-to-Creatinine Ratio (UACR), Albumin/Creatinine Ratio (ACR), Urine Protein-to-Creatinine Ratio (UPCR), or Spot Urine for Proteins/Creatinine Ratio."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

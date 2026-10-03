@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodgarliclehsoon-allium-sativum",
+  "test_name": "Allergen,Individual-FoodGarlicLehsoon (Allium Sativum)",
+  "slug": "allergenindividual-foodgarliclehsoon-allium-sativum",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgarliclehsoon-allium-sativum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgarliclehsoon-allium-sativum",
+  "page_title": "Garlic Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodGarlicLehsoon (Allium Sativum)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

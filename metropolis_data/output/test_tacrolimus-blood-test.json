@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-tacrolimus-blood-test",
+  "test_name": "Tacrolimus Test",
+  "slug": "tacrolimus-blood-test",
+  "source_url": "https://www.metropolisindia.com/parameter/tacrolimus-blood-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tacrolimus-blood-test",
+  "page_title": "Tacrolimus Test (FK506): Price, Procedure, Normal Range, Interpretation and Home Collection",
+  "pricing": {
+    "selling_price": 4660
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required, high biotin dose (>5 mg/day) should be avoided at least 8 hrs before blood collection\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

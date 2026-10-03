@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-routine-examination-comprehensive-examinationstool",
+  "test_name": "Stool Routine Test",
+  "slug": "routine-examination-comprehensive-examinationstool",
+  "source_url": "https://www.metropolisindia.com/parameter/routine-examination-comprehensive-examinationstool",
+  "canonical_url": "https://www.metropolisindia.com/parameter/routine-examination-comprehensive-examinationstool",
+  "page_title": "Stool Routine Test - Price, Purpose, Procedure| Book Online",
+  "pricing": {
+    "selling_price": 320
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 6 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Stool Test?",
+      "answer": "There is no specific best time for collecting a stool sample. You should collect it whenever you naturally have a bowel movement and submit it to the laboratory promptly following the provided instructions."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Stool Test, and for how long?",
+      "answer": "No, fasting is not required for a routine Stool Test. You can eat and drink as usual unless your doctor specifically instructs otherwise for certain specialised stool examinations."
+    },
+    {
+      "question": "Can dehydration affect my Stool Test results?",
+      "answer": "Yes, dehydration can make your stool hard and dry, affecting consistency findings. However, it typically doesn't interfere with detecting infections or blood in most stool test parameters"
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Stool Test?",
+      "answer": "For routine stool tests, no special preparation is needed. However, inform your doctor about current medications, especially antibiotics, as they may affect results. Follow any specific instructions provided by your doctor."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Stool Test?",
+      "answer": "A Stool Test does not require a blood draw. The test is performed on a stool sample that you collect yourself at home using a sterile container provided by the laboratory."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "There are no medical risks associated with stool testing. The procedure only involves collecting your natural stool sample, making it completely safe with no side effects or complications."
+    },
+    {
+      "question": "What level of Stool Test is normal?",
+      "answer": "Normal stool test results show brown colour, semi-solid consistency, no blood or mucus, no parasites or harmful bacteria, and pus cells within 0-5 range per microscopic field examined."
+    },
+    {
+      "question": "What is Stool Test also known as?",
+      "answer": "A Stool Test is also known as Stool Analysis, Faecal Test, Stool Routine & Microscopic Examination, Ova and Parasite Exam, Stool Culture, or Fecal Occult Blood Test depending on specific components tested."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

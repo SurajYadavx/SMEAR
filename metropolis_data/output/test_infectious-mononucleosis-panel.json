@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-infectious-mononucleosis-panel",
+  "test_name": "Infectious Mononucleosis Profile by IFA - Serum",
+  "slug": "infectious-mononucleosis-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/infectious-mononucleosis-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/infectious-mononucleosis-panel",
+  "page_title": "Mononucleosis (Mono) Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Infectious Mononucleosis Profile measure?",
+      "answer": "This test detects the presence of Infectious Mononucleosis (IM) heterophile antibodies in your blood, which are produced in response to the Epstein-Barr virus (EBV)."
+    },
+    {
+      "question": "Why is Infectious Mononucleosis Profile done?",
+      "answer": "\u2022 To detect IM heterophile antibodies in serum \u2022 To confirm a suspected diagnosis of infectious mononucleosis \u2022 To assess the stage of the infection \u2022 To monitor the effectiveness of treatment \u2022 To rule out other conditions that have similar symptoms"
+    },
+    {
+      "question": "When is Infectious Mononucleosis Profile recommended and who should take the test?",
+      "answer": "Your doctor might recommend this test if you have \u2022 symptoms suggestive of infectious mononucleosis such as fever, sore throat, swollen lymph nodes, and fatigue, \u2022 suspected exposure to EBV, \u2022 complications suggestive of infectious mononucleosis such as enlargement of the spleen or liver, or \u2022 immunosuppression or a weakened immune system."
+    },
+    {
+      "question": "What if the results of the Infectious Mononucleosis Profile are abnormal?",
+      "answer": "An elevated level of heterophile antibodies indicates the presence of EBV infection leading to infectious mononucleosis."
+    },
+    {
+      "question": "What to expect during the Infectious Mononucleosis Profile - Serum?",
+      "answer": "This test requires a blood sample to be drawn from your arm. The sample will be then sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Infectious Mononucleosis Profile?",
+      "answer": "\u2022 Inform your healthcare provider of any medications that you are taking. \u2022 Avoid certain medications before the test because they can interfere with the results. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Infectious Mononucleosis Profile?",
+      "answer": "\u2022 Complete blood count (CBC) to measure white blood cells count \u2022 Liver function tests (LFTs) to assess liver function \u2022 EBV DNA polymerase chain reaction (PCR) test to detect EBV DNA."
+    },
+    {
+      "question": "What is Infectious Mononucleosis Profile also known as?",
+      "answer": "Heterophile Antibody Test or Rapid Mono Test"
+    },
+    {
+      "question": "What is infectious mononucleosis?",
+      "answer": "Infectious mononucleosis is a viral infection caused by EBV. It spreads through saliva and close contact with an infected person. Symptoms include fever, sore throat, fatigue, swollen lymph nodes, and enlarged spleen or liver."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

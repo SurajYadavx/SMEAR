@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-hepatitis-b-virus-hbv-anti-hbcag-total-core-antigen-total",
+  "test_name": "Anti HBcAg Total Test",
+  "slug": "hepatitis-b-virus-hbv-anti-hbcag-total-core-antigen-total",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-b-virus-hbv-anti-hbcag-total-core-antigen-total",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-b-virus-hbv-anti-hbcag-total-core-antigen-total",
+  "page_title": "Anti HBc Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Anti HBcAg Total Test detect?",
+      "answer": "It detects total antibodies (IgM and IgG) against the Hepatitis B core antigen to determine past or present infection."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can this test differentiate between recent and old infection?",
+      "answer": "No. It measures total antibodies; Anti-HBc IgM is needed to confirm a recent infection."
+    },
+    {
+      "question": "What does a positive result mean?",
+      "answer": "It means you have been exposed to the Hepatitis B virus at some point. Further tests like HBsAg and Anti-HBs may be required."
+    },
+    {
+      "question": "Is this test used after vaccination?",
+      "answer": "Yes, it helps confirm whether immunity is from infection or vaccination."
+    },
+    {
+      "question": "Which method is used for this test?",
+      "answer": "The test is performed using Chemiluminescent Microparticle Immunoassay (CMIA)."
+    },
+    {
+      "question": "How long does it take to get the result?",
+      "answer": "The report is usually available after 8 hours."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

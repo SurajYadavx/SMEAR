@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-h1n1-swine-flu-pcr-test",
+  "test_name": "H1N1 (Swine Flu) Test",
+  "slug": "h1n1-swine-flu-pcr-test",
+  "source_url": "https://www.metropolisindia.com/parameter/h1n1-swine-flu-pcr-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/h1n1-swine-flu-pcr-test",
+  "page_title": "H1N1 Test (Swine Flu)- Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6850
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 3:00pm and 11:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required; clinician's contact details must be provided for notification",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the H1N1 Test detect?",
+      "answer": "It detects the RNA of the H1N1 influenza virus that causes swine flu."
+    },
+    {
+      "question": "How is the sample collected for the H1N1 Test?",
+      "answer": "A sterile swab is used to collect nasal and throat secretions and placed in a Viral Transport Medium (VTM)."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "Fasting is not required for the H1N1 Test."
+    },
+    {
+      "question": "When should I get tested for H1N1?",
+      "answer": "Testing is recommended within the first 4\u20135 days of symptoms such as fever, cough, or sore throat."
+    },
+    {
+      "question": "What does a positive result mean?",
+      "answer": "A positive result confirms active H1N1 infection, and antiviral treatment may be needed."
+    },
+    {
+      "question": "Can a negative result rule out infection completely?",
+      "answer": "Not always. A negative result reduces the likelihood but should be interpreted along with clinical findings."
+    },
+    {
+      "question": "How long will it take to receive my report?",
+      "answer": "Reports are typically available on the same day once the sample reaches the Metropolis Lab."
+    },
+    {
+      "question": "Is the test safe?",
+      "answer": "Yes, it is a simple swab-based procedure performed safely by trained professionals."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

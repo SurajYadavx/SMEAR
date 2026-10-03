@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-eosinophil-detection-sputum",
+  "test_name": "Eosinophil Detection in Sputum",
+  "slug": "eosinophil-detection-sputum",
+  "source_url": "https://www.metropolisindia.com/parameter/eosinophil-detection-sputum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/eosinophil-detection-sputum",
+  "page_title": "Eosinophil Detection in Sputum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 345
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

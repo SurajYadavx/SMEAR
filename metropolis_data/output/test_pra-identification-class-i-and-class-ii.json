@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-pra-identification-class-i-and-class-ii",
+  "test_name": "PRA Identification Class I and Class II",
+  "slug": "pra-identification-class-i-and-class-ii",
+  "source_url": "https://www.metropolisindia.com/parameter/pra-identification-class-i-and-class-ii",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pra-identification-class-i-and-class-ii",
+  "page_title": "PRA Identification Class I And Class II Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 18720
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the PRA Identification Class I and Class II test measure?",
+      "answer": "The PRA (panel-reactive antibody) test identifies HLA antibodies in both Class I and Class II that are present in your blood."
+    },
+    {
+      "question": "Why is the PRA Identification Class I and Class II test done?",
+      "answer": "\u2022 To assess the risk of organ transplant rejection \u2022 To determine the immunological compatibility between a donor and a recipient \u2022 To monitor the effectiveness of immunosuppressive therapy and evaluate autoimmune conditions"
+    },
+    {
+      "question": "When is the PRA test recommended, and who should take the test?",
+      "answer": "Your doctor may recommend this test if \u2022 you need an organ transplant, \u2022 you have previously received a transplant, or \u2022 you have an autoimmune disease and require immunosuppressive therapy."
+    },
+    {
+      "question": "What if the results of the PRA test are abnormal?",
+      "answer": "The presence of HLA antibodies in your blood indicates a high risk of transplant rejection. Abnormal results may also indicate autoimmune diseases such as lupus or rheumatoid arthritis."
+    },
+    {
+      "question": "What to expect during the PRA test?",
+      "answer": "\u2022 During this test, a small amount of blood will be drawn from a vein in your arm. \u2022 The sample will then be sent to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the PRA test?",
+      "answer": "\u2022 Your doctor may advise you to avoid certain medications or supplements that can interfere with your test results. \u2022 You should also inform your doctor about any medical conditions or specific requirements you may have."
+    },
+    {
+      "question": "What other tests may be ordered with the PRA test?",
+      "answer": "\u2022 Cross-matching: to determine the compatibility between a donor and a recipient. \u2022 HLA typing: to identify the HLA antigens present in your cells."
+    },
+    {
+      "question": "What is the PRA Identification Class I and Class II test also known as?",
+      "answer": "Panel Reactive Antibody (PRA) Test or Pre-transplant cross-matching test"
+    },
+    {
+      "question": "What is organ transplant rejection?",
+      "answer": "Organ transplant rejection occurs when your immune system identifies the transplanted organ as foreign and attacks it. This can lead to complications or failure of the transplant, requiring additional medical procedures to manage or remove the transplanted organ."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

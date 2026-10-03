@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-rubella-german-measles-virus-igg-antibody-serum",
+  "test_name": "Rubella IgG Test",
+  "slug": "rubella-german-measles-virus-igg-antibody-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/rubella-german-measles-virus-igg-antibody-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rubella-german-measles-virus-igg-antibody-serum",
+  "page_title": "Rubella IgG Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Rubella IgG Test measure?",
+      "answer": "It detects rubella-specific IgG antibodies to confirm immunity from vaccination or past infection."
+    },
+    {
+      "question": "Is fasting required for the Rubella IgG Test?",
+      "answer": "Fasting not required; you can eat and drink normally before the test."
+    },
+    {
+      "question": "Who should take the Rubella IgG Test?",
+      "answer": "Women planning pregnancy, pregnant women, and individuals unsure about their vaccination status."
+    },
+    {
+      "question": "What does a positive Rubella IgG result mean?",
+      "answer": "It means you are immune to rubella and protected against infection."
+    },
+    {
+      "question": "What does a negative Rubella IgG result mean?",
+      "answer": "It indicates no immunity, and vaccination is advised."
+    },
+    {
+      "question": "Can rubella infection affect pregnancy?",
+      "answer": "Yes, infection during pregnancy can cause congenital rubella syndrome (CRS) in the baby."
+    },
+    {
+      "question": "How is the Rubella IgG Test performed?",
+      "answer": "A small blood sample is drawn from your arm and tested using the ECLIA method."
+    },
+    {
+      "question": "How long does it take to get the Rubella IgG Test report?",
+      "answer": "Reports are usually available within 8 hours after sample collection."
+    },
+    {
+      "question": "Can biotin supplements affect the Rubella IgG Test?",
+      "answer": "Yes, high doses of biotin can interfere with results; avoid for 8 hours before the test."
+    },
+    {
+      "question": "Is home sample collection available for the Rubella IgG Test?",
+      "answer": "Yes, Metropolis Healthcare offers home sample collection for this test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

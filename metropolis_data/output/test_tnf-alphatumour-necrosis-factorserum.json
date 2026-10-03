@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-tnf-alphatumour-necrosis-factorserum",
+  "test_name": "TNF Alpha Test",
+  "slug": "tnf-alphatumour-necrosis-factorserum",
+  "source_url": "https://www.metropolisindia.com/parameter/tnf-alphatumour-necrosis-factorserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tnf-alphatumour-necrosis-factorserum",
+  "page_title": "TNF Alpha Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the TNF Alpha Test detect?",
+      "answer": "It measures the amount of Tumour Necrosis Factor-alpha (TNF-\u03b1) in your blood, a marker of inflammation linked to autoimmune diseases, infection, and immune activity."
+    },
+    {
+      "question": "What does a high TNF Alpha level mean?",
+      "answer": "Elevated levels usually indicate ongoing inflammation due to autoimmune disease, infection, cancer, or organ rejection."
+    },
+    {
+      "question": "Do I need to fast before the TNF Alpha Test?",
+      "answer": "No fasting is required. You can eat and drink as usual before the test."
+    },
+    {
+      "question": "Can medications affect my TNF Alpha Test results?",
+      "answer": "Yes. Anti-inflammatory and immunosuppressive medications may alter TNF-alpha levels. Inform your doctor about all ongoing treatments."
+    },
+    {
+      "question": "Is the TNF Alpha Test used in cancer monitoring?",
+      "answer": "Yes. It helps assess tumour-related inflammation and monitor disease progression in some cancers."
+    },
+    {
+      "question": "Are there risks associated with the test?",
+      "answer": "Risks are minimal and similar to any blood test, including mild discomfort or bruising at the needle site."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

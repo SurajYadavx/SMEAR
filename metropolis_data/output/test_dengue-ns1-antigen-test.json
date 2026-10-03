@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-dengue-ns1-antigen-test",
+  "test_name": "Dengue NS1 Test",
+  "slug": "dengue-ns1-antigen-test",
+  "source_url": "https://www.metropolisindia.com/parameter/dengue-ns1-antigen-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dengue-ns1-antigen-test",
+  "page_title": "Book Dengue NS1 Antigen Test Online - Price, Normal Range and Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Minor bleeding, such as nosebleeds, bleeding gums, or easy bruising",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the dengue NS1 antigen test?",
+      "answer": "The best time is during the early acute phase, specifically from the first day of fever up to the 7th day of symptoms, when NS1 antigen concentration is highest."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the dengue NS1 antigen test, and for how long?",
+      "answer": "No, fasting is not required for the dengue NS1 test. You can eat and drink normally before giving your blood sample for this test."
+    },
+    {
+      "question": "Can dehydration affect my dengue NS1 antigen test results?",
+      "answer": "Dehydration doesn't directly affect NS1 results, but it's a serious dengue symptom. Stay well-hydrated as advised by your doctor for overall health management during illness."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the dengue NS1 antigen test?",
+      "answer": "No special dietary preparation is needed. However, inform your doctor about all medications, supplements, and herbal remedies you're taking for a complete clinical assessment."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the dengue NS1 antigen test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into a vein, collects blood, then removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal, similar to routine blood tests with slight pain, minor bruising, lightheadedness, or, rarely, infection at the puncture site. Overall, a very safe procedure."
+    },
+    {
+      "question": "What level of dengue NS1 antigen test is normal?",
+      "answer": "The test is qualitative, reporting as Negative (< 1 Ratio), which is normal, or Positive (\u2265 1 Ratio), indicating an active dengue infection requiring medical attention."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

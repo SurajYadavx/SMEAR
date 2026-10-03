@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-e2-estradiol-serum",
+  "test_name": "Estradiol (E2) Test",
+  "slug": "e2-estradiol-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/e2-estradiol-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/e2-estradiol-serum",
+  "page_title": "Estradiol (E2) Test - Price, Purpose, Procedure| Book Online",
+  "pricing": {
+    "selling_price": 750
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "High biotin dose (>5 mg/day) should be avoided at least 8 hrs before blood collection. Patients treated with Mifepristone should wait two weeks for testing.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the estradiol test?",
+      "answer": "For premenopausal women being evaluated for fertility, the test is often timed to day 2, 3, or 4 of the menstrual cycle to assess baseline hormone levels. For other purposes, your doctor will advise if specific timing is important."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the estradiol test, and for how long?",
+      "answer": "No, fasting is not required for the estradiol test. You can eat and drink normally before the test unless your doctor has ordered additional tests that require fasting."
+    },
+    {
+      "question": "Can dehydration affect my estradiol test results?",
+      "answer": "Severe dehydration can make your blood more concentrated, potentially leading to slightly inaccurate results. It's always good practice to stay well-hydrated before any blood test for optimal accuracy."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the estradiol test?",
+      "answer": "No special diet is needed before the test. However, inform your doctor about all medications, supplements, and herbal remedies you're taking, as birth control pills, hormone therapy, and certain other medications can directly affect your estradiol levels and test results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the estradiol test?",
+      "answer": "The procedure involves cleaning an area on your arm, inserting a small needle into a vein, and collecting blood into a vial. The entire process takes only a few minutes with minimal discomfort."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are very low, similar to any standard blood test. You might experience slight pain, minor bruising, or swelling at the puncture site. Serious complications like infection are extremely rare."
+    },
+    {
+      "question": "What level of estradiol test is normal?",
+      "answer": "Normal estradiol levels vary significantly based on age, gender, and menstrual cycle phase. For menstruating women, levels range from 12.4-233 pg/mL during the follicular phase to 41-398 pg/mL during ovulation. Post-menopausal women typically have levels of 5-138 pg/mL. Your doctor will interpret results based on your specific situation."
+    },
+    {
+      "question": "What is the estradiol test also known as?",
+      "answer": "The estradiol test is also commonly known as the E2 Test or 17 beta-estradiol Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

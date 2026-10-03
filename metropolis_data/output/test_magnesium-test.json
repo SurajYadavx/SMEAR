@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-magnesium-test",
+  "test_name": "Magnesium Test",
+  "slug": "magnesium-test",
+  "source_url": "https://www.metropolisindia.com/parameter/magnesium-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/magnesium-test",
+  "page_title": "Magnesium Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 560
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

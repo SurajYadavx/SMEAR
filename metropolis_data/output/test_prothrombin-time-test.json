@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-prothrombin-time-test",
+  "test_name": "PT INR Test",
+  "slug": "prothrombin-time-test",
+  "source_url": "https://www.metropolisindia.com/parameter/prothrombin-time-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/prothrombin-time-test",
+  "page_title": "PT INR Test - Price, Preparation and Home Collection | Book Online",
+  "pricing": {
+    "selling_price": 450
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Mention anticoagulant treatment history, drug dosage and any recent modifications. Maintain a consistent diet, especially vitamin K intake\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the PT INR test?",
+      "answer": "There is no specific best time of day for the PT INR test. However, if you're taking warfarin, maintain consistency by testing at roughly the same time for each monitoring appointment to ensure comparable results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the PT INR test, and for how long?",
+      "answer": "No, fasting is not required for the PT INR test. You can eat and drink normally before the test unless your doctor specifically instructs otherwise for additional tests being performed simultaneously."
+    },
+    {
+      "question": "Can dehydration affect my PT INR test results?",
+      "answer": "While mild dehydration typically doesn't significantly affect results, severe dehydration can concentrate your blood, potentially influencing clotting test outcomes. It's always good practice to stay well-hydrated before any blood test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the PT INR test?",
+      "answer": "Maintain a consistent diet, especially with vitamin K-rich foods like leafy greens. Inform your doctor about all medications, including over-the-counter drugs and supplements, as many can interfere with results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the PT INR test?",
+      "answer": "A healthcare professional ties a band around your upper arm, cleans the area, and inserts a small needle into a vein. Blood is collected into a special tube, and the entire process takes just a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any blood test. You may experience slight pain or bruising at the needle site. Serious complications, like dizziness or infection, are extremely rare."
+    },
+    {
+      "question": "What level of PT INR test is normal?",
+      "answer": "For healthy individuals not on blood thinners, the normal range of PT INR is 0.8-1.2, and PT is 9.4-12.5 seconds. For patients on warfarin therapy, the therapeutic INR range is typically 2.0-3.0 seconds."
+    },
+    {
+      "question": "What is the PT INR test also known as?",
+      "answer": "The PT INR test is also commonly known as the Prothrombin Time Test, Pro Time, or simply the PT Test. All these names refer to the same blood clotting assessment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

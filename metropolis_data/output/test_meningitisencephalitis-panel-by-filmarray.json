@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-meningitisencephalitis-panel-by-filmarray",
+  "test_name": "BioFire Meningitis/Encephalitis Panel Test",
+  "slug": "meningitisencephalitis-panel-by-filmarray",
+  "source_url": "https://www.metropolisindia.com/parameter/meningitisencephalitis-panel-by-filmarray",
+  "canonical_url": "https://www.metropolisindia.com/parameter/meningitisencephalitis-panel-by-filmarray",
+  "page_title": "Biofire Meningitis Panel Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 19240
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 34 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history and clinician details must be mentioned on the test requisition form (TRF)",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the BioFire Meningitis/Encephalitis Panel Test detect?",
+      "answer": "It detects 14 major bacterial, viral, and fungal pathogens that cause meningitis and encephalitis using a CSF sample."
+    },
+    {
+      "question": "How is the sample collected?",
+      "answer": "The test requires a cerebrospinal fluid (CSF) sample collected via lumbar puncture by a doctor."
+    },
+    {
+      "question": "How soon are the results available?",
+      "answer": "Results are available within approximately 10 hours after the sample is received at the lab."
+    },
+    {
+      "question": "Can this test identify both bacterial and viral causes?",
+      "answer": "Yes, it detects both bacterial and viral agents simultaneously using multiplex PCR."
+    },
+    {
+      "question": "Is fasting required before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can this test replace culture testing?",
+      "answer": "No, it complements culture tests and should be interpreted with clinical and laboratory findings."
+    },
+    {
+      "question": "Where can I book this test?",
+      "answer": "You can book the BioFire Meningitis/Encephalitis Panel Test through Metropolis Healthcare online or at your nearest lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

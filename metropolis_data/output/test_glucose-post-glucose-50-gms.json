@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-glucose-post-glucose-50-gms",
+  "test_name": "Glucose Post Glucose (50g)",
+  "slug": "glucose-post-glucose-50-gms",
+  "source_url": "https://www.metropolisindia.com/parameter/glucose-post-glucose-50-gms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/glucose-post-glucose-50-gms",
+  "page_title": "Glucose Post Glucose (50g) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 85
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "metro-test-minerals-profile-hair",
+  "test_name": "Minerals Profile, Hair is not available in your location",
+  "slug": "minerals-profile-hair",
+  "source_url": "https://www.metropolisindia.com/parameter/minerals-profile-hair",
+  "canonical_url": "https://www.metropolisindia.com/parameter/minerals-profile-hair",
+  "page_title": "Pathology lab and Diagnostic Centre for Blood test in India - Metropolis Healthcare",
+  "pricing": {},
+  "specimen": "Hair is not available in your location",
+  "fasting": null,
+  "report_time": null,
+  "gender": null,
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "not_available_in_pune"
+}

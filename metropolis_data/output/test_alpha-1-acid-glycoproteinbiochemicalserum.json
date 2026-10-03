@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alpha-1-acid-glycoproteinbiochemicalserum",
+  "test_name": "Alpha 1 Acid Glycoprotein, Serum",
+  "slug": "alpha-1-acid-glycoproteinbiochemicalserum",
+  "source_url": "https://www.metropolisindia.com/parameter/alpha-1-acid-glycoproteinbiochemicalserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alpha-1-acid-glycoproteinbiochemicalserum",
+  "page_title": "Alpha 1 Acid Glycoprotein, Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2445
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-bicarbonate-test-total-co2-test",
+  "test_name": "Bicarbonate Test - Serum",
+  "slug": "bicarbonate-test-total-co2-test",
+  "source_url": "https://www.metropolisindia.com/parameter/bicarbonate-test-total-co2-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bicarbonate-test-total-co2-test",
+  "page_title": "Bicarbonate Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 650
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take test_name?",
+      "answer": "This is the Bicarbonates test"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This is the Bicarbonates test"
+    },
+    {
+      "question": "More Info on test_name",
+      "answer": "This is the Bicarbonates test"
+    },
+    {
+      "question": "What does the bicarbonate test measure?",
+      "answer": "It measures the level of bicarbonate in your blood to evaluate your body\u2019s acid-base balance."
+    },
+    {
+      "question": "Do I need to fast before the bicarbonate test?",
+      "answer": "No fasting is required before this test."
+    },
+    {
+      "question": "Can I take my regular medications before the test?",
+      "answer": "Yes, but inform your doctor about any medicines, especially diuretics or corticosteroids."
+    },
+    {
+      "question": "What does a low bicarbonate result indicate?",
+      "answer": "Low levels may indicate kidney disease, diabetic ketoacidosis, or metabolic acidosis."
+    },
+    {
+      "question": "What does a high bicarbonate result indicate?",
+      "answer": "High levels may suggest metabolic alkalosis or lung disease such as"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

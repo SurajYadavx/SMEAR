@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-calcium-test",
+  "test_name": "Serum Calcium Test",
+  "slug": "calcium-test",
+  "source_url": "https://www.metropolisindia.com/parameter/calcium-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calcium-test",
+  "page_title": "Ionised Calcium Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 690
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

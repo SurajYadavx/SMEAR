@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-gfr-with-cystatin-c-serum",
+  "test_name": "GFR With Cystatin C Serum",
+  "slug": "gfr-with-cystatin-c-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/gfr-with-cystatin-c-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gfr-with-cystatin-c-serum",
+  "page_title": "Cystatin C Serum Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

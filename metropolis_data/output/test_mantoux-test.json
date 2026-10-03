@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-mantoux-test",
+  "test_name": "Mantoux Test",
+  "slug": "mantoux-test",
+  "source_url": "https://www.metropolisindia.com/parameter/mantoux-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mantoux-test",
+  "page_title": "Mantoux Test Price - Normal Range, Procedure and Results | Book Online",
+  "pricing": {
+    "selling_price": 255
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 3 days (ert 5:00pm)",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Mantoux test?",
+      "answer": "There's no specific best time of day for the test. However, you must be available to return within 72 hours for result reading, so schedule accordingly for your convenience."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Mantoux test, and for how long?",
+      "answer": "No fasting is required for the Mantoux test. You can eat and drink normally before the procedure, as food intake doesn't affect the skin reaction results."
+    },
+    {
+      "question": "Can dehydration affect my Mantoux test results?",
+      "answer": "Dehydration doesn't affect Mantoux test results. The test measures a localised immune reaction in your skin, which isn't influenced by your body's overall hydration status."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Mantoux test?",
+      "answer": "No special diet is needed. However, inform your doctor about all medications, especially immunosuppressant drugs like steroids or chemotherapy, as they may affect test accuracy."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Mantoux test?",
+      "answer": "The Mantoux test doesn't involve a blood draw. A small amount of tuberculin fluid is injected just under the skin using a tiny needle, creating a small bump."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The test is very safe with minimal risks. Common mild effects include redness, itching, or minor swelling at the injection site. Severe allergic reactions are extremely rare."
+    },
+    {
+      "question": "What level of Mantoux test is normal?",
+      "answer": "A negative result (<5 mm induration) usually indicates no TB infection but may occur in immunosuppressed individuals or those with recent TB exposure. Positive results (\u226510 mm) suggest TB exposure and require further medical evaluation for appropriate treatment decisions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

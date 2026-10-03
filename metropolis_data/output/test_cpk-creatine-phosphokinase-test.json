@@ -1,0 +1,66 @@
+{
+  "id": "metro-test-cpk-creatine-phosphokinase-test",
+  "test_name": "CPK Test (Creatine Phosphokinase Test)",
+  "slug": "cpk-creatine-phosphokinase-test",
+  "source_url": "https://www.metropolisindia.com/parameter/cpk-creatine-phosphokinase-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cpk-creatine-phosphokinase-test",
+  "page_title": "CPK Test Price (Creatine Phosphokinase Test) | Book Online",
+  "pricing": {
+    "selling_price": 490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Avoid strenuous exercise 24-48 hours before test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take test_name?",
+      "answer": "This is the CPK test"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This is the CPK test"
+    },
+    {
+      "question": "More Info on test_name",
+      "answer": "This is the CPK test"
+    },
+    {
+      "question": "What is the best time to take the CPK test?",
+      "answer": "There is no specific best time of day for the CPK test. You can have the test done at any time as advised by your doctor, since CPK levels are not significantly affected by daily cycles or time variations."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the CPK test, and for how long?",
+      "answer": "No, fasting is generally not required for the CPK test. You can eat and drink normally before the test unless your doctor specifically instructs otherwise, perhaps because other tests requiring fasting are being done simultaneously."
+    },
+    {
+      "question": "Can dehydration affect my CPK test results?",
+      "answer": "Yes, severe dehydration can cause mild to moderate increases in CPK levels. Dehydration puts stress on your body's cells, including muscle cells, potentially causing minor damage and enzyme leakage. Stay well-hydrated before testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the CPK test?",
+      "answer": "Avoid strenuous exercise for 24-48 hours before testing. No special dietary preparations are needed. Inform your doctor about all medications and supplements, especially statins, as some drugs can elevate CPK levels temporarily."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the CPK test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a small needle into a vein, collects blood in a vial, removes the needle, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood draw: slight pain or stinging, minor bruising or swelling, rare lightheadedness, and very rare infection at the puncture site. Most people experience no complications."
+    },
+    {
+      "question": "What level of CPK test is normal?",
+      "answer": "Based on laboratory standards, normal CPK levels are typically less than 149 CU/L. However, normal ranges can vary based on age, gender, muscle mass, and laboratory methods. Always speak to your doctor for correct interpretations."
+    },
+    {
+      "question": "What is the CPK test also known as?",
+      "answer": "The CPK test is also known as Creatine Kinase Test (CK Test), Total CK, or Creatine Phosphokinase Test. These names are used interchangeably, as they all measure the same enzyme in your blood."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

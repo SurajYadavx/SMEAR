@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-hiv-1-drug-resistance-test",
+  "test_name": "HIV-1 Drug Resistance Test",
+  "slug": "hiv-1-drug-resistance-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-1-drug-resistance-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-1-drug-resistance-test",
+  "page_title": "HIV Drug Resistance Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 19970
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "16th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

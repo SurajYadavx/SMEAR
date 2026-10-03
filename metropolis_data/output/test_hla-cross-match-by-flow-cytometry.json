@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-cross-match-by-flow-cytometry",
+  "test_name": "HLA Cross-match by Flow Cytometry",
+  "slug": "hla-cross-match-by-flow-cytometry",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-cross-match-by-flow-cytometry",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-cross-match-by-flow-cytometry",
+  "page_title": "HLA Cross Match By Flow Cytometry Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7100
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does HLA cross-match by Flow cytometry measure?",
+      "answer": "HLA cross-match by flow cytometry measures the surface markers present on your immune cells called human leucocyte antigens (HLA) that help identify self-cells from foreign cells."
+    },
+    {
+      "question": "Why is HLA cross-match by Flow cytometry done?",
+      "answer": "\u2022 To assess the compatibility of a donor's and recipient's immune system before an organ transplantation \u2022 To monitor the effectiveness of immunosuppressive therapy after a transplant \u2022 To detect and diagnose autoimmune disorders like diabetes, rheumatoid arthritis, celiac disease, etc. \u2022 To investigate transfusion reactions, when blood products can trigger an adverse immune response"
+    },
+    {
+      "question": "When is HLA cross-match recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you \u2022 are scheduled for an organ transplant, \u2022 have symptoms or a family history of autoimmune disorders, or \u2022 experience transfusion reactions or complications after blood transfusions."
+    },
+    {
+      "question": "What if the results of the HLA cross-match are abnormal?",
+      "answer": "The results of the HLA cross-match can be either compatible or incompatible between the donor and recipient. If it's incompatible, it may result in the rejection of an organ transplant or immune-mediated complications."
+    },
+    {
+      "question": "What to expect during the HLA cross-match?",
+      "answer": "\u2022 Blood samples will be collected from both the recipient and donor. \u2022 The samples will be processed in the laboratory through flow cytometry."
+    },
+    {
+      "question": "What preparations are required before the HLA cross-match?",
+      "answer": "\u2022 Avoid medications that can interfere with your test results. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with HLA cross-match?",
+      "answer": "\u2022 Complete Blood Count (CBC) \u2022 Serum creatinine levels \u2022 Liver function tests \u2022 Additional HLA testing, such as HLA typing"
+    },
+    {
+      "question": "What is the HLA cross-match by Flow cytometry also known as?",
+      "answer": "Histocompatibility testing or HLA compatibility testing"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure where an organ from one person (donor) is transplanted into another person's (recipient) body to replace a damaged or diseased organ. Common examples include liver, kidney, heart, lungs or pancreas transplants."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

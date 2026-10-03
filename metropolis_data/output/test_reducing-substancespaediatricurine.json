@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-reducing-substancespaediatricurine",
+  "test_name": "Reducing Substances Paediatric, Urine",
+  "slug": "reducing-substancespaediatricurine",
+  "source_url": "https://www.metropolisindia.com/parameter/reducing-substancespaediatricurine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/reducing-substancespaediatricurine",
+  "page_title": "Reducing Substances Paediatric, Urine \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 160
+  },
+  "specimen": "Urine",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

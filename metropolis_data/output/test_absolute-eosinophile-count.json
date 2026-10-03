@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-absolute-eosinophile-count",
+  "test_name": "Absolute Eosinophile Count",
+  "slug": "absolute-eosinophile-count",
+  "source_url": "https://www.metropolisindia.com/parameter/absolute-eosinophile-count",
+  "canonical_url": "https://www.metropolisindia.com/parameter/absolute-eosinophile-count",
+  "page_title": "Absolute Eosinophile Count \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 205
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

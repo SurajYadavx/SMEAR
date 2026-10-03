@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-hdl-cholesterol-test",
+  "test_name": "HDL Cholesterol Direct Serum Test",
+  "slug": "hdl-cholesterol-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hdl-cholesterol-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hdl-cholesterol-test",
+  "page_title": "HDL Cholesterol Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 300
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

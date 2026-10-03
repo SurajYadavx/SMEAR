@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cancer-marker-profile-gall-bladder",
+  "test_name": "Cancer marker profile (Gall Bladder)",
+  "slug": "cancer-marker-profile-gall-bladder",
+  "source_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-gall-bladder",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-gall-bladder",
+  "page_title": "Gall Bladder Cancer Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1665
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

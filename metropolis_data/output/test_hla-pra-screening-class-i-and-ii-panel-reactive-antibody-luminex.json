@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-pra-screening-class-i-and-ii-panel-reactive-antibody-luminex",
+  "test_name": "PRA Screening Test (Panel Reactive Antibody)",
+  "slug": "hla-pra-screening-class-i-and-ii-panel-reactive-antibody-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-pra-screening-class-i-and-ii-panel-reactive-antibody-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-pra-screening-class-i-and-ii-panel-reactive-antibody-luminex",
+  "page_title": "PRA Screening Test -  Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6675
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Panel Reactive Antibody (PRA) Screening measure?",
+      "answer": "This test measures the presence of class I and class II antibodies in your blood."
+    },
+    {
+      "question": "Why is PRA Screening done?",
+      "answer": "\u2022 To evaluate the compatibility between an organ donor and recipient prior to transplantation \u2022 To assess the level of sensitisation and reduce the risk of organ rejection due to pre-existing antibodies present in the recipient's blood"
+    },
+    {
+      "question": "When is PRA Screening recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if \u2022 you are a candidate for organ transplantation or have previously received a transplant, or \u2022 you have been exposed to blood transfusions, pregnancies, or previous transplants."
+    },
+    {
+      "question": "What if the results of PRA Screening are abnormal?",
+      "answer": "Increased levels of class I and/or class II antibodies suggest a higher risk of organ rejection due to pre-existing antibodies."
+    },
+    {
+      "question": "What to expect during PRA Screening?",
+      "answer": "During this test, a blood sample will be collected from you. The sample will be sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before PRA Screening?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are currently taking. Also, tell them if you have any specific requirements. \u2022 Follow your doctor's instructions and inform them about any recent blood transfusions, pregnancies, or previous transplants."
+    },
+    {
+      "question": "What other tests may be ordered with PRA Screening?",
+      "answer": "\u2022 Human Leucocyte Antigen (HLA) typing: This test determines the specific genetic markers present on your cells, aiding in transplant matching. \u2022 Crossmatch test: This test assesses the compatibility between your antibodies and the potential donor's cells. \u2022 Transplant workup tests: These tests evaluate your overall health, including kidney and liver function, to ensure successful transplantation."
+    },
+    {
+      "question": "What is the Panel Reactive Antibody (PRA) Screening also known as?",
+      "answer": "Panel Reactive Antibody testing"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure that involves replacing a diseased or failing organ with a healthy one from a donor. It is primarily performed to treat conditions such as kidney, liver, heart, or lung failure. Transplantation offers improved quality of life and increased survival rates for eligible patients."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

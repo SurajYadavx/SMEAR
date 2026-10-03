@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-bilirubin-direct",
+  "test_name": "Bilirubin Direct Serum Test",
+  "slug": "bilirubin-direct",
+  "source_url": "https://www.metropolisindia.com/parameter/bilirubin-direct",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bilirubin-direct",
+  "page_title": "Book Direct bilirubin test at your nearest Lab - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 195
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

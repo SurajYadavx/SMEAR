@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodpapayacarica-papaya",
+  "test_name": "Allergen, Individual-Food Papaya Carica Papaya",
+  "slug": "allergenindividual-foodpapayacarica-papaya",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpapayacarica-papaya",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpapayacarica-papaya",
+  "page_title": "Papaya Allergy Treatment Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": "Individual-Food Papaya Carica Papaya",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-smear-examination-fluorescent-stain-body-fluid-mi-ba-fm",
+  "test_name": "AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid",
+  "slug": "afb-smear-examination-fluorescent-stain-body-fluid-mi-ba-fm",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-fluorescent-stain-body-fluid-mi-ba-fm",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-fluorescent-stain-body-fluid-mi-ba-fm",
+  "page_title": "AFB Smear Examination Body Fluid Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 445
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid measure?",
+      "answer": "The AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid tests for the presence of Mycobacterium tuberculosis in body fluid samples."
+    },
+    {
+      "question": "Why is the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid done?",
+      "answer": "\u2022 To diagnose active tuberculosis infection \u2022 To monitor the effectiveness of TB treatment \u2022 To identify drug-resistant strains of Mycobacterium tuberculosis \u2022 To confirm a diagnosis of extrapulmonary tuberculosis, affecting organs other than the lungs"
+    },
+    {
+      "question": "When is the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you \u2022 Show symptoms of tuberculosis, such as persistent cough, weight loss, night sweats, and fatigue. \u2022 Have been in close contact with someone diagnosed with TB. \u2022 Have a weakened immune system or a medical condition that increases your risk of developing TB."
+    },
+    {
+      "question": "What if the results of the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid are abnormal?",
+      "answer": "The normal result for this test is the absence of acid-fast bacilli (AFB) in your body fluid sample. If AFB are detected, it may indicate an active tuberculosis infection."
+    },
+    {
+      "question": "What to expect during the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid?",
+      "answer": "\u2022 You will provide a body fluid sample of 2ml, such as pleural fluid or cerebrospinal fluid. \u2022 The sample will be stained with a fluorescent dye and examined under a microscope."
+    },
+    {
+      "question": "What preparations are required before the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid?",
+      "answer": "To prepare for this test: \u2022 Your doctor may request relevant clinical information, such as symptoms and medical history/ \u2022 It is important to provide a sterile, leak-proof container with 2ml of body fluid. \u2022 Follow any specific instructions from your doctor regarding fasting or discontinuation of medications, if applicable. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid?",
+      "answer": "Other tests that may be ordered alongside the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid include: \u2022 Mycobacterial culture: This test helps identify the specific strain of Mycobacterium tuberculosis and determine its drug susceptibility. \u2022 GeneXpert MTB/RIF assay: This is a molecular test that rapidly detects TB infection and can identify resistance to the antibiotic rifampicin."
+    },
+    {
+      "question": "What is the AFB-Smear Examination by Fluorescent Stain \u2013 Body Fluid also known as?",
+      "answer": "AFB smear test, AFB fluorescence staining for body fluids"
+    },
+    {
+      "question": "What is tuberculosis (TB)?",
+      "answer": "Tuberculosis (TB) is a contagious bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also spread to other parts of the body, such as the brain, spine, and kidneys. TB is transmitted through droplets when an infected person coughs or sneezes."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

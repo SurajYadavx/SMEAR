@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-amh-premium",
+  "test_name": "AMH Premium Test",
+  "slug": "amh-premium",
+  "source_url": "https://www.metropolisindia.com/parameter/amh-premium",
+  "canonical_url": "https://www.metropolisindia.com/parameter/amh-premium",
+  "page_title": "Amh Plus Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

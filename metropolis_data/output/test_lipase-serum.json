@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-lipase-serum",
+  "test_name": "Lipase Test",
+  "slug": "lipase-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/lipase-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lipase-serum",
+  "page_title": "Lipase Test - Price, Range, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 700
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the lipase test?",
+      "answer": "There is no specific best time of day for the lipase test. It is usually performed immediately when you show sudden, severe symptoms of pancreatic disorders, such as intense abdominal pain, as it is often an emergency procedure."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the lipase test, and for how long?",
+      "answer": "Yes, a fasting of 8-12 hours is required for this test. However, consult your doctor for specific details."
+    },
+    {
+      "question": "Can dehydration affect my lipase test results?",
+      "answer": "Dehydration itself does not directly cause high lipase levels. However, conditions causing high lipase, like acute pancreatitis, often lead to dehydration through vomiting and fluid loss, so dehydration appears alongside elevated lipase rather than causing it."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the lipase test?",
+      "answer": "Inform your doctor about all medicines, vitamins, and supplements you take. Certain medications like painkillers, birth control pills, and blood pressure medicines can affect lipase levels, but never stop prescribed medications without medical advice."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the lipase test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band above the collection site, inserts a small needle into a vein, collects blood in a vial, removes the needle, and applies a bandage. The entire process takes just a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are very minor, similar to any routine blood draw. You may experience slight pain when the needle is inserted, minor bruising at the site, or feel lightheaded momentarily. Serious complications like infection are extremely rare."
+    },
+    {
+      "question": "What level of lipase test is normal?",
+      "answer": "The normal range for lipase is typically 13-60 U/L. In acute pancreatitis, lipase levels are often 3-10 times higher than the upper normal limit. Always speak to your doctor for the exact interpretation."
+    },
+    {
+      "question": "What is the lipase test also known as?",
+      "answer": "The lipase test is also known as Serum Lipase, Lipase Serum Test, or may be abbreviated as LPS. These terms all refer to the same blood test that measures lipase enzyme levels."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

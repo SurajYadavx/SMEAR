@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ecp-eosinophil-cationic-protein",
+  "test_name": "ECP (Eosinophil Cationic Protein)",
+  "slug": "ecp-eosinophil-cationic-protein",
+  "source_url": "https://www.metropolisindia.com/parameter/ecp-eosinophil-cationic-protein",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ecp-eosinophil-cationic-protein",
+  "page_title": "Ecp Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1560
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 days (ert 5:00pm)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-treponema-pallidium-passive-particle-agglutination",
+  "test_name": "TPPA Test for Syphilis",
+  "slug": "treponema-pallidium-passive-particle-agglutination",
+  "source_url": "https://www.metropolisindia.com/parameter/treponema-pallidium-passive-particle-agglutination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/treponema-pallidium-passive-particle-agglutination",
+  "page_title": "Coombs Test, Indirect Antiglobulin Test (IAT) \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the TPPA Test detect?",
+      "answer": "It detects antibodies against Treponema pallidum, the bacterium that causes syphilis."
+    },
+    {
+      "question": "Is the TPPA Test confirmatory for syphilis?",
+      "answer": "Yes, it is used as a confirmatory test after an initial screening test like VDRL or RPR."
+    },
+    {
+      "question": "Do I need to fast before the TPPA Test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "What does a positive TPPA Test mean?",
+      "answer": "A positive result indicates current or past syphilis infection."
+    },
+    {
+      "question": "Can a TPPA Test detect very early syphilis?",
+      "answer": "It may not detect infection in the early stages, so follow-up testing is sometimes needed."
+    },
+    {
+      "question": "Can the TPPA Test remain positive after treatment?",
+      "answer": "Yes, antibodies can remain detectable for life, even after successful treatment."
+    },
+    {
+      "question": "Is TPPA the same as TPHA?",
+      "answer": "They are similar; both detect Treponema pallidum antibodies using agglutination techniques."
+    },
+    {
+      "question": "What are other related tests for syphilis?",
+      "answer": "Related tests include RPR, VDRL, and Syphilis Total Antibody (IgM/IgG) tests."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

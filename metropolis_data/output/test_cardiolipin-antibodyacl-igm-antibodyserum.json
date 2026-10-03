@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-cardiolipin-antibodyacl-igm-antibodyserum",
+  "test_name": "Cardiolipin ACL-IgM Antibody Serum",
+  "slug": "cardiolipin-antibodyacl-igm-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/cardiolipin-antibodyacl-igm-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cardiolipin-antibodyacl-igm-antibodyserum",
+  "page_title": "Cardiolipin Acl Igm Antibody Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What do high Cardiolipin IgM levels indicate?",
+      "answer": "High Cardiolipin IgM levels suggest the presence of autoimmune activity, which may increase the risk of blood clots and pregnancy loss, often linked to Antiphospholipid Syndrome (APS) or lupus."
+    },
+    {
+      "question": "Can I eat before a Cardiolipin Antibody Test?",
+      "answer": "Yes, fasting is not required. You may eat and drink as usual before the test."
+    },
+    {
+      "question": "What other tests are done along with the Cardiolipin Antibody Test?",
+      "answer": "Doctors may recommend Beta-2-Glycoprotein IgG Antibody, Lupus Anticoagulant Test, or other autoimmune screening tests for complete evaluation."
+    },
+    {
+      "question": "How is the blood sample collected for this test?",
+      "answer": "A trained professional ties a tourniquet on your arm, cleans the site, and draws about 3 ml of blood into a gel vacutainer for testing."
+    },
+    {
+      "question": "Are there any risks associated with this test?",
+      "answer": "The risks are minimal. You may feel slight pain or bruising at the puncture site, which usually resolves quickly."
+    },
+    {
+      "question": "What is considered a normal result for this test?",
+      "answer": "A result below 15 MPL U/mL is considered normal, indicating no significant autoimmune antibody activity."
+    },
+    {
+      "question": "Can temporary illness affect my Cardiolipin Antibody levels?",
+      "answer": "Yes, temporary infections or inflammatory conditions can cause short-term rises in antibody levels. Persistent positivity confirmed after 12 weeks is considered clinically significant."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

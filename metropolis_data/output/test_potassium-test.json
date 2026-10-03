@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-potassium-test",
+  "test_name": "Potassium Test",
+  "slug": "potassium-test",
+  "source_url": "https://www.metropolisindia.com/parameter/potassium-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/potassium-test",
+  "page_title": "Potassium Test - Price, Normal Range, Purpose, Procedure | Book Online",
+  "pricing": {
+    "selling_price": 250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation is required unless it is part of a larger panel.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the potassium test?",
+      "answer": "There is no specific best time of day for a potassium test. You can take it at any time unless it's part of a larger panel requiring fasting."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the potassium test, and for how long?",
+      "answer": "Fasting is generally not required for a standalone potassium test. However, if included in a comprehensive metabolic panel, 8-12 hours of fasting may be needed."
+    },
+    {
+      "question": "Can dehydration affect my potassium test results?",
+      "answer": "Yes, dehydration can increase the concentration of substances in your blood, including potassium, potentially leading to falsely elevated readings that don't reflect your true levels."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the potassium test?",
+      "answer": "No special dietary preparations are needed. However, inform your doctor about all medications, as diuretics and blood pressure medicines can significantly impact potassium levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the potassium test?",
+      "answer": "A healthcare professional cleans your arm, uses a tourniquet to make veins visible, inserts a needle to collect blood, then removes it and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and include slight pain from the needle prick, minor bruising, or swelling at the puncture site. Serious complications are extremely rare."
+    },
+    {
+      "question": "What level of potassium test is normal?",
+      "answer": "The normal range for serum potassium is typically 3.5-5.1 mmol/L. Values slightly outside this range may not immediately indicate a problem, but significant deviations can lead to symptoms and require further investigation."
+    },
+    {
+      "question": "What is the potassium test also known as?",
+      "answer": "The test is also known as the Potassium ISE Serum Test, the Potassium Serum, the K Test, the Serum K, or as part of an Electrolyte Panel or Basic Metabolic Panel."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

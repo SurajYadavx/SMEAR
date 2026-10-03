@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-beta-2-glycoprotein-iigm-antibodyserum",
+  "test_name": "Beta-2-Glycoprotein 1 - IgM Antibody Serum",
+  "slug": "beta-2-glycoprotein-iigm-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/beta-2-glycoprotein-iigm-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/beta-2-glycoprotein-iigm-antibodyserum",
+  "page_title": "Anti B2 Glycoprotein 1 Igm Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required; inform your doctor about ongoing medications",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Beta-2-Glycoprotein 1 IgM Antibody Test detect?",
+      "answer": "It detects IgM antibodies that attack beta-2 glycoprotein 1, helping diagnose Antiphospholipid Syndrome."
+    },
+    {
+      "question": "Why is this test important?",
+      "answer": "It helps identify autoimmune conditions that increase blood clot or miscarriage risk."
+    },
+    {
+      "question": "Is fasting required before this test?",
+      "answer": "Fasting is not required."
+    },
+    {
+      "question": "Can this test confirm Antiphospholipid Syndrome?",
+      "answer": "The test supports diagnosis but must be combined with clinical findings and repeat testing."
+    },
+    {
+      "question": "Can infections affect the test result?",
+      "answer": "Yes, infections may cause temporary antibody elevation; repeat testing may be needed."
+    },
+    {
+      "question": "How is the test performed?",
+      "answer": "A simple blood sample is collected and analysed using Chemiluminescence Immunoassay (CLIA)."
+    },
+    {
+      "question": "Is home sample collection available for this test?",
+      "answer": "Home collection is not available; visit the nearest Metropolis Lab for accurate testing."
+    },
+    {
+      "question": "What happens if my result is positive?",
+      "answer": "Your doctor may repeat the test after 12 weeks and perform additional tests to confirm diagnosis and guide treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

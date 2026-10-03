@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-cmv-quantitative-viral-load-by-real-time-pcr-plasma",
+  "test_name": "CMV PCR Quantitative Test - Viral load by Real time PCR Plasma",
+  "slug": "cmv-quantitative-viral-load-by-real-time-pcr-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/cmv-quantitative-viral-load-by-real-time-pcr-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cmv-quantitative-viral-load-by-real-time-pcr-plasma",
+  "page_title": "CMV PCR Quantitative Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8700
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CMV PCR Test detect?",
+      "answer": "It detects and measures the DNA of Cytomegalovirus in your blood to confirm and monitor infection."
+    },
+    {
+      "question": "Is fasting required before the CMV PCR Test?",
+      "answer": "No, fasting is not necessary for this test."
+    },
+    {
+      "question": "What does a high CMV viral load mean?",
+      "answer": "A high viral load indicates an active or progressing CMV infection requiring prompt medical attention."
+    },
+    {
+      "question": "Who should get a CMV PCR Test done?",
+      "answer": "It is recommended for transplant patients, immunocompromised individuals, pregnant women, and newborns suspected of CMV infection."
+    },
+    {
+      "question": "How is the CMV PCR Test performed?",
+      "answer": "A small blood sample is collected and analysed using Real Time PCR to detect and measure CMV DNA."
+    },
+    {
+      "question": "Can I get my CMV PCR Test report online?",
+      "answer": "Yes, your report can be accessed via the Metropolis Healthcare website, app, email, or WhatsApp."
+    },
+    {
+      "question": "When should I consider repeating the CMV PCR Test?",
+      "answer": "If you are undergoing antiviral treatment or monitoring post-transplant infection, repeat testing helps track changes in viral load."
+    },
+    {
+      "question": "Are there any risks to the CMV PCR Test?",
+      "answer": "Risks are minimal and limited to slight discomfort or bruising at the blood draw site."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

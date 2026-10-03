@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-cortisolcliaserum",
+  "test_name": "Cortisol Test",
+  "slug": "cortisolcliaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/cortisolcliaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cortisolcliaserum",
+  "page_title": "Cortisol Test Price - Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 750
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "High biotin dose (>5 mg/day) should be avoided at least 8 hours before blood collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the cortisol test?",
+      "answer": "The best time for a cortisol test is early morning, around 8 AM, when your cortisol levels naturally peak. This timing provides the most accurate assessment of your adrenal gland function."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the cortisol test, and for how long?",
+      "answer": "No, overnight fasting is not required for the cortisol test. You can eat and drink normally before your appointment, though you should follow any specific instructions from your doctor."
+    },
+    {
+      "question": "Can dehydration affect my cortisol test results?",
+      "answer": "Yes, dehydration can temporarily increase cortisol levels as it creates physical stress on your body. It's important to stay well-hydrated before your test for accurate results that reflect your baseline cortisol status."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the cortisol test?",
+      "answer": "Inform your doctor about all medications, especially steroids, oestrogen, and anticonvulsants. Avoid high-dose biotin supplements for at least 8 hours before testing. No specific dietary restrictions are needed for this test."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the cortisol test?",
+      "answer": "The procedure involves cleaning your arm, tying a band to make veins visible, inserting a small needle to collect blood, and applying pressure afterward. The entire process takes just a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood test. You may experience slight pain, minor bruising, or dizziness. Serious complications like infection are extremely rare with proper sterile technique."
+    },
+    {
+      "question": "What level of cortisol test is normal?",
+      "answer": "Normal cortisol levels for an 8 AM blood test typically range from 5-23 \u03bcg/dL. Speak to your doctor for accurate result interpretations."
+    },
+    {
+      "question": "What is the cortisol test also known as?",
+      "answer": "The cortisol test may also be called Serum Cortisol, Plasma Cortisol, Cortisol Blood Test, or Morning Cortisol Test, depending on the specific type and timing of the sample collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

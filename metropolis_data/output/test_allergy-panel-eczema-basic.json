@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-panel-eczema-basic",
+  "test_name": "Allergy - Common Eczema Panel",
+  "slug": "allergy-panel-eczema-basic",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-panel-eczema-basic",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-panel-eczema-basic",
+  "page_title": "Eczema Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7540
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 8 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-food-intolerance-test",
+  "test_name": "Food Intolerance Test",
+  "slug": "food-intolerance-test",
+  "source_url": "https://www.metropolisindia.com/parameter/food-intolerance-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/food-intolerance-test",
+  "page_title": "Food Intolerance Test - Price, Procedure, Normal Range and Results | Book Online",
+  "pricing": {
+    "selling_price": 16000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Food Intolerance Test?",
+      "answer": "You can take the Food Intolerance Test at any time of the day as no fasting is required. The test measures IgG antibodies which remain stable throughout the day, making timing flexible for your convenience."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Food Intolerance Test, and for how long?",
+      "answer": "No, overnight fasting is not mandatory for the Food Intolerance Test. You can eat and drink normally before the test as it measures IgG antibodies that are not affected by recent food intake."
+    },
+    {
+      "question": "Can dehydration affect my Food Intolerance Test results?",
+      "answer": "Yes, severe dehydration can concentrate blood components and potentially affect test results. It's recommended to stay well-hydrated before your blood draw to ensure accurate measurements of IgG antibody levels in your sample."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Food Intolerance Test?",
+      "answer": "No special dietary changes or medication adjustments are needed before the test. Continue your regular diet and medications unless specifically advised otherwise by your healthcare provider to ensure accurate baseline measurements."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Food Intolerance Test?",
+      "answer": "A trained phlebotomist cleans the injection site, typically inside your elbow, and inserts a sterile needle to collect 5 ml of blood into a gel vacutainer. The procedure takes just a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The Food Intolerance Test carries minimal risks similar to any blood draw, including slight pain, bruising at the needle site, or rare dizziness. The procedure is safe when performed by trained professionals."
+    },
+    {
+      "question": "What level of Food Intolerance Test is normal?",
+      "answer": "Normal levels are below 24 IU/ml for IgG antibodies. Borderline levels range from 24-30 IU/ml, while elevated levels above 30 IU/ml indicate stronger reactions requiring dietary modifications and food elimination strategies."
+    },
+    {
+      "question": "What is Food Intolerance Test also known as?",
+      "answer": "The Food Intolerance Test is also known as Food Sensitivity Test, Food IgG Test, or Delayed Food Hypersensitivity Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-beta-2-crosslapsctx-1plasma",
+  "test_name": "CTX Test - Beta-2-Crosslaps CTx-1 Plasma",
+  "slug": "beta-2-crosslapsctx-1plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/beta-2-crosslapsctx-1plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/beta-2-crosslapsctx-1plasma",
+  "page_title": "CTX Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2690
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

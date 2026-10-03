@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-cll-prognosticationrisk-stratification-gene-panel",
+  "test_name": "CLL Prognostication/Risk Stratification Gene Panel - EDTA Whole Blood",
+  "slug": "cll-prognosticationrisk-stratification-gene-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/cll-prognosticationrisk-stratification-gene-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cll-prognosticationrisk-stratification-gene-panel",
+  "page_title": "CLL (Chronic Lymphocytic Leukemia) Prognostication Gene Panel Test Price",
+  "pricing": {
+    "selling_price": 17680
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "21st day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does CLL Prognostication Gene Panel measure?",
+      "answer": "CLL Prognostication Gene Panel analyzes specific genes associated with CLL that helps in predicting disease progression, treatment response, and overall patient outcomes."
+    },
+    {
+      "question": "Why is CLL Prognostication Gene Panel done?",
+      "answer": "\u2022 To assess the risk stratification and prognosis of CLL \u2022 To guide treatment decisions by identifying high-risk patients who may require more aggressive therapies \u2022 To determine eligibility for clinical trials or targeted therapies based on specific gene mutations"
+    },
+    {
+      "question": "When is CLL Prognostication Gene Panel recommended and who should take the test?",
+      "answer": "CLL Prognostication Gene Panel is recommended for individuals with \u2022 newly diagnosed CLL to evaluate risk stratification and determine appropriate treatment plans, \u2022 recurring or persistent CLL to assess disease progression and guide further therapeutic interventions, or \u2022 high-risk features such as unexplained cytopenias or rapid lymphocyte doubling time."
+    },
+    {
+      "question": "What if the results of the CLL Prognostication Gene Panel are abnormal?",
+      "answer": "If the results of the CLL Prognostication Gene Panel show abnormalities, it may indicate a higher-risk profile for CLL. Abnormalities in specific genes can suggest a more aggressive disease course and may influence treatment decisions."
+    },
+    {
+      "question": "What to expect during the CLL Prognostication Gene Panel?",
+      "answer": "During the test, a small sample of whole blood or bone marrow aspirate will be collected. The sample will be sent to a laboratory for Next-Generation Sequencing (NGS) analysis."
+    },
+    {
+      "question": "What preparations are required before the CLL Prognostication Gene Panel?",
+      "answer": "\u2022 Fill out the genetic history form. \u2022 Follow any dietary or medication restrictions provided by your doctor. \u2022 Provide any relevant medical reports or imaging studies related to CLL or other related conditions. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with CLL Prognostication Gene Panel?",
+      "answer": "\u2022 Complete Blood Count (CBC): To assess blood cell counts and evaluate the extent of bone marrow involvement \u2022 Flow Cytometry: To determine the immunophenotypic profile of CLL cells \u2022 Cytogenetic Analysis: To identify chromosomal abnormalities associated with CLL"
+    },
+    {
+      "question": "What is the CLL Prognostication Gene Panel also known as?",
+      "answer": "Chronic Lymphocytic Leukaemia Genetic Testing"
+    },
+    {
+      "question": "What is chronic lymphocytic leukaemia?",
+      "answer": "Chronic Lymphocytic Leukaemia is a cancer affecting white blood cells. It is characterised by uncontrolled growth and accumulation of abnormal lymphocytes in the blood, bone marrow, and lymph nodes."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

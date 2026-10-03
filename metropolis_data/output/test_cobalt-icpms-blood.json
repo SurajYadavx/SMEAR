@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cobalt-icpms-blood",
+  "test_name": "Cobalt Blood Test",
+  "slug": "cobalt-icpms-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/cobalt-icpms-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cobalt-icpms-blood",
+  "page_title": "Cobalt Icpms Blood Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

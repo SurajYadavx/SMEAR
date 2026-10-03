@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alpha-2-macroglobulinserum",
+  "test_name": "Alpha 2 Macroglobulin, Serum",
+  "slug": "alpha-2-macroglobulinserum",
+  "source_url": "https://www.metropolisindia.com/parameter/alpha-2-macroglobulinserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alpha-2-macroglobulinserum",
+  "page_title": "Alpha 2 Macroglobulin, Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3225
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

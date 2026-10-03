@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-fibroblast-growth-factor-23",
+  "test_name": "Fibroblast Growth Factor 23, Plasma",
+  "slug": "fibroblast-growth-factor-23",
+  "source_url": "https://www.metropolisindia.com/parameter/fibroblast-growth-factor-23",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fibroblast-growth-factor-23",
+  "page_title": "Fibroblast Growth Factor 23 Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 10805
+  },
+  "specimen": "Plasma",
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Fibroblast Growth Factor 23, Plasma measure?",
+      "answer": "The test measures the Fibroblast Growth Factor 23 levels in the blood plasma."
+    },
+    {
+      "question": "Why is Fibroblast Growth Factor 23, Plasma Test Done?",
+      "answer": "\u2022 FG23 test is done to monitor the progression of chronic kidney disease by monitoring the renal clearance status. \u2022 The test aids the diagnosis of hereditary hypophosphatemic rickets and diagnosis and follow-up of tumor-induced osteomalacia."
+    },
+    {
+      "question": "Who Should Get Fibroblast Growth Factor 23, Plasma Test Done?",
+      "answer": "\u2022 CKD patients at risk for altered phosphorus metabolism due to malfunctioning of the kidneys. \u2022 Patients with bone disorders like hereditary rickets which may affect the phosphorus and vitamin D metabolism. \u2022 The test may also be advised for patients with certain types of bone tumors."
+    },
+    {
+      "question": "What to expect during Fibroblast Growth Factor 23, Plasma test?",
+      "answer": "The test requires a blood plasma sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "Are any preparations required for Fibroblast Growth Factor 23, Plasma test?",
+      "answer": "No special precautions."
+    },
+    {
+      "question": "What if results are High/ Low?",
+      "answer": "Elevated levels are associated with increased adverse outcome and is a predictor of mortality in CKD. Increased levels are seen in Autosomal Dominant Hypophosphatemic Rickets, X-linked Hypophosphatemia Rickets, Fibrous Dysplasia and tumor induced osteomalacia."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

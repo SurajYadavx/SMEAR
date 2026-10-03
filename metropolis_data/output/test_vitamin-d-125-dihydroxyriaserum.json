@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-vitamin-d-125-dihydroxyriaserum",
+  "test_name": "Vitamin D-1,25-Dihydroxy Serum",
+  "slug": "vitamin-d-125-dihydroxyriaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-d-125-dihydroxyriaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-d-125-dihydroxyriaserum",
+  "page_title": "Vitamin D 125 Dihydroxy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4000
+  },
+  "specimen": "25-Dihydroxy Serum",
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the Vitamin D 1,25-Dihydroxy Test used for?",
+      "answer": "It measures active vitamin D (calcitriol) to evaluate calcium metabolism and kidney function."
+    },
+    {
+      "question": "Is fasting required before the Vitamin D 1,25-Dihydroxy Test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "How is this test performed?",
+      "answer": "A blood sample is drawn and analysed using Chemiluminescence Immunoassay (CLIA)."
+    },
+    {
+      "question": "What does a high level of 1,25-Dihydroxy Vitamin D mean?",
+      "answer": "It may indicate hyperparathyroidism, sarcoidosis, or excessive vitamin D intake."
+    },
+    {
+      "question": "What does a low level mean?",
+      "answer": "It may suggest chronic kidney disease or vitamin D metabolism disorders."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are usually ready within 6 hours of sample reaching the lab."
+    },
+    {
+      "question": "Is home sample collection available?",
+      "answer": "Yes, Metropolis Healthcare offers safe and convenient home sample collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

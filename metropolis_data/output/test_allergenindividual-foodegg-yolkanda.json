@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodegg-yolkanda",
+  "test_name": "Allergen,Individual-FoodEgg YolkAnda",
+  "slug": "allergenindividual-foodegg-yolkanda",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodegg-yolkanda",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodegg-yolkanda",
+  "page_title": "Egg Yolk Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodEgg YolkAnda",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

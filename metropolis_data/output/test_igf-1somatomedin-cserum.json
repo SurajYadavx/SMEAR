@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-igf-1somatomedin-cserum",
+  "test_name": "IGF-1 Somatomedin C Serum Test",
+  "slug": "igf-1somatomedin-cserum",
+  "source_url": "https://www.metropolisindia.com/parameter/igf-1somatomedin-cserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/igf-1somatomedin-cserum",
+  "page_title": "IGF-1 Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3730
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

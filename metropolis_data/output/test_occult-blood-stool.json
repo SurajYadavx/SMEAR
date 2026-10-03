@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-occult-blood-stool",
+  "test_name": "Occult Blood Stool Test",
+  "slug": "occult-blood-stool",
+  "source_url": "https://www.metropolisindia.com/parameter/occult-blood-stool",
+  "canonical_url": "https://www.metropolisindia.com/parameter/occult-blood-stool",
+  "page_title": "Stool Occult Blood Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 180
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

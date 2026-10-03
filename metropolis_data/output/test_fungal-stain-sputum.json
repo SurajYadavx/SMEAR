@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-fungal-stain-sputum",
+  "test_name": "Fungal Stain by KOH & Calcofluor White Stain - Sputum",
+  "slug": "fungal-stain-sputum",
+  "source_url": "https://www.metropolisindia.com/parameter/fungal-stain-sputum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fungal-stain-sputum",
+  "page_title": "Fungal Stain Sputum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 525
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Fungal Stain Test - Sputum measure?",
+      "answer": "This test detects the presence of fungi in your sputum sample."
+    },
+    {
+      "question": "Why is the Fungal Stain Test - Sputum done?",
+      "answer": "\u2022 To diagnose fungal infections in the respiratory tract \u2022 To monitor the effectiveness of treatment for fungal infections \u2022 To identify specific fungi causing infections for targeted treatment \u2022 To assess the risk of developing fungal-related complications"
+    },
+    {
+      "question": "When is Fungal Stain Test - Sputum recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you \u2022 have symptoms suggestive of a fungal respiratory infection, such as persistent cough, chest pain, or difficulty breathing, \u2022 have a weakened immune system due to conditions like HIV/AIDS or undergoing immunosuppressive therapy, \u2022 have been exposed to environments with high fungal contamination, or \u2022 need to monitor the progress of treatment for a known fungal infection."
+    },
+    {
+      "question": "What if the results of the Fungal Stain Test - Sputum are abnormal?",
+      "answer": "Abnormal results may indicate the presence of fungal elements in the sputum, suggesting a fungal respiratory infection."
+    },
+    {
+      "question": "What to expect during the Fungal Stain Test - Sputum?",
+      "answer": "During this test, you will be asked to provide a sputum sample in a sterile, leak-proof container. The sample will be sent to a laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the Fungal Stain Test - Sputum?",
+      "answer": "\u2022 Follow any additional instructions given by your healthcare provider. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Fungal Stain Test - Sputum?",
+      "answer": "\u2022 Fungal Culture: This test helps identify the specific type of fungi causing the infection. \u2022 Antifungal Susceptibility Testing: It determines which antifungal medications are most effective against the identified fungus."
+    },
+    {
+      "question": "What is the Fungal Stain by KOH & Calcofluor White Stain also known as?",
+      "answer": "KOH & Calcofluor White Stain for fungal elements in sputum"
+    },
+    {
+      "question": "What is a fungal infection?",
+      "answer": "A fungal infection is caused by various types of fungi and can affect different parts of the body, including the respiratory tract. Common fungal infections include candidiasis, aspergillosis, and histoplasmosis. Treatment depends on the type and severity of the infection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

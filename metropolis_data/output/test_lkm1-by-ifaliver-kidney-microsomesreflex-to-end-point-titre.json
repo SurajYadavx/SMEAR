@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-lkm1-by-ifaliver-kidney-microsomesreflex-to-end-point-titre",
+  "test_name": "LKM1 Test By IFA Liver Kidney Microsomes Reflex To End Point Titre",
+  "slug": "lkm1-by-ifaliver-kidney-microsomesreflex-to-end-point-titre",
+  "source_url": "https://www.metropolisindia.com/parameter/lkm1-by-ifaliver-kidney-microsomesreflex-to-end-point-titre",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lkm1-by-ifaliver-kidney-microsomesreflex-to-end-point-titre",
+  "page_title": "LKM1 Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2460
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days day 5:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is LKM1 by IFA Liver Kidney Microsomes Reflex to end point titre Serum test done?",
+      "answer": "LKM1, Liver Kidney Microsome Antibody test is used for evaluating patients with liver disease of unknown causes, and evaluate patients with suspected autoimmune hepatitis. This test may be advised in cases where the cause of liver disease is not due to any viral infection, drug exposure or any other cause."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The test measures the presence of antibodies to Liver Kidney Microsome 1 [LKM1] in the blood."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test requires a blood sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "Positive result may indicate type 2 autoimmune hepatitis or unknown liver disease. Negative result does not rule out autoimmune hepatitis, and other autoantibodies tests may be advised."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

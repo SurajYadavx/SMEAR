@@ -1,0 +1,70 @@
+[
+  {
+    "categoryId": "allergy",
+    "categoryName": "Allergy"
+  },
+  {
+    "categoryId": "blood-hematology",
+    "categoryName": "Blood & Hematology"
+  },
+  {
+    "categoryId": "bone-joint",
+    "categoryName": "Bone & Joint"
+  },
+  {
+    "categoryId": "cancer-screening",
+    "categoryName": "Cancer Screening"
+  },
+  {
+    "categoryId": "diabetes",
+    "categoryName": "Diabetes"
+  },
+  {
+    "categoryId": "general-health",
+    "categoryName": "General Health"
+  },
+  {
+    "categoryId": "heart-cardiac",
+    "categoryName": "Heart & Cardiac"
+  },
+  {
+    "categoryId": "hormones",
+    "categoryName": "Hormones"
+  },
+  {
+    "categoryId": "infection",
+    "categoryName": "Infection"
+  },
+  {
+    "categoryId": "kidney",
+    "categoryName": "Kidney"
+  },
+  {
+    "categoryId": "liver",
+    "categoryName": "Liver"
+  },
+  {
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health"
+  },
+  {
+    "categoryId": "other",
+    "categoryName": "Other"
+  },
+  {
+    "categoryId": "pregnancy",
+    "categoryName": "Pregnancy"
+  },
+  {
+    "categoryId": "thyroid",
+    "categoryName": "Thyroid"
+  },
+  {
+    "categoryId": "vitamins-nutrition",
+    "categoryName": "Vitamins & Nutrition"
+  },
+  {
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health"
+  }
+]

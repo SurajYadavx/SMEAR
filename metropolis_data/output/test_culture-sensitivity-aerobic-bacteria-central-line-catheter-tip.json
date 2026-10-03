@@ -1,0 +1,42 @@
+{
+  "id": "metro-test-culture-sensitivity-aerobic-bacteria-central-line-catheter-tip",
+  "test_name": "Culture & Sensitivity, Aerobic bacteria Central Line Catheter Tip",
+  "slug": "culture-sensitivity-aerobic-bacteria-central-line-catheter-tip",
+  "source_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-central-line-catheter-tip",
+  "canonical_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-central-line-catheter-tip",
+  "page_title": "Catheter Tip Culture Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1105
+  },
+  "specimen": "Aerobic bacteria Central Line Catheter Tip",
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is Culture & Sensitivity, Aerobic bacteria - Central Line Catheter Tip test done?",
+      "answer": "This test is done to find the causative agent of bacteraemia from central line tip culture. The test also establishes the antibiotics that can be used against the isolated causative agent."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "This test establishes presence or absence bacteria on the central line tip. In case bacterium is isolated then antibiotic susceptibility testing is also done."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test tip of the central line. Sample is collected by the doctor and send to lab in sterile container"
+    },
+    {
+      "question": "What are the normal levels?",
+      "answer": "No growth"
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "No growth: This means that bacterium could not be isolated from the tip Significant Growth: This means that bacterium was isolated from the sample (?15 cfu). The sensitivity of the bacterium towards various antibiotics is also reported. The result have to be correlated clinically in case a skin commensal is isolated."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

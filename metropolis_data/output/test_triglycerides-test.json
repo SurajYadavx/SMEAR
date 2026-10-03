@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-triglycerides-test",
+  "test_name": "Triglycerides Biochemical Serum Test",
+  "slug": "triglycerides-test",
+  "source_url": "https://www.metropolisindia.com/parameter/triglycerides-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/triglycerides-test",
+  "page_title": "Triglycerides Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 320
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

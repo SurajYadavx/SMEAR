@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jev-japnese-encephalitis-virus-rna-detection-by-pcr-serum",
+  "test_name": "JEV RNA Detection by Real-time PCR - Serum",
+  "slug": "jev-japnese-encephalitis-virus-rna-detection-by-pcr-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/jev-japnese-encephalitis-virus-rna-detection-by-pcr-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jev-japnese-encephalitis-virus-rna-detection-by-pcr-serum",
+  "page_title": "JEV RNA Detection By PCR Serum Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4180
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JEV RNA Detection by Real-time PCR - Serum measure?",
+      "answer": "This test detects the presence of Japanese encephalitis virus RNA (Ribonucleic acid) in serum."
+    },
+    {
+      "question": "Why is the JEV RNA Detection test done?",
+      "answer": "\u2022 To detect the presence of JEV in patients with acute encephalitis syndrome, especially during outbreaks in endemic areas \u2022 To distinguish Japanese encephalitis from other encephalitides caused by viruses such as dengue, chikungunya, and Zika"
+    },
+    {
+      "question": "When is the JEV RNA Detection test recommended and who should take the test?",
+      "answer": "This test is recommended for patients with suspected Japanese encephalitis, especially if they live in or have recently visited endemic areas. Pregnant women and immunocompromised patients are at higher risk."
+    },
+    {
+      "question": "What if the results of the JEV RNA Detection test are abnormal?",
+      "answer": "A positive result indicates that the patient has an active JEV infection. Other possible causes of positive results include cross-reactivity with related flaviviruses or prior vaccination."
+    },
+    {
+      "question": "What to expect during the JEV RNA Detection Serum test?",
+      "answer": "The test involves drawing a 3 ml blood sample from a vein in your arm and sending it to the laboratory for processing."
+    },
+    {
+      "question": "What preparations are required before the JEV RNA Detection test?",
+      "answer": "Inform your doctor if you have taken any antiviral medications or received any vaccinations against JEV or related flaviviruses. Also, let them know if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the JEV RNA Detection test?",
+      "answer": "\u2022 Serum IgM antibody testing: To detect recent JEV infection \u2022 Cerebrospinal fluid analysis: To assess brain inflammation and rule out other causes of encephalitis"
+    },
+    {
+      "question": "What is JEV RNA Detection by Real-time PCR - Serum also known as?",
+      "answer": "EV RT-PCR or Japanese encephalitis PCR"
+    },
+    {
+      "question": "What is Japanese Encephalitis?",
+      "answer": "Japanese encephalitis is a mosquito-borne viral disease that affects the brain. It can cause severe illness and death. Vaccination is an effective preventive measure for those living in or travelling to endemic areas."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

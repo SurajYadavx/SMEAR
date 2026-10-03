@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-procalcitonin-serum-test",
+  "test_name": "Procalcitonin PCT Test",
+  "slug": "procalcitonin-serum-test",
+  "source_url": "https://www.metropolisindia.com/parameter/procalcitonin-serum-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/procalcitonin-serum-test",
+  "page_title": "PCT Test Price - Preparation and Report| Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

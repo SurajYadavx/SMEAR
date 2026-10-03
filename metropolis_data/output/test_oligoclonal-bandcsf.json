@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-oligoclonal-bandcsf",
+  "test_name": "Oligoclonal band, CSF Test",
+  "slug": "oligoclonal-bandcsf",
+  "source_url": "https://www.metropolisindia.com/parameter/oligoclonal-bandcsf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/oligoclonal-bandcsf",
+  "page_title": "Oligoclonal Bands In CSF Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4830
+  },
+  "specimen": "CSF Test",
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required, but CSF collection is performed under medical supervision",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive oligoclonal bands result mean?",
+      "answer": "It indicates the presence of antibody bands in CSF not seen in serum, suggesting central nervous system inflammation typical of Multiple Sclerosis."
+    },
+    {
+      "question": "Is fasting required for the oligoclonal bands test?",
+      "answer": "No, fasting is not required before this test."
+    },
+    {
+      "question": "How are samples collected for the oligoclonal bands test?",
+      "answer": "A lumbar puncture is performed to collect CSF, and a blood sample is taken from your arm at the same time."
+    },
+    {
+      "question": "Can I go home after the test?",
+      "answer": "Yes, but rest for a few hours after the lumbar puncture to avoid headaches."
+    },
+    {
+      "question": "What does it mean if bands appear in both CSF and serum?",
+      "answer": "It usually indicates systemic inflammation or infection rather than MS."
+    },
+    {
+      "question": "Are there risks with the oligoclonal bands test?",
+      "answer": "CSF collection may cause mild back pain or headache, but serious complications are rare."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

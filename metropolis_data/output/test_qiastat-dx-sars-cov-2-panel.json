@@ -1,0 +1,19 @@
+{
+  "id": "metro-test-qiastat-dx-sars-cov-2-panel",
+  "test_name": "QIAstat Dx - Respiratory SARS-CoV-2 Panel is not available in your location",
+  "slug": "qiastat-dx-sars-cov-2-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/qiastat-dx-sars-cov-2-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/qiastat-dx-sars-cov-2-panel",
+  "page_title": "Pathology lab and Diagnostic Centre for Blood test in India - Metropolis Healthcare",
+  "pricing": {},
+  "specimen": null,
+  "fasting": null,
+  "report_time": null,
+  "gender": null,
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "not_available_in_pune"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hiv-ii-western-blot-test",
+  "test_name": "HIV1/2 - Human Immunodeficiency Virus - confirmatory serology by immuno-transfer technique - serum",
+  "slug": "hiv-ii-western-blot-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-ii-western-blot-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-ii-western-blot-test",
+  "page_title": "HIV1/2 - Human Immunodeficiency Virus - confirmatory serology by immuno-transfer technique - serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 11025
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 5 weeks 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HIV1/2 Confirmatory Serology Test measure?",
+      "answer": "This test confirms the presence of antibodies to HIV in your bloodstream. The test helps determine if you are infected with HIV and if you have developed an immune response against the virus."
+    },
+    {
+      "question": "Why is the HIV1/2 Confirmatory Serology Test done?",
+      "answer": "\u2022 To confirm the diagnosis of HIV infection \u2022 To monitor the effectiveness of antiretroviral treatment \u2022 To assess your immune response to the virus \u2022 To identify if you are at risk of transmitting HIV to others"
+    },
+    {
+      "question": "When is the HIV1/2 Confirmatory Serology Test recommended and who should take the test?",
+      "answer": "The test is recommended if \u2022 you have had a high-risk exposure to HIV, such as unprotected sex or sharing needles, \u2022 you have symptoms suggestive of acute or chronic HIV infection, like fever, fatigue, swollen lymph nodes, or persistent infections, \u2022 you have tested positive on an initial screening test for HIV, or \u2022 you are pregnant, as part of routine prenatal care."
+    },
+    {
+      "question": "What if the results of the HIV1/2 Confirmatory Serology Test are abnormal?",
+      "answer": "If the test results are abnormal, it may indicate that you have been exposed to or are currently infected with HIV."
+    },
+    {
+      "question": "What to expect during the HIV1/2 Confirmatory Serology Test?",
+      "answer": "During the test, a small amount of blood will be drawn from your arm using a needle. The blood sample will be sent to a laboratory for analysis through the immunoblot method."
+    },
+    {
+      "question": "What preparations are required before the HIV1/2 Confirmatory Serology Test?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking, as certain medications can affect the test results. Also, tell them if you have any specific requirements. \u2022 Follow any instructions from your healthcare provider regarding medication changes or necessary precautions."
+    },
+    {
+      "question": "What other tests may be ordered with the HIV1/2 Confirmatory Serology Test?",
+      "answer": "\u2022 HIV RNA PCR Test: This test detects the genetic material of the virus itself and can help diagnose HIV infection earlier than antibody tests. \u2022 CD4 T-cell count: This test measures the number of CD4 cells, which are a type of white blood cell targeted by HIV. \u2022 Viral load test: This test measures the amount of HIV RNA in the blood and helps monitor the effectiveness of antiretroviral therapy."
+    },
+    {
+      "question": "What is the HIV1/2 Confirmatory Serology Test also known as?",
+      "answer": "HIV confirmation test"
+    },
+    {
+      "question": "What is HIV/AIDS?",
+      "answer": "HIV stands for Human Immunodeficiency Virus, which attacks the immune system and can lead to AIDS (Acquired Immunodeficiency Syndrome). AIDS is the advanced stage of HIV infection and is characterized by a severely weakened immune system, making individuals more susceptible to infections and certain cancers."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

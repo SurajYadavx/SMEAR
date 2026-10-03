@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cobalt-icpms-urine-24h",
+  "test_name": "Cobalt Urine (24 h) Test",
+  "slug": "cobalt-icpms-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/cobalt-icpms-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cobalt-icpms-urine-24h",
+  "page_title": "Cobalt Icpms Urine 24H Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2860
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

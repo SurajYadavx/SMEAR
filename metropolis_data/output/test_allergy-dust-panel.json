@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-dust-panel",
+  "test_name": "Allergy - Dust Panel",
+  "slug": "allergy-dust-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-dust-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-dust-panel",
+  "page_title": "Allergy Dust Panel Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

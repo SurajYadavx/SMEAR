@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-rnp-sm-antibodyserum",
+  "test_name": "RNP-Sm AntibodySerum",
+  "slug": "rnp-sm-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/rnp-sm-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rnp-sm-antibodyserum",
+  "page_title": "Sm Rnp Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2060
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is RNP-Sm Antibody Serum test done?",
+      "answer": "RNP-Sm test is done to diagnose Sharp syndrome. Patients can have as signs and symptoms of a combination of disorders \u2014 primarily lupus, scleroderma, polymyositis, and Sjogren's syndrome characterized by numbness and puffiness of fingers, muscle and joint pain, fatigue and fever, rash , skin lesions, shortness of breath, chest pain, dry eyes etc"
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The blood test measures the presence of RNA-Sm antibodies by ELISA technique."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "The blood sample is taken from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "Positive RNP-Sm antibodies in the absence of other ANA antibodies may be highly suggestive of Mixed connective tissue disorders. Results need to be correlated with clinical symptoms. Negative result does not rule out connective tissue disease as certain cases may show negative result."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

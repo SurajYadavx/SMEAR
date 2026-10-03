@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-dna-detection-by-real-time-pcr-urine",
+  "test_name": "AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine",
+  "slug": "afb-dna-detection-by-real-time-pcr-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-dna-detection-by-real-time-pcr-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-dna-detection-by-real-time-pcr-urine",
+  "page_title": "AFB DNA Detection By Real Time PCR Urine Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2625
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine measure?",
+      "answer": "This test detects the DNA of Mycobacterium tuberculosis bacteria or non-tuberculous bacteria in the urine. If the result is MTB positive, the reflex test of Rifampicin resistance by Ultra CBNAAT is performed to determine if the MTB strain is resistant to Rifampicin, an important drug used in TB treatment."
+    },
+    {
+      "question": "Why is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine done?",
+      "answer": "\u2022 To diagnose infection by Mycobacterium tuberculosis (MTB Complex) \u2022 To rule out other non-tuberculous bacterial infections \u2022 To guide appropriate treatment and prevent the spread of TB \u2022 To identify rifampicin resistance in case of MTB-positive results"
+    },
+    {
+      "question": "When is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine recommended and who should take the test?",
+      "answer": "This test is recommended if you \u2022 Have symptoms suggestive of tuberculosis. \u2022 Have been exposed to someone with active TB. \u2022 Are at high risk for TB due to certain medical conditions or immunosuppression. Your doctor may also order this test to monitor the effectiveness of TB treatment."
+    },
+    {
+      "question": "What if the results of AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine are abnormal?",
+      "answer": "Abnormal results may indicate a TB infection caused by MTB Complex or non-tuberculous bacteria. Further tests may be needed to confirm the diagnosis."
+    },
+    {
+      "question": "What to expect during AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine?",
+      "answer": "During this test, you will provide a 15ml spot urine sample in a sterile container. The process does not involve any specific preparation or discomfort."
+    },
+    {
+      "question": "What preparations are required before AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine?",
+      "answer": "Before the test: \u2022 Make sure to provide a properly labeled urine sample with relevant clinical history and clinician number. \u2022 No dietary restrictions or other preparations are necessary. \u2022 Follow any instructions given by your doctor regarding medications and potential interference with the test results. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine?",
+      "answer": "Other tests that may be ordered alongside this test include: \u2022 Sputum AFB smear and culture: To further confirm TB infection \u2022 Chest X-ray or CT scan: To assess lung involvement in TB \u2022 Drug susceptibility testing: To determine appropriate antibiotic treatment, especially for rifampicin resistance"
+    },
+    {
+      "question": "What is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 Urine also known as?",
+      "answer": "Urine TB PCR, Urine Mycobacterium Tuberculosis DNA Detection"
+    },
+    {
+      "question": "What is tuberculosis (TB)?",
+      "answer": "Tuberculosis (TB) is a contagious bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body. TB is transmitted through the air when an infected person coughs or sneezes. Early diagnosis and treatment are crucial for effective management of TB."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

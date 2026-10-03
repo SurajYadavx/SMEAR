@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-widal-test-for-typhoid-serum",
+  "test_name": "Widal Test For Typhoid",
+  "slug": "widal-test-for-typhoid-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/widal-test-for-typhoid-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/widal-test-for-typhoid-serum",
+  "page_title": "Book Widal Test Online \u2013 Procedure, Preparation, Range, Price & Home Collection",
+  "pricing": {
+    "selling_price": 400
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Widal test?",
+      "answer": "The Widal test is most reliable when performed after the first week of fever. Your body needs 7-10 days to produce detectable antibody levels after infection begins, so testing too early may give false-negative results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Widal test, and for how long",
+      "answer": "No, fasting is not required for the Widal test. You can eat and drink normally before giving your blood sample unless your doctor advises otherwise for additional tests requiring fasting."
+    },
+    {
+      "question": "Can dehydration affect my Widal test results?",
+      "answer": "Severe dehydration can concentrate your blood, potentially affecting various test results. However, it's not considered a significant factor that would alter the Widal test diagnostic interpretation."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Widal test?",
+      "answer": "No special dietary preparation is needed for the Widal test. However, inform your doctor about all medications you're taking, as antibiotics or typhoid vaccination history can influence antibody levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Widal test?",
+      "answer": "A healthcare professional ties an elastic band around your upper arm, cleans the needle site, inserts a sterile needle into your vein, draws blood into a vial, removes the needle, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood draw. You might experience slight pain or bruising at the needle site, and, rarely, dizziness, fainting, or minor infection at the puncture site."
+    },
+    {
+      "question": "What level of Widal test is normal?",
+      "answer": "For the O antigen, titres of 1:80 or above can be significant. For the H antigen, titres of 160 or above are considered significant. In healthy individuals, no agglutination is expected for all parameters."
+    },
+    {
+      "question": "What is the Widal test also known as?",
+      "answer": "The Widal Test is commonly referred to as the Typhoid Test or Enteric Fever Test, used for diagnosing typhoid and paratyphoid infections."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

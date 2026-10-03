@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-malaria-detection-by-immunoassay",
+  "test_name": "Malaria Detection By QBC - Blood",
+  "slug": "malaria-detection-by-immunoassay",
+  "source_url": "https://www.metropolisindia.com/parameter/malaria-detection-by-immunoassay",
+  "canonical_url": "https://www.metropolisindia.com/parameter/malaria-detection-by-immunoassay",
+  "page_title": "Malaria Detection By Immunoassay Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 390
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Malaria Detection Test measure?",
+      "answer": "The Malaria Test detects the presence of the malaria parasite, specifically the Plasmodium species, in your blood sample."
+    },
+    {
+      "question": "Why is the Malaria Detection Test done?",
+      "answer": "\u2022 To diagnose and monitor malaria infections \u2022 To assess the effectiveness of malaria treatment \u2022 To confirm cure after treatment \u2022 To screen individuals returning from malaria-endemic areas"
+    },
+    {
+      "question": "When is the Malaria Detection Test recommended and who should take the test?",
+      "answer": "The Malaria Detection Test is recommended \u2022 if you experience symptoms such as fever, chills, headache, body aches, \u2022 if you have recently travelled to or reside in an area with a high risk of malaria transmission, or \u2022 if you require travel-related clearance or for those with suspected exposure to malaria."
+    },
+    {
+      "question": "What if the results of the Malaria Detection Test are abnormal?",
+      "answer": "If the results of the Malaria Detection Test are positive or abnormal, it indicates an active malaria infection."
+    },
+    {
+      "question": "What to expect during the Malaria Detection Test?",
+      "answer": "During the test, a small sample of your blood will be collected using a needle and syringe or a finger prick. The collected blood sample will be processed using the Quantitative Buffy Coat (QBC) method."
+    },
+    {
+      "question": "What preparations are required before the Malaria Detection Test?",
+      "answer": "\u2022 No fasting or dietary restrictions are necessary. \u2022 Inform your healthcare provider about any medications you may be taking, as certain medications can interfere with the test results. Also, tell them if you have any specific requirements. \u2022 Follow any other instructions provided by your healthcare provider."
+    },
+    {
+      "question": "What other tests may be ordered with the Malaria Detection Test?",
+      "answer": "\u2022 Complete Blood Count (CBC): This test evaluates various components of your blood, such as red blood cells, white blood cells, and platelets, providing additional information about your overall health status. \u2022 Liver Function Tests: These tests assess liver function and check for any potential liver damage caused by malaria infection."
+    },
+    {
+      "question": "What is the Malaria Detection Test also known as?",
+      "answer": "Malaria Blood Smear Test"
+    },
+    {
+      "question": "What is malaria?",
+      "answer": "Malaria is a mosquito-borne infectious disease caused by the Plasmodium parasite. It infects red blood cells and can lead to symptoms such as fever, chills, fatigue, and in severe cases, organ failure and death. Malaria is prevalent in tropical and subtropical regions of the world."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

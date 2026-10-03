@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-lung-basic-panel-by-ngsegfr-alk-ros1-brafmet-snvs-indels",
+  "test_name": "NGS Lung Panel Test",
+  "slug": "lung-basic-panel-by-ngsegfr-alk-ros1-brafmet-snvs-indels",
+  "source_url": "https://www.metropolisindia.com/parameter/lung-basic-panel-by-ngsegfr-alk-ros1-brafmet-snvs-indels",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lung-basic-panel-by-ngsegfr-alk-ros1-brafmet-snvs-indels",
+  "page_title": "NGS Lung Panel test  - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 32000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "10th day : 6:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history with histopathology and IHC report required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-urea-serum",
+  "test_name": "Urea Test - Serum",
+  "slug": "urea-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/urea-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urea-serum",
+  "page_title": "Urea Test Price - Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 240
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Blood Urea Test?",
+      "answer": "There is no specific best time for a standalone Blood Urea Test. It can be done any time of day. However, if it's part of a larger panel requiring fasting, morning collection is preferred."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Blood Urea Test, and for how long?",
+      "answer": "Fasting is not mandatory for the Blood Urea Test alone. You can eat and drink normally. However, if combined with other tests requiring fasting, your doctor will provide specific instructions."
+    },
+    {
+      "question": "Can dehydration affect my Blood Urea Test results?",
+      "answer": "Yes, dehydration can significantly affect your results. When dehydrated, your blood becomes more concentrated, causing urea levels to appear artificially elevated even with normal kidney function. It's important to stay adequately hydrated before the test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Blood Urea Test?",
+      "answer": "While no special diet is required, avoiding excessive protein intake immediately before the test may help prevent temporary elevation of results. Inform your doctor about all medicines and supplements you're currently taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Blood Urea Test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a needle into a vein to collect blood in a vial, then removes the needle and applies a bandage. The process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any blood test. You may experience slight pain, minor bruising at the needle site, or rarely, dizziness. Serious complications like infection are extremely uncommon."
+    },
+    {
+      "question": "What level of Blood Urea Test is normal?",
+      "answer": "Normal BUN levels range from 8-23 mg/dL, while urea serum levels range from 18-55 mg/dL. Your doctor will interpret your results based on your specific medical condition and tell you the next steps."
+    },
+    {
+      "question": "What is Blood Urea Test also known as?",
+      "answer": "The Blood Urea Test is also commonly known as Blood Urea Nitrogen (BUN) Test, Serum Urea Test, or simply Urea Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

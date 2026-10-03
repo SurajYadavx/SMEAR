@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-food-intolerance-vegetarian-panel",
+  "test_name": "Food Intolerance (Vegetarian panel)",
+  "slug": "food-intolerance-vegetarian-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/food-intolerance-vegetarian-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/food-intolerance-vegetarian-panel",
+  "page_title": "Veg Food Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 11000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "3rd day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is Food Intolerance (Vegetarian panel) Test test done?",
+      "answer": "Food Intolerance test is a useful guide for structuring elimination of certain food items for patients with chronic symptoms associated with food sensitivities, which may occur hours or days after the offending food was eaten because IgG food antibodies cause type III delayed onset hypersensitivity reaction. This is a useful guide for patients to know which foods can be included, which foods should be avoided abd which foods to be eliminated from the diet."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The test pane measures the levels of IgG antibodies to certain commonly consumed vegetarian food items."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test requires a blood sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "Elevated levels indicates a strong antibody reaction to that particular food. These are your primary problem foods you should eliminate/avoid for at least 3 months. Substitute other foods listed in the NORMAL column and the relevant food group. Borderline level indicates a lower antibody reaction to that particular food. These are moderate to severe problem foods. You should reduce and rotate these foods for at least 3 months to avoid an increase in intolerance. Normal level indicates no significant reaction to that particular food. These foods can be eaten as normal without restriction, unless you already know of specific foods that have previously caused a reaction. If you suffer with rapid onset type, classic reaction to any of these foods, do not eat them."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

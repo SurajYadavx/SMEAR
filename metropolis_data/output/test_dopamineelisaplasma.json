@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-dopamineelisaplasma",
+  "test_name": "Dopamine ELISA Plasma Test",
+  "slug": "dopamineelisaplasma",
+  "source_url": "https://www.metropolisindia.com/parameter/dopamineelisaplasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dopamineelisaplasma",
+  "page_title": "Dopamine Elisa Plasma Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3380
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

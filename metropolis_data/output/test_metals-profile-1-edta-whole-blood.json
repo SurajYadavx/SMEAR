@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-metals-profile-1-edta-whole-blood",
+  "test_name": "Metals Profile \u2013 1, Blood",
+  "slug": "metals-profile-1-edta-whole-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/metals-profile-1-edta-whole-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/metals-profile-1-edta-whole-blood",
+  "page_title": "Metals Profile 1 Edta Whole Blood Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6240
+  },
+  "specimen": "Blood",
+  "fasting": "no",
+  "report_time": "3rd day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

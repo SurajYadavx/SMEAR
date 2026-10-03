@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-coombs-test-indirectindirect-antiglobulin-test-iat-automatedserum",
+  "test_name": "Coombs Test, Indirect Antiglobulin Test (IAT)",
+  "slug": "coombs-test-indirectindirect-antiglobulin-test-iat-automatedserum",
+  "source_url": "https://www.metropolisindia.com/parameter/coombs-test-indirectindirect-antiglobulin-test-iat-automatedserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/coombs-test-indirectindirect-antiglobulin-test-iat-automatedserum",
+  "page_title": "Coombs Test, Indirect Antiglobulin Test (IAT) \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": "Indirect Antiglobulin Test (IAT)",
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Indirect Coombs Test detect?",
+      "answer": "It detects free antibodies in your bloodstream that may react with red blood cells, causing haemolysis or transfusion reactions."
+    },
+    {
+      "question": "Is the Indirect Coombs Test necessary before a blood",
+      "answer": "Yes, it ensures that the donor blood is compatible with your own, preventing adverse"
+    },
+    {
+      "question": "Why is the Indirect Coombs Test done during pregnancy?",
+      "answer": "To check if an Rh-negative mother has developed antibodies against her baby\u2019s Rh-positive blood cells."
+    },
+    {
+      "question": "Do I need to fast before the Indirect Coombs Test?",
+      "answer": "No fasting is required for this test."
+    },
+    {
+      "question": "How is the Indirect Coombs Test performed?",
+      "answer": "A blood sample is collected from your arm and analysed using Automated Column Agglutination Technology (CAT)."
+    },
+    {
+      "question": "What does a positive Indirect Coombs Test result mean?",
+      "answer": "It means antibodies are present that can react with red blood cells, indicating possible incompatibility or immune disorder."
+    },
+    {
+      "question": "Are there risks associated with this test?",
+      "answer": "Minimal risks such as slight bruising or mild discomfort at the needle site."
+    },
+    {
+      "question": "What is a normal Indirect Coombs Test result?",
+      "answer": "A normal result is negative, meaning no harmful antibodies were detected."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

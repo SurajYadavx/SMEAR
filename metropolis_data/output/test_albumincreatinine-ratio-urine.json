@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-albumincreatinine-ratio-urine",
+  "test_name": "uACR Test",
+  "slug": "albumincreatinine-ratio-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/albumincreatinine-ratio-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/albumincreatinine-ratio-urine",
+  "page_title": "UACR Test -  Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the UACR test?",
+      "answer": "A first-morning urine sample is often considered best because it's more concentrated and provides stable readings. However, a random spot urine sample taken anytime is also acceptable for screening purposes."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the UACR test, and for how long?",
+      "answer": "No, fasting is generally not required for the UACR test. You can eat and drink normally before the test unless your doctor specifically instructs otherwise for additional tests."
+    },
+    {
+      "question": "Can dehydration affect my UACR test results?",
+      "answer": "Severe dehydration can make urine more concentrated, potentially affecting results. The test uses a ratio to minimise these variations, but it's best to maintain normal hydration levels before testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the UACR test?",
+      "answer": "You should inform your doctor about all medications, vitamins, and supplements you're taking during the UACR test preparation. Avoid vigorous exercise for 24 hours before the test, as intense activity can temporarily increase albumin levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the UACR test?",
+      "answer": "The UACR test does not require a blood draw. It's performed solely on a urine sample using a sterile container provided to you for sample collection."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "There are no health risks associated with providing a urine sample for the UACR test. It's a completely safe, non-invasive procedure with no side effects or complications."
+    },
+    {
+      "question": "What level of UACR test is normal?",
+      "answer": "Normal UACR levels are less than or equal to 30 \u03bcg/mg. Microalbuminuria ranges from 30-299 \u03bcg/mg, while clinical albuminuria is greater than 300 \u03bcg/mg. Elevated results should be confirmed with repeat testing."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-sgpt-alt-serum",
+  "test_name": "SGPT Test",
+  "slug": "sgpt-alt-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/sgpt-alt-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sgpt-alt-serum",
+  "page_title": "Book SGPT Test Online \u2013 Procedure, Preparation, Range, Price & Home Collection",
+  "pricing": {
+    "selling_price": 230
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "How can I reduce my SGPT/ALT levels quickly and naturally?",
+      "answer": "Focus on a balanced diet with fruits and vegetables, exercise regularly, avoid alcohol, maintain a healthy weight, and consult your doctor for personalised advice based on underlying causes."
+    },
+    {
+      "question": "What is the difference between SGOT and SGPT?",
+      "answer": "SGPT is found mainly in liver cells, making it liver-specific. SGOT is present in the liver, heart, muscles, and kidneys, so it's less specific for liver problems."
+    },
+    {
+      "question": "What is the best time to take the SGPT test?",
+      "answer": "There's no specific best time for the SGPT test, as enzyme levels don't fluctuate significantly throughout the day. You can take it anytime, at your convenience."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the SGPT test, and for how long?",
+      "answer": "Fasting is not required for a standalone SGPT test. However, if it's part of a comprehensive panel, you may need to fast for 8-12 hours as advised."
+    },
+    {
+      "question": "Can dehydration affect my SGPT test results?",
+      "answer": "Yes, severe dehydration can cause a temporary mild elevation in liver enzymes. It's good practice to stay well-hydrated before your test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the SGPT test?",
+      "answer": "No special diet preparation is needed unless fasting is required for other tests. Inform your doctor about all medications and supplements you're taking for accurate interpretation."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the SGPT test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band above, inserts a small needle into a vein, collects blood in a tube, and applies a bandage."
+    },
+    {
+      "question": "What level of SGPT test is normal?",
+      "answer": "The SGPT test normal range is 0-33 U/L according to standard reference ranges. Always discuss your results with your doctor for proper interpretation of your test results."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

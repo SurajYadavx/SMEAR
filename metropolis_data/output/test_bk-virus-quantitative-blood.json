@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-bk-virus-quantitative-blood",
+  "test_name": "BK Polyoma DNA Viral Load, Real-Time PCR",
+  "slug": "bk-virus-quantitative-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/bk-virus-quantitative-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bk-virus-quantitative-blood",
+  "page_title": "BK Virus Quantitative Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7540
+  },
+  "specimen": "Real-Time PCR",
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

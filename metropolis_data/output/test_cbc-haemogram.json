@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-cbc-haemogram",
+  "test_name": "CBC (Complete Blood Count) Test",
+  "slug": "cbc-haemogram",
+  "source_url": "https://www.metropolisindia.com/parameter/cbc-haemogram",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cbc-haemogram",
+  "page_title": "Book CBC Test Online \u2013 Procedure, Preparation, Range, Price & Home Collection",
+  "pricing": {
+    "selling_price": 310
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No Specific Preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the purpose of a CBC test?",
+      "answer": "It helps assess your overall blood health, detecting conditions like anaemia, infections, and clotting problems."
+    },
+    {
+      "question": "Do I need to fast before a CBC test?",
+      "answer": "No, fasting is not\u00a0required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How long does it take to get CBC test results?",
+      "answer": "Reports are usually ready within 4 hours once the sample reaches the lab."
+    },
+    {
+      "question": "Can dehydration affect CBC results?",
+      "answer": "Yes, dehydration may falsely increase some blood counts, while overhydration may lower them."
+    },
+    {
+      "question": "Is the CBC test painful?",
+      "answer": "You may feel a brief sting when the needle is inserted, but the discomfort is minimal and temporary."
+    },
+    {
+      "question": "What diseases can a CBC test detect?",
+      "answer": "Anaemia, infections, leukaemia, bleeding disorders, and immune system abnormalities."
+    },
+    {
+      "question": "How often should I take a CBC test?",
+      "answer": "Once a year as part of routine health screening, or more often if advised by your doctor."
+    },
+    {
+      "question": "Can I book a CBC test online?",
+      "answer": "Yes, you can easily book your CBC test online through the Metropolis Healthcare website or app."
+    },
+    {
+      "question": "What sample is required for a CBC test?",
+      "answer": "A small amount of blood drawn from your arm is used for the test."
+    },
+    {
+      "question": "Are CBC test results reliable?",
+      "answer": "Yes. Metropolis Healthcare uses advanced automated analysers and pathologist verification for accuracy."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-drain-fluid-by-conventional-method",
+  "test_name": "Drain Fluid",
+  "slug": "drain-fluid-by-conventional-method",
+  "source_url": "https://www.metropolisindia.com/parameter/drain-fluid-by-conventional-method",
+  "canonical_url": "https://www.metropolisindia.com/parameter/drain-fluid-by-conventional-method",
+  "page_title": "Drain Fluid \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 945
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "2nd day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

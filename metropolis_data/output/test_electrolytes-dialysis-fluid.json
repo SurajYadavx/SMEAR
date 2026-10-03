@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-electrolytes-dialysis-fluid",
+  "test_name": "Electrolytes Dialysis Fluid Test",
+  "slug": "electrolytes-dialysis-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/electrolytes-dialysis-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/electrolytes-dialysis-fluid",
+  "page_title": "Electrolytes Dialysis Fluid Test \u2013 Price, Purpose and Diagnosis",
+  "pricing": {
+    "selling_price": 695
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-ros1-gene-rearrangement",
+  "test_name": "ROS1 Gene Rearrangement by FISH Test",
+  "slug": "ros1-gene-rearrangement",
+  "source_url": "https://www.metropolisindia.com/parameter/ros1-gene-rearrangement",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ros1-gene-rearrangement",
+  "page_title": "ROS1 Gene Rearrangement by FISH Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 10400
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take ROS1 Gene Rearrangement by FISH Test?",
+      "answer": "Identifying c-ros oncogene 1 (ROS1) gene rearrangements in patients with late-stage, lung adenocarcinomas that are negative for epidermal growth factor receptor (EGFR) mutations and anaplastic lymphoma kinase (ALK) rearrangements."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Your doctor may suggest to Identify c-ros oncogene 1 (ROS1) gene rearrangements in patients with late-stage, lung adenocarcinomas that are negative for epidermal growth factor receptor (EGFR) mutations and anaplastic lymphoma kinase (ALK) rearrangements."
+    },
+    {
+      "question": "More Info on ROS1 Gene Rearrangement by FISH Test",
+      "answer": "The discovery of a variety of genetic alterations in non-small-cell lung cancer (NSCLC) has enabled the use of targeted therapy such as the anaplastic lymphoma kinase (ALK) inhibitor, crizotinib, and the epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor, erlotinib, for NSCLC with ALK rearrangements and EGFR mutations, respectively. The c-ros oncogene 1 (ROS1), has been identified as a potential relevant therapeutic target in lung adenocarcinoma.s."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

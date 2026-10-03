@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodgluten",
+  "test_name": "Gluten Allergy Test",
+  "slug": "allergenindividual-foodgluten",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgluten",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgluten",
+  "page_title": "Gluten Allergy Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-free-t3",
+  "test_name": "Free T3 Test",
+  "slug": "free-t3",
+  "source_url": "https://www.metropolisindia.com/parameter/free-t3",
+  "canonical_url": "https://www.metropolisindia.com/parameter/free-t3",
+  "page_title": "Free T3 (Triiodothyronine) Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose Biotin (>5 mg/day) at least 8 hours before sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Free T3 Test measure?",
+      "answer": "It measures the active form of thyroid hormone (triiodothyronine) that helps regulate metabolism and energy use."
+    },
+    {
+      "question": "What do high Free T3 levels indicate?",
+      "answer": "High Free T3 levels suggest hyperthyroidism or overactive thyroid function."
+    },
+    {
+      "question": "What do low Free T3 levels mean?",
+      "answer": "Low levels may indicate hypothyroidism or pituitary dysfunction."
+    },
+    {
+      "question": "Is fasting needed before the Free T3 Test?",
+      "answer": "No, fasting is not required for this test. You can eat and drink normally."
+    },
+    {
+      "question": "Can Biotin affect the Free T3 Test results?",
+      "answer": "Yes, high Biotin intake may interfere with the test. Avoid taking Biotin supplements for at least 8 hours before testing."
+    },
+    {
+      "question": "What other tests are done along with the Free T3 Test?",
+      "answer": "Doctors often recommend TSH and Free T4 tests along with Free T3 for a complete thyroid function assessment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

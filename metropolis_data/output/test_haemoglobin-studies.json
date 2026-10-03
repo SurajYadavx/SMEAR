@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-haemoglobin-studies",
+  "test_name": "HB Electrophoresis Test",
+  "slug": "haemoglobin-studies",
+  "source_url": "https://www.metropolisindia.com/parameter/haemoglobin-studies",
+  "canonical_url": "https://www.metropolisindia.com/parameter/haemoglobin-studies",
+  "page_title": "Hb Electrophoresis Test Price - Procedure, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1450
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation is required; inform your doctor about blood transfusions in the last 3 months.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Hb electrophoresis test?",
+      "answer": "There is no specific best time for this test. You can take it at any time of the day, as results are not affected by meals or daily activities."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Hb electrophoresis test, and for how long?",
+      "answer": "No, fasting is not required for the Hb electrophoresis test. You can eat and drink normally before the test without affecting the results."
+    },
+    {
+      "question": "Can dehydration affect my Hb electrophoresis test results?",
+      "answer": "While severe dehydration can affect blood concentration, it doesn't change your fundamental haemoglobin types. However, staying well-hydrated before any blood test is always recommended."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Hb electrophoresis test?",
+      "answer": "No special dietary preparations are needed. However, inform your doctor if you've had blood transfusions in the last 3-4 months, as this can affect results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Hb electrophoresis test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into your vein, collects blood into a tube, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any blood test: slight pain at the needle site, minor bruising, and, rarely, fainting or infection at the puncture site."
+    },
+    {
+      "question": "What level of Hb electrophoresis test is normal?",
+      "answer": "Normal ranges include HbA: 94.3-98.5%, HbA2: 1.5-3.7%, and HbF: 0.0-2.0%, with no abnormal haemoglobin variants detected."
+    },
+    {
+      "question": "What is the Hb electrophoresis test also known as?",
+      "answer": "The test is also known as the haemoglobin HB blood test, haemoglobinopathy evaluation, Hb variant analysis, sickle cell screen, thalassaemia screening, haemoglobin fractionation, or HPLC for haemoglobinopathies."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

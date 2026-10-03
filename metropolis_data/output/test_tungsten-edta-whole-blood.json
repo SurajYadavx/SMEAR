@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-tungsten-edta-whole-blood",
+  "test_name": "Tungsten, EDTA Whole Blood Test",
+  "slug": "tungsten-edta-whole-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/tungsten-edta-whole-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tungsten-edta-whole-blood",
+  "page_title": "Tungsten Edta Whole Blood Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2890
+  },
+  "specimen": "EDTA Whole Blood Test",
+  "fasting": "no",
+  "report_time": "10th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

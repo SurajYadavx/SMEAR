@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-truhealth-cardio-geneix",
+  "test_name": "Truhealth Cardio Genix",
+  "slug": "truhealth-cardio-geneix",
+  "source_url": "https://www.metropolisindia.com/parameter/truhealth-cardio-geneix",
+  "canonical_url": "https://www.metropolisindia.com/parameter/truhealth-cardio-geneix",
+  "page_title": "TruHealth Cardiogenix Test Price \u2013 Book Genomics Test at Best Price | NABL-Certified Labs \u2013 Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 9500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 24 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the TruHealth Cardio Genix Test measure?",
+      "answer": "The TruHealth Cardio Genix Test measures specific genetic markers associated with an increased risk of developing various cardiovascular diseases, such as coronary artery disease, hypertrophic cardiomyopathy, and familial hypercholesterolaemia."
+    },
+    {
+      "question": "Why is the TruHealth Cardio Genix Test done?",
+      "answer": "The TruHealth Cardio Genix Test is performed to identify an individual's genetic predisposition to cardiac diseases, allowing for proactive health management, personalised prevention strategies, and early intervention when necessary."
+    },
+    {
+      "question": "What to expect during the TruHealth Cardio Genix Test?",
+      "answer": "During the TruHealth Cardio Genix Test, you can expect a simple and non-invasive sample collection process, either through a cheek swab which can be done at a designated collection centre or in the comfort of your own home."
+    },
+    {
+      "question": "What preparations are required before the TruHealth Cardio Genix Test?",
+      "answer": "Generally, no special preparations are required before undergoing the TruHealth Cardio Genix Test. However, it's important to inform your doctor about any medications you are taking or any existing health conditions that may be relevant to your heart health."
+    },
+    {
+      "question": "Is home sample collection available for the TruHealth Cardio Genix Test?",
+      "answer": "Yes, home sample collection is available for the TruHealth Cardio Genix Test. A kit will be provided to you, which includes instructions and materials for collecting a cheek swab sample in the comfort of your own home."
+    },
+    {
+      "question": "When should you get genetic testing for heart disease?",
+      "answer": "You should consider getting genetic testing for heart disease if you have a family history of cardiovascular issues, have been diagnosed with certain cardiac diseases, or have undergone a full body checkup that indicates a potential genetic predisposition to heart problems."
+    },
+    {
+      "question": "How long will the TruHealth Cardio Genix Test reports take?",
+      "answer": "The TruHealth Cardio Genix Test reports typically take 2-4 weeks to be generated after the laboratory receives your DNA sample. However, the exact turnaround time may vary depending on the complexity of the analysis and the workload of the testing facility."
+    },
+    {
+      "question": "What is the age limit for a TruHealth Cardio Genix Test?",
+      "answer": "There is no specific age limit for undergoing the TruHealth Cardio Genix Test. However, it is generally recommended for adults who are concerned about their genetic predisposition to cardiovascular disease, especially those with a family history of heart issues or existing health conditions that increase their risk."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

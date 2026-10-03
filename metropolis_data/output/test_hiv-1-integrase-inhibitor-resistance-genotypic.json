@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hiv-1-integrase-inhibitor-resistance-genotypic",
+  "test_name": "HIV-1 RNA Drug Resistance for integrase inhibitor by PCR & Sanger Sequencing - EDTA Plasma",
+  "slug": "hiv-1-integrase-inhibitor-resistance-genotypic",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-1-integrase-inhibitor-resistance-genotypic",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-1-integrase-inhibitor-resistance-genotypic",
+  "page_title": "HIV 1 Integrase Inhibitor Resistance Genotypic Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5200
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "16th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HIV-1 RNA Drug Resistance test for integrase inhibitor measure?",
+      "answer": "This test determines integrase inhibitor drug resistance and conferring mutations."
+    },
+    {
+      "question": "Why is the HIV-1 RNA Drug Resistance test for integrase inhibitor done?",
+      "answer": "\u2022 To determine integrase inhibitor drug resistance and conferring mutations \u2022 To choose the appropriate treatment and adjust doses depending on how well the chosen therapy is working"
+    },
+    {
+      "question": "When is the HIV-1 RNA Drug Resistance test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have HIV and are taking or will take an integrase inhibitor. Your doctor may also order this test if you have detectable viral loads or are experiencing treatment failure."
+    },
+    {
+      "question": "What if the results of the HIV-1 RNA Drug Resistance test are abnormal?",
+      "answer": "If your results show mutations in your strain of HIV, your doctor will consider other medications that may be more effective against your particular viral strain."
+    },
+    {
+      "question": "What to expect during the HIV-1 RNA Drug Resistance test?",
+      "answer": "The test is a simple blood draw where a lab technician will collect 3ml of EDTA plasma in a sterile plain vacutainer. The technicians will then send the sample to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the HIV-1 RNA Drug Resistance test?",
+      "answer": "Your doctor may ask you to fast for 8 hours before the test. Be sure you have disclosed all medications and supplements you are taking to your doctor. Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the HIV-1 RNA Drug Resistance test?",
+      "answer": "Your doctor may recommend other tests to monitor your HIV like CD4 and viral load testing. CD4 counts measure the number of white blood cells that fight against infections in your body, while viral load testing determines the amount of virus in your body."
+    },
+    {
+      "question": "What is HIV-1 RNA Drug Resistance for integrase inhibitor by PCR & Sanger Sequencing - EDTA Plasma also known as?",
+      "answer": "HIV resistance testing or drug resistance testing"
+    },
+    {
+      "question": "What is HIV/AIDS?",
+      "answer": "Human immunodeficiency virus (HIV) attacks the immune system, leading to acquired immunodeficiency syndrome (AIDS). It spreads through unprotected sexual contact, sharing needles, or from mother to child during pregnancy, childbirth or breastfeeding. Early diagnosis and treatment can manage the disease and delay its progression."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

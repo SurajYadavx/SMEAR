@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ldh-body-fluid",
+  "test_name": "LDH Body Fluid Test",
+  "slug": "ldh-body-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/ldh-body-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ldh-body-fluid",
+  "page_title": "LDH Body Fluid Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 480
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

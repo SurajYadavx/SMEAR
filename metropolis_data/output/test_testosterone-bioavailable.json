@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-testosterone-bioavailable",
+  "test_name": "Testosterone Bioavailable",
+  "slug": "testosterone-bioavailable",
+  "source_url": "https://www.metropolisindia.com/parameter/testosterone-bioavailable",
+  "canonical_url": "https://www.metropolisindia.com/parameter/testosterone-bioavailable",
+  "page_title": "Testosterone Bioavailable Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3100
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is Testosterone Bioavailable Test test done?",
+      "answer": "This test is done to evaluate testosterone status in individuals with protein-binding abnormalities or to monitor testosterone hormone therapies. Testosterone tests can be used to help diagnose health conditions in children and adults. Doctors also use testosterone tests to monitor hormone levels in patients who are receiving testosterone replacement therapy."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "Testosterone Bioavailable test calculates the total amount of testosterone, albumin and SHB globulin in the blood."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test requires a blood sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "If the results are elevated it suggests hormonal imbalance. Results should be correlated with the clinical findings as well. If test value is low, it suggests hormonal imbalance. Results should be correlated with the clinical findings as well."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

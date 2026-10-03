@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-iron-icpms-serum",
+  "test_name": "Iron Serum Test",
+  "slug": "iron-icpms-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/iron-icpms-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/iron-icpms-serum",
+  "page_title": "Iron Serum Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2860
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

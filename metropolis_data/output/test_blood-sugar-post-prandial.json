@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-blood-sugar-post-prandial",
+  "test_name": "Postprandial Blood Sugar (PPBS) Test",
+  "slug": "blood-sugar-post-prandial",
+  "source_url": "https://www.metropolisindia.com/parameter/blood-sugar-post-prandial",
+  "canonical_url": "https://www.metropolisindia.com/parameter/blood-sugar-post-prandial",
+  "page_title": "PPBS Test Price - Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 80
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Done 2 hours after lunch",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the PPBS test?",
+      "answer": "The blood sample must be collected exactly 2 hours after you start eating your meal. Accurate timing is crucial for reliable results, so it's important to note when you begin eating and ensure the blood draw occurs precisely at the 2-hour mark."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the PPBS test, and for how long?",
+      "answer": "No, fasting is not required for the PPBS test. Unlike fasting blood sugar tests, the PPBS test specifically requires you to eat a normal meal before the blood sample is taken to evaluate your body's response to food."
+    },
+    {
+      "question": "Can dehydration affect my PPBS test results?",
+      "answer": "Yes, dehydration can concentrate your blood and lead to falsely high glucose readings. Stay well-hydrated before your test for accurate results and comfort."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the PPBS test?",
+      "answer": "Eat a regular meal with adequate carbohydrates like rice or bread. Inform your doctor about all medications, especially diabetes medicines, for proper guidance."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the PPBS test?",
+      "answer": "A healthcare professional cleans your arm with an antiseptic wipe, then inserts a sterile needle into a vein to draw blood into a special fluoride tube. The entire process takes less than five minutes and causes minimal discomfort."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The PPBS test carries minimal health risks similar to any blood draw. You may experience slight pain, bruising at the needle site, or feel lightheaded. Serious complications like infection are extremely rare."
+    },
+    {
+      "question": "What level of PPBS test is normal?",
+      "answer": "Normal PPBS levels are less than 140 mg/dL. Levels between 140-199 mg/dL indicate impaired glucose tolerance (prediabetes), while levels of 200 mg/dL or higher on more than one occasion suggest diabetes mellitus according to American Diabetes Association guidelines."
+    },
+    {
+      "question": "What is the PPBS test also known as?",
+      "answer": "The PPBS test is also known as the Post Prandial Blood Sugar Test, Glucose Post Prandial Test, 2-hour post-prandial glucose test, 2-hour PG test, or simply the post-meal blood sugar test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

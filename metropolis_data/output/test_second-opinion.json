@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-second-opinion",
+  "test_name": "Second opinion Histopathology / Slides & blocks for review -2-5 Test",
+  "slug": "second-opinion",
+  "source_url": "https://www.metropolisindia.com/parameter/second-opinion",
+  "canonical_url": "https://www.metropolisindia.com/parameter/second-opinion",
+  "page_title": "Second opinion Histopathology / Slides & blocks for review -2-5 Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "NULL",
+      "answer": "NULL"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

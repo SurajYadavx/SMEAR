@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-autoimmune-encephalitis-panel",
+  "test_name": "Autoimmune Encephalitis Panel Test",
+  "slug": "autoimmune-encephalitis-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/autoimmune-encephalitis-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/autoimmune-encephalitis-panel",
+  "page_title": "Autoimmune Encephalitis Panel Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 25000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

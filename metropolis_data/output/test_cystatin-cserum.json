@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cystatin-cserum",
+  "test_name": "Cystatin C, Serum",
+  "slug": "cystatin-cserum",
+  "source_url": "https://www.metropolisindia.com/parameter/cystatin-cserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cystatin-cserum",
+  "page_title": "Cystatin C Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1630
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

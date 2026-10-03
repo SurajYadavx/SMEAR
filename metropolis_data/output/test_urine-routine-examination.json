@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-urine-routine-examination",
+  "test_name": "Urine Routine Test (Urine R/M Test)",
+  "slug": "urine-routine-examination",
+  "source_url": "https://www.metropolisindia.com/parameter/urine-routine-examination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urine-routine-examination",
+  "page_title": "Urine Routine Test - Price, Report and Preparation | Book Urine RM Test Online",
+  "pricing": {
+    "selling_price": 190
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

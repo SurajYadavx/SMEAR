@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodsoyabeanglycine-max",
+  "test_name": "Allergen,Individual-Food Soyabean Glycine Max",
+  "slug": "allergenindividual-foodsoyabeanglycine-max",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodsoyabeanglycine-max",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodsoyabeanglycine-max",
+  "page_title": "Soyabean Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-Food Soyabean Glycine Max",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

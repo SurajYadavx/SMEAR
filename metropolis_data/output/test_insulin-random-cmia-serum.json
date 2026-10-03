@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-insulin-random-cmia-serum",
+  "test_name": "Insulin (Random) CMIA Serum",
+  "slug": "insulin-random-cmia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/insulin-random-cmia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/insulin-random-cmia-serum",
+  "page_title": "Insulin Random Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

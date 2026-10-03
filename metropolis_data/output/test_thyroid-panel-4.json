@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-thyroid-panel-4",
+  "test_name": "Thyroid Panel-4",
+  "slug": "thyroid-panel-4",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroid-panel-4",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroid-panel-4",
+  "page_title": "Thyroid Panel 4 Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose biotin supplements (>5 mg/day) for at least 8 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Thyroid Panel-4?",
+      "answer": "The test can be taken at any time of the day, but morning collection is often preferred for consistency."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Thyroid Panel-4, and for how long?",
+      "answer": "No fasting is required. You can eat and drink normally before your test."
+    },
+    {
+      "question": "Can dehydration affect my Thyroid Panel-4 results?",
+      "answer": "Severe dehydration may affect blood concentration but doesn\u2019t significantly impact thyroid hormone levels. It\u2019s best to stay well hydrated."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Thyroid Panel-4?",
+      "answer": "You don\u2019t need any special diet. Inform your doctor about thyroid or biotin supplements, as they may affect results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Thyroid Panel-4?",
+      "answer": "A small amount of blood is collected from your arm using a sterile needle. The process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Minimal risks include mild pain or bruising at the needle site, which usually resolve quickly."
+    },
+    {
+      "question": "What level of thyroid hormones is considered normal?",
+      "answer": "FT4: 0.93\u20131.7 ng/dL, TSH: 0.54\u20135.3 \u00b5IU/mL. Reference ranges may slightly vary by laboratory."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-malaria-by-real-time-pcr-blood",
+  "test_name": "Malaria DNA Detection By Real Time PCR - Blood",
+  "slug": "malaria-by-real-time-pcr-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/malaria-by-real-time-pcr-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/malaria-by-real-time-pcr-blood",
+  "page_title": "Malaria DNA Detection By Real Time PCR Blood Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3475
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Malaria DNA Detection Test measure?",
+      "answer": "The Malaria DNA Test detects the presence of Plasmodium DNA in your blood."
+    },
+    {
+      "question": "Why is Malaria DNA Detection Test done?",
+      "answer": "\u2022 To diagnose malaria infection in individuals who are symptomatic or suspected of having malaria \u2022 To monitor the response to treatment for malaria \u2022 To rule out malaria infection in individuals with fever or other symptoms \u2022 To detect low levels of Plasmodium DNA in individuals who have previously had malaria or are asymptomatic carriers"
+    },
+    {
+      "question": "When is Malaria DNA Detection Test recommended and who should take the test?",
+      "answer": "The Malaria DNA Detection Test is recommended if you \u2022 have symptoms such as fever, chills, headache, muscle aches, and fatigue suggestive of malaria, \u2022 have recently travelled to or reside in an area where malaria is prevalent, \u2022 have been exposed to someone with a confirmed case of malaria, or \u2022 are undergoing treatment for malaria and require monitoring for response to therapy."
+    },
+    {
+      "question": "What if the results of the Malaria DNA Detection Test are abnormal?",
+      "answer": "An abnormal result may indicate a current or recent malaria infection."
+    },
+    {
+      "question": "What to expect during the Malaria DNA Detection Test?",
+      "answer": "During the test, a small sample of your blood will be collected in an EDTA Vacutainer. The blood sample will be sent to the laboratory for processing using Real-Time PCR."
+    },
+    {
+      "question": "What preparations are required before the Malaria DNA Detection Test?",
+      "answer": "\u2022 Follow any instructions given by your doctor regarding fasting or medication restrictions. \u2022 Bring any relevant medical reports or records related to your symptoms or previous malaria infections. \u2022 Notify your doctor about any ongoing medications or supplements you are taking. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Malaria DNA Detection Test?",
+      "answer": "\u2022 Complete Blood Count (CBC): This test provides information about red blood cell count, white blood cell count, and platelet count, which can help in diagnosing and monitoring malaria infection. \u2022 Liver Function Tests: These tests evaluate the functioning of your liver, which can be affected by malaria infection. \u2022 Kidney Function Tests: These tests assess the health of your kidneys, which may be impacted by severe cases of malaria."
+    },
+    {
+      "question": "What is the Malaria DNA Detection Test also known as?",
+      "answer": "Malaria PCR (Polymerase Chain Reaction) Test or Malaria Molecular Test"
+    },
+    {
+      "question": "What is malaria?",
+      "answer": "Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites. It is characterised by symptoms such as fever, chills, headache, muscle aches, and fatigue."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

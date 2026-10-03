@@ -1,0 +1,42 @@
+{
+  "id": "metro-test-hepatitis-a-virus-hav-hav-igg-antibody-serum",
+  "test_name": "Hepatitis A Virus (HAV) IgG Antibody Test",
+  "slug": "hepatitis-a-virus-hav-hav-igg-antibody-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-a-virus-hav-hav-igg-antibody-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-a-virus-hav-hav-igg-antibody-serum",
+  "page_title": "Hav IgG Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1365
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive Hepatitis A Virus (HAV) IgG antibody test indicate?",
+      "answer": "A positive or reactive result means you are immune to Hepatitis A due to past infection or vaccination."
+    },
+    {
+      "question": "What does a negative Hepatitis A Virus (HAV) IgG antibody test mean?",
+      "answer": "A negative result indicates no antibodies to Hepatitis A, meaning you are not immune. Vaccination may be needed."
+    },
+    {
+      "question": "Is fasting required before the Hepatitis A Virus (HAV) IgG antibody test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before your test."
+    },
+    {
+      "question": "Can the Hepatitis A Virus (HAV) IgG antibody test detect a current infection?",
+      "answer": "No, it only shows past infection or immunity. For active infection, your doctor may recommend an HAV IgM test."
+    },
+    {
+      "question": "Can I take this test after getting the Hepatitis A vaccine?",
+      "answer": "Yes, but it\u2019s best to wait at least a few weeks after vaccination to allow antibodies to form for accurate results."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jc-dna-detection-plasma",
+  "test_name": "JC DNA Detection by Real-time PCR - EDTA Plasma",
+  "slug": "jc-dna-detection-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-plasma",
+  "page_title": "JC DNA Detection Plasma Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4785
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JC DNA Detection by Real-time PCR - EDTA Plasma measure?",
+      "answer": "This test detects the presence of JC polyomavirus in your blood using a process called real-time PCR."
+    },
+    {
+      "question": "Why is JC DNA Detection by Real-time PCR - EDTA Plasma done?",
+      "answer": "\u2022 To detect the presence of JC polyomavirus and assess your risk for developing PML \u2022 To monitor the effectiveness of treatment for PML or other conditions related to the virus"
+    },
+    {
+      "question": "When is the JC DNA Detection test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 a weakened immune system due to HIV/AIDS, organ transplants or certain medications, \u2022 symptoms suggestive of PML such as weakness, speech problems, vision changes or confusion, \u2022 been diagnosed with another condition associated with the JC virus, or \u2022 been exposed to someone with PML."
+    },
+    {
+      "question": "What if the results of the JC DNA Detection test are abnormal?",
+      "answer": "Elevated levels of JC virus DNA may indicate the presence of PML or other conditions related to the virus."
+    },
+    {
+      "question": "What to expect during the JC DNA Detection plasma test?",
+      "answer": "This test requires a blood sample to be collected from your arm. The sample is then processed using real-time PCR technology"
+    },
+    {
+      "question": "What preparations are required before the JC DNA Detection test?",
+      "answer": "Inform your doctor if you are taking any medications, as some drugs can affect test results. Also, inform them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the JC DNA Detection test?",
+      "answer": "Lumbar puncture: A spinal tap may be done to collect a sample of cerebrospinal fluid to help diagnose or monitor PML."
+    },
+    {
+      "question": "What is the JC DNA Detection by Real-time PCR - EDTA Plasma also known as?",
+      "answer": "JC polyomavirus DNA detection, JC virus test, or Real-time PCR for JC virus"
+    },
+    {
+      "question": "What is Progressive Multifocal Leukoencephalopathy (PML)?",
+      "answer": "PML is a rare but serious condition that can affect the brain and central nervous system. It is caused by the JC virus and can lead to symptoms such as weakness, vision changes, speech problems, and confusion."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

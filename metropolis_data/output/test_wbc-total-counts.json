@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-wbc-total-counts",
+  "test_name": "WBC (Total Counts)",
+  "slug": "wbc-total-counts",
+  "source_url": "https://www.metropolisindia.com/parameter/wbc-total-counts",
+  "canonical_url": "https://www.metropolisindia.com/parameter/wbc-total-counts",
+  "page_title": "WBC (Total Counts) \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 215
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

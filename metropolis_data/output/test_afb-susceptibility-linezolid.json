@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-afb-susceptibility-linezolid",
+  "test_name": "AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex",
+  "slug": "afb-susceptibility-linezolid",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-susceptibility-linezolid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-susceptibility-linezolid",
+  "page_title": "AFB Susceptibility Linezolid Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3150
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 5 weeks 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex measure?",
+      "answer": "This test measures the drug susceptibility of the Mycobacterium tuberculosis (MTb) complex, specifically for the Linezolid drug."
+    },
+    {
+      "question": "Why is AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex done?",
+      "answer": "\u2022 This test is primarily done to identify if the bacteria are susceptible or resistant to Linezolid, ensuring the most effective treatment is administered. \u2022 Assessing the effectiveness of TB treatment \u2022 Identifying drug-resistant strains and adjusting treatment plans accordingly \u2022 Providing valuable information for infection control measures \u2022 Monitoring the emergence of drug resistance in communities"
+    },
+    {
+      "question": "When is AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex recommended and who should take the test?",
+      "answer": "This test may be recommended if you \u2022 Have been diagnosed with TB and need to assess the efficacy of Linezolid treatment. \u2022 Show signs or symptoms of TB and need confirmation of diagnosis along with drug susceptibility testing. \u2022 Are at high risk for TB exposure or have been in close contact with individuals diagnosed with drug-resistant TB."
+    },
+    {
+      "question": "What if the results of AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex are abnormal?",
+      "answer": "Abnormal results may indicate drug resistance, requiring alternative treatment options."
+    },
+    {
+      "question": "What preparations are required before the AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex?",
+      "answer": "Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex?",
+      "answer": "\u2022 AFB smear and culture: These tests help diagnose TB and identify the presence of acid-fast bacilli. \u2022 GeneXpert MTB/RIF assay: This molecular test detects TB bacteria and assesses resistance to Rifampicin, another common anti-TB drug. \u2022 Chest X-ray: This imaging test helps evaluate the extent of lung involvement in TB."
+    },
+    {
+      "question": "What is AFB (TB) \u2013 Antibiogram for MTb Complex \u2013 Linezolid Drug by MGIT \u2013 Pure Growth of MTB Complex also known as?",
+      "answer": "Linezolid drug susceptibility test for the MTb complex"
+    },
+    {
+      "question": "What is tuberculosis (TB)?",
+      "answer": "Tuberculosis (TB) is an infectious disease caused by the MTb complex bacteria. It primarily affects the lungs but can also affect other organs. TB is a serious condition that requires prompt diagnosis and appropriate treatment to prevent its spread and complications."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

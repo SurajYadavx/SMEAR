@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-autoimmune-encephalitis-panel-csf",
+  "test_name": "Autoimmune Encephalitis Panel-CSF",
+  "slug": "autoimmune-encephalitis-panel-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/autoimmune-encephalitis-panel-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/autoimmune-encephalitis-panel-csf",
+  "page_title": "Autoimmune Encephalitis Panel-CSF | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 21520
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the Autoimmune Encephalitis Panel CSF used for?",
+      "answer": "It detects specific antibodies in cerebrospinal fluid to diagnose autoimmune encephalitis and related brain disorders."
+    },
+    {
+      "question": "Is fasting required before this test?",
+      "answer": "No, fasting is not required for this test."
+    },
+    {
+      "question": "How is the sample collected for this test?",
+      "answer": "A lumbar puncture is performed by a doctor to collect cerebrospinal fluid."
+    },
+    {
+      "question": "Can this test be done at home?",
+      "answer": "No, home collection is not available as the test requires hospital-based CSF collection."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are ready the next day once the sample reaches the laboratory."
+    },
+    {
+      "question": "What does a positive result mean?",
+      "answer": "A positive result confirms autoimmune encephalitis and helps identify the antibody causing inflammation."
+    },
+    {
+      "question": "Why test CSF instead of blood?",
+      "answer": "Some antibodies are only detectable in cerebrospinal fluid, making CSF testing more accurate for brain-related inflammation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

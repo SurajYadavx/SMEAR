@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-leptospira-detection-by-smear-examination-blood",
+  "test_name": "Leptospira Blood Detection Test",
+  "slug": "leptospira-detection-by-smear-examination-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/leptospira-detection-by-smear-examination-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leptospira-detection-by-smear-examination-blood",
+  "page_title": "Leptospira Detection Test - Price, Range And Preparation | Book Online",
+  "pricing": {
+    "selling_price": 630
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Leptospira Blood Detection Test?",
+      "answer": "The test is usually most useful in the early phase of suspected leptospirosis, when Leptospira bacteria may be present in the blood. Your doctor will decide the right timing based on when your symptoms started."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Leptospira Blood Detection Test, and for how long?",
+      "answer": "No, overnight fasting is not required for the Leptospira Blood Detection Test. You can eat and drink normally before the blood sample is collected."
+    },
+    {
+      "question": "Can dehydration affect my Leptospira Blood Detection Test results?",
+      "answer": "Mild dehydration is unlikely to directly affect whether Leptospira is seen in the blood smear. However, normal hydration can make blood collection easier."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Leptospira Blood Detection Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines you are taking, especially antibiotics, and share your fever history, exposure to contaminated water, animal contact or flood water exposure."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Leptospira Blood Detection Test?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, inserts a sterile needle into a vein and collects about 3 ml of blood in an EDTA vacutainer. The process usually takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any routine blood test. You may feel brief pain, mild bruising or slight swelling at the puncture site. Serious complications are rare."
+    },
+    {
+      "question": "What level of Leptospira Blood Detection Test is normal?",
+      "answer": "The expected biological reference interval is Leptospira spp not seen. If Leptospira species are seen, it may indicate recent infection, but your doctor will interpret the result along with your symptoms and exposure history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cea-carcino-embryonic-antigen-test",
+  "test_name": "Carcinoembryonic Antigen CEA Test",
+  "slug": "cea-carcino-embryonic-antigen-test",
+  "source_url": "https://www.metropolisindia.com/parameter/cea-carcino-embryonic-antigen-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cea-carcino-embryonic-antigen-test",
+  "page_title": "Carcinoembryonic Antigen CEA Test Price & Range | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 910
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

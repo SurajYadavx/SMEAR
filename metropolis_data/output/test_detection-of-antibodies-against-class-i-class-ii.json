@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-detection-of-antibodies-against-class-i-class-ii",
+  "test_name": "Single Antigen Bead Assay Test (Class I & Class II)",
+  "slug": "detection-of-antibodies-against-class-i-class-ii",
+  "source_url": "https://www.metropolisindia.com/parameter/detection-of-antibodies-against-class-i-class-ii",
+  "canonical_url": "https://www.metropolisindia.com/parameter/detection-of-antibodies-against-class-i-class-ii",
+  "page_title": "Single Antigen Bead Test Cost, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 46530
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Single Antigen Bead Assay measure?",
+      "answer": "Single Antigen Bead Assay measures specific proteins called Class I & Class II human leukocyte antigens (HLAs) on the surface of cells."
+    },
+    {
+      "question": "Why is Single Antigen Bead Assay done?",
+      "answer": "\u2022 To assess compatibility between organ donors and recipients prior to transplantation \u2022 To identify any potential immune reactions that may occur after transplantation \u2022 To guide the selection of suitable donors for individuals requiring organ transplants involving the immune system"
+    },
+    {
+      "question": "When is Single Antigen Bead Assay recommended and who should take the test?",
+      "answer": "The Single Antigen Bead Assay is recommended in the following scenarios: \u2022 Prior to organ transplantation to determine compatibility between donors and recipients \u2022 For individuals requiring transplants involving the immune system, such as bone marrow or kidney transplants"
+    },
+    {
+      "question": "What if the results of the Single Antigen Bead Assay are abnormal?",
+      "answer": "Abnormal results of the Single Antigen Bead Assay may indicate a higher risk of rejection or immune complications after organ transplantation."
+    },
+    {
+      "question": "What to expect during the Single Antigen Bead Assay?",
+      "answer": "A small blood sample will be collected from your arm. The sample will be sent to a laboratory where it will be analysed using a bead-based immunoassay."
+    },
+    {
+      "question": "What preparations are required before the Single Antigen Bead Assay?",
+      "answer": "\u2022 Provide a complete clinical history and information about the relationship between the recipient and donor. \u2022 Ensure that you have the necessary consent forms and any requested photographs ready for submission. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Single Antigen Bead Assay?",
+      "answer": "\u2022 HLA tissue typing: This test determines human leukocyte antigen (HLA) compatibility between donors and recipients for organ transplantation. \u2022 Crossmatch tests: These tests assess compatibility between donor and recipient by checking for pre-existing antibodies in the recipient's blood. \u2022 Transplant biopsy: If abnormalities are detected, a biopsy may be performed to further evaluate the transplanted organ."
+    },
+    {
+      "question": "What is the Single Antigen Bead Assay also known as?",
+      "answer": "HLA antibody testing, Donor compatibility testing, or HLA typing"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a medical procedure in which a diseased or damaged organ is replaced with a healthy organ from a donor. This may be necessary due to organ failure or life-threatening conditions. Transplants can involve organs such as the kidney, liver, heart, lung, pancreas, or bone marrow."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

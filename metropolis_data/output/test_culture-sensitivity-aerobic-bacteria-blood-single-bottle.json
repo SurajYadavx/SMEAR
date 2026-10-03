@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-culture-sensitivity-aerobic-bacteria-blood-single-bottle",
+  "test_name": "Culture & Sensitivity, Aerobic bacteria Blood single bottle",
+  "slug": "culture-sensitivity-aerobic-bacteria-blood-single-bottle",
+  "source_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-blood-single-bottle",
+  "canonical_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-blood-single-bottle",
+  "page_title": "Culture & Sensitivity Aerobic Bacteria Urine Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1250
+  },
+  "specimen": "Aerobic bacteria Blood single bottle",
+  "fasting": "no",
+  "report_time": "upto 2 to 6 days",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does 'no growth' in a blood culture mean?",
+      "answer": "It means no bacteria grew in the sample, indicating no active bloodstream infection."
+    },
+    {
+      "question": "How long does a blood culture take?",
+      "answer": "Usually around 5 days to allow sufficient time for bacteria, if present, to grow and be identified."
+    },
+    {
+      "question": "Can antibiotics affect blood culture results?",
+      "answer": "Yes. Antibiotics taken before the test can suppress bacterial growth and cause false-negative results."
+    },
+    {
+      "question": "Is fasting required for this test?",
+      "answer": "No fasting is needed; you can eat and drink normally before the test."
+    },
+    {
+      "question": "Can I get this test done at home?",
+      "answer": "No, this test requires sterile conditions in a lab for accurate results."
+    },
+    {
+      "question": "What happens if the culture is positive?",
+      "answer": "The report will specify the bacteria and the most effective antibiotics for treatment."
+    },
+    {
+      "question": "How much blood is collected for the test?",
+      "answer": "About 3 ml of blood is collected into an Aerobic Bactec bottle."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

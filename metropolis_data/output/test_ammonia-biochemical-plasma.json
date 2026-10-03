@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ammonia-biochemical-plasma",
+  "test_name": "Ammonia Biochemical, Plasma",
+  "slug": "ammonia-biochemical-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/ammonia-biochemical-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ammonia-biochemical-plasma",
+  "page_title": "Ammonia Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1370
+  },
+  "specimen": "Plasma",
+  "fasting": "yes",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the ammonia test measure?",
+      "answer": "The ammonia test measures the concentration of ammonia in the bloodstream."
+    },
+    {
+      "question": "Why is the ammonia test done?",
+      "answer": "The ammonia test is typically conducted to diagnose and monitor conditions that affect the liver function or the urea cycle, such as liver disease, Reye syndrome, and urea cycle enzyme deficiencies. \u2022 Liver disease: A condition that causes damage or inflammation to the liver, which can impair its ability to convert ammonia into urea and glutamine. Liver disease can be caused by various factors, such as viral infections (hepatitis), alcohol abuse, autoimmune disorders, or genetic disorders. Liver disease can lead to symptoms such as jaundice, ascites, bleeding tendency, hepatic encephalopathy, and liver failure. \u2022 Reye syndrome: A rare but serious condition that affects children and adolescents, usually after a viral infection such as influenza or chickenpox. Reye syndrome causes swelling and damage to the liver and brain, resulting in symptoms such as vomiting, lethargy, confusion, seizures, and coma. Reye syndrome is associated with the use of aspirin or other salicylates during a viral infection. \u2022 Urea cycle enzyme deficiencies: A group of rare inherited disorders that result from mutations in the genes that encode the enzymes involved in the urea cycle. The urea cycle is a series of biochemical reactions that convert ammonia into urea in the liver. Urea cycle enzyme deficiencies cause an accumulation of ammonia and other intermediates in the blood, leading to symptoms such as poor feeding, vomiting, lethargy, seizures, developmental delay, and coma."
+    },
+    {
+      "question": "When is the ammonia test recommended, and who should take the test?",
+      "answer": "\u2022 When a patient presents with symptoms or signs of liver disease, such as jaundice, ascites, bleeding tendency, hepatic encephalopathy, or liver failure. \u2022 When a patient presents with symptoms or signs of Reye syndrome, such as vomiting, lethargy, confusion, seizures, or coma. \u2022 When a patient presents with symptoms or signs of urea cycle enzyme deficiencies, such as poor feeding, vomiting, lethargy, seizures, developmental delay, or coma. \u2022 To monitor the progression and severity of liver disease or urea cycle enzyme deficiencies over time. \u2022 To evaluate the efficacy and safety of treatment for liver disease or urea cycle enzyme deficiencies."
+    },
+    {
+      "question": "What if the results of the ammonia test are positive?",
+      "answer": "A positive result in the ammonia biochemical plasma test may indicate high levels of ammonia in the blood. This can suggest one of the following conditions: \u2022 Liver disease: A condition that causes damage or inflammation to the liver. \u2022 Reye syndrome: A rare but serious condition that affects children and adolescents. \u2022 Urea cycle enzyme deficiencies: A group of rare inherited disorders that affect the urea cycle."
+    },
+    {
+      "question": "What to expect during the ammonia test?",
+      "answer": "The test typically involves a blood draw, where a healthcare professional will collect a small sample of blood from a vein, usually in the arm. The process is simple and reasonably rapid."
+    },
+    {
+      "question": "What preparations are required before the ammonia test?",
+      "answer": "Patients may be advised to follow specific instructions before the test, such as fasting for a certain period or discontinuing certain medications. It\u2019s essential to follow your healthcare provider\u2019s guidance to ensure accurate test results."
+    },
+    {
+      "question": "Which other tests are ordered with the ammonia test?",
+      "answer": "\u2022 Liver function tests: To assess the health and function of the liver. \u2022 Blood gas analysis: To measure the pH and oxygen levels in the blood. \u2022 Lactate test: To measure the level of lactate in the blood. \u2022 Glucose test: To measure the level of glucose in the blood. \u2022 Electrolytes test: To measure the levels of sodium, potassium, chloride, and bicarbonate in the blood. \u2022 Urea cycle intermediates urine test: To measure the levels of urea cycle intermediates such as citrulline and argininosuccinate in the urine. \u2022 Genetic testing for urea cycle enzyme deficiencies: To identify the specific type and number of mutations in the genes that encode the urea cycle enzymes."
+    },
+    {
+      "question": "What is the ammonia test also known as?",
+      "answer": "\u2022 Ammonia test \u2022 Blood ammonia test \u2022 Plasma ammonia test"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

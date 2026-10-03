@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-panels-with-reporting-breast-ii-er-pr-c-erb-b2",
+  "test_name": "Breast IHC Panel-ER, PR, HER2/neu (c-erb-B2)",
+  "slug": "ihc-panels-with-reporting-breast-ii-er-pr-c-erb-b2",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-panels-with-reporting-breast-ii-er-pr-c-erb-b2",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-panels-with-reporting-breast-ii-er-pr-c-erb-b2",
+  "page_title": "Breast IHC Panel Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5040
+  },
+  "specimen": "HER2/neu (c-erb-B2)",
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

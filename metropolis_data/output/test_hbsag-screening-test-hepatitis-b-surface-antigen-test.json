@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-hbsag-screening-test-hepatitis-b-surface-antigen-test",
+  "test_name": "HBsAg Test (Hepatitis B Surface Antigen)",
+  "slug": "hbsag-screening-test-hepatitis-b-surface-antigen-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hbsag-screening-test-hepatitis-b-surface-antigen-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hbsag-screening-test-hepatitis-b-surface-antigen-test",
+  "page_title": "HBsAg Test - Price, Purpose, Procedure | Book Online",
+  "pricing": {
+    "selling_price": 600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required, High biotin doses (>5 mg/day) should be avoided at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "How long is hepatitis B infectious?",
+      "answer": "A person remains infectious as long as the HBsAg test is positive. In acute infections, this may last weeks to months, while chronic infections can make someone infectious for life unless successfully treated and the virus is cleared."
+    },
+    {
+      "question": "How is hepatitis B transmitted?",
+      "answer": "Hepatitis B spreads through contact with infected blood, semen, or body fluids via unprotected sex, sharing needles, or mother-to-baby transmission during birth. It is also transmitted through exposure to contaminated blood through injuries or shared personal items like razors."
+    },
+    {
+      "question": "What is the best time to take the HBsAg test?",
+      "answer": "The HBsAg test can detect the virus 1-12 weeks after exposure, with an average of 4 weeks. If you have symptoms or are in a high-risk group, you can take the test anytime as advised by your doctor."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the HBsAg test, and for how long?",
+      "answer": "No, fasting is not required for the HBsAg test. You can eat and drink normally before the test, making it convenient to schedule at any time of day that suits your routine."
+    },
+    {
+      "question": "Can dehydration affect my HBsAg test results?",
+      "answer": "While severe dehydration can make blood collection more difficult, it's highly unlikely to affect the accuracy of HBsAg test results by causing false positive or negative results. However, staying well-hydrated is always recommended."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the HBsAg test?",
+      "answer": "No special dietary preparation is needed for the HBsAg test. Continue taking your regular medications unless your doctor specifically instructs otherwise, and also inform them about any medicines, vitamins, or supplements you're taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the HBsAg test?",
+      "answer": "The procedure involves cleaning your arm with an antiseptic, applying a tourniquet, inserting a sterile needle into a vein to collect blood in a vial, removing the needle, and placing a bandage over the puncture site."
+    },
+    {
+      "question": "What level of HBsAg test is normal?",
+      "answer": "The HBsAg test is qualitative, reporting results as Non-Reactive (normal, < 0.90 IU/mL) or Reactive (indicating infection, \u2265 1.0 IU/mL). Borderline results (0.90-1.0 IU/mL) require confirmatory testing for accurate interpretation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

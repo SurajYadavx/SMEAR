@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-creatinine-serum",
+  "test_name": "Creatinine Test",
+  "slug": "creatinine-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+  "page_title": "Creatinine Test Price, Normal Range and Home Collection | Book Online",
+  "pricing": {
+    "selling_price": 240
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the creatinine test for LFT?",
+      "answer": "The creatinine test is not part of a Liver Function Test (LFT). It belongs to Kidney Function Tests (KFT) or Renal Function Panels, which assess kidney health rather than liver function."
+    },
+    {
+      "question": "What is the best time to take the creatinine test?",
+      "answer": "There's no specific best time for a creatinine test. However, for consistent monitoring results, it's helpful to have the test done around the same time of day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the creatinine test, and for how long?",
+      "answer": "Fasting is not usually required for a standalone creatinine test. However, if it's part of a comprehensive panel, you may need to fast for 8 to 12 hours. Always follow your doctor's specific instructions."
+    },
+    {
+      "question": "Can dehydration affect my creatinine test results?",
+      "answer": "Yes, dehydration can temporarily increase creatinine levels by reducing blood flow to the kidneys and concentrating waste products in your blood. It's important to stay well-hydrated before the test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the creatinine test?",
+      "answer": "Avoid large amounts of red meat 24 hours before testing. Inform your doctor about all medications and supplements, as some can affect results. Don't stop prescribed medicines without consulting your doctor first."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the creatinine test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, and draws blood into a vial. Once the blood is collected, the needle is removed and pressure is applied to stop bleeding."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any blood draw. You may experience a slight pain or bruising at the needle site, feel lightheaded, and very rarely, experience an infection at the puncture site."
+    },
+    {
+      "question": "What level of creatinine test is normal?",
+      "answer": "The normal range of creatinine levels is from 0.51 to 0.95 mg/dL, according to the reference range. However, normal values can vary based on age, gender, muscle mass, and laboratory standards. Always interpret results with your doctor's guidance."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

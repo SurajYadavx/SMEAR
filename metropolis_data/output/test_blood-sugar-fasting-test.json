@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-blood-sugar-fasting-test",
+  "test_name": "FBS Test (Fasting Blood Sugar)",
+  "slug": "blood-sugar-fasting-test",
+  "source_url": "https://www.metropolisindia.com/parameter/blood-sugar-fasting-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/blood-sugar-fasting-test",
+  "page_title": "FBS Test (Fasting Blood Sugar) Online - Price, Preparation and Home Collection",
+  "pricing": {
+    "selling_price": 80
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Overnight fast for 8-10 hours",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "How can I control diabetes?",
+      "answer": "Diabetes can be controlled through a balanced diet rich in fibre and low in processed sugars, regular physical activity for at least 150 minutes weekly, maintaining a healthy weight, monitoring blood sugar levels regularly, and taking prescribed medications as directed by your doctor."
+    },
+    {
+      "question": "What does type 2 diabetes mean?",
+      "answer": "Type 2 diabetes is a chronic condition where your body either doesn't produce enough insulin or becomes resistant to insulin. This causes glucose to build up in your bloodstream instead of being used for energy by your cells."
+    },
+    {
+      "question": "What is prediabetes, and how can it be managed?",
+      "answer": "Prediabetes means your blood sugar levels are higher than normal but not yet high enough for a diabetes diagnosis. It can often be reversed through lifestyle changes, like weight loss, healthy eating, and increased physical activity."
+    },
+    {
+      "question": "What factors can affect FBS and PPBS levels?",
+      "answer": "Factors include diet type and timing, physical activity levels, stress, illness or infections, certain medications like steroids, lack of sleep, dehydration, and hormonal changes. These can cause temporary fluctuations in blood sugar readings."
+    },
+    {
+      "question": "What is the best time to take the FBS test?",
+      "answer": "The best time for an FBS test is early morning after an overnight fast of 8-10 hours. This ensures accurate baseline glucose measurement without influence from recent food intake or daily activities."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the FBS test, and for how long?",
+      "answer": "Yes, overnight fasting is mandatory for 8-10 hours before the FBS fasting test. During this period, you should not eat or drink anything except plain water to ensure accurate glucose measurement results."
+    },
+    {
+      "question": "Can dehydration affect my FBS test results?",
+      "answer": "Yes, dehydration can affect your FBS test results by concentrating glucose in your blood, potentially leading to falsely elevated readings. It's important to stay hydrated by drinking water during your fasting period."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the FBS test?",
+      "answer": "Fast for 8-10 hours before the test, drinking only plain water. Continue taking your regular medications unless your doctor advises otherwise. Avoid alcohol for 24 hours and inform the doctor about all medications you're taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the FBS test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into your vein, and collects 2 ml of blood in a fluoride tube. The procedure takes less than 5 minutes and causes minimal discomfort."
+    },
+    {
+      "question": "What level of FBS test is normal?",
+      "answer": "The FBS normal level is 70-99 mg/dL. Levels between 100-125 mg/dL indicate impaired fasting glucose (prediabetes), while levels of 126 mg/dL or higher on multiple occasions suggest diabetes mellitus requiring further medical evaluation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

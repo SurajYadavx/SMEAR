@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anti-streptolysin-o-aso-quantitative",
+  "test_name": "ASO Titre Quantitative Serum Test",
+  "slug": "anti-streptolysin-o-aso-quantitative",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-streptolysin-o-aso-quantitative",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-streptolysin-o-aso-quantitative",
+  "page_title": "ASO Test Price - Preparation and Report | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

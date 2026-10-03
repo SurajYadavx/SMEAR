@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-pre-albuminserum",
+  "test_name": "Pre AlbuminSerum",
+  "slug": "pre-albuminserum",
+  "source_url": "https://www.metropolisindia.com/parameter/pre-albuminserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pre-albuminserum",
+  "page_title": "Pre Albumin Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4055
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

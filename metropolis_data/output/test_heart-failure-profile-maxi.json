@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-heart-failure-profile-maxi",
+  "test_name": "Heart failure profile-maxi tests",
+  "slug": "heart-failure-profile-maxi",
+  "source_url": "https://www.metropolisindia.com/parameter/heart-failure-profile-maxi",
+  "canonical_url": "https://www.metropolisindia.com/parameter/heart-failure-profile-maxi",
+  "page_title": "Heart Failure Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5095
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

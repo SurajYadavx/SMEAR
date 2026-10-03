@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-gastrointestinal-panel-by-filmarray",
+  "test_name": "Biofire Stool Test \u2013 GI Panel by FilmArray",
+  "slug": "gastrointestinal-panel-by-filmarray",
+  "source_url": "https://www.metropolisindia.com/parameter/gastrointestinal-panel-by-filmarray",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gastrointestinal-panel-by-filmarray",
+  "page_title": "BioFire Stool Test - (GI Panel) Price, Purpose, Preparation | Book Online",
+  "pricing": {
+    "selling_price": 18500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Biofire Stool Test By FilmArray?",
+      "answer": "The test is best taken when you have active diarrhoea or symptoms of gastrointestinal infection. Your doctor may advise it if symptoms are severe, persistent, recurrent or linked to travel, food exposure or outbreak risk."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Biofire Stool Test By FilmArray, and for how long?",
+      "answer": "No, overnight fasting is not required for the Biofire Stool Test By FilmArray. You can eat and drink normally unless your doctor gives separate instructions."
+    },
+    {
+      "question": "Can dehydration affect my Biofire Stool Test By FilmArray results?",
+      "answer": "Dehydration does not directly change the PCR result, but diarrhoea related dehydration can be serious. Drink fluids as advised and seek medical care if you feel dizzy, pass very little urine or feel very weak."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Biofire Stool Test By FilmArray?",
+      "answer": "No special diet is needed. Inform your doctor about antibiotics, antiparasitic medicines, antivirals, probiotics or anti-diarrhoeal medicines, as recent treatment may affect detection or interpretation."
+    },
+    {
+      "question": "How is the stool sample collection procedure performed for the Biofire Stool Test By FilmArray?",
+      "answer": "About 5 gm of stool is collected in a sterile leak proof container. Avoid mixing the sample with urine, toilet water or cleaning products, then submit it as instructed by the lab."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The test itself is non-invasive because it uses a stool sample. There is no needle related risk. The main requirement is to collect and submit the sample correctly as advised."
+    },
+    {
+      "question": "What result of Biofire Stool Test By FilmArray is normal?",
+      "answer": "The expected result is Not Detected for the pathogens included in the panel. If any organism is detected, your doctor will interpret it with your symptoms, clinical history and other findings."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

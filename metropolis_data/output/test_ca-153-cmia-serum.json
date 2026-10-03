@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-ca-153-cmia-serum",
+  "test_name": "CA 15.3 Test",
+  "slug": "ca-153-cmia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/ca-153-cmia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ca-153-cmia-serum",
+  "page_title": "CA 15.3 Test - Price, Range and Preparation | Book Online at Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1810
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CA 15.3 Test measure?",
+      "answer": "It measures Cancer Antigen 15-3 levels in blood to support monitoring of breast cancer treatment response, progression, and recurrence."
+    },
+    {
+      "question": "Do I need to fast before this test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can the CA 15.3 Test detect breast cancer early?",
+      "answer": "No. It is not a screening test and is primarily used for monitoring in patients with known breast cancer."
+    },
+    {
+      "question": "What does a high CA 15.3 level mean?",
+      "answer": "It may suggest recurrence or metastasis in breast cancer, but it can also rise in benign conditions; clinical correlation and further testing are needed."
+    },
+    {
+      "question": "Can men take the CA 15.3 Test?",
+      "answer": "Yes. Although commonly used in breast cancer monitoring, CA 15-3 may be elevated in other cancers as well."
+    },
+    {
+      "question": "How soon will I get my CA 15.3 report?",
+      "answer": "Reports are typically available within 8 hours after the sample is received by the lab (may vary by location)."
+    },
+    {
+      "question": "Which method is used for this test?",
+      "answer": "The test is commonly performed using Electrochemiluminescence Immunoassay (ECLIA)."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

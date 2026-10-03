@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-bile-acids-totalbiochemicalserum",
+  "test_name": "Bile Acids Test - Total, Serum",
+  "slug": "bile-acids-totalbiochemicalserum",
+  "source_url": "https://www.metropolisindia.com/parameter/bile-acids-totalbiochemicalserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bile-acids-totalbiochemicalserum",
+  "page_title": "Bile Acids Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2170
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Fasting recommended (8 to 10 hours)",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Is fasting required for the Bile Acids Test?",
+      "answer": "Yes, an 8 to 10-hour fast is recommended before sample collection."
+    },
+    {
+      "question": "What does a high bile acid level mean?",
+      "answer": "High levels suggest liver dysfunction, cholestasis, or bile duct blockage."
+    },
+    {
+      "question": "How long does it take to get the Bile Acids Test results?",
+      "answer": "Reports are available within 6 hours after sample collection."
+    },
+    {
+      "question": "Can the Bile Acids Test detect pregnancy-related liver issues?",
+      "answer": "Yes, it is the most sensitive test for intrahepatic cholestasis of pregnancy (ICP)."
+    },
+    {
+      "question": "Is home collection available for the Bile Acids Test?",
+      "answer": "Yes, Metropolis offers home sample collection for this test."
+    },
+    {
+      "question": "What is the normal range for bile acids?",
+      "answer": "The normal range is 0.5 \u2013 10 \u00b5mol/L. Levels above this indicate possible liver or bile flow disorders."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

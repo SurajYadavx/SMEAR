@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cmv-dna-pcr-tissue",
+  "test_name": "CMV DNA PCR TISSUE",
+  "slug": "cmv-dna-pcr-tissue",
+  "source_url": "https://www.metropolisindia.com/parameter/cmv-dna-pcr-tissue",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cmv-dna-pcr-tissue",
+  "page_title": "CMV DNA PCR TISSUE \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5040
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

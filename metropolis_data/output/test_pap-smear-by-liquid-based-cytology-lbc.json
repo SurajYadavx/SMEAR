@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-pap-smear-by-liquid-based-cytology-lbc",
+  "test_name": "LBC Test - PAP Smear by Liquid Based Cytology",
+  "slug": "pap-smear-by-liquid-based-cytology-lbc",
+  "source_url": "https://www.metropolisindia.com/parameter/pap-smear-by-liquid-based-cytology-lbc",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pap-smear-by-liquid-based-cytology-lbc",
+  "page_title": "LBC Test Price - Range, Report and Preparation | Home Sample Collection",
+  "pricing": {
+    "selling_price": 1310
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "3rd day",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-leptospira-detection-by-smear-examination-csf",
+  "test_name": "Leptospira Detection (CSF)",
+  "slug": "leptospira-detection-by-smear-examination-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/leptospira-detection-by-smear-examination-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leptospira-detection-by-smear-examination-csf",
+  "page_title": "Leptospira Detection (CSF) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 735
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

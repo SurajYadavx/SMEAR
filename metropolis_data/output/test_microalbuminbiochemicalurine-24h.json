@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-microalbuminbiochemicalurine-24h",
+  "test_name": "Urine Albumin Test",
+  "slug": "microalbuminbiochemicalurine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/microalbuminbiochemicalurine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/microalbuminbiochemicalurine-24h",
+  "page_title": "Urine Albumin Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 630
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

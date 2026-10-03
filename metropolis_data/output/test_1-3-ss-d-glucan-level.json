@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-1-3-ss-d-glucan-level",
+  "test_name": "Beta-D-Glucan Level by Protease Zymogen Colorimetry",
+  "slug": "1-3-ss-d-glucan-level",
+  "source_url": "https://www.metropolisindia.com/parameter/1-3-ss-d-glucan-level",
+  "canonical_url": "https://www.metropolisindia.com/parameter/1-3-ss-d-glucan-level",
+  "page_title": "Beta D Glucan Level Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive Beta D Glucan Test mean?",
+      "answer": "A positive result indicates the likely presence of an invasive fungal infection, but further tests such as cultures or imaging are needed to confirm."
+    },
+    {
+      "question": "Can antibiotics affect the Beta D Glucan Test results?",
+      "answer": "Yes, certain beta-lactam antibiotics and immunoglobulin treatments can sometimes cause false-positive results."
+    },
+    {
+      "question": "Is fasting required for the Beta D Glucan Test?",
+      "answer": "No fasting is needed. You can eat and drink as usual before the test."
+    },
+    {
+      "question": "Can this test identify the exact fungal species?",
+      "answer": "No, the test detects the presence of fungal cell wall components but does not specify the fungal type."
+    },
+    {
+      "question": "Can dialysis affect my test result?",
+      "answer": "Yes, using cellulose-based dialysis membranes may cause false-positive results due to glucan contamination."
+    },
+    {
+      "question": "How accurate is the Beta D Glucan Test?",
+      "answer": "It has a high negative predictive value, meaning a negative result strongly rules out invasive fungal infection."
+    },
+    {
+      "question": "What is the normal range for Beta D Glucan?",
+      "answer": "Less than 0.06 ng/mL is considered negative; 0.06\u20130.1 ng/mL requires follow-up, and above 0.1 ng/mL indicates high risk."
+    },
+    {
+      "question": "How is the blood sample collected?",
+      "answer": "A trained technician draws a small amount of blood from a vein in your arm using a sterile needle."
+    },
+    {
+      "question": "Are there any risks with this test?",
+      "answer": "Minimal risks such as mild pain, bruising or light-headedness may occur at the blood draw site."
+    },
+    {
+      "question": "Can this test help monitor antifungal treatment?",
+      "answer": "Yes, repeating the test helps assess whether antifungal therapy is working effectively."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

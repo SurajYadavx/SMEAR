@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-transferrinserum",
+  "test_name": "Transferrin Serum Test",
+  "slug": "transferrinserum",
+  "source_url": "https://www.metropolisindia.com/parameter/transferrinserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/transferrinserum",
+  "page_title": "Transferrin Serum Test Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1365
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

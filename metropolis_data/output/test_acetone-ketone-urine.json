@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-acetone-ketone-urine",
+  "test_name": "Urine Ketone Test (Acetone)",
+  "slug": "acetone-ketone-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/acetone-ketone-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/acetone-ketone-urine",
+  "page_title": "Urine Ketone Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 120
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

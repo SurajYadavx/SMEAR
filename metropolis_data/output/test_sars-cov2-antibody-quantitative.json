@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-sars-cov2-antibody-quantitative",
+  "test_name": "SARS-CoV-2 (Spike) Antibody, Quantitative (Coviprotect)",
+  "slug": "sars-cov2-antibody-quantitative",
+  "source_url": "https://www.metropolisindia.com/parameter/sars-cov2-antibody-quantitative",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sars-cov2-antibody-quantitative",
+  "page_title": "Book aso test price at your nearest Lab - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": "Quantitative (Coviprotect)",
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

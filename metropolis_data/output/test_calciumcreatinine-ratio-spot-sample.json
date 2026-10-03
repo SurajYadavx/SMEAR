@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-calciumcreatinine-ratio-spot-sample",
+  "test_name": "Calcium/Creatinine Ratio (Spot sample)",
+  "slug": "calciumcreatinine-ratio-spot-sample",
+  "source_url": "https://www.metropolisindia.com/parameter/calciumcreatinine-ratio-spot-sample",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calciumcreatinine-ratio-spot-sample",
+  "page_title": "Calcium/Creatinine Ratio (Spot sample) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-sepsis-screen-mdr-pcr-assay",
+  "test_name": "Sepsis screen + MDR PCR Assay",
+  "slug": "sepsis-screen-mdr-pcr-assay",
+  "source_url": "https://www.metropolisindia.com/parameter/sepsis-screen-mdr-pcr-assay",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sepsis-screen-mdr-pcr-assay",
+  "page_title": "Sepsis Test: Price, Get Fast Lab Report Online from NABL-Certified Labs",
+  "pricing": {
+    "selling_price": 25200
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 48 hours",
+  "gender": "Male, Female",
+  "preparation": "3 ml of EDTA Blood in two EDTA tubes",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

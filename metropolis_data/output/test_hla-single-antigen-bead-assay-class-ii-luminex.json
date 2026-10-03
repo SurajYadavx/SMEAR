@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-single-antigen-bead-assay-class-ii-luminex",
+  "test_name": "Single Antigen Bead Assay (Class II) Test",
+  "slug": "hla-single-antigen-bead-assay-class-ii-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-single-antigen-bead-assay-class-ii-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-single-antigen-bead-assay-class-ii-luminex",
+  "page_title": "Single Antigen Bead Assay Class 2 Test Price, Range and Preparation",
+  "pricing": {
+    "selling_price": 22465
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Single Antigen Bead Assay (Class II) measure?",
+      "answer": "The Single Antigen Bead Assay identifies the HLAs (Class II) on the surface of cells."
+    },
+    {
+      "question": "Why is Single Antigen Bead Assay (Class II) done?",
+      "answer": "\u2022 To determine donor-recipient compatibility for organ transplantation \u2022 To assess the risk of organ rejection after transplantation \u2022 To evaluate previous transplant outcomes and identify reasons for rejection \u2022 To guide treatment decisions and adjust immunosuppressive therapy \u2022 To monitor patients with autoimmune diseases like lupus or rheumatoid arthritis"
+    },
+    {
+      "question": "When is Single Antigen Bead Assay (Class II) recommended and who should take the test?",
+      "answer": "This test is recommended when \u2022 a patient requires an organ transplant, \u2022 assessing organ compatibility between a donor and recipient, \u2022 evaluating risks of rejection after transplantation, \u2022 monitoring immunosuppressive therapy effectiveness, or \u2022 diagnosing autoimmune diseases like lupus or rheumatoid arthritis."
+    },
+    {
+      "question": "What if the results of the Single Antigen Bead Assay (Class II) are abnormal?",
+      "answer": "If the Single Antigen Bead Assay (Class II) results are abnormal, it may indicate a higher risk of organ rejection or incompatibility between a donor and recipient."
+    },
+    {
+      "question": "What to expect during the Single Antigen Bead Assay (Class II)?",
+      "answer": "A small sample of your blood will be collected. The blood sample will be sent to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Single Antigen Bead Assay (Class II)?",
+      "answer": "\u2022 No specific dietary restrictions are necessary. \u2022 Inform your doctor about any medications you are taking and any specific requirements you have. \u2022 Provide a complete medical history to aid in result interpretation."
+    },
+    {
+      "question": "What other tests may be ordered with Single Antigen Bead Assay (Class II)?",
+      "answer": "\u2022 Crossmatching: To confirm compatibility between the donor and recipient. \u2022 HLA antibody testing: To identify antibodies that may increase the risk of organ rejection. \u2022 Tissue typing: Determining tissue compatibility between a donor and recipient for transplantation."
+    },
+    {
+      "question": "What is the Single Antigen Bead Assay (Class II) also known as?",
+      "answer": "HLA Class II typing"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure where a healthy organ or tissue is surgically transplanted from a donor into a recipient's body to replace a damaged or non-functioning organ. It is commonly done for conditions such as end-stage renal disease, liver failure, heart failure, or lung disease."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

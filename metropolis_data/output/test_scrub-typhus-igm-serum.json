@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-scrub-typhus-igm-serum",
+  "test_name": "Scrub Typhus IgM",
+  "slug": "scrub-typhus-igm-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/scrub-typhus-igm-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/scrub-typhus-igm-serum",
+  "page_title": "Scrub Typhus IgM \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1210
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Scrub Typhus IgM Test detect?",
+      "answer": "It detects IgM antibodies against Orientia tsutsugamushi, indicating a recent or active scrub typhus infection."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "Fasting not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "What does a positive Scrub Typhus IgM Test mean?",
+      "answer": "A positive result indicates an ongoing or recent infection that requires antibiotic treatment."
+    },
+    {
+      "question": "When should I get tested for scrub typhus?",
+      "answer": "Get tested if you have a persistent fever with rash or body ache, especially after outdoor exposure in rural or forested areas."
+    },
+    {
+      "question": "Can early testing give false results?",
+      "answer": "Yes, testing too early may not detect antibodies. Repeat testing after 10\u201314 days is recommended if infection is suspected."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are usually available the same day (by 9:00 PM) once your sample reaches the lab."
+    },
+    {
+      "question": "How is the Scrub Typhus IgM Test performed?",
+      "answer": "A blood sample is drawn from your arm and tested using Enzyme Immunoassay (EIA) to detect specific IgM antibodies."
+    },
+    {
+      "question": "Can scrub typhus be cured?",
+      "answer": "Yes, with prompt antibiotic treatment, most patients recover fully within a few days."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

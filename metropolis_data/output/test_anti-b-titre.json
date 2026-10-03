@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anti-b-titre",
+  "test_name": "Anti-B Titre",
+  "slug": "anti-b-titre",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-b-titre",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-b-titre",
+  "page_title": "Anti-B Titre \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1560
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "metro-test-pregascreen-dual",
+  "test_name": "Double Marker Test",
+  "slug": "pregascreen-dual",
+  "source_url": "https://www.metropolisindia.com/parameter/pregascreen-dual",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pregascreen-dual",
+  "page_title": "Book Double Marker Test Price Online \u2013 Procedure, Preparation & Home Collection",
+  "pricing": {
+    "selling_price": 4000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "female",
+  "preparation": "A completely filled maternal TRF with barcode and the latest USG report is required. Medical history is mandatory.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "How does a double marker test differ from an NIPT test?",
+      "answer": "The Double Marker Test measures hormones and proteins in your blood, while NIPT analyzes cell-free fetal DNA in your blood. NIPT offers higher accuracy with fewer false positives but costs significantly more than the double marker test screening."
+    },
+    {
+      "question": "What are the risks of not taking a double marker test?",
+      "answer": "Missing this test means missing early detection of potential chromosomal abnormalities. Without screening, high-risk pregnancies might go unidentified, reducing time for genetic counselling, further testing, and informed decision-making about your pregnancy."
+    },
+    {
+      "question": "Can lifestyle choices affect the results of a double marker test?",
+      "answer": "Most lifestyle factors don't significantly impact results, but heavy smoking can lower PAPP-A levels, potentially affecting risk calculations. Maintaining healthy habits and being honest with your doctor about lifestyle choices ensures accurate interpretation."
+    },
+    {
+      "question": "What should I do if my double marker test results are inconclusive?",
+      "answer": "Inconclusive results require discussion with your doctor about next steps. Options may include repeating the test, advanced screening like NIPT, or diagnostic tests like amniocentesis for definitive answers about your baby's condition."
+    },
+    {
+      "question": "Is the double marker test painful?",
+      "answer": "The test involves a simple blood draw similar to any routine blood test. You may feel a slight needle prick, but discomfort is minimal and temporary. The procedure takes only a few minutes to complete."
+    },
+    {
+      "question": "What is the best time to take the double marker test?",
+      "answer": "The optimal timing is between 11\u201314 weeks of pregnancy during the first trimester. Testing within this window ensures maximum accuracy of results and proper risk assessment for chromosomal abnormalities in your baby."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the double marker test, and for how long?",
+      "answer": "No fasting is required for this test. You can eat and drink normally before your blood sample collection. This makes the test convenient and doesn't require any special dietary preparation beforehand."
+    },
+    {
+      "question": "Can dehydration affect my double marker test results?",
+      "answer": "Severe dehydration might affect blood component concentrations, though it's unlikely to significantly alter double marker test results. However, staying well-hydrated before any blood test is always recommended for easier sample collection."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the double marker test?",
+      "answer": "No special dietary preparation is needed. Inform your doctor about all medications, supplements, and over-the-counter medicines you're taking. Never stop prescribed medications without consulting your doctor first."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the double marker test?",
+      "answer": "A healthcare professional cleans your arm with an antiseptic, inserts a sterile needle into a vein, and draws blood into a vial. After removal, a cotton ball or bandage is applied to prevent bleeding."
+    },
+    {
+      "question": "What level of double marker test is normal?",
+      "answer": "Results are reported as risk ratios, like 1:1500. Low-risk results have larger denominators (1:1000 or more), while High-risk results typically show ratios of 1:250 or lower (e.g., 1:100 or 1:200). Your doctor interprets these considering your age and ultrasound findings."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

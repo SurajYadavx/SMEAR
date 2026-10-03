@@ -41,7 +41,7 @@
     if (existing) {
       existing.qty = (existing.qty || 1) + 1;
     } else {
-      cart.push({ id: id, type: type, name: name || id, price: price || 0, qty: 1 });
+      cart.push({ id: id, type: type, name: name || id, price: (price !== undefined ? price : null), qty: 1 });
     }
     saveCart(cart);
     showToast(name);
@@ -77,10 +77,17 @@
   }
 
   /**
-   * Approximate price total.
+   * Approximate price total (only sums items with numeric prices).
    */
   function cartTotal() {
-    return loadCart().reduce(function (n, i) { return n + ((i.price || 0) * (i.qty || 1)); }, 0);
+    return loadCart().reduce(function (n, i) { return n + ((i.price !== null ? i.price : 0) * (i.qty || 1)); }, 0);
+  }
+
+  /**
+   * Check if cart has items with unconfirmed (null) prices
+   */
+  function hasUnpricedItems() {
+    return loadCart().some(function(i) { return i.price === null; });
   }
 
   // ── TOAST NOTIFICATION ─────────────────────────────────────
@@ -121,12 +128,24 @@
   function buildWhatsAppMessage(cart) {
     if (!cart || cart.length === 0) return '';
     var lines = cart.map(function (item) {
-      return '\u2022 ' + item.name + (item.qty > 1 ? ' \u00d7' + item.qty : '') + ' \u2014 \u20b9' + (item.price * (item.qty || 1));
+      var priceStr = item.price === null ? 'To be confirmed' : '\u20b9' + (item.price * (item.qty || 1));
+      return '\u2022 ' + item.name + (item.qty > 1 ? ' \u00d7' + item.qty : '') + ' \u2014 ' + priceStr;
     });
     var total = cartTotal();
+    var unpriced = hasUnpricedItems();
+
+    var totalStr = '';
+    if (total > 0 && unpriced) {
+      totalStr = '\u20b9' + total + ' + pending items';
+    } else if (total > 0) {
+      totalStr = '\u20b9' + total;
+    } else {
+      totalStr = 'To be confirmed';
+    }
+
     var msg = 'Hi, I would like to book the following tests at Smear Pathology:\n\n' +
       lines.join('\n') +
-      '\n\nApproximate total: \u20b9' + total +
+      '\n\nApproximate total: ' + totalStr +
       '\n\nPlease confirm availability and final charges. Thank you.';
     return msg;
   }
@@ -139,6 +158,7 @@
     get: getCart,
     count: cartCount,
     total: cartTotal,
+    hasUnpricedItems: hasUnpricedItems,
     buildWhatsAppMessage: buildWhatsAppMessage,
     showToast: showToast
   };

@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-musk-antibodymyasthenia-gravisserum",
+  "test_name": "Musk Antibody Myasthenia Gravis Serum Test",
+  "slug": "musk-antibodymyasthenia-gravisserum",
+  "source_url": "https://www.metropolisindia.com/parameter/musk-antibodymyasthenia-gravisserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/musk-antibodymyasthenia-gravisserum",
+  "page_title": "Musk Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7420
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the MUSK Antibody Test used for?",
+      "answer": "It helps diagnose Myasthenia Gravis in patients who test negative for acetylcholine receptor antibodies."
+    },
+    {
+      "question": "Is fasting required before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "How is the MUSK Antibody Test performed?",
+      "answer": "It is a simple blood test that detects autoantibodies against the MuSK protein."
+    },
+    {
+      "question": "What does a positive result mean?",
+      "answer": "It confirms the presence of MuSK antibodies, indicating Myasthenia Gravis."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are available on the same day once the sample reaches the lab."
+    },
+    {
+      "question": "Can I book a home sample collection?",
+      "answer": "Yes, Metropolis Healthcare provides home sample collection services."
+    },
+    {
+      "question": "Can a negative result rule out Myasthenia Gravis?",
+      "answer": "No, further evaluation may be required as some patients are negative for both AChR and MuSK antibodies"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

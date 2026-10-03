@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-lupus-anticoagulants-lac-test",
+  "test_name": "Lupus Anticoagulants LAC Profile Test",
+  "slug": "lupus-anticoagulants-lac-test",
+  "source_url": "https://www.metropolisindia.com/parameter/lupus-anticoagulants-lac-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lupus-anticoagulants-lac-test",
+  "page_title": "Lupus Anticoagulant (LAC) Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 2390
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Avoid taking anticoagulant medications (like heparin or warfarin) before the test, as advised by your doctor\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive LAC test mean?",
+      "answer": "A positive result indicates the presence of lupus anticoagulant antibodies, suggesting increased risk of blood clots or pregnancy loss."
+    },
+    {
+      "question": "Do I need to fast before a LAC test?",
+      "answer": "No fasting is required for this test."
+    },
+    {
+      "question": "Can medications affect my LAC test results?",
+      "answer": "Yes. Anticoagulants like heparin or warfarin can interfere with results. Inform your doctor about all medications."
+    },
+    {
+      "question": "How is the LAC test performed?",
+      "answer": "A blood sample is collected and tested using clotting assays such as aPTT and DRVV to detect lupus anticoagulant."
+    },
+    {
+      "question": "Can a LAC test confirm lupus?",
+      "answer": "Not necessarily. While lupus anticoagulant can occur in lupus, it may also appear in APS or other autoimmune conditions."
+    },
+    {
+      "question": "What is the normal range for DRVV screen ratio?",
+      "answer": "The normal DRVV screen ratio ranges from 0.85 to 1.20. A value above 1.2 suggests lupus anticoagulant presence."
+    },
+    {
+      "question": "How often should the test be repeated?",
+      "answer": "If positive, it should be repeated after 12 weeks to confirm persistent lupus anticoagulant."
+    },
+    {
+      "question": "Are there any risks with the test?",
+      "answer": "Risks are minimal and include slight bruising or discomfort at the puncture site."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

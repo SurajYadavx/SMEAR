@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-leukemia-mds-panel-by-fish",
+  "test_name": "Myelodysplastic Syndrome (MDS) Panel by FISH",
+  "slug": "leukemia-mds-panel-by-fish",
+  "source_url": "https://www.metropolisindia.com/parameter/leukemia-mds-panel-by-fish",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leukemia-mds-panel-by-fish",
+  "page_title": "MDS Fish Panel - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 9360
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

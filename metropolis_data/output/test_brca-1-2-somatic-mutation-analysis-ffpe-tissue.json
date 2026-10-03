@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-brca-1-2-somatic-mutation-analysis-ffpe-tissue",
+  "test_name": "NextGen BRCA Somatic, FFPE tissue",
+  "slug": "brca-1-2-somatic-mutation-analysis-ffpe-tissue",
+  "source_url": "https://www.metropolisindia.com/parameter/brca-1-2-somatic-mutation-analysis-ffpe-tissue",
+  "canonical_url": "https://www.metropolisindia.com/parameter/brca-1-2-somatic-mutation-analysis-ffpe-tissue",
+  "page_title": "NextGen BRCA Somatic, FFPE tissue \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 22000
+  },
+  "specimen": "FFPE tissue",
+  "fasting": "no",
+  "report_time": "16th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

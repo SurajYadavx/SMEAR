@@ -1,0 +1,6418 @@
+[
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-male",
+    "slug": "comprehensive-health-checkup-male",
+    "name": "Comprehensive Health Checkup - Male",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 10000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 112,
+    "profile_count": 45,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-silver-nf",
+    "slug": "health-checkup-silver-nf",
+    "name": "Health Checkup Silver NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-platinum-nf",
+    "slug": "health-checkup-platinum-nf",
+    "name": "Health Checkup Platinum NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-female",
+    "slug": "health-checkup-expert-female",
+    "name": "Health Checkup Expert - Female",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 107,
+    "profile_count": 44,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-advance-nf",
+    "slug": "health-checkup-advance-nf",
+    "name": "Health Checkup Advance NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-gold-nf",
+    "slug": "health-checkup-gold-nf",
+    "name": "Health Checkup Gold NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-advance-diet-consultation",
+    "slug": "health-checkup-advance-diet-consultation",
+    "name": "Health Checkup Advance + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-male-body-vitals-consult",
+    "slug": "health-checkup-expert-male-body-vitals-consult",
+    "name": "Health Checkup Expert - Male + Body Vitals + Consult",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 107,
+    "profile_count": 40,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-comprehensive-nf",
+    "slug": "health-checkup-comprehensive-nf",
+    "name": "Health Checkup Comprehensive NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-gold-body-vitals-consult",
+    "slug": "health-checkup-gold-body-vitals-consult",
+    "name": "Health Checkup Gold + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-platinum-body-vitals-consult",
+    "slug": "health-checkup-platinum-body-vitals-consult",
+    "name": "Health Checkup Platinum + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-advance-body-vitals-consult",
+    "slug": "health-checkup-advance-body-vitals-consult",
+    "name": "Health Checkup Advance + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup-plus",
+    "slug": "vital-health-checkup-plus",
+    "name": "Vital Health Checkup Plus",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 5000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 83,
+    "profile_count": 26,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-female-diet-consultation",
+    "slug": "health-checkup-proactive-female-diet-consultation",
+    "name": "Health Checkup Proactive - Female + Diet Consultation",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 103,
+    "profile_count": 47,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-comprehensive-body-vitals-consult",
+    "slug": "health-checkup-comprehensive-body-vitals-consult",
+    "name": "Health Checkup Comprehensive + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-glp-1-monitor",
+    "slug": "health-checkup-glp-1-monitor",
+    "name": "Health Checkup GLP-1 Monitor",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 5000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 84,
+    "profile_count": 19,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-platinum-diet-consultation",
+    "slug": "health-checkup-platinum-diet-consultation",
+    "name": "Health Checkup Platinum + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-mind-body-basic",
+    "slug": "health-checkup-mind-body-basic",
+    "name": "Health Checkup Mind & Body - Basic",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 5500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 56,
+    "profile_count": 18,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-silver-diet-consultation",
+    "slug": "health-checkup-silver-diet-consultation",
+    "name": "Health Checkup Silver + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-glp-1-ready",
+    "slug": "health-checkup-glp-1-ready",
+    "name": "Health Checkup GLP-1 Ready",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 5500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 87,
+    "profile_count": 22,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-essential",
+    "slug": "health-checkup-essential",
+    "name": "Health Checkup Essential",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-basic-nf",
+    "slug": "health-checkup-basic-nf",
+    "name": "Health Checkup Basic NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-female-diet-consultation",
+    "slug": "comprehensive-health-checkup-female-diet-consultation",
+    "name": "Comprehensive Health Checkup - Female + Diet Consultation",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 11000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 119,
+    "profile_count": 56,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "AMH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-male-diet-consultation",
+    "slug": "health-checkup-proactive-male-diet-consultation",
+    "name": "Health Checkup Proactive - Male + Diet Consultation",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 103,
+    "profile_count": 47,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-platinum",
+    "slug": "health-checkup-platinum",
+    "name": "Health Checkup Platinum",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-female",
+    "slug": "comprehensive-health-checkup-female",
+    "name": "Comprehensive Health Checkup - Female",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 10000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 115,
+    "profile_count": 48,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "AMH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-silver",
+    "slug": "health-checkup-silver",
+    "name": "Health Checkup Silver",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-female-body-vitalsconsult",
+    "slug": "comprehensive-health-checkup-female-body-vitalsconsult",
+    "name": "Comprehensive Health Checkup - Female + Body Vitals+Consult",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 10000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 115,
+    "profile_count": 48,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "AMH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-male-diet-consultation",
+    "slug": "health-checkup-expert-male-diet-consultation",
+    "name": "Health Checkup Expert - Male + Diet Consultation",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 9500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 107,
+    "profile_count": 51,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-male-diet-consultation",
+    "slug": "active-lifestyle-health-checkup-male-diet-consultation",
+    "name": "Active Lifestyle Health Checkup - Male + Diet Consultation",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 99,
+    "profile_count": 43,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-male-diet-consultation",
+    "slug": "comprehensive-health-checkup-male-diet-consultation",
+    "name": "Comprehensive Health Checkup - Male + Diet Consultation",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 11000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 116,
+    "profile_count": 53,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-male",
+    "slug": "health-checkup-proactive-male",
+    "name": "Health Checkup Proactive - Male",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 102,
+    "profile_count": 39,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-female-body-vitals-consult",
+    "slug": "health-checkup-proactive-female-body-vitals-consult",
+    "name": "Health Checkup Proactive - Female + Body Vitals + Consult",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 103,
+    "profile_count": 36,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-comprehensive",
+    "slug": "health-checkup-comprehensive",
+    "name": "Health Checkup Comprehensive",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-female-body-vitals-consult",
+    "slug": "health-checkup-expert-female-body-vitals-consult",
+    "name": "Health Checkup Expert - Female + Body Vitals + Consult",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 108,
+    "profile_count": 41,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-male",
+    "slug": "active-lifestyle-health-checkup-male",
+    "name": "Active Lifestyle Health Checkup - Male",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 6500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 99,
+    "profile_count": 36,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-silver-body-vitals-consult",
+    "slug": "health-checkup-silver-body-vitals-consult",
+    "name": "Health Checkup Silver + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup-plus-diet-consultation",
+    "slug": "vital-health-checkup-plus-diet-consultation",
+    "name": "Vital Health Checkup Plus + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 6000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 83,
+    "profile_count": 33,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-gold-diet-consultation",
+    "slug": "health-checkup-gold-diet-consultation",
+    "name": "Health Checkup Gold + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-comprehensive-diet-consultation",
+    "slug": "health-checkup-comprehensive-diet-consultation",
+    "name": "Health Checkup Comprehensive + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup-body-vitals-consult",
+    "slug": "vital-health-checkup-body-vitals-consult",
+    "name": "Vital Health Checkup + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 3800,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 81,
+    "profile_count": 21,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-female-body-vitals-consult",
+    "slug": "active-lifestyle-health-checkup-female-body-vitals-consult",
+    "name": "Active Lifestyle Health Checkup - Female + Body Vitals + Consult",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 6500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 100,
+    "profile_count": 33,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-female",
+    "slug": "health-checkup-proactive-female",
+    "name": "Health Checkup Proactive - Female",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 102,
+    "profile_count": 39,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-proactive-male-body-vitals-consult",
+    "slug": "health-checkup-proactive-male-body-vitals-consult",
+    "name": "Health Checkup ProActive - Male + Body Vitals + Consult",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 103,
+    "profile_count": 36,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-cancer-screen-360-female",
+    "slug": "health-checkup-cancer-screen-360-female",
+    "name": "Health Checkup Cancer Screen 360 Female",
+    "categoryId": "cancer-screening",
+    "categoryName": "Cancer Screening",
+    "tagline": null,
+    "description": null,
+    "price": 17000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 353,
+    "profile_count": 12,
+    "fasting": "no",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "AFP (Alpha Feto Protein), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA 125, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA 19.9, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcitonin Thyrocalcitonin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "NextGen Hereditary Cancer Panel, EDTA Blood",
+        "parameter_count": 317
+      },
+      {
+        "name": "HCG Beta - Tumour marker, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Primary Cervical Cancer Screening High Risk HPV detection",
+        "parameter_count": 3
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Genetics Counselling",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroglobulin, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-gold",
+    "slug": "health-checkup-gold",
+    "name": "Health Checkup Gold",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-mind-body-total",
+    "slug": "health-checkup-mind-body-total",
+    "name": "Health Checkup Mind & Body - Total",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 6500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 61,
+    "profile_count": 20,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-female-diet-consultation",
+    "slug": "health-checkup-expert-female-diet-consultation",
+    "name": "Health Checkup Expert - Female + Diet Consultation",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 9500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 108,
+    "profile_count": 52,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA - 15.3 for Breast Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-master-health-checkup-nf",
+    "slug": "master-health-checkup-nf",
+    "name": "Master Health Checkup NF",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-cancer-screen-360-male",
+    "slug": "health-checkup-cancer-screen-360-male",
+    "name": "Health Checkup Cancer Screen 360 Male",
+    "categoryId": "cancer-screening",
+    "categoryName": "Cancer Screening",
+    "tagline": null,
+    "description": null,
+    "price": 17000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 350,
+    "profile_count": 11,
+    "fasting": "no",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "AFP (Alpha Feto Protein), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CA 19.9, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcitonin Thyrocalcitonin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "NextGen Hereditary Cancer Panel, EDTA Blood",
+        "parameter_count": 317
+      },
+      {
+        "name": "HCG Beta - Tumour marker, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free PSA (Prostate Specific Antigen), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Genetics Counselling",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroglobulin, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-expert-male",
+    "slug": "health-checkup-expert-male",
+    "name": "Health Checkup Expert - Male",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 8500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 106,
+    "profile_count": 43,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "GFR with Creatinine (Above 18 Years), serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup-plus-body-vitals-consult",
+    "slug": "vital-health-checkup-plus-body-vitals-consult",
+    "name": "Vital Health Checkup Plus + Body Vitals + Consult",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 5200,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 83,
+    "profile_count": 22,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-male-body-vitals-consult",
+    "slug": "active-lifestyle-health-checkup-male-body-vitals-consult",
+    "name": "Active Lifestyle Health Checkup - Male + Body Vitals + Consult",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 6500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 99,
+    "profile_count": 32,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-advance",
+    "slug": "health-checkup-advance",
+    "name": "Health Checkup Advance",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-female-diet-consultation",
+    "slug": "active-lifestyle-health-checkup-female-diet-consultation",
+    "name": "Active Lifestyle Health Checkup - Female + Diet Consultation",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 7500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 100,
+    "profile_count": 44,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-health-checkup-basic",
+    "slug": "health-checkup-basic",
+    "name": "Health Checkup Basic",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": "This package isn't offered near you right now. Explore our full range of tests and packages available in your city.",
+    "price": null,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 0,
+    "profile_count": 0,
+    "fasting": null,
+    "report_time": null,
+    "gender": null,
+    "profiles": [],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-comprehensive-health-checkup-male-body-vitalsconsult",
+    "slug": "comprehensive-health-checkup-male-body-vitalsconsult",
+    "name": "Comprehensive Health Checkup - Male + Body Vitals+Consult",
+    "categoryId": "mens-health",
+    "categoryName": "Men's Health",
+    "tagline": null,
+    "description": null,
+    "price": 10000,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 112,
+    "profile_count": 45,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "male",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "IgE total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Amylase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "lipase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "Cortisol, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Homocysteine, plasma",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Lp(a)-Lipoprotein (a), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Electrolytes, serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Magnesium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "RA Test for Arthritis, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Ferritin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Folic Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "PSA (for men only) for Prostate Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HCV-total antibody (for Hepititis C), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Insulin, Fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Thyroid Profile - 2",
+        "parameter_count": 3
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup",
+    "slug": "vital-health-checkup",
+    "name": "Vital Health Checkup",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 3500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 81,
+    "profile_count": 24,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-active-lifestyle-health-checkup-female",
+    "slug": "active-lifestyle-health-checkup-female",
+    "name": "Active Lifestyle Health Checkup - Female",
+    "categoryId": "womens-health",
+    "categoryName": "Women's Health",
+    "tagline": null,
+    "description": null,
+    "price": 6500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 101,
+    "profile_count": 38,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "female",
+    "profiles": [
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDH",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Apolipoproteins (A1/B), serum",
+        "parameter_count": 3
+      },
+      {
+        "name": "CPK, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HS-CRP, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Lipid Profile Mini",
+        "parameter_count": 8
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "eGFR for creatinine, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Microalbumin/creatinine ratio, urine",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "25 OH Vitamin D, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Iron studies, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "CEA for GI /Ovarian Cancer",
+        "parameter_count": 1
+      },
+      {
+        "name": "CRP",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "HBsAg (for Hepititis B), serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "FSH, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Prolactin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, post prandial",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  },
+  {
+    "id": "smear-pkg-vital-health-checkup-diet-consultation",
+    "slug": "vital-health-checkup-diet-consultation",
+    "name": "Vital Health Checkup + Diet Consultation",
+    "categoryId": "general-health",
+    "categoryName": "General Health",
+    "tagline": null,
+    "description": null,
+    "price": 4500,
+    "mrp": null,
+    "discount": null,
+    "image_url": null,
+    "parameters_count": 81,
+    "profile_count": 31,
+    "fasting": "yes",
+    "report_time": "24hrs",
+    "gender": "Male, Female",
+    "profiles": [
+      {
+        "name": "Albumin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Alkaline Phosphatase, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Bilirubin-Indirect, serum",
+        "parameter_count": 2
+      },
+      {
+        "name": "Gamma GT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Globulin, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Proteins-total, serum",
+        "parameter_count": 4
+      },
+      {
+        "name": "SGOT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "SGPT, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "BUN-Blood Urea Nitrogen, seruum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Chlorides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Creatinine, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Potassium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Routine Examination Profile - Urine (Automated",
+        "parameter_count": 23
+      },
+      {
+        "name": "Sodium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Uric Acid, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Calcium, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Phosphorus, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Haemogram , blood",
+        "parameter_count": 24
+      },
+      {
+        "name": "Vitamin B12",
+        "parameter_count": 1
+      },
+      {
+        "name": "Cholesterol Total, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "HDL Cholesterol Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "LDL Cholesterol - Direct, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "Triglycerides, serum",
+        "parameter_count": 1
+      },
+      {
+        "name": "ESR",
+        "parameter_count": 1
+      },
+      {
+        "name": "Glucose, fasting",
+        "parameter_count": 1
+      },
+      {
+        "name": "HbA1c (glycated Hemoglobin), blood",
+        "parameter_count": 2
+      },
+      {
+        "name": "Free T3",
+        "parameter_count": 1
+      },
+      {
+        "name": "Free T4",
+        "parameter_count": 1
+      },
+      {
+        "name": "TSH, serum",
+        "parameter_count": 1
+      }
+    ],
+    "catalog_status": "active"
+  }
+]

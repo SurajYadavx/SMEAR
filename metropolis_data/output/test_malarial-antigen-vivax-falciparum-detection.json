@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-malarial-antigen-vivax-falciparum-detection",
+  "test_name": "Malaria Antigen Test (Vivax & Falciparum)",
+  "slug": "malarial-antigen-vivax-falciparum-detection",
+  "source_url": "https://www.metropolisindia.com/parameter/malarial-antigen-vivax-falciparum-detection",
+  "canonical_url": "https://www.metropolisindia.com/parameter/malarial-antigen-vivax-falciparum-detection",
+  "page_title": "Malaria Antigen Test (Vivax and Falciparum) | Price, Book Online",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

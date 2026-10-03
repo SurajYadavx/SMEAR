@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-cd-4-counts",
+  "test_name": "CD4 Count Test",
+  "slug": "cd-4-counts",
+  "source_url": "https://www.metropolisindia.com/parameter/cd-4-counts",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd-4-counts",
+  "page_title": "CD4 Count Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is a CD4 Count Test used for?",
+      "answer": "It measures the number of CD4 T-cells to evaluate immune health, particularly in people with HIV or other immunodeficiency conditions."
+    },
+    {
+      "question": "What is a normal CD4 count range?",
+      "answer": "Typically between 500 and 1200 cells/\u00b5L, but this can vary based on age, health, and testing method."
+    },
+    {
+      "question": "How often should a CD4 Count Test be done?",
+      "answer": "People with HIV should get tested every 3\u20136 months or as recommended by their doctor."
+    },
+    {
+      "question": "Can infections temporarily affect CD4 levels?",
+      "answer": "Yes. Temporary infections can cause fluctuations, so your doctor may delay testing until recovery."
+    },
+    {
+      "question": "Do I need to fast before the CD4 Count Test?",
+      "answer": "No. You can eat and drink normally before the test."
+    },
+    {
+      "question": "What do low CD4 levels indicate?",
+      "answer": "Low CD4 levels indicate a weakened immune system and a higher risk of infections, often seen in advanced HIV."
+    },
+    {
+      "question": "Can CD4 count increase with treatment?",
+      "answer": "Yes. Effective ART treatment usually leads to a gradual rise in CD4 count, showing immune recovery."
+    },
+    {
+      "question": "Is the CD4 Count Test only for people with HIV?",
+      "answer": "No. It\u2019s also useful for monitoring immune status in autoimmune diseases, cancers, and transplant patients."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

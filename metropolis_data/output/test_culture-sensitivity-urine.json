@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-culture-sensitivity-urine",
+  "test_name": "Urine Culture Test",
+  "slug": "culture-sensitivity-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-urine",
+  "page_title": "Urine Culture Test Price - Report and Book Online at Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1150
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "15 mL of spot urine in a sterile, leak-proof container (mid-stream sample collected early morning)",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the urine culture test?",
+      "answer": "The best time is early morning, using your first urine sample. This concentrated urine provides the most accurate results for detecting bacteria and ensuring a reliable diagnosis."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the urine culture test, and for how long?",
+      "answer": "No fasting is required for the urine culture test. You can eat and drink normally before providing your sample, maintaining your regular diet and fluid intake."
+    },
+    {
+      "question": "Can dehydration affect my urine culture test results?",
+      "answer": "Yes, dehydration can concentrate bacteria in urine, potentially affecting results. However, maintain normal hydration levels unless your doctor provides specific instructions about fluid intake before testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the urine culture test?",
+      "answer": "No special diet is needed. However, inform your doctor about recent antibiotic use, as these medications can suppress bacterial growth and affect test accuracy significantly."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the urine culture test?",
+      "answer": "No blood draw is required for this test. You simply provide a clean-catch midstream urine sample in a sterile container following proper collection instructions."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The urine culture test has no risks or side effects. It's a completely safe, non-invasive procedure that only requires you to provide a urine sample."
+    },
+    {
+      "question": "What level of urine culture test is normal?",
+      "answer": "Normal results show no significant bacterial growth, typically less than 1,000 CFU/ml (colony-forming units per millilitre). Growth of 10,000-100,000 CFU/ml or more of a single bacterial type indicates infection requiring treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

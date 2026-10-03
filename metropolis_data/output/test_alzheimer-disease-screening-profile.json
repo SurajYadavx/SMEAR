@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-alzheimer-disease-screening-profile",
+  "test_name": "Alzheimer Test (Alzheimer Blood Test)",
+  "slug": "alzheimer-disease-screening-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/alzheimer-disease-screening-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alzheimer-disease-screening-profile",
+  "page_title": "Alzheimer Test - Price, Purpose, Preparation | Book Online",
+  "pricing": {
+    "selling_price": 13000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required. CSF collection must be done by a qualified clinician as per medical advice\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Alzheimer Disease Test?",
+      "answer": "This test should be taken when your doctor or specialist advises it. It is usually recommended when memory loss, cognitive decline or suspected neurodegenerative disease needs further evaluation."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Alzheimer Disease Test, and for how long?",
+      "answer": "Overnight fasting is not routinely required for the lab test. However, your doctor may give specific instructions depending on how your CSF sample will be collected."
+    },
+    {
+      "question": "Can dehydration affect my Alzheimer Disease Test results?",
+      "answer": "Dehydration is not usually a direct factor in CSF Alzheimer biomarker results. However, you should follow your doctor\u2019s advice about fluids before the CSF collection procedure."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Alzheimer Disease Test?",
+      "answer": "No special diet is usually required. Tell your doctor about all medicines, especially blood thinners, aspirin or antiplatelet medicines, before CSF collection."
+    },
+    {
+      "question": "How is the CSF sample collected for the Alzheimer Disease Test?",
+      "answer": "A qualified clinician collects CSF, usually through a lumbar puncture. The sample is then placed in a leak proof container and sent to the laboratory for testing."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The laboratory test itself has no direct risk, but CSF collection may cause headache, back discomfort, bleeding, infection or dizziness in some people. Your doctor will explain the procedure and precautions."
+    },
+    {
+      "question": "What level of Alzheimer Disease Test is normal?",
+      "answer": "Normal values depend on the laboratory method and report interpretation. Your doctor will review Total Tau, B Amyloid (1-42), B Amyloid (1-40) and the B Amyloid ratio along with your symptoms and other tests."
+    },
+    {
+      "question": "Does an abnormal Alzheimer Disease Test mean I definitely have Alzheimer\u2019s disease?",
+      "answer": "No. An abnormal result suggests a biomarker pattern that may be associated with Alzheimer\u2019s disease, but diagnosis needs clinical assessment, cognitive testing and sometimes imaging."
+    },
+    {
+      "question": "Can this test differentiate Alzheimer\u2019s disease from other dementias?",
+      "answer": "The test can support differentiation from some other neurodegenerative conditions, but it is not used alone. Your doctor will interpret it with your medical history and other investigations."
+    },
+    {
+      "question": "Is home sample collection available for the Alzheimer Disease Test?",
+      "answer": "No. Home sample collection is not available because this test requires a CSF sample collected by a qualified clinician in an appropriate medical setting."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

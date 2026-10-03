@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-diabetes-risk-assessment-profile",
+  "test_name": "Diabetes Risk Assessment Profile Test",
+  "slug": "diabetes-risk-assessment-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/diabetes-risk-assessment-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/diabetes-risk-assessment-profile",
+  "page_title": "Diabetes Risk Assessment Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3015
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

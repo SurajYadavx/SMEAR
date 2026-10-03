@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-afp-alpha-feto-proteincliacsf",
+  "test_name": "Alpha Fetoprotein (AFP), CSF",
+  "slug": "afp-alpha-feto-proteincliacsf",
+  "source_url": "https://www.metropolisindia.com/parameter/afp-alpha-feto-proteincliacsf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afp-alpha-feto-proteincliacsf",
+  "page_title": "Alpha Feto Protein Afp Csf Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1050
+  },
+  "specimen": "CSF",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

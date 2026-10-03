@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-cytopathology-expert-opinion",
+  "test_name": "Cytopathology \u2013 Expert Opinion",
+  "slug": "cytopathology-expert-opinion",
+  "source_url": "https://www.metropolisindia.com/parameter/cytopathology-expert-opinion",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cytopathology-expert-opinion",
+  "page_title": "Cytopathology Expert Opinion Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2625
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 16 days (ert 5:00pm)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Cytopathology \u2013 Expert Opinion measure?",
+      "answer": "Cytopathology \u2013 Expert Opinion is a second opinion from experts that conduct a thorough review and analysis, potentially offering further insights, confirming diagnoses, or suggesting alternative interpretations."
+    },
+    {
+      "question": "Why is Cytopathology \u2013 Expert Opinion done?",
+      "answer": "Cytopathology \u2013 Expert Opinion is done for several reasons, including: \u2022 Diagnosing diseases and conditions by analysing cellular changes and determining their severity \u2022 Assessing the effectiveness of ongoing treatments \u2022 Monitoring disease progression and recurrence \u2022 Providing expert opinions for complex cases or for second opinions"
+    },
+    {
+      "question": "When is Cytopathology \u2013 Expert Opinion recommended and who should take the test?",
+      "answer": "Cytopathology \u2013 Expert Opinion is recommended in various situations, including: \u2022 When a specific diagnosis could not be made with routine tests \u2022 When there is a need for an expert opinion in complex cases or for a second opinion \u2022 To assess treatment effectiveness and monitor disease progression"
+    },
+    {
+      "question": "What if the results of Cytopathology \u2013 Expert Opinion are abnormal?",
+      "answer": "Abnormal results may indicate the presence of underlying diseases or conditions. However, abnormal results do not necessarily mean a serious or life-threatening condition. It is important to discuss the results with your doctor, who will interpret them in the context of your medical history, other tests, and clinical findings."
+    },
+    {
+      "question": "What to expect during Cytopathology \u2013 Expert Opinion?",
+      "answer": "During this test: \u2022 You will need to provide stained or unstained slides along with the original cytopathology report. \u2022 Relevant clinical and radiological details should also be provided. \u2022 The samples will be analysed by expert pathologists who will provide an opinion based on the findings."
+    },
+    {
+      "question": "What preparations are required before Cytopathology \u2013 Expert Opinion?",
+      "answer": "To prepare for Cytopathology \u2013 Expert Opinion: \u2022 Collect and provide the required stained or unstained slides. \u2022 Include the original cytopathology report. \u2022 Provide relevant clinical and radiological details. \u2022 Follow any specific instructions from your doctor regarding fasting or medication restrictions. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Cytopathology \u2013 Expert Opinion?",
+      "answer": "Other tests that may be ordered alongside Cytopathology \u2013 Expert Opinion include: \u2022 Histopathology: This involves examining tissue samples under a microscope to diagnose diseases. \u2022 Molecular Testing: It helps identify genetic mutations or specific markers associated with certain diseases. \u2022 Immunohistochemistry: This test uses specific antibodies to detect proteins in tissues and can aid in diagnosis and prognosis."
+    },
+    {
+      "question": "What is Cytopathology \u2013 Expert Opinion also known as?",
+      "answer": "Expert pathological analysis of cell samples"
+    },
+    {
+      "question": "What is cytopathology used for?",
+      "answer": "Cytopathology can be used to diagnose various diseases and conditions, such as cancer, infections, autoimmune disorders, inflammatory conditions, and hormonal disorders. It helps in identifying specific cell abnormalities and provides important information for accurate diagnosis and treatment planning."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

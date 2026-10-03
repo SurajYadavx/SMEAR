@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-kras-mutation-detection-ex2-3-ffpe-tissue",
+  "test_name": "KRAS-12/13 Mutation Analysis Test",
+  "slug": "kras-mutation-detection-ex2-3-ffpe-tissue",
+  "source_url": "https://www.metropolisindia.com/parameter/kras-mutation-detection-ex2-3-ffpe-tissue",
+  "canonical_url": "https://www.metropolisindia.com/parameter/kras-mutation-detection-ex2-3-ffpe-tissue",
+  "page_title": "KRAS-12/13 Mutation Analysis Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8110
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-everolimus-blood-by-lcms-method-e0039",
+  "test_name": "Everolimus Test",
+  "slug": "everolimus-blood-by-lcms-method-e0039",
+  "source_url": "https://www.metropolisindia.com/parameter/everolimus-blood-by-lcms-method-e0039",
+  "canonical_url": "https://www.metropolisindia.com/parameter/everolimus-blood-by-lcms-method-e0039",
+  "page_title": "Everolimus Test - Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7070
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:30 pm",
+  "gender": "Male, Female",
+  "preparation": "Indicate your last dose time and whether the sample represents peak or trough levels",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Everolimus test check for?",
+      "answer": "It measures the amount of Everolimus in your blood to ensure your dose is safe and effective."
+    },
+    {
+      "question": "When should the Everolimus sample be taken?",
+      "answer": "The blood sample should be collected just before your next scheduled dose (trough level)."
+    },
+    {
+      "question": "Can medications affect my Everolimus levels?",
+      "answer": "Yes, drugs such as erythromycin, ketoconazole, phenytoin, or rifampicin can alter Everolimus metabolism."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No fasting is required; you can eat and drink normally before the test."
+    },
+    {
+      "question": "What happens if my Everolimus level is too low?",
+      "answer": "It may mean your dose is insufficient, risking organ rejection or reduced cancer treatment effectiveness."
+    },
+    {
+      "question": "What happens if my Everolimus level is too high?",
+      "answer": "It may indicate overexposure to the drug, increasing the risk of side effects such as infections or delayed wound healing."
+    },
+    {
+      "question": "How often should I take the Everolimus test?",
+      "answer": "Your doctor will decide based on your treatment stage, typically after dosage changes or during follow-up."
+    },
+    {
+      "question": "Can I take my regular medicines before the test?",
+      "answer": "Yes, but inform your doctor about all medications you\u2019re taking as some may interfere with results."
+    },
+    {
+      "question": "Is home sample collection available for this test?",
+      "answer": "Yes, Metropolis Healthcare offers convenient home sample collection for the Everolimus Test."
+    },
+    {
+      "question": "What sample is required for this test?",
+      "answer": "The test requires a 3 ml blood sample collected in an EDTA vacutainer tube."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

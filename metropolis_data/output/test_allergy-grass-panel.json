@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-grass-panel",
+  "test_name": "Allergy-Grass Panel",
+  "slug": "allergy-grass-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-grass-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-grass-panel",
+  "page_title": "Grass Pollen Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3640
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

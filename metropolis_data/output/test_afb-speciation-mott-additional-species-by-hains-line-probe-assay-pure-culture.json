@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-speciation-mott-additional-species-by-hains-line-probe-assay-pure-culture",
+  "test_name": "AFB Speciation (MOTT) Additional Species By Hains Line Probe Assay - Pure Culture",
+  "slug": "afb-speciation-mott-additional-species-by-hains-line-probe-assay-pure-culture",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-speciation-mott-additional-species-by-hains-line-probe-assay-pure-culture",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-speciation-mott-additional-species-by-hains-line-probe-assay-pure-culture",
+  "page_title": "AFB Speciation Hains Line Probe Assay Pure Culture Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4515
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 8pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB Speciation (MOTT) test measure?",
+      "answer": "This test identifies the specific species of Mycobacterium tuberculosis (MTB Complex) or non-tuberculosis bacteria (NTM or MOTT) present in your sample."
+    },
+    {
+      "question": "Why is AFB Speciation (MOTT) test done?",
+      "answer": "\u2022 To diagnose infection by Mycobacterium tuberculosis (MTB Complex) or non-tuberculosis bacteria (NTM or MOTT) \u2022 To determine the appropriate treatment for the infection \u2022 To monitor the effectiveness of ongoing treatment \u2022 To differentiate between MTB Complex and NTM infections \u2022 To assess the risk of developing complications from these infections."
+    },
+    {
+      "question": "When is AFB Speciation (MOTT) test recommended and who should take the test?",
+      "answer": "This test is recommended if you have \u2022 symptoms suggestive of tuberculosis or other mycobacterial infections, \u2022 a history of exposure to tuberculosis or non-tuberculosis bacteria, \u2022 been diagnosed with a mycobacterial infection and need confirmation or species identification, or \u2022 an ongoing mycobacterial infection and require treatment monitoring."
+    },
+    {
+      "question": "What if the results of the AFB Speciation (MOTT) test are abnormal?",
+      "answer": "Abnormal results may indicate an active infection requiring appropriate treatment."
+    },
+    {
+      "question": "What to expect during the AFB Speciation (MOTT) test?",
+      "answer": "During the test, your doctor will collect a sample from the site of infection or other relevant sites. The sample will be sent to the laboratory for analysis by the Hains Line Probe Assay method."
+    },
+    {
+      "question": "What preparations are required before the AFB Speciation (MOTT) test?",
+      "answer": "\u2022 Follow any instructions given by your doctor regarding fasting or avoiding certain foods or medications. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB Speciation (MOTT) test?",
+      "answer": "\u2022 Acid-fast bacillus smear and culture: To detect mycobacteria in a patient's sample \u2022 Drug susceptibility testing: To determine which antibiotics are effective against the identified mycobacterial species"
+    },
+    {
+      "question": "What is the AFB Speciation (MOTT) test also known as?",
+      "answer": "Mycobacterial Culture and Sensitivity Test or Tuberculosis Culture and Sensitivity Test"
+    },
+    {
+      "question": "What is tuberculosis?",
+      "answer": "Tuberculosis is an infectious disease caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body. Common symptoms include persistent cough, weight loss, fever, and night sweats."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

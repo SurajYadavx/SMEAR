@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-animaldog-danderserum",
+  "test_name": "Allergen, Individual-Animal Dog Dander Serum",
+  "slug": "allergenindividual-animaldog-danderserum",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-animaldog-danderserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-animaldog-danderserum",
+  "page_title": "Dog Dander Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1365
+  },
+  "specimen": "Individual-Animal Dog Dander Serum",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

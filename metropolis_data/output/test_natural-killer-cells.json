@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-natural-killer-cells",
+  "test_name": "Natural Killer Cells Test",
+  "slug": "natural-killer-cells",
+  "source_url": "https://www.metropolisindia.com/parameter/natural-killer-cells",
+  "canonical_url": "https://www.metropolisindia.com/parameter/natural-killer-cells",
+  "page_title": "Natural Killer Cells (NKC) \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5120
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Natural Killer Cells Test measure?",
+      "answer": "It measures the number and percentage of NK cells (CD16/CD56) in blood to support assessment of immune function."
+    },
+    {
+      "question": "Do I need to fast before this test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Why is this test done in fertility evaluation?",
+      "answer": "In selected cases, NK cell levels/activity may be assessed as part of an immune evaluation in recurrent miscarriage or implantation failure, based on specialist advice."
+    },
+    {
+      "question": "Can stress affect NK cell results?",
+      "answer": "Yes. Physical or emotional stress and intense exercise can transiently alter circulating immune cell counts and distributions."
+    },
+    {
+      "question": "What method is used for this test?",
+      "answer": "Flow cytometry, which identifies NK cells using CD16 and CD56 markers and reports percentage and absolute count."
+    },
+    {
+      "question": "When are NK cells considered low?",
+      "answer": "When CD(16+56) falls below 5.6% or the absolute NK cell count is below 173 cells/cu.mm (lab reference ranges may vary)."
+    },
+    {
+      "question": "What diseases can be associated with abnormal NK cell counts?",
+      "answer": "Abnormal results may be associated with immune deficiency, immune activation/inflammation, chronic viral infections, malignancy-related immune changes, or medication effects; interpretation requires clinical correlation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

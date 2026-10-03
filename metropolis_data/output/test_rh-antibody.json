@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-rh-antibody",
+  "test_name": "Rh Antibody",
+  "slug": "rh-antibody",
+  "source_url": "https://www.metropolisindia.com/parameter/rh-antibody",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rh-antibody",
+  "page_title": "Rh Antibody \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 945
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

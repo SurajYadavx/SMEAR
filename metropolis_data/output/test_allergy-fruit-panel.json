@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-fruit-panel",
+  "test_name": "Allergy - Fruit Panel",
+  "slug": "allergy-fruit-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-fruit-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-fruit-panel",
+  "page_title": "Fruit Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

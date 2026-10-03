@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jc-dna-detection-csf",
+  "test_name": "JC DNA Detection by Real-time PCR - CSF",
+  "slug": "jc-dna-detection-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-csf",
+  "page_title": "JC DNA Detection CSF Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JC DNA Detection by Real-time PCR - CSF measure?",
+      "answer": "This test detects the presence of JC polyomavirus in cerebrospinal fluid obtained through lumbar puncture."
+    },
+    {
+      "question": "Why is JC DNA Detection by Real-time PCR - CSF done?",
+      "answer": "\u2022 To detect the JC polyomavirus \u2022 To monitor the effectiveness of treatment \u2022 To evaluate patients with weakened immune systems who are at risk of developing this condition"
+    },
+    {
+      "question": "When is the JC DNA Detection test recommended and who should take the test?",
+      "answer": "\u2022 This test is recommended for people suspected to have progressive multifocal leukoencephalopathy. \u2022 It is also suggested for patients with weakened immune systems due to conditions such as HIV/AIDS, haematological malignancies, and organ transplants. \u2022 Patients undergoing immunosuppressive therapies should also take this test."
+    },
+    {
+      "question": "What if the results of the JC DNA Detection test are abnormal?",
+      "answer": "Positive results indicate the presence of the virus and thus the risk of developing progressive multifocal leukoencephalopathy."
+    },
+    {
+      "question": "What to expect during the JC DNA Detection test?",
+      "answer": "During the test, a small sample of cerebrospinal fluid is obtained through a lumbar puncture. The sample is then sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the JC DNA Detection test?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking, especially those that affect your immune system. You may have to stop taking certain medications before the test. Your doctor may also advise you to fast for a few hours before the test. \u2022 Avoid blood-thinning medications, such as aspirin and ibuprofen, for at least 48 hours before the test. \u2022 Inform your doctor if you have any allergies or medical conditions or if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the JC DNA Detection test?",
+      "answer": "\u2022 Serological tests: Blood tests to detect other viral infections \u2022 Examination of blood samples: To assess the immune status of immunocompromised patients"
+    },
+    {
+      "question": "What is JC DNA Detection by Real-time PCR - CSF also known as?",
+      "answer": "Real-time PCR for JC virus, JC virus DNA in CSF, or JC virus detection by PCR"
+    },
+    {
+      "question": "What is progressive multifocal leukoencephalopathy (PML)?",
+      "answer": "Progressive multifocal leukoencephalopathy (PML) is a rare but serious brain infection caused by the JC virus. It affects people with weakened immune systems and patients undergoing immunosuppressive therapies. It can lead to severe neurological problems, including confusion, memory loss, and motor deficits."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

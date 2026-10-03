@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-c4complement-4serum",
+  "test_name": "C4 Blood Test",
+  "slug": "c4complement-4serum",
+  "source_url": "https://www.metropolisindia.com/parameter/c4complement-4serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/c4complement-4serum",
+  "page_title": "C4 Blood Test \u2013 Price, Normal Range and Purpose  | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the C4 Blood Test used for?",
+      "answer": "It measures Complement C4 protein levels to assess immune system and autoimmune conditions."
+    },
+    {
+      "question": "Is fasting required before the C4 Blood Test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "How is the C4 Blood Test performed?",
+      "answer": "A small blood sample is taken from your arm and tested using Immunoturbidimetry."
+    },
+    {
+      "question": "What does a low C4 level mean?",
+      "answer": "It can indicate active autoimmune disease, infection, or complement deficiency."
+    },
+    {
+      "question": "What does a high C4 level mean?",
+      "answer": "It may suggest recovery from infection or ongoing inflammation."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are available within 6 hours after sample reaching the lab."
+    },
+    {
+      "question": "Is home collection available for this test?",
+      "answer": "Yes, Metropolis Healthcare provides safe and convenient home sample collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

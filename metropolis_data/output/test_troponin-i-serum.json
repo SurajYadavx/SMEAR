@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-troponin-i-serum",
+  "test_name": "Troponin I Test ( Trop I Test)",
+  "slug": "troponin-i-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/troponin-i-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/troponin-i-serum",
+  "page_title": "Book Troponin I Test Online \u2013 Procedure, Preparation, Range, Price & Home Collection",
+  "pricing": {
+    "selling_price": 1890
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation is required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the troponin I serum test?",
+      "answer": "This test is performed immediately when you have heart attack symptoms. It's an emergency diagnostic tool, not a routine checkup. Doctors often order repeated tests over 6-24 hours to track changes in your troponin levels."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

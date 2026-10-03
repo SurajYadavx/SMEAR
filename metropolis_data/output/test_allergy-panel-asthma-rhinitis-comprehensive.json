@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-allergy-panel-asthma-rhinitis-comprehensive",
+  "test_name": "Asthma Comprehensive Allergy Panel",
+  "slug": "allergy-panel-asthma-rhinitis-comprehensive",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-panel-asthma-rhinitis-comprehensive",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-panel-asthma-rhinitis-comprehensive",
+  "page_title": "Asthma Test Price - Range And Preparation | Book Online",
+  "pricing": {
+    "selling_price": 13010
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 8 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Asthma Comprehensive Allergy Panel?",
+      "answer": "You can take this test when your doctor advises it, especially if you have repeated sneezing, blocked nose, wheezing, cough, breathlessness or symptoms that worsen around dust, pets, pollen or mould."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Asthma Comprehensive Allergy Panel, and for how long?",
+      "answer": "No, overnight fasting is not required. You can eat and drink normally before the test unless your doctor has advised fasting for another test."
+    },
+    {
+      "question": "Can dehydration affect my Asthma Comprehensive Allergy Panel results?",
+      "answer": "Mild dehydration is unlikely to significantly affect allergen specific IgE results. However, normal hydration is recommended before any blood test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Asthma Comprehensive Allergy Panel?",
+      "answer": "No special diet is needed. Inform your doctor about your medicines, inhalers, nasal sprays, antihistamines, steroids and supplements, especially high dose biotin."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Asthma Comprehensive Allergy Panel?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site and collects about 3 ml of blood from a vein into a gel vacutainer. The sample is then processed for IgE testing."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising or brief dizziness at the time of blood collection. Serious complications are rare."
+    },
+    {
+      "question": "What level of Asthma Comprehensive Allergy Panel is normal?",
+      "answer": "This is a panel test, so there is no single normal level for the whole test. In the sample report, total IgE has a biological reference interval of 0 to 200 IU/mL. For specific IgE, less than 0.1 kUA/L is usually considered undetectable. Your doctor will interpret each allergen result with your symptoms and exposure history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

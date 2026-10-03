@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-rsv-respiratory-syncytial-virusigm-antibodyserum",
+  "test_name": "RSV-IgM Antibody by EIA - Serum",
+  "slug": "rsv-respiratory-syncytial-virusigm-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/rsv-respiratory-syncytial-virusigm-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rsv-respiratory-syncytial-virusigm-antibodyserum",
+  "page_title": "RSV (Respiratory Syncytial Virus) IGM Antibody Serum Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2365
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does RSV-IgM Antibody by EIA - Serum measure?",
+      "answer": "This test measures the levels of specific IgM antibodies that are produced by your immune system in response to RSV infection."
+    },
+    {
+      "question": "Why is RSV-IgM Antibody by EIA - Serum done?",
+      "answer": "\u2022 To detect specific IgM antibodies against the Respiratory syncytial virus \u2022 To determine the presence of an active RSV infection in high-risk individuals, such as newborns and immunocompromised patients"
+    },
+    {
+      "question": "When is the RSV-IgM Antibody test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 symptoms of respiratory illness like cold, cough, fever, or breathing difficulties, \u2022 comorbidities like asthma, lung diseases, or cardiac conditions that can exacerbate RSV infection, or \u2022 a weakened immune system or congenital heart defects."
+    },
+    {
+      "question": "What if the results of the RSV-IgM Antibody test are abnormal?",
+      "answer": "Abnormal results indicating high levels of IgM antibodies may suggest a recent RSV infection."
+    },
+    {
+      "question": "What to expect during the RSV-IgM Antibody Serum test?",
+      "answer": "A healthcare professional will draw a sample of your blood from a vein in your arm. The blood sample will then be sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the RSV-IgM Antibody Serum test?",
+      "answer": "Inform your doctor if you're taking any medication or have any medical conditions that can interfere with the test results. Also, tell them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the RSV-IgM Antibody test?",
+      "answer": "RSV antigen detection: This test helps to identify the virus directly in body fluids like nasal discharge or blood."
+    },
+    {
+      "question": "What is the RSV-IgM Antibody by EIA - Serum also known as?",
+      "answer": "Respiratory Syncytial Virus IgM antibody, RSV IgM ELISA, or RSV Ab IgM EIA"
+    },
+    {
+      "question": "What is Respiratory Syncytial Virus?",
+      "answer": "Respiratory Syncytial Virus (RSV) is a common cause of respiratory illness, primarily in young children. It's highly contagious and can cause a wide range of symptoms from mild cold-like symptoms to severe bronchiolitis and pneumonia in high-risk individuals."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

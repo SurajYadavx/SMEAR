@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-single-antigen-bead-assay-class-i-luminex",
+  "test_name": "Single Antigen Bead Assay (Class I)",
+  "slug": "hla-single-antigen-bead-assay-class-i-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-single-antigen-bead-assay-class-i-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-single-antigen-bead-assay-class-i-luminex",
+  "page_title": "HLA Single Antigen Bead Assay Class I Luminex Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 24130
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Single Antigen Bead Assay (Class I) measure?",
+      "answer": "Single Antigen Bead Assay measures the presence of specific human leukocyte antigens (HLA) (Class I) in your blood serum."
+    },
+    {
+      "question": "Why is Single Antigen Bead Assay (Class I) done?",
+      "answer": "\u2022 To assess the compatibility of a donor organ with a recipient in transplant immunology \u2022 To determine the probability of developing certain autoimmune diseases \u2022 To identify conditions related to HLA antibodies and monitor treatment effectiveness \u2022 To evaluate the response to immunosuppressive therapy in transplant patients"
+    },
+    {
+      "question": "When is Single Antigen Bead Assay (Class I) recommended and who should take the test?",
+      "answer": "Your doctor might recommend this test if you \u2022 are scheduled for an organ or bone marrow transplant, \u2022 are potential organ donor, \u2022 have a history of autoimmune diseases such as lupus or rheumatoid arthritis, or \u2022 show signs of transplant rejection, like fever, fatigue, or weight gain."
+    },
+    {
+      "question": "What if the results of the Single Antigen Bead Assay are abnormal?",
+      "answer": "Abnormal results may indicate that a donor organ or tissue is not suitable for transplant due to insufficient compatibility. They may also indicate the risk of developing certain autoimmune diseases or conditions related to HLA antibodies."
+    },
+    {
+      "question": "What to expect during the Single Antigen Bead Assay?",
+      "answer": "\u2022 The area around the puncture site on your arm will be cleaned with an antiseptic. \u2022 A needle will be inserted into your vein to draw blood. \u2022 The collected blood sample will be sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before Single Antigen Bead Assay?",
+      "answer": "\u2022 Inform your doctor of any medications you are taking, including over-the-counter and herbal supplements. Also, inform them if you have any specific requirements. \u2022 Avoid consuming food or drinks for 8 hours before the test. \u2022 Bring a list of all your current medications and supplements."
+    },
+    {
+      "question": "What other tests may be ordered with Single Antigen Bead Assay?",
+      "answer": "Other tests that may be ordered alongside Single Antigen Bead Assay include tissue typing, HLA antibody tests, and crossmatching tests to evaluate the compatibility between donor and recipient tissue samples."
+    },
+    {
+      "question": "What is Single Antigen Bead Assay (Class I) also known as?",
+      "answer": "HLA Class I Single Antigen Bead (SAB) testing"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure in which an organ or tissue is removed from one body and placed into another person's body. It is performed when an organ or tissue has failed or been damaged due to disease, injury, or congenital defects. Organ transplantation requires careful matching of donor and recipient tissue types to avoid rejection by the recipient's immune system."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

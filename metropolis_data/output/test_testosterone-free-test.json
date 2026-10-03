@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-testosterone-free-test",
+  "test_name": "Free Testosterone Test",
+  "slug": "testosterone-free-test",
+  "source_url": "https://www.metropolisindia.com/parameter/testosterone-free-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/testosterone-free-test",
+  "page_title": "Free Testosterone Test - Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1910
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "Age and gender are required. High biotin doses (>5 mg/day) should be avoided for at least 8 hours before blood collection\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the testosterone free test?",
+      "answer": "The best time for your blood sample is in the morning, when testosterone levels are naturally at their peak for the most accurate results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the testosterone free test, and for how long?",
+      "answer": "No fasting is required for the free testosterone test. You can eat and drink normally before your blood collection appointment without affecting the test results."
+    },
+    {
+      "question": "Can dehydration affect my testosterone free test results?",
+      "answer": "Yes, severe dehydration can concentrate your blood, potentially leading to falsely elevated testosterone readings. Maintain normal hydration by drinking adequate water before your test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the testosterone free test?",
+      "answer": "No special dietary changes are needed. However, inform your doctor about all medications and supplements, especially high-dose biotin, which should be avoided 8 hours before testing."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the testosterone free test?",
+      "answer": "A healthcare professional cleans your arm, ties a band around your upper arm to make veins visible, and then inserts a small needle to collect blood into a tube."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal, similar to any blood test. You might experience slight pain, minor bruising at the needle site, or, rarely, dizziness during the procedure."
+    },
+    {
+      "question": "What level of testosterone free test is normal?",
+      "answer": "Normal free testosterone ranges are 0.2-4.1 pg/mL. Your doctor will interpret results based on your age, gender, and clinical symptoms."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

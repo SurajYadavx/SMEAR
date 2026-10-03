@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodbeefcow-meat-bos-spp",
+  "test_name": "Allergen,Individual-FoodBeefCow meat (Bos spp.)",
+  "slug": "allergenindividual-foodbeefcow-meat-bos-spp",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbeefcow-meat-bos-spp",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbeefcow-meat-bos-spp",
+  "page_title": "Book your test at your nearest Lab for Beef Allergy Treatment - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodBeefCow meat (Bos spp.)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

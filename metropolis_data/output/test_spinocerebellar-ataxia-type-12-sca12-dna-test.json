@@ -1,0 +1,30 @@
+{
+  "id": "metro-test-spinocerebellar-ataxia-type-12-sca12-dna-test",
+  "test_name": "Spinocerebellar Ataxia Type 12 (SCA12) DNA Test",
+  "slug": "spinocerebellar-ataxia-type-12-sca12-dna-test",
+  "source_url": "https://www.metropolisindia.com/parameter/spinocerebellar-ataxia-type-12-sca12-dna-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/spinocerebellar-ataxia-type-12-sca12-dna-test",
+  "page_title": "Spinocerebellar Ataxia Type 12 (SCA12) DNA Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3330
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Spinocerebellar Ataxia Type 12 (SCA12) DNA Test?",
+      "answer": "In definite early classification and diagnosis of SCA 12. Disorder in characterized by tremor and ataxia"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Test is recommended for clinically suspected spinocerebellar ataxia patients"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

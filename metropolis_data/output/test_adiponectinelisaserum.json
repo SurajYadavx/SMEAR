@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-adiponectinelisaserum",
+  "test_name": "Adiponectin Test",
+  "slug": "adiponectinelisaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/adiponectinelisaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/adiponectinelisaserum",
+  "page_title": "Adiponectin Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2910
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Adiponectin test measure?",
+      "answer": "This test measures the concentration of adiponectin in the serum."
+    },
+    {
+      "question": "Why is the Adiponectin test done?",
+      "answer": "\u2022 The test is typically performed to assess metabolic health and the risk of conditions such as type 2 diabetes, cardiovascular disease, and obesity-related disorders. \u2022 Low adiponectin levels are associated with an increased risk of these conditions."
+    },
+    {
+      "question": "When is the Adiponectin recommended, and who should take the test?",
+      "answer": "This test is recommended for individuals when there is a need to assess metabolic health, especially in those with risk factors such as obesity, insulin resistance, or a family history of metabolic disorders."
+    },
+    {
+      "question": "What if the results of the Adiponectin test are positive?",
+      "answer": "The results of this test are typically interpreted in terms of risk assessment. Low adiponectin levels may suggest an increased risk of metabolic and cardiovascular conditions. Lifestyle modifications and medical management may be recommended based on the results."
+    },
+    {
+      "question": "What to expect during the Adiponectin test?",
+      "answer": "The test involves a blood draw, where a healthcare professional collects a serum sample from a vein, typically in the arm. The procedure is minimally invasive and relatively quick."
+    },
+    {
+      "question": "What preparations are required before the Adiponectin test?",
+      "answer": "Patients typically do not need specific preparations before the test. However, it's important to follow any instructions provided by the healthcare provider."
+    },
+    {
+      "question": "Which other tests are ordered with the Adiponectin test?",
+      "answer": "Additional tests may be ordered as part of a comprehensive metabolic assessment, including glucose tests, lipid profiles, and assessments of insulin sensitivity."
+    },
+    {
+      "question": "What is the Adiponectin test also known as?",
+      "answer": "\u2022 Adiponectin blood test \u2022 Serum adiponectin test"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

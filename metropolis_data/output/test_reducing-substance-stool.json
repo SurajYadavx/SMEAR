@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-reducing-substance-stool",
+  "test_name": "Reducing Substance (Stool)",
+  "slug": "reducing-substance-stool",
+  "source_url": "https://www.metropolisindia.com/parameter/reducing-substance-stool",
+  "canonical_url": "https://www.metropolisindia.com/parameter/reducing-substance-stool",
+  "page_title": "Reducing Substance (Stool) - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 215
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

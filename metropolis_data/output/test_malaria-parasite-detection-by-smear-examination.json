@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-malaria-parasite-detection-by-smear-examination",
+  "test_name": "Malaria Test",
+  "slug": "malaria-parasite-detection-by-smear-examination",
+  "source_url": "https://www.metropolisindia.com/parameter/malaria-parasite-detection-by-smear-examination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/malaria-parasite-detection-by-smear-examination",
+  "page_title": "Malaria Test - Price, Purpose, Procedure, Results | Book Online",
+  "pricing": {
+    "selling_price": 280
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-flt-3-aml-by-pcr-itd-d835-blood",
+  "test_name": "FLT-3 (AML) by PCR ITD, D835 Blood Mutation Test",
+  "slug": "flt-3-aml-by-pcr-itd-d835-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/flt-3-aml-by-pcr-itd-d835-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/flt-3-aml-by-pcr-itd-d835-blood",
+  "page_title": "Flt3 Itd Mutation Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5720
+  },
+  "specimen": "D835 Blood Mutation Test",
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is  FLT-3 (AML) by PCR ITD, D835 - Blood test done?",
+      "answer": "The test is useful for risk stratification in patients with newly diagnosed cytogenetically normal acute myelogenous leukemia (CN-AML). It is useful for detecting genetic mutations in acute myeloid leukemia."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The test detects the change or mutation in FLT-3 gene in the blood."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test requires a blood sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "Positive FLT-3 mutations indicate poor prognosis and requirement of aggressive treatment. Out of these ITD mutation have poorest prognosis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

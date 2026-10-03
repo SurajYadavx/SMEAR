@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodcrabcancer-pagurus",
+  "test_name": "Allergen,Individual-FoodCrabCancer pagurus",
+  "slug": "allergenindividual-foodcrabcancer-pagurus",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcrabcancer-pagurus",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcrabcancer-pagurus",
+  "page_title": "Crab Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodCrabCancer pagurus",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

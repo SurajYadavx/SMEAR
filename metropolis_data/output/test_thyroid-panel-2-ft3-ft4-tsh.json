@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-thyroid-panel-2-ft3-ft4-tsh",
+  "test_name": "Thyroid Panel 2 Test",
+  "slug": "thyroid-panel-2-ft3-ft4-tsh",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroid-panel-2-ft3-ft4-tsh",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroid-panel-2-ft3-ft4-tsh",
+  "page_title": "Book Thyroid Panel-2 Test Online \u2013 Price, Normal Range & Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "High biotin doses (> 5 mg/day) should be avoided at least 8 hours before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the thyroid panel 2 test?",
+      "answer": "The best time for a thyroid panel 2 test is early morning, typically between 8 and 10 AM. TSH levels are naturally highest in the morning, which helps detect mild thyroid issues more accurately and provides consistent results for monitoring."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the thyroid panel 2 test, and for how long?",
+      "answer": "No, overnight fasting is not mandatory for the thyroid panel 2 test. You can eat and drink normally before giving your blood sample. However, if other tests are ordered alongside, your doctor may recommend fasting."
+    },
+    {
+      "question": "Can dehydration affect my thyroid panel 2 test results?",
+      "answer": "Yes, severe dehydration can concentrate your blood and potentially alter test results slightly. It's best to maintain normal hydration levels before your test by drinking adequate water unless specifically instructed otherwise by your healthcare provider."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the thyroid panel 2 test?",
+      "answer": "Continue your regular diet and medications as usual. However, stop high-dose biotin supplements (> 5 mg/day) at least 8 hours before testing, as they can interfere with results. Inform your doctor about all medications you're taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the thyroid panel 2 test?",
+      "answer": "A trained phlebotomist cleans your arm, ties a band to make veins visible, inserts a small needle into your vein, and collects 3 ml of blood in a special tube. The procedure is quick and minimally uncomfortable."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The thyroid panel 2 test carries minimal risks similar to any blood draw. You may experience slight pain or bruising at the needle site or, rarely, dizziness or fainting. Infection risk is extremely low with proper sterile techniques."
+    },
+    {
+      "question": "What level of thyroid panel 2 test is normal?",
+      "answer": "Normal ranges are TSH 0.54-5.3 \u03bcIU/mL, Free T3 2.0-4.4 pg/mL, and Free T4 0.93-1.7 ng/dL. Speak to your doctor for accurate interpretations of results in the context of your health."
+    },
+    {
+      "question": "What is the thyroid panel 2 test also known as?",
+      "answer": "This test is also known as Thyroid Profile - 2, Thyroid Panel Test - 2 (FT3, FT4, TSH), Comprehensive Thyroid Function Test, or Extended Thyroid Panel."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-single-marker-with-reporting-cd20",
+  "test_name": "CD20 IHC",
+  "slug": "ihc-single-marker-with-reporting-cd20",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cd20",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cd20",
+  "page_title": "CD20 IHC \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2495
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

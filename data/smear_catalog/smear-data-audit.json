@@ -1,0 +1,69 @@
+{
+  "packages_total": 60,
+  "tests_total": 1429,
+  "categories_total": 17,
+  "unique_profiles": 74,
+  "profile_references_total": 1295,
+  "profiles_with_parameter_count": 1295,
+  "profiles_without_parameter_count": 0,
+  "packages_with_parameters_count": 36,
+  "packages_with_null_parameters_count": 24,
+  "packages_with_profile_count": 36,
+  "packages_with_null_profile_count": 24,
+  "package_names_safe": 39,
+  "package_names_needs_review": 21,
+  "source_brand_violations": 0,
+  "source_url_violations": 0,
+  "source_phone_violations": 0,
+  "source_whatsapp_violations": 0,
+  "source_location_violations": 0,
+  "source_commercial_brand_violations": 0,
+  "populated_prices": 0,
+  "null_prices": 1489,
+  "duplicate_ids": [],
+  "duplicate_slugs": [],
+  "invalid_category_references": [],
+  "excluded_records": [],
+  "parameter_count_discrepancies": [],
+  "representative_packages_showcase": [
+    {
+      "id": "smear-pkg-comprehensive-health-checkup-male",
+      "name": "Comprehensive Health Checkup - Male",
+      "profile_count": 45,
+      "parameters_count": 112
+    },
+    {
+      "id": "smear-pkg-health-checkup-expert-female",
+      "name": "Health Checkup Expert - Female",
+      "profile_count": 44,
+      "parameters_count": 107
+    },
+    {
+      "id": "smear-pkg-health-checkup-expert-male-body-vitals-consult",
+      "name": "Health Checkup Expert - Male + Body Vitals + Consult",
+      "profile_count": 40,
+      "parameters_count": 107
+    }
+  ],
+  "before_after_names": [
+    "BEFORE: Truhealth Elite (M)  ->  AFTER: Comprehensive Health Checkup - Male",
+    "BEFORE: TruHealth Silver NF + Package is not available in your location  ->  AFTER: Health Checkup Silver NF",
+    "BEFORE: TruHealth Platinum NF + Package is not available in your location  ->  AFTER: Health Checkup Platinum NF",
+    "BEFORE: TruHealth Expert (Female)  ->  AFTER: Health Checkup Expert - Female",
+    "BEFORE: TruHealth Advance NF + Package is not available in your location  ->  AFTER: Health Checkup Advance NF"
+  ],
+  "representative_tests_showcase": [
+    {
+      "id": "smear-test-lactate-biochemical-plasma-test",
+      "name": "Lactate Biochemical Plasma Test"
+    },
+    {
+      "id": "smear-test-hiv-qualitative-blood-test",
+      "name": "Hiv Qualitative Blood Test"
+    },
+    {
+      "id": "smear-test-amh-supreme-test",
+      "name": "AMH Supreme Test"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cardiac-injury-profile-mini",
+  "test_name": "Cardiac Injury Profile Mini Test",
+  "slug": "cardiac-injury-profile-mini",
+  "source_url": "https://www.metropolisindia.com/parameter/cardiac-injury-profile-mini",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cardiac-injury-profile-mini",
+  "page_title": "Cardiac Profile Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1455
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

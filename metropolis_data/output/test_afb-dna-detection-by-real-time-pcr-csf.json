@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-dna-detection-by-real-time-pcr-csf",
+  "test_name": "AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF",
+  "slug": "afb-dna-detection-by-real-time-pcr-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-dna-detection-by-real-time-pcr-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-dna-detection-by-real-time-pcr-csf",
+  "page_title": "AFB DNA Detection By Real Time PCR CSF Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3020
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF measure?",
+      "answer": "This test detects DNA of Mycobacterium tuberculosis or non-tuberculous bacteria in cerebrospinal fluid (CSF). If the result is MTB positive, the reflex test of Rifampicin resistance by Ultra CBNAAT is performed to determine if the MTB strain is resistant to Rifampicin, a critical drug used in TB treatment."
+    },
+    {
+      "question": "Why is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF done?",
+      "answer": "This test is done to diagnose infections caused by Mycobacterium tuberculosis or non-tuberculous bacteria in the central nervous system. It helps determine the appropriate treatment and prevent complications associated with these infections."
+    },
+    {
+      "question": "When is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF recommended and who should take the test?",
+      "answer": "This test is recommended for individuals who have symptoms such as severe headache, neck stiffness, confusion, or altered mental status, which could indicate an infection in the central nervous system. It is also useful for patients with a known or suspected diagnosis of tuberculosis meningitis or other central nervous system infections."
+    },
+    {
+      "question": "What if the results of AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF are abnormal?",
+      "answer": "If the test results are abnormal, i.e., positive for Mycobacterium tuberculosis, it confirms the presence of an active tuberculosis infection in the central nervous system. Follow-up tests may be done to determine drug resistance patterns and guide appropriate treatment."
+    },
+    {
+      "question": "What to expect during AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF?",
+      "answer": "During the AFB-DNA (TB-PCR) test, a small amount of cerebrospinal fluid is collected using a sterile container. The sample is then sent to the laboratory for analysis. The test is painless and usually takes about 24 hours to provide results."
+    },
+    {
+      "question": "What preparations are required before AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF?",
+      "answer": "There are no specific preparations necessary before this test. However, it's important to provide accurate clinical history, including any recent antibiotic use or other relevant medical information, to aid in the interpretation of test results. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF?",
+      "answer": "Other tests that may be ordered alongside this test include drug susceptibility testing to determine the most effective antibiotics for treating the infection, as well as other laboratory tests to assess the overall function of the central nervous system."
+    },
+    {
+      "question": "What is AFB-DNA (TB-PCR) Detection by Real Time PCR \u2013 CSF also known as?",
+      "answer": "Mycobacterium tuberculosis DNA testing, tuberculosis PCR testing"
+    },
+    {
+      "question": "What is tuberculosis meningitis?",
+      "answer": "Tuberculosis meningitis is a severe form of tuberculosis that affects the meninges, which are protective membranes covering the brain and spinal cord. It can cause symptoms such as headache, fever, neck stiffness, altered mental status, and seizures. Early diagnosis and treatment are crucial to prevent complications and improve outcomes."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

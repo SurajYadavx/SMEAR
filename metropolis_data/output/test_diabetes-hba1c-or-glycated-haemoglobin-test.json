@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-diabetes-hba1c-or-glycated-haemoglobin-test",
+  "test_name": "HBA1c Test",
+  "slug": "diabetes-hba1c-or-glycated-haemoglobin-test",
+  "source_url": "https://www.metropolisindia.com/parameter/diabetes-hba1c-or-glycated-haemoglobin-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/diabetes-hba1c-or-glycated-haemoglobin-test",
+  "page_title": "Book HBA1c Test Online \u2013 Price, Procedure, Preparation & Home Collection",
+  "pricing": {
+    "selling_price": 560
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No Specific Preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HbA1c test measure?",
+      "answer": "It measures average blood sugar control over the past 2\u20133 months by calculating glycated haemoglobin levels."
+    },
+    {
+      "question": "Do I need to fast before the HbA1c test?",
+      "answer": "No, fasting is not required. You can take the test at any time of the day."
+    },
+    {
+      "question": "What is a normal HbA1c level?",
+      "answer": "A result below 5.6% is normal, 5.7\u20136.4% indicates prediabetes, and 6.5% or higher suggests diabetes."
+    },
+    {
+      "question": "How often should I take the HbA1c test?",
+      "answer": "Every 3\u20136 months if you have diabetes, or as advised by your doctor."
+    },
+    {
+      "question": "Can anaemia affect HbA1c results?",
+      "answer": "Yes, certain types of anaemia can give falsely high or low HbA1c readings."
+    },
+    {
+      "question": "What does eAG mean in the report?",
+      "answer": "eAG stands for Estimated Average Glucose, which translates your HbA1c result into average blood sugar levels (mg/dL)."
+    },
+    {
+      "question": "Can HbA1c be used to diagnose diabetes?",
+      "answer": "Yes, according to ADA guidelines, HbA1c \u2265 6.5% confirms diabetes."
+    },
+    {
+      "question": "Is the HbA1c test accurate for all patients?",
+      "answer": "It may be less reliable in those with haemoglobin variants or severe anaemia. In such cases, doctors recommend the Fructosamine test."
+    },
+    {
+      "question": "How long does it take to get HbA1c test results?",
+      "answer": "Reports are usually ready within 4 hours once the sample reaches the lab."
+    },
+    {
+      "question": "Can I book the HbA1c test online?",
+      "answer": "Yes, you can book the HbA1c test online through the Metropolis Healthcare website or app for home or lab collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-pra-identification-class-ii-panel-reactive-antibody-luminex",
+  "test_name": "Panel Reactive Antibody (PRA) Identification Test (Class II)",
+  "slug": "hla-pra-identification-class-ii-panel-reactive-antibody-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-pra-identification-class-ii-panel-reactive-antibody-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-pra-identification-class-ii-panel-reactive-antibody-luminex",
+  "page_title": "PRA Class 2 Identification Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 11160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the PRA Identification test measure?",
+      "answer": "The PRA Identification test detects the presence of antibodies in a recipient's blood against specific human leukocyte antigens (HLA) Class II."
+    },
+    {
+      "question": "Why is the PRA Identification test done?",
+      "answer": "\u2022 To assess the risk of rejection in organ transplant recipients \u2022 To identify suitable donors by checking for matching HLA markers for a successful transplant outcome"
+    },
+    {
+      "question": "When is the PRA Identification test recommended and who should take the test?",
+      "answer": "The PRA Identification test is recommended for \u2022 individuals who are undergoing or planning to undergo organ transplantation or \u2022 recipients who have previously received a blood transfusion, pregnant women, and patients with a history of multiple pregnancies or previous organ transplants."
+    },
+    {
+      "question": "What if the results of the PRA Identification test are abnormal?",
+      "answer": "Abnormal results from the PRA Identification test indicate a higher likelihood of rejection during organ transplantation."
+    },
+    {
+      "question": "What to expect during the PRA Identification test?",
+      "answer": "During the PRA Identification test, a small amount of blood will be drawn from your arm. The sample will then be sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the PRA Identification test?",
+      "answer": "Inform your doctor about any medications you are taking or any medical conditions you have that may affect the test results. Also, tell them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the PRA Identification test?",
+      "answer": "Other tests that may be ordered alongside the PRA Identification test include HLA subtyping, crossmatch tests, and compatibility testing to further evaluate the compatibility between an organ donor and recipient."
+    },
+    {
+      "question": "What is the PRA Identification test also known as?",
+      "answer": "HLA identification test or HLA matching test"
+    },
+    {
+      "question": "What is organ transplantation?",
+      "answer": "Organ transplantation is a surgical procedure where a healthy organ from a donor is transplanted into a recipient's body to replace a damaged or non-functioning organ. It is typically done to treat end-stage organ failure in various organs such as the heart, kidney, liver, or lungs."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

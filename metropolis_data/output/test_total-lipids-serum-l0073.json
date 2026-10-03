@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-total-lipids-serum-l0073",
+  "test_name": "Total Lipids, Serum",
+  "slug": "total-lipids-serum-l0073",
+  "source_url": "https://www.metropolisindia.com/parameter/total-lipids-serum-l0073",
+  "canonical_url": "https://www.metropolisindia.com/parameter/total-lipids-serum-l0073",
+  "page_title": "Total Lipids Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 405
+  },
+  "specimen": "Serum",
+  "fasting": "yes",
+  "report_time": "same day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

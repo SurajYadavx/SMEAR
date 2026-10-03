@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anti-a-titre",
+  "test_name": "Anti-A Titre",
+  "slug": "anti-a-titre",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-a-titre",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-a-titre",
+  "page_title": "Anti-A Titre \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1560
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

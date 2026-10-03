@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-western-blot-test",
+  "test_name": "HIV I & II Western Blot Test",
+  "slug": "western-blot-test",
+  "source_url": "https://www.metropolisindia.com/parameter/western-blot-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/western-blot-test",
+  "page_title": "HIV Western Blot Test - Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3310
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

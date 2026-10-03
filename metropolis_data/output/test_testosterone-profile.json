@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-testosterone-profile",
+  "test_name": "Testosterone Profile Test",
+  "slug": "testosterone-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/testosterone-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/testosterone-profile",
+  "page_title": "Testosterone Profile Test Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 3675
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

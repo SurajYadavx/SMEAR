@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-follicle-stimulating-hormone-test",
+  "test_name": "FSH Test",
+  "slug": "follicle-stimulating-hormone-test",
+  "source_url": "https://www.metropolisindia.com/parameter/follicle-stimulating-hormone-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/follicle-stimulating-hormone-test",
+  "page_title": "FSH Blood Test Price - Preparation and Report | Book Online",
+  "pricing": {
+    "selling_price": 580
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

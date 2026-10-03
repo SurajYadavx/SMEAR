@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-covirisk-tbnk-by-flow-cytometry",
+  "test_name": "CoviRisk TBNK by Flow Cytometry - Blood",
+  "slug": "covirisk-tbnk-by-flow-cytometry",
+  "source_url": "https://www.metropolisindia.com/parameter/covirisk-tbnk-by-flow-cytometry",
+  "canonical_url": "https://www.metropolisindia.com/parameter/covirisk-tbnk-by-flow-cytometry",
+  "page_title": "Covirisk TBNK By Flow Cytometry Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5315
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CoviRisk TBNK test measure?",
+      "answer": "This test measures the levels of T cells, B cells, and natural killer (NK) cells in your blood."
+    },
+    {
+      "question": "Why is the CoviRisk TBNK test done?",
+      "answer": "\u2022 To assess the severity and prognosis of the SARS CoV 2 infection in hospitalised patients \u2022 To monitor the immune response during treatment for COVID-19 \u2022 To identify individuals with compromised immune function who may be at higher risk for severe illness \u2022 To guide appropriate interventions and therapies based on individual immune profiles"
+    },
+    {
+      "question": "When is the CoviRisk TBNK recommended and who should take the test?",
+      "answer": "This test is recommended for \u2022 hospitalised patients with confirmed or suspected SARS CoV 2 infection, \u2022 individuals with persistent or worsening symptoms despite treatment, \u2022 patients with underlying health conditions that potentially affect immune function, or \u2022 individuals whose immune response needs to be assessed for targeted therapies or clinical trials."
+    },
+    {
+      "question": "What if the results of the CoviRisk TBNK test are abnormal?",
+      "answer": "Abnormal results may indicate an impaired immune response or excessive inflammation."
+    },
+    {
+      "question": "What to expect during the CoviRisk TBNK test?",
+      "answer": "During this test, a small sample of your blood will be collected using a needle. The sample will be sent to the laboratory for analysis using flow cytometry."
+    },
+    {
+      "question": "What preparations are required before the CoviRisk TBNK test?",
+      "answer": "\u2022 You can eat and drink normally and take your medications as prescribed. \u2022 Inform your doctor about any ongoing medications or medical conditions that may affect your immune system. Also, tell them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the CoviRisk TBNK test?",
+      "answer": "\u2022 RT-PCR or antigen tests for SARS CoV 2: to confirm the presence of the virus \u2022 Complete blood count (CBC): to evaluate overall blood cell counts and assess for any abnormalities \u2022 Other serological tests to measure specific antibodies against SARS CoV 2"
+    },
+    {
+      "question": "What is the CoviRisk TBNK test also known as?",
+      "answer": "SARS CoV 2 T-cell, B-cell, and natural killer cell count test"
+    },
+    {
+      "question": "What are the severity and prognosis of the SARS CoV 2 infection?",
+      "answer": "The severity and prognosis of SARS CoV 2 infection refer to the extent of illness and the likely outcome. Severe cases can lead to complications such as pneumonia, acute respiratory distress syndrome (ARDS), organ failure, and death. Prognosis varies based on individual factors such as age, overall health, and immune response."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

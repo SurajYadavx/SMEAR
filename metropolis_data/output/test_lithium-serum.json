@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-lithium-serum",
+  "test_name": "Lithium Serum Test",
+  "slug": "lithium-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/lithium-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lithium-serum",
+  "page_title": "Lithium Serum Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 690
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-autoantibody-detection-test",
+  "test_name": "Auto Antibody Detection Test",
+  "slug": "hla-autoantibody-detection-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-autoantibody-detection-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-autoantibody-detection-test",
+  "page_title": "HLA Autoantibody Detection Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Auto Antibody Detection Test measure?",
+      "answer": "This test measures the presence of autoantibodies in your blood."
+    },
+    {
+      "question": "Why is Auto Antibody Detection Test done?",
+      "answer": "\u2022 To diagnose and monitor autoimmune diseases \u2022 To assess the severity or activity of an autoimmune disease \u2022 To determine the effectiveness of treatment \u2022 To rule out other conditions with similar symptoms \u2022 To aid in the classification of autoimmune diseases for proper management"
+    },
+    {
+      "question": "When is Auto Antibody Detection Test recommended and who should take the test?",
+      "answer": "Your doctor may recommend the Auto Antibody Detection Test if you \u2022 have symptoms suggesting an autoimmune disease, such as joint pain, rash, fatigue, or digestive issues, \u2022 have a family history of autoimmune disease, \u2022 show signs of multiple autoimmune diseases, or \u2022 need to monitor the progression or recurrence of an autoimmune disease."
+    },
+    {
+      "question": "What if the results of the Auto Antibody Detection Test are abnormal?",
+      "answer": "Abnormal results may indicate a specific autoimmune disease, such as lupus or rheumatoid arthritis."
+    },
+    {
+      "question": "What to expect during the Auto Antibody Detection Test?",
+      "answer": "A healthcare professional will insert a needle into a vein in your arm to draw a blood sample. They will send this sample to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Auto Antibody Detection Test?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are taking, as they might interfere with the test results. Also, tell them if you have any specific requirements. \u2022 Follow any fasting instructions provided by your doctor, if applicable."
+    },
+    {
+      "question": "What other tests may be ordered with Auto Antibody Detection Test?",
+      "answer": "\u2022 Complete blood count (CBC): to evaluate overall health and detect any abnormalities in blood cells \u2022 Erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP): to assess inflammation levels \u2022 Antinuclear antibody (ANA) test: to screen for autoimmune diseases such as lupus"
+    },
+    {
+      "question": "What is the Auto Antibody Detection Test also known as?",
+      "answer": "Autoimmune antibody panel or autoimmune serology tests"
+    },
+    {
+      "question": "What is an autoimmune disease?",
+      "answer": "An autoimmune disease occurs when the immune system mistakenly attacks and damages healthy tissues in the body. Examples include rheumatoid arthritis, lupus, multiple sclerosis, and celiac disease. Autoimmune diseases can affect various organs or tissues and cause a range of symptoms."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

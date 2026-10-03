@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-screening-tryptase",
+  "test_name": "Serum Tryptase Test",
+  "slug": "allergy-screening-tryptase",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-screening-tryptase",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-screening-tryptase",
+  "page_title": "Serum Tryptase Test - Price - Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2100
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

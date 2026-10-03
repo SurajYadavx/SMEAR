@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-histopathological-examination-of-cervix-biopsy",
+  "test_name": "Histopathology Cervix Biopsy Test",
+  "slug": "histopathological-examination-of-cervix-biopsy",
+  "source_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-cervix-biopsy",
+  "canonical_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-cervix-biopsy",
+  "page_title": "Cervix Biopsy Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "3rd day : 6:00pm",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Histopathology-Cervix Biopsy?",
+      "answer": "To evaluate cervical cancer in women."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Detects cervical cancer in women."
+    },
+    {
+      "question": "More Info on Histopathology-Cervix Biopsy",
+      "answer": "Detects cervical cancer in women. A cervical biopsy is a procedure to remove tissue from the cervix to test for abnormal or precancerous conditions, or cervical cancer."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

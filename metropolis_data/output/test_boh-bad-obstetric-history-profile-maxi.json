@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-boh-bad-obstetric-history-profile-maxi",
+  "test_name": "BOH Profile Test - BOH (Bad Obstetric History) Profile-Maxi Karyotyping couple",
+  "slug": "boh-bad-obstetric-history-profile-maxi",
+  "source_url": "https://www.metropolisindia.com/parameter/boh-bad-obstetric-history-profile-maxi",
+  "canonical_url": "https://www.metropolisindia.com/parameter/boh-bad-obstetric-history-profile-maxi",
+  "page_title": "BOH Profile Test - Price, Book & Get Reports Online With Home Sample Collection",
+  "pricing": {
+    "selling_price": 15225
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "15th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

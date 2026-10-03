@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-ttg-antibody-iggtissue-transglutaminaseceliac-diseaseserum",
+  "test_name": "tTG Antibody-IgG Test",
+  "slug": "ttg-antibody-iggtissue-transglutaminaseceliac-diseaseserum",
+  "source_url": "https://www.metropolisindia.com/parameter/ttg-antibody-iggtissue-transglutaminaseceliac-diseaseserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ttg-antibody-iggtissue-transglutaminaseceliac-diseaseserum",
+  "page_title": "tTG Antibody IgG Test Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1630
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take tTG Antibody-IgG Test?",
+      "answer": "Test helps in diagnosis of celiac disease and to evaluate the effectiveness of a gluten-free diet"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Test is done on patient suffering from suspected Celiac disease"
+    },
+    {
+      "question": "More Info on tTG Antibody-IgG Test",
+      "answer": "Celiac disease antibody tests help diagnose and monitor the disease and a few other gluten-sensitive conditions. These tests detect autoantibodies in the blood that the body produces as part of the immune response. tTG, IgG may be used as an alternative test in people who have a deficiency of IgA."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

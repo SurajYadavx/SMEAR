@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-vitamin-b6-pyridoxine-edta-whole-blood",
+  "test_name": "Vitamin B6 Test",
+  "slug": "vitamin-b6-pyridoxine-edta-whole-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-b6-pyridoxine-edta-whole-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-b6-pyridoxine-edta-whole-blood",
+  "page_title": "Vitamin B6 Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4080
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "tuesday 7:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Avoid taking vitamin B6 supplements for at least 24 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Vitamin B6 Test check for?",
+      "answer": "It measures the level of pyridoxal phosphate (PLP), the active form of vitamin B6, to assess deficiency or excess affecting nerves and metabolism."
+    },
+    {
+      "question": "Should I stop taking supplements before the test?",
+      "answer": "Yes, avoid taking vitamin B6 supplements for at least 24 hours before the test to ensure accuracy."
+    },
+    {
+      "question": "Is fasting required for the Vitamin B6 Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before your test."
+    },
+    {
+      "question": "How is the Vitamin B6 Test performed?",
+      "answer": "A small blood sample is drawn from your vein into a light-protected EDTA tube and tested using HPLC technology."
+    },
+    {
+      "question": "What are the symptoms of low vitamin B6?",
+      "answer": "Fatigue, tingling in hands or feet, cracked lips, mood changes, and poor immunity may indicate deficiency."
+    },
+    {
+      "question": "Can medications affect my Vitamin B6 levels?",
+      "answer": "Yes, drugs such as isoniazid, cyclosporine, and penicillamine can lower your vitamin B6 levels."
+    },
+    {
+      "question": "What is the normal range for Vitamin B6 levels?",
+      "answer": "Normal values typically range between 8.7 \u2013 27.2 ng/mL."
+    },
+    {
+      "question": "What does a high Vitamin B6 level mean?",
+      "answer": "High levels usually indicate excessive supplement intake and can lead to nerve-related toxicity."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

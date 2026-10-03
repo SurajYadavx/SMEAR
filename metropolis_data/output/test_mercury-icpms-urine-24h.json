@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-mercury-icpms-urine-24h",
+  "test_name": "Mercury Urine 24H by ICPMS Test",
+  "slug": "mercury-icpms-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/mercury-icpms-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mercury-icpms-urine-24h",
+  "page_title": "Mercury Urine 24H by ICPMS Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3535
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

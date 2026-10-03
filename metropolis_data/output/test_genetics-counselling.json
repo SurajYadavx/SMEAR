@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-genetics-counselling",
+  "test_name": "Genetics Counselling Test",
+  "slug": "genetics-counselling",
+  "source_url": "https://www.metropolisindia.com/parameter/genetics-counselling",
+  "canonical_url": "https://www.metropolisindia.com/parameter/genetics-counselling",
+  "page_title": "Genetics Counselling Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1300
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "NULL",
+      "answer": "NULL"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

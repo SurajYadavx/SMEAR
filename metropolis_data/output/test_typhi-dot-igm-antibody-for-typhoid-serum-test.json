@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-typhi-dot-igm-antibody-for-typhoid-serum-test",
+  "test_name": "Typhi Dot IgM Antibody",
+  "slug": "typhi-dot-igm-antibody-for-typhoid-serum-test",
+  "source_url": "https://www.metropolisindia.com/parameter/typhi-dot-igm-antibody-for-typhoid-serum-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/typhi-dot-igm-antibody-for-typhoid-serum-test",
+  "page_title": "Typhidot Test - Price, Range And Preparation | Book Online",
+  "pricing": {
+    "selling_price": 770
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive Typhidot IgM test mean?",
+      "answer": "A positive result indicates a recent or active Salmonella typhi infection causing typhoid fever."
+    },
+    {
+      "question": "Is fasting required before the Typhidot IgM test?",
+      "answer": "No, fasting is not necessary. You can eat and drink normally."
+    },
+    {
+      "question": "How long does it take to get Typhidot IgM test results?",
+      "answer": "Reports are available within 4 hours after sample collection."
+    },
+    {
+      "question": "Can antibiotics affect the test results?",
+      "answer": "Yes, early antibiotic use may lower antibody levels and lead to false-negative results."
+    },
+    {
+      "question": "How is the Typhidot IgM test different from the Widal test?",
+      "answer": "The Typhidot IgM test detects infection earlier and more accurately than the Widal test (95% vs. 75% sensitivity)."
+    },
+    {
+      "question": "Can Typhidot IgM detect past infections?",
+      "answer": "No. It specifically detects recent or ongoing infection; for past infection, Typhidot IgG is used."
+    },
+    {
+      "question": "Are home collection services available for the Typhidot IgM test?",
+      "answer": "Yes. Metropolis Healthcare offers safe and convenient home collection across multiple cities."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

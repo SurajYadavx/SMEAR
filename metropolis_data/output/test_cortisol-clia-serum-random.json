@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cortisol-clia-serum-random",
+  "test_name": "Cortisol Random, Serum",
+  "slug": "cortisol-clia-serum-random",
+  "source_url": "https://www.metropolisindia.com/parameter/cortisol-clia-serum-random",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cortisol-clia-serum-random",
+  "page_title": "Cortisol Random Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 860
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

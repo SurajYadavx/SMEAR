@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-vgkc-antibody-serum",
+  "test_name": "VGKC Antibody, Serum Test",
+  "slug": "vgkc-antibody-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/vgkc-antibody-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vgkc-antibody-serum",
+  "page_title": "VGKC Antibody Serum Test Price, Range And Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 10000
+  },
+  "specimen": "Serum Test",
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

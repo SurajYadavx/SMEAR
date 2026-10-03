@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-fungal-stain-other-samples",
+  "test_name": "Fungal stain by KOH & Calcofluor White stain - Other samples",
+  "slug": "fungal-stain-other-samples",
+  "source_url": "https://www.metropolisindia.com/parameter/fungal-stain-other-samples",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fungal-stain-other-samples",
+  "page_title": "Fungal Stain Other Samples Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 525
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Fungal stain test - Other Samples measure?",
+      "answer": "This test detects the presence of fungi in samples taken from different parts of the body."
+    },
+    {
+      "question": "Why is the Fungal stain test - Other Samples done?",
+      "answer": "\u2022 To diagnose fungal infections in various parts of the body, including skin, nails, hair, and mucous membranes \u2022 To monitor the effectiveness of treatment for fungal infections \u2022 To differentiate between fungal and bacterial infections \u2022 To guide doctors in selecting appropriate antifungal medications"
+    },
+    {
+      "question": "When is the Fungal stain test - Other Samples recommended and who should take the test?",
+      "answer": "\u2022 This test is recommended for individuals who exhibit symptoms suggestive of a fungal infection, such as persistent skin rashes, nail abnormalities, oral thrush, or vaginal discharge. \u2022 It may also be advised for those who have a weakened immune system, recent antibiotic use, or exposure to environments prone to fungal infections."
+    },
+    {
+      "question": "What if the results of the Fungal stain test - Other Samples are abnormal?",
+      "answer": "Abnormal results may indicate the presence of a fungal infection."
+    },
+    {
+      "question": "What to expect during the Fungal stain test - Other Samples?",
+      "answer": "During the test, a healthcare professional will collect a sample from the affected area, such as skin, nails, hair, or a vaginal swab. The collected sample will be treated with KOH and Calcofluor White stain in the laboratory."
+    },
+    {
+      "question": "What preparations are required before the Fungal stain test - Other Samples?",
+      "answer": "\u2022 Depending on the sample required, follow specific instructions provided by your healthcare provider. \u2022 For vaginal swabs or discharge, abstain from using any medication or vaginal creams for at least 48 hours before the test. \u2022 Inform your doctor about any recent antibiotic use or antifungal treatments. Also, tell them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Fungal stain test - Other Samples?",
+      "answer": "\u2022 Fungal culture: This test helps identify the specific type of fungus causing the infection. \u2022 Antifungal susceptibility testing: It determines which antifungal medications will be effective against the identified fungus."
+    },
+    {
+      "question": "What is Fungal stain by KOH & Calcofluor White stain also known as?",
+      "answer": "Fungal microscopy or fungal smear test"
+    },
+    {
+      "question": "What is a fungal infection?",
+      "answer": "Fungal infections are caused by microscopic organisms called fungi. These infections can occur in various parts of the body, including the skin, nails, hair, and mucous membranes. Symptoms may include rashes, itching, redness, discharge, and pain or discomfort in affected areas."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

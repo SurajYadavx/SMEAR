@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-clotting-time-c0130",
+  "test_name": "Clotting Time Test",
+  "slug": "clotting-time-c0130",
+  "source_url": "https://www.metropolisindia.com/parameter/clotting-time-c0130",
+  "canonical_url": "https://www.metropolisindia.com/parameter/clotting-time-c0130",
+  "page_title": "Clotting Time Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

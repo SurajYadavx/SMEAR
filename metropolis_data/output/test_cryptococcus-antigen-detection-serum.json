@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-cryptococcus-antigen-detection-serum",
+  "test_name": "Cryptococcus Antigen Detection By Agglutination - Serum",
+  "slug": "cryptococcus-antigen-detection-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/cryptococcus-antigen-detection-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cryptococcus-antigen-detection-serum",
+  "page_title": "Cryptococcus Antigen Detection Serum Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2940
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Cryptococcus antigen detection test measure?",
+      "answer": "The Cryptococcus antigen test detects the presence of Cryptococcus neoformans or Cryptococcus gattii in the blood."
+    },
+    {
+      "question": "Why is the Cryptococcus antigen detection test done?",
+      "answer": "\u2022 To diagnose the presence of Cryptococcus neoformans or Cryptococcus gattii infection in individuals suspected of having these fungal infections \u2022 To guide appropriate treatment, monitor response to therapy \u2022 To prevent complications in those with weakened immune systems"
+    },
+    {
+      "question": "When is the Cryptococcus antigen detection test recommended and who should take the test?",
+      "answer": "\u2022 The Cryptococcus antigen detection test is recommended for individuals with symptoms suggestive of a fungal infection and those with weakened immune systems due to conditions like HIV/AIDS, organ transplant, or cancer. \u2022 It is also advised for individuals at risk of exposure to these fungi or those with a history of previous infection."
+    },
+    {
+      "question": "What if the results of the Cryptococcus antigen detection test are abnormal?",
+      "answer": "Abnormal results indicate the presence of these fungi and the need for further evaluation and treatment."
+    },
+    {
+      "question": "What to expect during the Cryptococcus antigen detection test?",
+      "answer": "During the test, a small sample of your blood will be taken by a healthcare professional. The sample will be sent to a laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the Cryptococcus antigen detection test?",
+      "answer": "\u2022 Inform your healthcare provider about any medications you are taking. Also, tell them if you have any specific requirements. \u2022 Follow any instructions given by your doctor regarding fasting or other pre-test requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Cryptococcus antigen detection test?",
+      "answer": "\u2022 Cerebrospinal Fluid (CSF) Analysis: To determine if there is an infection in the central nervous system \u2022 Fungal Culture: To grow and identify the specific type of fungus causing the infection \u2022 Blood Tests: To evaluate general health status, immune function, and organ function"
+    },
+    {
+      "question": "What is the Cryptococcus antigen detection test also known as?",
+      "answer": "Cryptococcus antigen test or Cryptococcal antigen test"
+    },
+    {
+      "question": "What is Cryptococcus infection?",
+      "answer": "Cryptococcus infection is a fungal infection caused by Cryptococcus neoformans or Cryptococcus gattii. It primarily affects individuals with weakened immune systems, such as those with HIV/AIDS or undergoing organ transplantation. The infection can cause severe pneumonia, meningitis, or other organ involvement."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

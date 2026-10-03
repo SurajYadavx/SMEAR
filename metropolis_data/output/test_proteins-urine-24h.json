@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-proteins-urine-24h",
+  "test_name": "Proteins (Urine, 24H)",
+  "slug": "proteins-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/proteins-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/proteins-urine-24h",
+  "page_title": "Proteins (Urine, 24H) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 350
+  },
+  "specimen": "24H)",
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

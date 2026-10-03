@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-metanephrine-level-hplc-24-hrs-urine",
+  "test_name": "Metanephrine Level Test - HPLC, 24 hrs Urine",
+  "slug": "metanephrine-level-hplc-24-hrs-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/metanephrine-level-hplc-24-hrs-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/metanephrine-level-hplc-24-hrs-urine",
+  "page_title": "Metanephrine Level Hplc 24 Hrs Urine Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3970
+  },
+  "specimen": "24 hrs Urine",
+  "fasting": "no",
+  "report_time": "4th day",
+  "gender": "Male, Female",
+  "preparation": "Avoid caffeine, alcohol, chocolate, bananas, citrus fruits, and certain medicines before and during urine collection as advised by your doctor\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Metanephrine Level Test detect?",
+      "answer": "It detects abnormal production of stress hormones that may indicate adrenal or extra-adrenal tumours such as pheochromocytoma or paraganglioma."
+    },
+    {
+      "question": "Why is a 24-hour urine sample required for this test?",
+      "answer": "Metanephrines are excreted throughout the day, so a 24-hour collection provides a more accurate assessment than a single sample."
+    },
+    {
+      "question": "Can stress affect Metanephrine test results?",
+      "answer": "Yes, high stress can temporarily increase metanephrine levels, so it is best to stay calm during the collection period."
+    },
+    {
+      "question": "Can I take my regular medicines before the test?",
+      "answer": "Inform your doctor about all medicines before the test. Some, such as antidepressants and beta-blockers, may interfere and need to be adjusted."
+    },
+    {
+      "question": "What foods should I avoid before the Metanephrine Level Test?",
+      "answer": "Avoid caffeine, bananas, chocolate, citrus fruits, and vanilla for at least two days before and during urine collection."
+    },
+    {
+      "question": "Is fasting required before the Metanephrine Level Test?",
+      "answer": "Fasting is not required, but dietary restrictions should be followed as advised by your doctor."
+    },
+    {
+      "question": "How should I store my urine sample during collection?",
+      "answer": "Keep the container refrigerated during the 24-hour collection period to maintain sample stability."
+    },
+    {
+      "question": "How are high metanephrine levels interpreted?",
+      "answer": "Persistently high levels suggest possible adrenal or neuroendocrine tumours and may prompt imaging tests like CT or MRI for confirmation."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

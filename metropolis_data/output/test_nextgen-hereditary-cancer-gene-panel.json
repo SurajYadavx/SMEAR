@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-nextgen-hereditary-cancer-gene-panel",
+  "test_name": "NextGen Hereditary Cancer Gene Panel, EDTA Blood",
+  "slug": "nextgen-hereditary-cancer-gene-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/nextgen-hereditary-cancer-gene-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nextgen-hereditary-cancer-gene-panel",
+  "page_title": "NextGen Hereditary Cancer Gene Panel, EDTA Blood \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 18000
+  },
+  "specimen": "EDTA Blood",
+  "fasting": "no",
+  "report_time": "22nd day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

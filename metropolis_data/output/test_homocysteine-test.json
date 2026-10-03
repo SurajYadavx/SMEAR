@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-homocysteine-test",
+  "test_name": "Homocysteine Test",
+  "slug": "homocysteine-test",
+  "source_url": "https://www.metropolisindia.com/parameter/homocysteine-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/homocysteine-test",
+  "page_title": "Homocysteine Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Homocysteine Test?",
+      "answer": "No fasting is required for the Homocysteine Test. You can eat and drink as usual, but always follow your doctor\u2019s instructions based on your specific health needs or other tests."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Homocysteine Test, and for how long?",
+      "answer": "Overnight fasting is not mandatory for the Homocysteine Test. You can eat and drink as usual. However, follow your doctor\u2019s guidance for any specific instructions."
+    },
+    {
+      "question": "Can dehydration affect my Homocysteine Test results?",
+      "answer": "Yes, dehydration can concentrate blood components and potentially lead to falsely elevated homocysteine readings. Stay normally hydrated for accurate results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Homocysteine Test?",
+      "answer": "You can follow your normal diet and take your regular medications before the Homocysteine Test. However, inform your doctor about all medications, as certain medicines like methotrexate, carbamazepine, phenytoin, and anticonvulsants can increase homocysteine levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Homocysteine Test?",
+      "answer": "A healthcare professional will tie a band around your upper arm, clean the area, and insert a small needle into a vein. Blood is collected into a vial, and the procedure typically takes less than five minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any standard blood test. You may experience slight pain or bruising at the needle site, feel lightheaded, or in rare cases, develop an infection."
+    },
+    {
+      "question": "What level of Homocysteine Test is normal?",
+      "answer": "Normal homocysteine levels are typically 5-15 \u03bcmol/L. Levels above 15 \u03bcmol/L are considered moderately elevated and may require medical attention and treatment."
+    },
+    {
+      "question": "What is the Homocysteine Test also known as?",
+      "answer": "The test is also known as Total Homocysteine or Plasma Total Homocysteine."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

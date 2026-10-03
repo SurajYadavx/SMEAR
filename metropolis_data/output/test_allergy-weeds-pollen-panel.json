@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-weeds-pollen-panel",
+  "test_name": "Allergy - Weeds Pollen Panel",
+  "slug": "allergy-weeds-pollen-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-weeds-pollen-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-weeds-pollen-panel",
+  "page_title": "Weeds Pollen Panel Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4940
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

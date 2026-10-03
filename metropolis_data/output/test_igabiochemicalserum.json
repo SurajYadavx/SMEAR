@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-igabiochemicalserum",
+  "test_name": "IgA Serum Test",
+  "slug": "igabiochemicalserum",
+  "source_url": "https://www.metropolisindia.com/parameter/igabiochemicalserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/igabiochemicalserum",
+  "page_title": "IgA Serum Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 900
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

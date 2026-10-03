@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-potassium-urine-24h",
+  "test_name": "Potassium, 24H Urine",
+  "slug": "potassium-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/potassium-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/potassium-urine-24h",
+  "page_title": "Potassium, 24H Urine \u2013 Price, Purpose and Diagnosis",
+  "pricing": {
+    "selling_price": 310
+  },
+  "specimen": "24H Urine",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

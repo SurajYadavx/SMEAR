@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-allergy-adult-comprehensive-panel",
+  "test_name": "Comprehensive Allergy Test",
+  "slug": "allergy-adult-comprehensive-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-adult-comprehensive-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-adult-comprehensive-panel",
+  "page_title": "Book Adult Allergy Test Online \u2013 Price, Normal Range & Home Collection",
+  "pricing": {
+    "selling_price": 18615
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a comprehensive allergy test detect?",
+      "answer": "It measures IgE antibodies in your blood to identify sensitivities to various food, environmental, and animal allergens."
+    },
+    {
+      "question": "Is fasting required before the comprehensive allergy test?",
+      "answer": "Fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can medications affect the comprehensive allergy test results?",
+      "answer": "Yes. Antihistamines, corticosteroids, or high-dose biotin supplements can interfere with results. Inform your doctor before testing."
+    },
+    {
+      "question": "How long does it take to get comprehensive allergy test results?",
+      "answer": "Reports are usually available the next day by 5:00 PM after the sample reaches the lab."
+    },
+    {
+      "question": "What sample is required for the comprehensive allergy test?",
+      "answer": "The test requires about 3 ml of blood collected in a gel vacutainer for analysis."
+    },
+    {
+      "question": "What are IgE antibodies?",
+      "answer": "IgE antibodies are immune proteins that react to allergens, leading to allergic symptoms such as itching, sneezing, or swelling."
+    },
+    {
+      "question": "How accurate is the comprehensive allergy test?",
+      "answer": "The test is highly accurate when conducted using the ImmunoCAP method, detecting even small amounts of allergen-specific IgE antibodies."
+    },
+    {
+      "question": "Can the test be done if I am on medication for allergies?",
+      "answer": "Some medications can affect results. Inform your doctor so they can guide you on whether to pause them before testing."
+    },
+    {
+      "question": "What conditions can this test help identify?",
+      "answer": "It helps detect allergic rhinitis, asthma, food allergies, and other allergic or immune-related disorders."
+    },
+    {
+      "question": "How is the sample collected for the comprehensive allergy test?",
+      "answer": "A small blood sample is collected from a vein in your arm by a trained phlebotomist."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alk-d5f3-reflex-fish",
+  "test_name": "ALK (D5F3) IHC reflex to FISH for NSCLC",
+  "slug": "alk-d5f3-reflex-fish",
+  "source_url": "https://www.metropolisindia.com/parameter/alk-d5f3-reflex-fish",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alk-d5f3-reflex-fish",
+  "page_title": "ALK for NSCLC (IHC reflex to FISH) Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8320
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

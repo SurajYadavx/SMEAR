@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodbakers-yeastyeast-saccharomyces-cerevisiae",
+  "test_name": "Allergen,Individual-FoodBakers YeastYeast ( Saccharomyces Cerevisiae)",
+  "slug": "allergenindividual-foodbakers-yeastyeast-saccharomyces-cerevisiae",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbakers-yeastyeast-saccharomyces-cerevisiae",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbakers-yeastyeast-saccharomyces-cerevisiae",
+  "page_title": "Bakers Yeast Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodBakers YeastYeast ( Saccharomyces Cerevisiae)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

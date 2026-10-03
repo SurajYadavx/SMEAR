@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-creatinine-clearance-test",
+  "test_name": "Creatinine Clearance Test 24 Hour Urine",
+  "slug": "creatinine-clearance-test",
+  "source_url": "https://www.metropolisindia.com/parameter/creatinine-clearance-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/creatinine-clearance-test",
+  "page_title": "Creatinine Clearance Test Price, Range, Results and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 505
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

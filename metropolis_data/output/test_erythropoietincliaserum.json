@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-erythropoietincliaserum",
+  "test_name": "EPO Test (Erythropoietin Test)",
+  "slug": "erythropoietincliaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/erythropoietincliaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/erythropoietincliaserum",
+  "page_title": "Erythropoietin Test (EPO)\u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2205
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is an EPO (Erythropoietin) Test used for?",
+      "answer": "It measures the erythropoietin hormone to help diagnose anemia, polycythemia, and kidney-related issues."
+    },
+    {
+      "question": "Do I need to fast before the EPO Test?",
+      "answer": "No fasting is required before this test."
+    },
+    {
+      "question": "What does a high EPO level mean?",
+      "answer": "It may indicate low oxygen levels, lung disease, or a tumor producing excess EPO."
+    },
+    {
+      "question": "What does a low EPO level mean?",
+      "answer": "It may suggest kidney disease, polycythemia vera, or bone marrow suppression."
+    },
+    {
+      "question": "How is the EPO Test performed?",
+      "answer": "A simple blood sample is collected from a vein and tested using the CLIA method."
+    },
+    {
+      "question": "Can I take this test if I am on EPO therapy?",
+      "answer": "Yes, it helps monitor treatment effectiveness in patients receiving recombinant erythropoietin."
+    },
+    {
+      "question": "When will I get my test results?",
+      "answer": "Reports are available within 6 hours after your sample reaches the laboratory."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

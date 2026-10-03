@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-nt-pro-bnp-serum",
+  "test_name": "NT-Pro BNP Test",
+  "slug": "nt-pro-bnp-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/nt-pro-bnp-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nt-pro-bnp-serum",
+  "page_title": "NT Pro BNP Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3390
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose biotin (>5 mg/day) at least 8 hours before sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the NT-Pro BNP test detect?",
+      "answer": "It measures a hormone released by your heart when it\u2019s under strain, helping diagnose heart failure and assess cardiac risk."
+    },
+    {
+      "question": "Do I need to fast before the NT-Pro BNP test?",
+      "answer": "No, fasting is not required. You can eat and drink as usual before the test."
+    },
+    {
+      "question": "Can I take my regular medicines before the test?",
+      "answer": "Yes, but inform your doctor about all medications, especially heart or blood pressure drugs."
+    },
+    {
+      "question": "Does biotin affect NT-Pro BNP test results?",
+      "answer": "Yes, high-dose biotin supplements (>5 mg/day) may interfere with the results. Stop them 8 hours before testing."
+    },
+    {
+      "question": "How long does it take to get NT-Pro BNP test results?",
+      "answer": "Reports are usually available within 6 hours after your sample reaches the laboratory."
+    },
+    {
+      "question": "What do high NT-Pro BNP levels mean?",
+      "answer": "High levels indicate your heart is working harder, often due to heart failure or cardiac strain."
+    },
+    {
+      "question": "Are NT-Pro BNP and BNP the same test?",
+      "answer": "Both measure heart stress, but NT-Pro BNP is more stable and reliable for analysis."
+    },
+    {
+      "question": "Can age affect NT-Pro BNP levels?",
+      "answer": "Yes, older adults naturally have higher NT-Pro BNP levels due to changes in heart function."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

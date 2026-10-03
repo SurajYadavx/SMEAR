@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-fungal-stain-csf",
+  "test_name": "Fungal Stain By KOH & Calcofluor White Stain - CSF",
+  "slug": "fungal-stain-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/fungal-stain-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fungal-stain-csf",
+  "page_title": "Fungal Stain Csf Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 525
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Fungal Stain test - CSF measure?",
+      "answer": "This test detects the presence of fungal organisms in cerebrospinal fluid (CSF) using KOH and Calcofluor White stains."
+    },
+    {
+      "question": "Why is the Fungal Stain test - CSF done?",
+      "answer": "\u2022 To diagnose fungal infections in the central nervous system \u2022 To identify the type of fungus causing the infection \u2022 To guide appropriate treatment options \u2022 To monitor the effectiveness of antifungal therapy"
+    },
+    {
+      "question": "When is the Fungal Stain test - CSF recommended and who should take the test?",
+      "answer": "This test may be recommended if you have \u2022 symptoms suggestive of a fungal infection in the central nervous system, such as severe headaches, fever, confusion, or neck stiffness, \u2022 a compromised immune system that increases the risk of developing opportunistic fungal infections \u2022 a history of systemic fungal infections, or \u2022 a suspected fungal meningitis or encephalitis."
+    },
+    {
+      "question": "What if the results of the Fungal Stain test - CSF are abnormal?",
+      "answer": "Abnormal results suggest the presence of fungal organisms and can indicate a fungal infection in the central nervous system."
+    },
+    {
+      "question": "What to expect during the Fungal Stain test - CSF?",
+      "answer": "During this test, a small amount of CSF will be collected through a sterile procedure. The CSF sample will be sent to the laboratory for processing."
+    },
+    {
+      "question": "What preparations are required before the Fungal Stain Test - CSF?",
+      "answer": "\u2022 Ensure that the specimen is properly collected and stored in a sterile leak-proof container. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Fungal Stain Test - CSF?",
+      "answer": "\u2022 CSF Culture: This test helps in identifying the specific type of fungus causing the infection. \u2022 Polymerase Chain Reaction (PCR): PCR testing can detect fungal DNA in the CSF, aiding in the diagnosis of fungal infections."
+    },
+    {
+      "question": "What is Fungal Stain By KOH & Calcofluor White Stain - CSF also known as?",
+      "answer": "Fungal Staining of Cerebrospinal Fluid"
+    },
+    {
+      "question": "What is fungal meningitis or encephalitis?",
+      "answer": "Fungal meningitis or encephalitis is a condition characterised by inflammation of the meninges (protective membranes surrounding the brain and spinal cord) or the brain itself, caused by fungal infections. It can lead to severe neurological symptoms and requires prompt diagnosis and treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

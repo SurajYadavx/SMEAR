@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-cd34",
+  "test_name": "CD34 Test \u2013 Haematology",
+  "slug": "cd34",
+  "source_url": "https://www.metropolisindia.com/parameter/cd34",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd34",
+  "page_title": "CD34 Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2415
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CD34 Test \u2013 Haematology measure?",
+      "answer": "The CD34 Test detect the presence of CD34 antigen on hematopoietic stem cells and precursor cells."
+    },
+    {
+      "question": "Why is the CD34 Test \u2013 Haematology done?",
+      "answer": "\u2022 To diagnose and monitor precursor leukaemia \u2022 To determine the extent, severity, and progression of the disease and assess treatment response \u2022 To guide treatment decisions, such as the need for stem cell transplantation \u2022 To evaluate the prognosis (outlook) for patients with precursor leukaemia"
+    },
+    {
+      "question": "When is the CD34 Test \u2013 Haematology recommended and who should take the test?",
+      "answer": "The CD34 Test \u2013 Haematology is recommended in the following situations: \u2022 When a patient shows symptoms suggestive of precursor leukaemia, such as unexplained fatigue, frequent infections, or easy bleeding/bruising \u2022 For those already diagnosed with precursor leukaemia to assess the stage and progression of the disease \u2022 To monitor treatment response and detect relapse in patients with precursor leukaemia \u2022 Before planning a stem cell transplantation for precursor leukaemia patients."
+    },
+    {
+      "question": "What if the results of the CD34 Test \u2013 Haematology are abnormal?",
+      "answer": "Abnormal result may indicate precursor leukaemia."
+    },
+    {
+      "question": "What to expect during the CD34 Test \u2013 Haematology?",
+      "answer": "During the CD34 Test \u2013 Haematology: \u2022 A small sample (3 ml) of your blood is collected using a needle. \u2022 The sample is sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the CD34 Test \u2013 Haematology?",
+      "answer": "Before the CD34 Test \u2013 Haematology: \u2022 No specific preparations are required. \u2022 Inform your doctor about any medications you are taking or medical conditions you have that may affect the test results. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the CD34 Test \u2013 Haematology?",
+      "answer": "Other tests that may be ordered alongside the CD34 Test \u2013 Haematology include: \u2022 Complete blood count (CBC): To evaluate other blood cell counts and identify any abnormalities \u2022 Bone marrow biopsy: To obtain a sample of bone marrow for further analysis, if leukaemia is suspected. \u2022 Genetic testing: To assess specific genetic abnormalities associated with precursor leukaemia or guide treatment decisions."
+    },
+    {
+      "question": "What is the CD34 Test \u2013 Haematology also known as?",
+      "answer": "CD34 immunophenotyping test, flow cytometry immunophenotyping for precursor leukaemia"
+    },
+    {
+      "question": "What is precursor leukaemia?",
+      "answer": "Precursor leukaemia, also known as acute lymphoblastic leukaemia (ALL) or acute myeloid leukaemia (AML), is a type of blood cancer that affects immature blood cells, including stem cells. It is characterised by uncontrolled growth and accumulation of these abnormal cells in the bone marrow and bloodstream."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

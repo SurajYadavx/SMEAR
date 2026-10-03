@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-jc-dna-detection-by-real-time-pcr-edta-blood",
+  "test_name": "JC DNA Detection by Real-time PCR - EDTA Blood",
+  "slug": "jc-dna-detection-by-real-time-pcr-edta-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-by-real-time-pcr-edta-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jc-dna-detection-by-real-time-pcr-edta-blood",
+  "page_title": "JC DNA Detection By Real Time PCR Edta Blood Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5095
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does JC DNA Detection by Real-Time PCR measure?",
+      "answer": "This test detects the JC polyoma virus in your blood using a technique called Real-time PCR."
+    },
+    {
+      "question": "Why is JC DNA Detection by Real-Time PCR done?",
+      "answer": "\u2022 To diagnose progressive multifocal leukoencephalopathy (PML), which causes neurological symptoms such as difficulty speaking, weakness, and vision loss \u2022 To monitor immunosuppressed patients with a history of the JC virus, evaluate response to therapy \u2022 To detect viral reactivation"
+    },
+    {
+      "question": "When is the JC DNA Detection test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 signs or symptoms of PML such as weakness, confusion, or clumsiness, \u2022 a weakened immune system due to conditions like HIV/AIDS or cancer, \u2022 undergoing treatment with immunosuppressive drugs like rituximab or natalizumab, or \u2022 a history of JC virus infection."
+    },
+    {
+      "question": "What if the results of the JC DNA Detection test are abnormal?",
+      "answer": "Abnormal results suggesting viral reactivation may require repeat testing and monitoring."
+    },
+    {
+      "question": "What to expect during the JC DNA Detection blood test?",
+      "answer": "A healthcare professional will insert a needle into your vein and withdraw a small amount of blood. They will send the blood sample to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the JC DNA Detection test?",
+      "answer": "Inform your doctor about any medications or supplements that you are taking, especially immunosuppressive drugs. Also, let them know if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the JC DNA Detection test?",
+      "answer": "\u2022 Lumbar puncture to collect cerebrospinal fluid for testing \u2022 Antibody testing for other herpes viruses like HSV or VZV"
+    },
+    {
+      "question": "What is the JC DNA Detection by Real-time PCR also known as?",
+      "answer": "JC virus PCR, JCV PCR, or JC viral load test"
+    },
+    {
+      "question": "What is progressive multifocal leukoencephalopathy (PML)?",
+      "answer": "PML is a rare but severe disease caused by the JC virus that attacks the white matter of the brain. It can lead to neurological symptoms such as vision loss, confusion, and difficulty speaking. It most commonly affects people with weakened immune systems."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

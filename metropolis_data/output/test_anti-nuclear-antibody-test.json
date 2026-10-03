@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-anti-nuclear-antibody-test",
+  "test_name": "Antinuclear Antibody (ANA) Test",
+  "slug": "anti-nuclear-antibody-test",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-nuclear-antibody-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-nuclear-antibody-test",
+  "page_title": "ANA Test - Price, Purpose, Procedure| Book Online",
+  "pricing": {
+    "selling_price": 920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Antinuclear Antibody (ANA) Test?",
+      "answer": "There is no specific best time for an ANA test. It can be performed at any time of day. Follow your doctor\u2019s advice or the diagnostic lab\u2019s scheduling guidelines"
+    },
+    {
+      "question": "Is overnight fasting mandatory for the antinuclear antibody test, and for how long?",
+      "answer": "No, fasting is not required for a standalone ANA test. You can eat and drink normally before the test. However, if other tests requiring fasting are ordered simultaneously, follow those specific instructions."
+    },
+    {
+      "question": "Can dehydration affect my antinuclear antibody test results?",
+      "answer": "While severe dehydration can affect blood concentration, it's unlikely to change a qualitative result from negative to positive. However, staying well-hydrated before any blood test ensures accuracy and makes blood collection easier."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the antinuclear antibody test?",
+      "answer": "No dietary changes are needed. However, inform your doctor about all medications, including prescription drugs, over-the-counter medicines, and herbal supplements, as some can cause false-positive results. Don't stop medications unless advised."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the antinuclear antibody test?",
+      "answer": "A trained phlebotomist cleans your inner elbow, ties a band around your upper arm, and inserts a small needle to collect blood. The procedure takes only a few minutes with minimal discomfort."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are very low and similar to any standard blood test. You might experience minor pain, bruising, or slight bleeding at the needle site. Serious complications are extremely rare when proper procedures are followed."
+    },
+    {
+      "question": "What level of antinuclear antibody test is normal?",
+      "answer": "A negative result (index less than 1.0) is considered normal. Borderline results (1.0-1.2) and positive results (above 1.2) require a doctor's evaluation with clinical symptoms."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

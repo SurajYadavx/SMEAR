@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-beta-2-glycoprotein-iigg-antibodyserum",
+  "test_name": "Beta-2-Glycoprotein 1 - IgG Antibody Serum",
+  "slug": "beta-2-glycoprotein-iigg-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/beta-2-glycoprotein-iigg-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/beta-2-glycoprotein-iigg-antibodyserum",
+  "page_title": "Beta 2 Glycoprotein 1 Igg Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Beta-2-Glycoprotein 1 IgG Antibody Test detect?",
+      "answer": "It detects IgG autoantibodies against Beta-2-Glycoprotein 1 that are associated with Antiphospholipid Syndrome."
+    },
+    {
+      "question": "Why is this test done?",
+      "answer": "It helps diagnose Antiphospholipid Syndrome and evaluate unexplained blood clots or pregnancy loss."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "Fasting is not required."
+    },
+    {
+      "question": "How is the test performed?",
+      "answer": "A simple blood sample is collected and analysed using Fluorescence Immunoassay (FIA)."
+    },
+    {
+      "question": "What does a positive result mean?",
+      "answer": "A positive result suggests the presence of antibodies linked to Antiphospholipid Syndrome and a higher risk of thrombosis."
+    },
+    {
+      "question": "Can a single positive result confirm APS?",
+      "answer": "No, repeat testing after 12 weeks is required to confirm persistent positivity for APS diagnosis."
+    },
+    {
+      "question": "Who should take this test?",
+      "answer": "Individuals with recurrent pregnancy loss, unexplained clotting, or autoimmune disorders like lupus."
+    },
+    {
+      "question": "How long will it take to get the report?",
+      "answer": "Reports are usually ready on the same day after the sample reaches the Metropolis Lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

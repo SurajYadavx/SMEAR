@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-flow-for-t-all-mrd",
+  "test_name": "Flow For T-ALL MRD",
+  "slug": "flow-for-t-all-mrd",
+  "source_url": "https://www.metropolisindia.com/parameter/flow-for-t-all-mrd",
+  "canonical_url": "https://www.metropolisindia.com/parameter/flow-for-t-all-mrd",
+  "page_title": "Flow For T All MRD Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 19825
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day : 6:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the T-ALL MRD Test measure?",
+      "answer": "The T-ALL MRD Test analyze and quantify residual leukemic cells in the bone marrow or peripheral blood in patients with T-cell acute lymphoblastic leukaemia (T-ALL)."
+    },
+    {
+      "question": "Why is the T-ALL MRD Test done?",
+      "answer": "\u2022 To monitor treatment effectiveness in patients with T-ALL \u2022 To detect MRD after treatment \u2022 To assess the risk of disease recurrence"
+    },
+    {
+      "question": "When is the T-ALL MRD Test recommended and who should take the test?",
+      "answer": "The T-ALL MRD Test is recommended for patients with T-ALL."
+    },
+    {
+      "question": "What if the results of the T-ALL MRD Test are abnormal?",
+      "answer": "If the T-ALL MRD Test results are abnormal, it may indicate residual cancer cells or a higher risk of disease recurrence."
+    },
+    {
+      "question": "What to expect during the T-ALL MRD Test?",
+      "answer": "During the test, a sample of bone marrow is collected using a needle. The sample is sent to the laboratory for analysis using flow cytometry."
+    },
+    {
+      "question": "What preparations are required before the T-ALL MRD Test?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are taking. Also, tell them if you have any specific requirements. \u2022 Provide your medical history and any relevant hemato-pathological reports to your doctor \u2022 Follow any additional instructions given by your doctor."
+    },
+    {
+      "question": "What other tests may be ordered with the T-ALL MRD Test?",
+      "answer": "\u2022 Hemato-pathological reports: To provide a comprehensive understanding of the disease and monitor treatment response \u2022 Genetic testing: To identify specific genetic abnormalities associated with T-ALL"
+    },
+    {
+      "question": "What is the T-ALL MRD Test also known as?",
+      "answer": "Minimal residual disease test for T-cell acute lymphoblastic leukaemia (T-ALL)"
+    },
+    {
+      "question": "What is T-cell acute lymphoblastic leukaemia?",
+      "answer": "T-cell acute lymphoblastic leukaemia (T-ALL) is a type of blood cancer that affects immature T-cells. It is characterised by an overproduction of abnormal T-cells in the bone marrow."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

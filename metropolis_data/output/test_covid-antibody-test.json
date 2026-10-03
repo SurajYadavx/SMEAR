@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-covid-antibody-test",
+  "test_name": "SARS COV2 Nucleocapsid Antibody Test",
+  "slug": "covid-antibody-test",
+  "source_url": "https://www.metropolisindia.com/parameter/covid-antibody-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/covid-antibody-test",
+  "page_title": "Book Nucleocapsid Antibody Test at Affordable Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 735
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

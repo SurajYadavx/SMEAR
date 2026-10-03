@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-non-vegetarian-panel",
+  "test_name": "Allergy - Non-vegetarian Panel",
+  "slug": "allergy-non-vegetarian-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-non-vegetarian-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-non-vegetarian-panel",
+  "page_title": "Non Veg Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8090
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

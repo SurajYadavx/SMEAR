@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-vitamin-k1",
+  "test_name": "Vitamin K1 Test",
+  "slug": "vitamin-k1",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-k1",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-k1",
+  "page_title": "Vitamin K1 Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5660
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "15th day 6:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

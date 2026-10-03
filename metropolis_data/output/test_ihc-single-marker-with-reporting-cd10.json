@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-single-marker-with-reporting-cd10",
+  "test_name": "CD10 IHC",
+  "slug": "ihc-single-marker-with-reporting-cd10",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cd10",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-cd10",
+  "page_title": "CD10 IHC \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2475
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

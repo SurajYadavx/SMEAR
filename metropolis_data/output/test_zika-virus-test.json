@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-zika-virus-test",
+  "test_name": "Zika Virus Test, Blood",
+  "slug": "zika-virus-test",
+  "source_url": "https://www.metropolisindia.com/parameter/zika-virus-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/zika-virus-test",
+  "page_title": "Zika Virus Test - Price, Range and Preparations",
+  "pricing": {
+    "selling_price": 6760
+  },
+  "specimen": "Blood",
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Zika Virus Test?",
+      "answer": "The Zika Virus Test is best done early after symptoms begin, as RT PCR detects viral RNA during the active phase of infection. Your doctor will advise the right timing based on your symptoms and exposure history."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Zika Virus Test, and for how long?",
+      "answer": "No, overnight fasting is not mandatory. You can eat and drink normally before the test unless your doctor has advised fasting for another test being done at the same time."
+    },
+    {
+      "question": "Can dehydration affect my Zika Virus Test results?",
+      "answer": "Mild dehydration is unlikely to directly affect Zika virus RNA detection, but normal hydration can make blood collection easier. Drink water as you usually do before the test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Zika Virus Test?",
+      "answer": "No special diet is needed. Inform your doctor about your medicines, symptoms, pregnancy status, travel history and when your symptoms started. Do not stop any medicine unless your doctor advises it."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Zika Virus Test?",
+      "answer": "A healthcare professional cleans the puncture site, inserts a sterile needle into a vein in your arm and collects about 3 ml of blood in a gel vacutainer or plain sterile vacutainer."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, bruising or mild dizziness during or after sample collection. Serious complications are rare."
+    },
+    {
+      "question": "What level of Zika Virus Test is normal?",
+      "answer": "The Zika Virus Test does not report a numerical normal range. A Not Detected result means Zika virus RNA was not found in the tested serum sample. Your doctor will interpret the result with your symptoms and exposure history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

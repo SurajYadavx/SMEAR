@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-iron-biochemical-serum",
+  "test_name": "Iron biochemical Serum",
+  "slug": "iron-biochemical-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/iron-biochemical-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/iron-biochemical-serum",
+  "page_title": "Iron Biochemical Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 460
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid iron-containing supplements for 24 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the iron biochemical test check for?",
+      "answer": "It checks the amount of iron in your blood to detect deficiency or excess."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No fasting is required unless your doctor advises otherwise."
+    },
+    {
+      "question": "Can I take iron tablets before the test?",
+      "answer": "Avoid taking iron supplements at least 24 hours before the test."
+    },
+    {
+      "question": "How long does it take to get the results?",
+      "answer": "Reports are usually ready within 4 hours after the sample reaches the lab."
+    },
+    {
+      "question": "What does a low iron result mean?",
+      "answer": "It may indicate iron deficiency anaemia, poor nutrition, or chronic illness."
+    },
+    {
+      "question": "What does a high iron result mean?",
+      "answer": "It may suggest iron overload conditions such as haemochromatosis or excessive supplement use."
+    },
+    {
+      "question": "Is the test painful?",
+      "answer": "The test involves a simple blood draw with minimal discomfort."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

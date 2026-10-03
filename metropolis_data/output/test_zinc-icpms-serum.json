@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-zinc-icpms-serum",
+  "test_name": "Zinc Serum Test",
+  "slug": "zinc-icpms-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/zinc-icpms-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/zinc-icpms-serum",
+  "page_title": "Zinc (Serum) Test | Price, Purpose & Home Collection",
+  "pricing": {
+    "selling_price": 2500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Avoid zinc supplements or multivitamins for 24 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Zinc Test check for?",
+      "answer": "It measures zinc levels in your blood to detect deficiency or excess and assess your nutritional health."
+    },
+    {
+      "question": "Is fasting required before a Zinc Test?",
+      "answer": "Yes, fasting for 8\u201310 hours is usually recommended."
+    },
+    {
+      "question": "Can I take supplements before the Zinc Test?",
+      "answer": "No, avoid zinc or multivitamin supplements for at least 24 hours before testing."
+    },
+    {
+      "question": "What does a low zinc level mean?",
+      "answer": "It may indicate nutritional deficiency, poor absorption, or chronic illness."
+    },
+    {
+      "question": "What does a high zinc level indicate?",
+      "answer": "High levels may result from excessive supplement intake or occupational exposure."
+    },
+    {
+      "question": "How long does it take to get Zinc Test results?",
+      "answer": "Reports are available after 3 days once the sample reaches the lab."
+    },
+    {
+      "question": "Is the Zinc Test painful?",
+      "answer": "No, it\u2019s a routine blood test with minimal discomfort."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

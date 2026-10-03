@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-rsv-respiratory-syncytial-virus-igg",
+  "test_name": "RSV-IgG Antibody by EIA - Serum",
+  "slug": "rsv-respiratory-syncytial-virus-igg",
+  "source_url": "https://www.metropolisindia.com/parameter/rsv-respiratory-syncytial-virus-igg",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rsv-respiratory-syncytial-virus-igg",
+  "page_title": "RSV (Respiratory Syncytial Virus) IGG Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2865
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does RSV-IgG Antibody by EIA - Serum measure?",
+      "answer": "This test measures the levels of specific RSV-IgG antibodies in your blood."
+    },
+    {
+      "question": "Why is the RSV-IgG Antibody test done?",
+      "answer": "\u2022 To detect specific IgG antibodies against the respiratory syncytial virus \u2022 To assess the effectiveness of previous RSV vaccinations \u2022 To identify patients who might benefit from prophylactic treatment for RSV \u2022 To help determine the cause of respiratory infections that might be due to RSV"
+    },
+    {
+      "question": "When is RSV-IgG Antibody test recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 symptoms of a respiratory infection caused by RSV, \u2022 a history of exposure to RSV, \u2022 weakened immune system due to an illness or chemical treatments, or \u2022 are at high risk of developing severe lung infections due to age or other underlying health conditions."
+    },
+    {
+      "question": "What if the results of the RSV-IgG Antibody test are abnormal?",
+      "answer": "Elevated levels may indicate recent or past exposure to RSV. Abnormal results do not necessarily mean that you have an active RSV infection or a history of severe illness. Y"
+    },
+    {
+      "question": "What to expect during the RSV-IgG Antibody Serum test?",
+      "answer": "A healthcare professional will draw blood from a vein in your arm using a needle and collect it in a tube. They will then send the sample to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the RSV-IgG Antibody test?",
+      "answer": "Inform your healthcare provider about any medications, herbal supplements, or other treatments you take because they could interfere with the test's accuracy. Also, let them know if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the RSV-IgG Antibody test?",
+      "answer": "\u2022 PCR (Polymerase chain reaction) test: It detects signs of the actual virus that causes infection. \u2022 Chest X-Ray: It helps detect complications caused by RSV infection, such as pneumonia."
+    },
+    {
+      "question": "What is the RSV-IgG Antibody by EIA - Serum also known as?",
+      "answer": "Respiratory Syncytial Virus Immunoglobulin G Antibody by Enzyme Immunoassay"
+    },
+    {
+      "question": "What is respiratory syncytial virus (RSV)?",
+      "answer": "RSV causes respiratory infections such as bronchiolitis and pneumonia in people of all ages. It is especially dangerous for infants, the elderly, and people with weakened immune systems. RSV spreads through contact with contaminated surfaces or through the air by droplets from coughing and sneezing."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

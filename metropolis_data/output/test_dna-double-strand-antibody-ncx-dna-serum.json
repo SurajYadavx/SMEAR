@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-dna-double-strand-antibody-ncx-dna-serum",
+  "test_name": "DNA (Double Strand) AntibodyNcX DNASerum - DS DNA CTX Test",
+  "slug": "dna-double-strand-antibody-ncx-dna-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/dna-double-strand-antibody-ncx-dna-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dna-double-strand-antibody-ncx-dna-serum",
+  "page_title": "DS DNA CTX Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1920
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 7pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the anti-double stranded DNA test used for?",
+      "answer": "It is used to diagnose and monitor lupus by detecting antibodies that attack the body\u2019s own DNA."
+    },
+    {
+      "question": "How is the anti-dsDNA test performed?",
+      "answer": "A small blood sample is collected from your vein and analysed using the Enzyme Immunoassay method."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No fasting is required before this test."
+    },
+    {
+      "question": "What does a high anti-dsDNA antibody level mean?",
+      "answer": "It may indicate active lupus or lupus nephritis, especially during a flare-up."
+    },
+    {
+      "question": "Can this test confirm lupus?",
+      "answer": "Yes, it helps confirm lupus when combined with clinical symptoms and a positive ANA test."
+    },
+    {
+      "question": "Can other diseases cause a positive result?",
+      "answer": "Occasionally, other autoimmune or liver conditions such as Sj\u00f6gren\u2019s syndrome or autoimmune hepatitis may cause a positive result."
+    },
+    {
+      "question": "How often should lupus patients take this test?",
+      "answer": "Lupus patients may be advised to repeat this test regularly to monitor disease activity and treatment response."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

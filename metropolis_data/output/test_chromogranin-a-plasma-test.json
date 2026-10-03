@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-chromogranin-a-plasma-test",
+  "test_name": "Chromogranin A (CGA) Test - Serum",
+  "slug": "chromogranin-a-plasma-test",
+  "source_url": "https://www.metropolisindia.com/parameter/chromogranin-a-plasma-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chromogranin-a-plasma-test",
+  "page_title": "Chromogranin A (CGA ) Test Price - Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7290
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 9:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Avoid proton pump inhibitors (PPIs) and acid-suppressing medicines for 2 weeks before the test (if possible)\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a high Chromogranin A level mean?",
+      "answer": "High levels may indicate a neuroendocrine tumour or can occur due to medications like PPIs or non-cancerous diseases."
+    },
+    {
+      "question": "Is fasting required for the Chromogranin A Test?",
+      "answer": "Fasting is not mandatory, but avoid heavy meals or caffeine before the test."
+    },
+    {
+      "question": "Can medication affect my Chromogranin A Test results?",
+      "answer": "Yes. Proton pump inhibitors (PPIs) and acid-reducing medicines can cause false elevations. Discuss alternatives with your doctor before the test."
+    },
+    {
+      "question": "Can this test detect all types of neuroendocrine tumours?",
+      "answer": "It can detect most NETs but is not specific for tumour location; imaging tests may be needed for confirmation."
+    },
+    {
+      "question": "How long does it take to get the test results?",
+      "answer": "Reports are generally available on the same day by 9:00 PM once the sample reaches the lab."
+    },
+    {
+      "question": "What are neuroendocrine tumours?",
+      "answer": "They are rare tumours that develop from hormone-producing nerve cells found in the pancreas, GI tract, and adrenal glands."
+    },
+    {
+      "question": "Can I continue taking my medicines before the test?",
+      "answer": "Avoid PPIs for at least 2 weeks before the test if possible. Always consult your doctor before stopping any medication."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

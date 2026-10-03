@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-respiratory-panel-by-filmarray",
+  "test_name": "Respiratory Panel By FilmArray (Biofire) - Nasopharyngeal Swab",
+  "slug": "respiratory-panel-by-filmarray",
+  "source_url": "https://www.metropolisindia.com/parameter/respiratory-panel-by-filmarray",
+  "canonical_url": "https://www.metropolisindia.com/parameter/respiratory-panel-by-filmarray",
+  "page_title": "Respiratory Panel By FilmArray (Biofire) - Nasopharyngeal Swab \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 18000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "2nd day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

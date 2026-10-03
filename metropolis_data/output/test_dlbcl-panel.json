@@ -1,0 +1,26 @@
+{
+  "id": "metro-test-dlbcl-panel",
+  "test_name": "DLBCL (Diffuse large B-cell lymphoma) FISH PANEL Tissue Test",
+  "slug": "dlbcl-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/dlbcl-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dlbcl-panel",
+  "page_title": "Dlbcl Treatment Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 14580
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "NULL",
+      "answer": "NULL"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

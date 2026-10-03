@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-jak-2-mutation-test",
+  "test_name": "JAK2 Mutation Test",
+  "slug": "jak-2-mutation-test",
+  "source_url": "https://www.metropolisindia.com/parameter/jak-2-mutation-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/jak-2-mutation-test",
+  "page_title": "Jak2 Mutation Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6690
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 7pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the JAK2 Mutation Test detect?",
+      "answer": "It detects the JAK2 V617F gene mutation associated with myeloproliferative neoplasms like Polycythaemia Vera, ET, and Myelofibrosis."
+    },
+    {
+      "question": "Who should get a JAK2 Mutation Test?",
+      "answer": "Individuals with high blood counts, blood clots, or symptoms suggestive of a bone marrow disorder."
+    },
+    {
+      "question": "Is fasting required before the test?",
+      "answer": "No, fasting is not required for this genetic test."
+    },
+    {
+      "question": "What does a positive JAK2 Mutation Test mean?",
+      "answer": "It confirms the presence of the JAK2 mutation, supporting a diagnosis of an MPN."
+    },
+    {
+      "question": "What if my JAK2 test is negative but my blood counts are high?",
+      "answer": "Your doctor may recommend further genetic tests like CALR, MPL, or JAK2 Exon 12."
+    },
+    {
+      "question": "How is the test performed?",
+      "answer": "A simple blood draw followed by genetic analysis using Real-Time PCR."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are available by 7:00 PM the next day after sample collection."
+    },
+    {
+      "question": "Can the test monitor treatment progress?",
+      "answer": "Yes, it helps track disease status and response to targeted therapy."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and limited to mild pain or bruising at the blood draw site."
+    },
+    {
+      "question": "Can I book the JAK2 Mutation Test online?",
+      "answer": "Yes, you can easily book it online through the Metropolis Healthcare website or app and opt for home collection."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

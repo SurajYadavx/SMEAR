@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-histopathological-examination-of-trucut-biopsy-ct-usg-guided-core-needle-biopsy",
+  "test_name": "Trucut Biopsy Test",
+  "slug": "histopathological-examination-of-trucut-biopsy-ct-usg-guided-core-needle-biopsy",
+  "source_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-trucut-biopsy-ct-usg-guided-core-needle-biopsy",
+  "canonical_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-trucut-biopsy-ct-usg-guided-core-needle-biopsy",
+  "page_title": "Trucut Biopsy Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4960
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history and radiological details required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is a Tru-cut biopsy?",
+      "answer": "A Tru-cut biopsy, also known as a core needle biopsy, is a procedure that removes a small cylinder of tissue from an organ or lump using a special needle under imaging guidance."
+    },
+    {
+      "question": "Is the procedure painful?",
+      "answer": "The procedure is done under local anaesthesia, so you may feel slight pressure but not significant pain. Mild soreness may occur after the test."
+    },
+    {
+      "question": "How long does the Tru-cut biopsy procedure take?",
+      "answer": "The biopsy usually takes 20 to 30 minutes, depending on the site and number of samples required."
+    },
+    {
+      "question": "Are there any risks associated with the test?",
+      "answer": "Risks are minimal but may include mild bleeding, bruising, or discomfort at the biopsy site. Serious complications are rare."
+    },
+    {
+      "question": "When can I resume normal activities after the biopsy?",
+      "answer": "You can usually return to normal activities within 24 hours unless your doctor advises rest based on the biopsy site."
+    },
+    {
+      "question": "Why is histopathology important after a biopsy?",
+      "answer": "Histopathology provides detailed cellular information about the tissue sample, confirming the presence or absence of disease and guiding further treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-hla-typing-dq-locus-class-ii-luminex",
+  "test_name": "HLA typing DQ locus Class II Test",
+  "slug": "hla-typing-dq-locus-class-ii-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-typing-dq-locus-class-ii-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-typing-dq-locus-class-ii-luminex",
+  "page_title": "HLA typing DQ locus Class II Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6135
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take HLA typing DQ locus Class II Test?",
+      "answer": "This test is done to rule diseases strongly linked to DQ locus. For e.g., coeliac disease, narcolepsy"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Performed for patients suspected of having diseases strongly associated with the HLA-DQ locus for e.g. coeliac disease"
+    },
+    {
+      "question": "More Info on HLA typing DQ locus Class II Test",
+      "answer": "Celiac disease (CD) is a multifactorial immune-mediated disease.Specific HLA-DQ genes have been recognized as necessary factors for the occurrence of Celiac Disease (CD). This test provides genotyping for detection of HLA-DQ2 (DQA1*05:01 or 05:05 and DQB1*02:01 or 02:02) and HLA-DQ8 (DQB1*03:02).\u00a0The HLA-DQB1*02:01 allele is present in more than 90% CD children. In the perspective of a widened pediatric population screening for CD, a double-step process might be suggested: HLA-DQB1*02:01 might be investigated first and, only if this result is positive, children might be candidate for a prospective serologic screening, as a second step"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

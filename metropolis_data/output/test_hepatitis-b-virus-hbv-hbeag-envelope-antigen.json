@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-hepatitis-b-virus-hbv-hbeag-envelope-antigen",
+  "test_name": "Hepatitis B e-Antigen (HbeAg)",
+  "slug": "hepatitis-b-virus-hbv-hbeag-envelope-antigen",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-b-virus-hbv-hbeag-envelope-antigen",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-b-virus-hbv-hbeag-envelope-antigen",
+  "page_title": "HBeAg Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1210
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required and clinician contact number to be mentioned on TRF",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the HBeAg Test?",
+      "answer": "The test can be performed at any time of the day, as no specific timing is required."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the HBeAg Test, and for how long?",
+      "answer": "Fasting is not required for this test."
+    },
+    {
+      "question": "Can dehydration affect my HBeAg Test results?",
+      "answer": "Dehydration is unlikely to significantly affect HBeAg results, but maintaining normal hydration is recommended."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the HBeAg Test?",
+      "answer": "No special diet is needed. Inform your doctor about any antiviral medications or ongoing treatment."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the HBeAg Test?",
+      "answer": "A healthcare professional collects about 3 ml of blood from a vein in your arm using standard sterile technique."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any routine blood test. You may experience mild pain or slight bruising at the needle site."
+    },
+    {
+      "question": "What level of HBeAg Test is normal?",
+      "answer": "A non reactive result with S/CO less than 1.0 is considered within the reference range. A reactive result with S/CO equal to or greater than 1.0 suggests active viral replication."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

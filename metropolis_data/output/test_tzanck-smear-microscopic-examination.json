@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-tzanck-smear-microscopic-examination",
+  "test_name": "Tzanck Smear",
+  "slug": "tzanck-smear-microscopic-examination",
+  "source_url": "https://www.metropolisindia.com/parameter/tzanck-smear-microscopic-examination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tzanck-smear-microscopic-examination",
+  "page_title": "Tzanck Smear Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 420
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

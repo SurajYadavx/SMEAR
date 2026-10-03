@@ -1,0 +1,66 @@
+{
+  "id": "metro-test-hiv-duo-p24-antigen-antibody-to-hiv1-2-serum",
+  "test_name": "HIV Test (HIV-Duo Test)",
+  "slug": "hiv-duo-p24-antigen-antibody-to-hiv1-2-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-duo-p24-antigen-antibody-to-hiv1-2-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-duo-p24-antigen-antibody-to-hiv1-2-serum",
+  "page_title": "HIV Test (Duo P24 Antigen & Antibody)  \u2013 Price, Normal Range and Home Collection",
+  "pricing": {
+    "selling_price": 700
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What are the different types of HIV tests?",
+      "answer": "There are three main types: antigen/antibody combination tests (like HIV-Duo), antibody-only tests, and nucleic acid tests. The HIV-Duo test is highly recommended, as it detects both antigens and antibodies, providing earlier and more accurate results than other tests."
+    },
+    {
+      "question": "What is the best time to take the HIV test?",
+      "answer": "For the HIV-Duo test, the optimal time is 18-45 days after potential exposure. This allows sufficient time for both P24 antigens and antibodies to develop to detectable levels, ensuring accurate results while minimising the window period."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the HIV test, and for how long?",
+      "answer": "No, fasting is not required for HIV testing. You can eat and drink normally before the test. The presence of HIV antigens and antibodies in your blood is not affected by food intake or fasting status."
+    },
+    {
+      "question": "Can dehydration affect my HIV test results?",
+      "answer": "Dehydration does not affect the accuracy of HIV test results for detecting antigens or antibodies. However, severe dehydration may make blood collection more difficult for the technician, so staying adequately hydrated is recommended for comfort during the procedure."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the HIV test",
+      "answer": "No special dietary preparation is needed. Continue taking your regular medications, but inform your doctor about all medicines, especially HIV prevention drugs like PrEP or PEP, as these may potentially affect test interpretation and timing."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the HIV test?",
+      "answer": "A healthcare professional cleans your arm with an antiseptic, ties an elastic band around your upper arm, inserts a small needle into your vein, and collects blood in a special tube. The entire procedure takes less than five minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any routine blood test. You may experience slight pain, minor bruising at the needle site, or occasional dizziness. Serious complications, like infection, are extremely rare when proper protocols are followed."
+    },
+    {
+      "question": "What level of HIV test is normal?",
+      "answer": "HIV test results are reported as either non-reactive (normal) with values less than 1.0 S/CO or reactive (preliminary positive) with values of 1.0 S/CO or higher. A non-reactive result means no HIV infection was detected."
+    },
+    {
+      "question": "What is an HIV test also known as?",
+      "answer": "The HIV-Duo test is also called the HIV 4th Generation Test, the HIV Antigen/Antibody Combination Test, or the HIV-1/2 Ab & p24 Ag Test. All these names refer to the same advanced screening method that detects both antigens and antibodies."
+    },
+    {
+      "question": "Is the HIV test accurate?",
+      "answer": "Yes, modern HIV tests, including the HIV-Duo, are extremely accurate, with over 99% reliability when performed correctly after the window period. All reactive screening results require confirmatory testing to establish a definitive diagnosis, ensuring maximum accuracy."
+    },
+    {
+      "question": "How early can HIV be detected?",
+      "answer": "The HIV-Duo test can typically detect HIV infection as early as 18 days after exposure, though it may take up to 45 days for definitive results. This makes it one of the earliest detection methods available for HIV screening."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

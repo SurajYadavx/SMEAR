@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-chlorides",
+  "test_name": "Serum Chloride ( Cl ) Serum Test",
+  "slug": "chlorides",
+  "source_url": "https://www.metropolisindia.com/parameter/chlorides",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chlorides",
+  "page_title": "Chloride Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 235
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-haemophilia-profile",
+  "test_name": "Haemophilia Profile",
+  "slug": "haemophilia-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/haemophilia-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/haemophilia-profile",
+  "page_title": "Haemophilia Profile Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4265
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

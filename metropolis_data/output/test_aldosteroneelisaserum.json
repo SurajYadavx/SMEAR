@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-aldosteroneelisaserum",
+  "test_name": "Aldosterone, Serum",
+  "slug": "aldosteroneelisaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/aldosteroneelisaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/aldosteroneelisaserum",
+  "page_title": "Aldosterone Elisa Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2415
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

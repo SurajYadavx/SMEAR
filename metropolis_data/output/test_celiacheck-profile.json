@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-celiacheck-profile",
+  "test_name": "Celia Check Profile",
+  "slug": "celiacheck-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/celiacheck-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/celiacheck-profile",
+  "page_title": "Celia Check Profile \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2500
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

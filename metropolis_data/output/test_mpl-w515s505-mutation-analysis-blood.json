@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-mpl-w515s505-mutation-analysis-blood",
+  "test_name": "Mpl W515/S505 Mutation Analysis Test, Blood",
+  "slug": "mpl-w515s505-mutation-analysis-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/mpl-w515s505-mutation-analysis-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mpl-w515s505-mutation-analysis-blood",
+  "page_title": "MPL Mutation Analysis Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6395
+  },
+  "specimen": "Blood",
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does MPL W515/S505 Mutation Analysis measure?",
+      "answer": "MPL W515/S505 Mutation Analysis analyzes specific mutations in the MPL gene, specifically in codon W515 and codon S505."
+    },
+    {
+      "question": "Why is MPL W515/S505 Mutation Analysis done?",
+      "answer": "\u2022 To confirm the diagnosis of ET and PMF when other tests, like Jak2 V617F mutation analysis, are negative \u2022 To distinguish these blood disorders from other conditions with similar symptoms"
+    },
+    {
+      "question": "When is MPL W515/S505 Mutation Analysis recommended and who should take the test?",
+      "answer": "\u2022 MPL W515/S505 Mutation Analysis is recommended in suspected cases of ET or PMF where the Jak2 V617F mutation has been ruled out. \u2022 Patients who have symptoms such as unexplained blood clots, enlarged spleen, or abnormal blood counts may require this test for proper diagnosis and treatment planning."
+    },
+    {
+      "question": "What if the results of the MPL W515/S505 Mutation Analysis are abnormal?",
+      "answer": "If the MPL W515/S505 Mutation Analysis shows the presence of mutations in the MPL gene, it suggests a higher likelihood of ET or PMF."
+    },
+    {
+      "question": "What to expect during the MPL W515/S505 Mutation Analysis - blood?",
+      "answer": "During the test, a healthcare professional will draw a blood sample of 3\u20135 ml from you. They will send the sample to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the MPL W515/S505 Mutation Analysis?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking as certain drugs may interfere with the test results. Also, tell them if you have any specific requirements. \u2022 Follow any instructions provided by your doctor regarding fasting or specific dietary restrictions, if any."
+    },
+    {
+      "question": "What other tests may be ordered with the MPL W515/S505 Mutation Analysis?",
+      "answer": "Other tests that may be ordered alongside MPL W515/S505 Mutation Analysis include Jak2 V617F mutation analysis, CALR mutation analysis, and bone marrow biopsy. These tests help in further evaluating and confirming the diagnosis of ET and PMF."
+    },
+    {
+      "question": "What is the MPL W515/S505 Mutation Analysis also known as?",
+      "answer": "MPL Codon W515/S505 Mutation Analysis"
+    },
+    {
+      "question": "What is essential thrombocythemia (ET) / primary myelofibrosis (PMF)?",
+      "answer": "ET and PMF are two types of blood disorders characterised by abnormal production of blood cells in the bone marrow. ET results in an increased number of platelets, while PMF leads to scarring of the bone marrow, affecting blood cell production, and organ function."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

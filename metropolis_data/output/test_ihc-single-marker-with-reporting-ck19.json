@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-single-marker-with-reporting-ck19",
+  "test_name": "CK19 IHC",
+  "slug": "ihc-single-marker-with-reporting-ck19",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-ck19",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-ck19",
+  "page_title": "CK19 IHC \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2475
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

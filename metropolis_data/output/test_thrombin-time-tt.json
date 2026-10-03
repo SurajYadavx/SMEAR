@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-thrombin-time-tt",
+  "test_name": "Thrombin Time (TT)",
+  "slug": "thrombin-time-tt",
+  "source_url": "https://www.metropolisindia.com/parameter/thrombin-time-tt",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thrombin-time-tt",
+  "page_title": "Thrombin Time (TT) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

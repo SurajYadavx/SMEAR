@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alpha-fetoprotein-amniotic-fluid-afp-af",
+  "test_name": "Alpha Fetoprotein (AFP), Amniotic Fluid",
+  "slug": "alpha-fetoprotein-amniotic-fluid-afp-af",
+  "source_url": "https://www.metropolisindia.com/parameter/alpha-fetoprotein-amniotic-fluid-afp-af",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alpha-fetoprotein-amniotic-fluid-afp-af",
+  "page_title": "Afp Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1155
+  },
+  "specimen": "Amniotic Fluid",
+  "fasting": "no",
+  "report_time": "after 8 hours",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

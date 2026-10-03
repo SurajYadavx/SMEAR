@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cd-8",
+  "test_name": "CD8",
+  "slug": "cd-8",
+  "source_url": "https://www.metropolisindia.com/parameter/cd-8",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd-8",
+  "page_title": "CD8 \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2625
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

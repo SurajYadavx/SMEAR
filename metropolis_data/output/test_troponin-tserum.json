@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-troponin-tserum",
+  "test_name": "Troponin-T Test",
+  "slug": "troponin-tserum",
+  "source_url": "https://www.metropolisindia.com/parameter/troponin-tserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/troponin-tserum",
+  "page_title": "Book Troponin T Test (Trop T Test) Online - Price, Preparation, Purpose",
+  "pricing": {
+    "selling_price": 2250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose biotin supplements (>5 mg/day) for at least 8 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Trop T test detect?",
+      "answer": "It detects troponin T protein in your blood, which increases when the heart muscle is damaged."
+    },
+    {
+      "question": "Is fasting required for the Trop T test?",
+      "answer": "Fasting not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How soon are Trop T test results available?",
+      "answer": "Results are typically available within 6 hours once your sample reaches the lab."
+    },
+    {
+      "question": "What causes high Troponin-T levels?",
+      "answer": "High levels may be due to a heart attack, myocarditis, heart failure, or severe stress on the heart."
+    },
+    {
+      "question": "Can biotin affect Trop T test results?",
+      "answer": "Yes. High-dose biotin supplements (>5 mg/day) can interfere with the test; stop them 8 hours before testing."
+    },
+    {
+      "question": "What type of sample is used for the Trop T test?",
+      "answer": "The test uses 3 ml of serum collected in a gel vacutainer."
+    },
+    {
+      "question": "How long do elevated troponin levels stay in the blood?",
+      "answer": "Troponin levels can remain high for up to 14 days after a heart attack."
+    },
+    {
+      "question": "Can kidney disease cause elevated troponin levels?",
+      "answer": "Yes, chronic kidney disease can lead to persistently raised troponin values even without heart attack."
+    },
+    {
+      "question": "Is the Trop T test available for home collection?",
+      "answer": "Yes. Metropolis Healthcare offers home collection for this test across multiple locations."
+    },
+    {
+      "question": "When should the Trop T test be repeated?",
+      "answer": "Your doctor may repeat the test every few hours to track rising or falling troponin levels during a suspected heart attack."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

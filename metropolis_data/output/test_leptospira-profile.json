@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-leptospira-profile",
+  "test_name": "Leptospira Profile Test",
+  "slug": "leptospira-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/leptospira-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leptospira-profile",
+  "page_title": "Leptospira Profile Test Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-prostate-specific-antigen-test",
+  "test_name": "PSA Total Test",
+  "slug": "prostate-specific-antigen-test",
+  "source_url": "https://www.metropolisindia.com/parameter/prostate-specific-antigen-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/prostate-specific-antigen-test",
+  "page_title": "PSA Total Test \u2013 Price, Normal Range and Home Collection | Book PSA Blood Test Online",
+  "pricing": {
+    "selling_price": 950
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid the test for 7 days after PR examination and USG. High biotin doses (>5 mg/day) should be avoided at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the PSA test?",
+      "answer": "There is no specific best time of day for a PSA test. However, avoid ejaculation, vigorous exercise like cycling, and digital rectal exams for 48 hours before testing, as these activities can temporarily raise your PSA levels."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the PSA test, and for how long?",
+      "answer": "No, fasting is not required for a PSA test. You can eat and drink normally before the test, as food intake does not affect PSA levels."
+    },
+    {
+      "question": "Can dehydration affect my PSA test results?",
+      "answer": "Severe dehydration can make your blood more concentrated, potentially leading to falsely elevated results. It's best to maintain normal hydration before any blood test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the PSA test?",
+      "answer": "No special diet is needed before a PSA test. However, it's important to inform your doctor about all medications, like finasteride or dutasteride, and supplements you are taking, including biotin, as some can affect PSA test results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the PSA test?",
+      "answer": "The procedure involves cleaning your arm with an antiseptic, tying an elastic band around your upper arm, inserting a small needle into the vein, and collecting blood in a vial. The entire process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any standard blood test. You might experience slight pain, a small bruise at the needle site, or feel dizzy momentarily. Serious complications like infection are very rare."
+    },
+    {
+      "question": "What level of PSA test is normal?",
+      "answer": "For men aged 59.1-69 years, the PSA test normal range is 0-4.5 ng/mL. However, doctors consider age, prostate size, and rate of change over time"
+    },
+    {
+      "question": "What is the PSA test also known as?",
+      "answer": "The PSA test is also known as Total PSA, Serum PSA, or Free Prostate-Specific Antigen when measuring the free component separately. These names refer to the same basic screening test for prostate health."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-high-sensitivity-c-reactive-protein-crp-test-or-hscrp",
+  "test_name": "High Sensitivity CRP Test",
+  "slug": "high-sensitivity-c-reactive-protein-crp-test-or-hscrp",
+  "source_url": "https://www.metropolisindia.com/parameter/high-sensitivity-c-reactive-protein-crp-test-or-hscrp",
+  "canonical_url": "https://www.metropolisindia.com/parameter/high-sensitivity-c-reactive-protein-crp-test-or-hscrp",
+  "page_title": "High Sensitivity CRP Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 850
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

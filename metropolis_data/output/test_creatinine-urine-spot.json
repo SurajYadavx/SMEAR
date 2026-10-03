@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-creatinine-urine-spot",
+  "test_name": "Creatinine Urine Spot Test",
+  "slug": "creatinine-urine-spot",
+  "source_url": "https://www.metropolisindia.com/parameter/creatinine-urine-spot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/creatinine-urine-spot",
+  "page_title": "Creatinine Urine Spot Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 270
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

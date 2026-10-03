@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-pdl1-sp263-by-ihc-ventana",
+  "test_name": "PDL1 (SP263), IHC",
+  "slug": "pdl1-sp263-by-ihc-ventana",
+  "source_url": "https://www.metropolisindia.com/parameter/pdl1-sp263-by-ihc-ventana",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pdl1-sp263-by-ihc-ventana",
+  "page_title": "PDL1 by IHC Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8320
+  },
+  "specimen": "IHC",
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

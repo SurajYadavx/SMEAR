@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-csf-index-csf-and-serum",
+  "test_name": "CSF Index (CSF and serum)",
+  "slug": "csf-index-csf-and-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/csf-index-csf-and-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/csf-index-csf-and-serum",
+  "page_title": "CSF Index Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2840
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

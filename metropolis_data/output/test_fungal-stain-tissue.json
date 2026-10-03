@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-fungal-stain-tissue",
+  "test_name": "Fungal stain by KOH & Calcofluor White stain - Tissue",
+  "slug": "fungal-stain-tissue",
+  "source_url": "https://www.metropolisindia.com/parameter/fungal-stain-tissue",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fungal-stain-tissue",
+  "page_title": "Fungal Stain Tissue Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 525
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Fungal stain test - Tissue measure?",
+      "answer": "This test detects the presence of fungal organisms in your tissue sample."
+    },
+    {
+      "question": "Why is the Fungal stain test - Tissue done?",
+      "answer": "\u2022 To diagnose fungal infections in different parts of the body \u2022 To guide appropriate treatment for fungal infections \u2022 To monitor the effectiveness of antifungal therapy \u2022 To identify specific fungi causing the infection and determine the appropriate antifungal medication"
+    },
+    {
+      "question": "When is the Fungal stain test - Tissue recommended and who should take the test?",
+      "answer": "This test is recommended for individuals who have \u2022 suspected or confirmed fungal infections, \u2022 persistent or recurrent infections unresponsive to initial treatment, or \u2022 risk factors for fungal infections such as immunosuppression or recent antibiotic use."
+    },
+    {
+      "question": "What if the results of the Fungal stain test - Tissue are abnormal?",
+      "answer": "Abnormal results may indicate the presence of a fungal infection, and further diagnostic tests or treatments may be needed."
+    },
+    {
+      "question": "What to expect during the Fungal stain test - Tissue?",
+      "answer": "During this test, a tissue sample will be collected, usually from the affected area. The sample will be processed in the laboratory using special dyes: KOH & Calcofluor White."
+    },
+    {
+      "question": "What preparations are required before the Fungal stain test - Tissue?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking, including antifungal drugs. Also, tell them if you have any specific requirements. \u2022 Follow any specific instructions provided by your doctor regarding fasting or discontinuing certain medications."
+    },
+    {
+      "question": "What other tests may be ordered with the Fungal stain test - Tissue?",
+      "answer": "\u2022 Culture and sensitivity testing to identify the specific fungus causing the infection and determine its susceptibility to antifungal medications \u2022 Molecular tests like polymerase chain reaction (PCR) to detect fungal DNA and provide more accurate diagnosis in certain cases \u2022 Blood tests to assess immune function or screen for systemic fungal infections"
+    },
+    {
+      "question": "What is the Fungal stain by KOH & Calcofluor White stain - Tissue also known as?",
+      "answer": "Tissue Fungal Staining or Fungal Stain for Tissue"
+    },
+    {
+      "question": "What is a fungal infection?",
+      "answer": "A fungal infection, also known as a mycosis, is a type of infection caused by a fungus. Fungal infections can affect various parts of the body, including the skin, nails, hair, and mucous membranes. Common types of fungal infections include athlete's foot, ringworm, jock itch, and yeast infections."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cortisol-free-urine-24h",
+  "test_name": "Cortisol - Free, Urine 24 Hour",
+  "slug": "cortisol-free-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/cortisol-free-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cortisol-free-urine-24h",
+  "page_title": "Cortisol Urine Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1050
+  },
+  "specimen": "Urine 24 Hour",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

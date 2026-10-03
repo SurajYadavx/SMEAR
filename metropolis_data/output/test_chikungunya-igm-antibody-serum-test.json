@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-chikungunya-igm-antibody-serum-test",
+  "test_name": "Chikungunya Test",
+  "slug": "chikungunya-igm-antibody-serum-test",
+  "source_url": "https://www.metropolisindia.com/parameter/chikungunya-igm-antibody-serum-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chikungunya-igm-antibody-serum-test",
+  "page_title": "Chikungunya IgM Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1300
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Chikungunya Test detect?",
+      "answer": "It detects IgM antibodies in the blood to confirm a recent or active Chikungunya infection."
+    },
+    {
+      "question": "Is fasting required before the Chikungunya Test?Is home sample collection available for the Chikungunya Test?",
+      "answer": "Fasting not required; you can eat and drink normally before the test."
+    },
+    {
+      "question": "When should I get tested for Chikungunya?",
+      "answer": "The test is best done after 5\u20137 days of symptom onset when IgM antibodies are detectable."
+    },
+    {
+      "question": "What if my Chikungunya Test result is positive?",
+      "answer": "A positive result indicates a recent infection; your doctor will recommend rest, fluids, and supportive care."
+    },
+    {
+      "question": "Can the Chikungunya Test distinguish it from dengue?",
+      "answer": "Yes, this test helps differentiate Chikungunya from dengue and other viral fevers."
+    },
+    {
+      "question": "How long does it take to get Chikungunya Test results?",
+      "answer": "Reports are available within 4 hours after the sample reaches the lab."
+    },
+    {
+      "question": "What does a negative result mean?",
+      "answer": "It suggests no detectable antibodies, but infection cannot be ruled out in early stages."
+    },
+    {
+      "question": "How is the sample collected?",
+      "answer": "A small blood sample is collected from a vein in your arm and tested in the laboratory."
+    },
+    {
+      "question": "Can I take my regular medicines before the test?",
+      "answer": "Yes, but inform your doctor about all medications and supplements you\u2019re taking."
+    },
+    {
+      "question": "Is home sample collection available for the Chikungunya Test?",
+      "answer": "Yes, Metropolis Healthcare provides home sample collection for this test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

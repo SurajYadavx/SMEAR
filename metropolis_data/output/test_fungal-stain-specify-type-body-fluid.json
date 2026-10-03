@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-fungal-stain-specify-type-body-fluid",
+  "test_name": "Fungal Stain By KOH & Calcofluor White Stain - Specify Type Body Fluid",
+  "slug": "fungal-stain-specify-type-body-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/fungal-stain-specify-type-body-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fungal-stain-specify-type-body-fluid",
+  "page_title": "Fungal Stain Specify Type Body Fluid Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 630
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Fungal Stain Test - Body Fluid measure?",
+      "answer": "This test examines body fluid samples to detect the presence of fungi."
+    },
+    {
+      "question": "Why is the Fungal Stain Test - Body Fluid done?",
+      "answer": "\u2022 To diagnose fungal infections \u2022 To guide treatment by monitoring the effectiveness of antifungal medications \u2022 To prevent complications through early detection and treatment of fungal infections"
+    },
+    {
+      "question": "When is the Fungal Stain Test - Body Fluid recommended and who should take the test?",
+      "answer": "\u2022 If you have symptoms such as persistent fever, unexplained weight loss, chronic cough, or skin rashes, your doctor may recommend this test. \u2022 If a culture result indicates possible fungal growth, this test can confirm the presence of fungi. \u2022 If you are being treated for a fungal infection, this test helps assess treatment effectiveness."
+    },
+    {
+      "question": "What if the results of the Fungal Stain Test - Body Fluid are abnormal?",
+      "answer": "\u2022 Positive result: The presence of fungi suggests a fungal infection that needs further evaluation and appropriate treatment. \u2022 Negative result: The absence of fungi may indicate that other causes should be considered for your symptoms."
+    },
+    {
+      "question": "What to expect during the Fungal Stain Test - Body Fluid?",
+      "answer": "A healthcare professional will collect 3 ml of your body fluid in a sterile, leak-proof container. - Laboratory processing: The sample undergoes staining with specific dyes to detect the presence of fungi. - Reporting: Results are available after 6 hours and will be reported to your doctor."
+    },
+    {
+      "question": "What preparations are required before the Fungal Stain Test - Body Fluid?",
+      "answer": "- Clinical history: Provide information about your symptoms and medical history to assist in accurate diagnosis. - Sample collection: Collect the body fluid sample in a sterile container as per the given guidelines. - Clinician details: Ensure the specimen type, site, clinical history, and clinician contact number are correctly mentioned on the test request form."
+    },
+    {
+      "question": "What other tests may be ordered with Fungal Stain Test - Body Fluid?",
+      "answer": "Additional tests that may be performed alongside Fungal Stain Test - Body Fluid include: - Culture and Sensitivity Testing: This test helps identify the specific type of fungus causing the infection and determine the most effective treatment. - PCR Testing: Polymerase Chain Reaction (PCR) is used to detect genetic material of fungi, providing a rapid and accurate diagnosis."
+    },
+    {
+      "question": "What is the Fungal Stain Test - Body Fluid also known as?",
+      "answer": "This test is also known as Fungal Examination of Body Fluid or Fungal Stain Test."
+    },
+    {
+      "question": "What is a fungal infection?",
+      "answer": "Fungal infections are caused by microorganisms called fungi. These infections can affect various parts of the body, such as the skin, nails, respiratory tract, and internal organs. Common fungal infections include athlete's foot, yeast infections, and pneumonia caused by fungi like Candida and Aspergillus."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

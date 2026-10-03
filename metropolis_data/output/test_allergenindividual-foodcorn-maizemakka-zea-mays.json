@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodcorn-maizemakka-zea-mays",
+  "test_name": "Allergen,Individual-FoodCorn  / MaizeMakka (Zea Mays)",
+  "slug": "allergenindividual-foodcorn-maizemakka-zea-mays",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcorn-maizemakka-zea-mays",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcorn-maizemakka-zea-mays",
+  "page_title": "Corn Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodCorn  / MaizeMakka (Zea Mays)",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

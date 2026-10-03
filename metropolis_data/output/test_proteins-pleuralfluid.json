@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-proteins-pleuralfluid",
+  "test_name": "Proteins (Pleural Fluid)",
+  "slug": "proteins-pleuralfluid",
+  "source_url": "https://www.metropolisindia.com/parameter/proteins-pleuralfluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/proteins-pleuralfluid",
+  "page_title": "Proteins (Pleural Fluid) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 295
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

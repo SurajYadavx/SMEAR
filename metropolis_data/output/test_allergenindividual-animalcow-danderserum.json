@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-animalcow-danderserum",
+  "test_name": "Allergen, Individual-Animal Cow Dander Serum",
+  "slug": "allergenindividual-animalcow-danderserum",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-animalcow-danderserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-animalcow-danderserum",
+  "page_title": "Cow Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1365
+  },
+  "specimen": "Individual-Animal Cow Dander Serum",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

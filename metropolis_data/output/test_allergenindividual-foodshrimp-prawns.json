@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodshrimp-prawns",
+  "test_name": "Shrimp Allergy Test - Individual Food Prawns / Shrimp",
+  "slug": "allergenindividual-foodshrimp-prawns",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodshrimp-prawns",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodshrimp-prawns",
+  "page_title": "Shrimp Allergy Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

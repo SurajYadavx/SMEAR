@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-cardiolipin-antibodyacl-igg-antibodyserum",
+  "test_name": "Cardiolipin ACL-IgG Antibody Test",
+  "slug": "cardiolipin-antibodyacl-igg-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/cardiolipin-antibodyacl-igg-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cardiolipin-antibodyacl-igg-antibodyserum",
+  "page_title": "Cardiolipin ACL-IgG Antibody Test - Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1120
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive Cardiolipin ACL-IgG Antibody Test mean?",
+      "answer": "A positive result suggests the presence of antiphospholipid antibodies associated with Antiphospholipid Syndrome (APS) or lupus, increasing the risk of clotting or pregnancy complications."
+    },
+    {
+      "question": "Do I need to fast before the Cardiolipin ACL-IgG Antibody Test?",
+      "answer": "Fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can this test confirm Antiphospholipid Syndrome (APS)?",
+      "answer": "Not by itself. APS diagnosis requires repeat positive results at least 12 weeks apart, along with clinical symptoms such as clotting or pregnancy loss."
+    },
+    {
+      "question": "What medications can affect test results?",
+      "answer": "Blood thinners or immunosuppressive medications may alter antibody levels. Inform your doctor before the test."
+    },
+    {
+      "question": "Are there any risks with this test?",
+      "answer": "The risks are minimal and similar to any routine blood draw, such as mild bruising or temporary discomfort."
+    },
+    {
+      "question": "How often should I repeat the test?",
+      "answer": "Your doctor may recommend repeating the test after 12 weeks if results are positive, to confirm persistence of antibodies for APS diagnosis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

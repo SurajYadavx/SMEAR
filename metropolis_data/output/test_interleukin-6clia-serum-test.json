@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-interleukin-6clia-serum-test",
+  "test_name": "Interleukin (IL-6) Test - Plasma",
+  "slug": "interleukin-6clia-serum-test",
+  "source_url": "https://www.metropolisindia.com/parameter/interleukin-6clia-serum-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/interleukin-6clia-serum-test",
+  "page_title": "Interleukin (IL-6) Test Price - Preparation and Report",
+  "pricing": {
+    "selling_price": 3465
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

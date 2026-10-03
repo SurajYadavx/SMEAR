@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-dengue-rna-detection-by-real-time-pcr-serum",
+  "test_name": "Dengue RNA RT-PCR Test",
+  "slug": "dengue-rna-detection-by-real-time-pcr-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/dengue-rna-detection-by-real-time-pcr-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dengue-rna-detection-by-real-time-pcr-serum",
+  "page_title": "Dengue PCR Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3885
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Specimen type, site, clinical history and clinician contact details required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Dengue RNA RT-PCR Test?",
+      "answer": "The test is usually most useful during the early days of fever, when dengue virus RNA is more likely to be present in the blood. Your doctor will advise the right timing based on your symptoms."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Dengue RNA RT-PCR Test, and for how long?",
+      "answer": "No, overnight fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can dehydration affect my Dengue RNA RT-PCR Test results?",
+      "answer": "Mild dehydration is unlikely to directly affect dengue RNA detection, but normal hydration makes blood collection easier and more comfortable."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Dengue RNA RT-PCR Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines you take, especially fever medicines, painkillers, blood thinners or any ongoing treatment."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Dengue RNA RT-PCR Test?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, inserts a sterile needle into a vein and collects about 3 ml of blood in a gel vacutainer or plain sterile vacutainer."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising or temporary swelling at the needle site. Rarely, some people may feel dizzy."
+    },
+    {
+      "question": "What level of Dengue RNA RT-PCR Test is normal?",
+      "answer": "A Not Detected result is generally considered negative for dengue RNA. It means dengue virus RNA was not detected, or the viral copies were below 70 copies/ml. Your doctor will interpret this with your symptoms and fever duration."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

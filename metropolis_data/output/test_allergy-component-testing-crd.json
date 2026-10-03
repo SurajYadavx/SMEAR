@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-allergy-component-testing-crd",
+  "test_name": "Allergy Component Testing (CRD)",
+  "slug": "allergy-component-testing-crd",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-component-testing-crd",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-component-testing-crd",
+  "page_title": "Allergy Component (CRD) Test - Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 23380
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required. Fasting sample is preferred, but not mandatory",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Allergy Component Testing (CRD Test)?",
+      "answer": "You can take this test when your doctor advises it, especially if you have repeated allergic reactions, food related symptoms, respiratory allergy symptoms, insect sting reactions, latex reactions or unclear allergy triggers."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Allergy Component Testing (CRD Test), and for how long?",
+      "answer": "Fasting is preferred, but it is not mandatory. Follow your doctor\u2019s advice before sample collection."
+    },
+    {
+      "question": "Can dehydration affect my Allergy Component Testing (CRD Test) results?",
+      "answer": "Mild dehydration is unlikely to significantly affect specific IgE results. However, normal hydration is recommended before any blood test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Allergy Component Testing (CRD Test)?",
+      "answer": "Follow your usual diet unless your doctor gives specific instructions. Inform your doctor about all medicines, allergy medicines, inhalers, steroids, immunotherapy and supplements. Do not stop any medicine unless advised."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Allergy Component Testing (CRD Test)?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site and collects about 3 ml of blood from a vein into a gel vacutainer. The serum sample is then processed for component based allergy testing."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising or brief dizziness at the time of blood collection. Serious complications are rare."
+    },
+    {
+      "question": "What level of Allergy Component Testing (CRD Test) is normal?",
+      "answer": "This is a panel test, so there is no single normal level for the whole test. In the sample report, less than 0.3 kUA/L is considered negative or uncertain for allergen IgE. Your doctor will interpret each allergen and component result with your symptoms and exposure history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

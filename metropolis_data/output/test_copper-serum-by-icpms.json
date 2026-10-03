@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-copper-serum-by-icpms",
+  "test_name": "Copper (Serum)",
+  "slug": "copper-serum-by-icpms",
+  "source_url": "https://www.metropolisindia.com/parameter/copper-serum-by-icpms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/copper-serum-by-icpms",
+  "page_title": "Copper Serum Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

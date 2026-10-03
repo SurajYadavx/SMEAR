@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-glucose-60-min",
+  "test_name": "Glucose 60-Minute Test",
+  "slug": "glucose-60-min",
+  "source_url": "https://www.metropolisindia.com/parameter/glucose-60-min",
+  "canonical_url": "https://www.metropolisindia.com/parameter/glucose-60-min",
+  "page_title": "Glucose 60-Minute Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 85
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

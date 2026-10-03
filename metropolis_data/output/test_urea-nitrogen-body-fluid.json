@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-urea-nitrogen-body-fluid",
+  "test_name": "Urea Nitrogen Body Fluid",
+  "slug": "urea-nitrogen-body-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/urea-nitrogen-body-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urea-nitrogen-body-fluid",
+  "page_title": "Urea Nitrogen Body Fluid \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 270
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

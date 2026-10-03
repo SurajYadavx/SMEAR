@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-hepatitis-e-viushevanti-hev-igmserum",
+  "test_name": "HEV IgM Antibody Test",
+  "slug": "hepatitis-e-viushevanti-hev-igmserum",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-e-viushevanti-hev-igmserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-e-viushevanti-hev-igmserum",
+  "page_title": "HEV IgM Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HEV IgM Test detect?",
+      "answer": "It detects Immunoglobulin M antibodies to the Hepatitis E Virus, confirming a recent or active infection."
+    },
+    {
+      "question": "Is fasting required before the HEV IgM Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally."
+    },
+    {
+      "question": "How is the HEV IgM Test performed?",
+      "answer": "A small blood sample is collected from your vein and analysed using Chemiluminescence Immunoassay (CLIA)."
+    },
+    {
+      "question": "What does a positive HEV IgM Test mean?",
+      "answer": "A positive result indicates a current or recent Hepatitis E infection."
+    },
+    {
+      "question": "Can an HEV IgM Test distinguish between old and new infections?",
+      "answer": "Yes, IgM indicates recent infection, while IgG reflects past exposure."
+    },
+    {
+      "question": "Are there any risks with the HEV IgM Test?",
+      "answer": "Risks are minimal, limited to mild pain or bruising at the site of blood collection."
+    },
+    {
+      "question": "When should the HEV IgM Test be done?",
+      "answer": "It should be done if you have symptoms such as jaundice, fatigue, fever, or after suspected exposure to contaminated water."
+    },
+    {
+      "question": "How long does it take to receive results for the HEV IgM Test?",
+      "answer": "Reports are available on the same day after the sample reaches the lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

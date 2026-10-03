@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-culture-sensitivity-aerobic-bacteria-sputum",
+  "test_name": "Sputum Culture Test (Culture & Sensitivity \u2013 Aerobic Bacteria, Sputum)",
+  "slug": "culture-sensitivity-aerobic-bacteria-sputum",
+  "source_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-sputum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/culture-sensitivity-aerobic-bacteria-sputum",
+  "page_title": "Sputum Culture Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": "Sputum)",
+  "fasting": "no",
+  "report_time": "5th day",
+  "gender": "Male, Female",
+  "preparation": "Collect deep cough sputum in a sterile leak-proof container, preferably early morning",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is a Sputum Culture Test used for?",
+      "answer": "It detects bacteria causing lung infections and helps select effective antibiotics for treatment."
+    },
+    {
+      "question": "How is sputum collected for this test?",
+      "answer": "You rinse your mouth, then cough deeply to produce mucus from your lungs into a sterile container."
+    },
+    {
+      "question": "How long does the Sputum Culture Test take?",
+      "answer": "The test usually takes 4 days to allow bacterial growth and antibiotic sensitivity analysis."
+    },
+    {
+      "question": "What does a positive Sputum Culture Test mean?",
+      "answer": "It means bacteria are present in your lungs, suggesting a bacterial infection such as pneumonia or bronchitis."
+    },
+    {
+      "question": "Can antibiotics affect the test results?",
+      "answer": "Yes, taking antibiotics before the test may prevent bacterial growth and affect accuracy."
+    },
+    {
+      "question": "Is fasting required for the Sputum Culture Test?",
+      "answer": "Fasting is not required. You can have food and water as usual."
+    },
+    {
+      "question": "What if my sputum culture shows no bacterial growth?",
+      "answer": "No growth usually means there is no bacterial infection, but your doctor may recommend further tests if symptoms persist."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

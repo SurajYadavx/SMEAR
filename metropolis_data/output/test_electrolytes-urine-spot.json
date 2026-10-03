@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-electrolytes-urine-spot",
+  "test_name": "Electrolytes, Urine Spot",
+  "slug": "electrolytes-urine-spot",
+  "source_url": "https://www.metropolisindia.com/parameter/electrolytes-urine-spot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/electrolytes-urine-spot",
+  "page_title": "Electrolytes, Urine Spot Spot \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 630
+  },
+  "specimen": "Urine Spot",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

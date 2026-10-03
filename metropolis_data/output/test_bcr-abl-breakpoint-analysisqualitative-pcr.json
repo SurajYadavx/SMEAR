@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-bcr-abl-breakpoint-analysisqualitative-pcr",
+  "test_name": "BCR-ABL Breakpoint Analysis Qualitative By Real Time PCR - Bone Marrow",
+  "slug": "bcr-abl-breakpoint-analysisqualitative-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/bcr-abl-breakpoint-analysisqualitative-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bcr-abl-breakpoint-analysisqualitative-pcr",
+  "page_title": "BCR ABL Breakpoint Analysisqualitative PCR Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4755
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 7 days(ert 5:00pm)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does BCR-ABL Breakpoint Analysis measure?",
+      "answer": "This test detects the breakpoints (major, minor, and micro translocations) of BCR-ABL fusion gene."
+    },
+    {
+      "question": "Why is BCR-ABL Breakpoint Analysis done?",
+      "answer": "\u2022 To diagnose CML \u2022 To detect major, minor, and micro translocations of BCR-ABL \u2022 To assess the effectiveness of treatment for CML \u2022 To guide targeted therapy decisions \u2022 To monitor disease progression and response to treatment"
+    },
+    {
+      "question": "When is BCR-ABL Breakpoint Analysis recommended and who should take the test?",
+      "answer": "This test is recommended for individuals who \u2022 are suspected to have CML, \u2022 have symptoms such as fatigue, unexplained weight loss, or enlarged spleen, or \u2022 are undergoing treatment for CML to assess response and monitor treatment effectiveness."
+    },
+    {
+      "question": "What if the results of the BCR-ABL Breakpoint Analysis are abnormal?",
+      "answer": "Abnormal results may indicate the presence of major, minor, or micro translocations of BCR-ABL associated with CML."
+    },
+    {
+      "question": "What to expect during the BCR-ABL Breakpoint Analysis?",
+      "answer": "A 3 ml bone marrow sample will be collected in an EDTA Vacutainer. The sample will be sent to the laboratory for processing through the Real-time PCR method."
+    },
+    {
+      "question": "What preparations are required before the BCR-ABL Breakpoint Analysis?",
+      "answer": "\u2022 No dietary restrictions or specific preparations are required before this test. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with BCR-ABL Breakpoint Analysis?",
+      "answer": "Other tests that may be ordered alongside BCR-ABL Breakpoint Analysis include \u2022 Complete blood count (CBC) \u2022 Peripheral blood smear examination \u2022 Other molecular tests for specific genetic mutations associated with hematological malignancies"
+    },
+    {
+      "question": "What is the BCR-ABL Breakpoint Analysis also known as?",
+      "answer": "BCR-ABL Fusion Gene Analysis"
+    },
+    {
+      "question": "What is Chronic Myeloid Leukaemia?",
+      "answer": "Chronic myeloid leukaemia is a type of cancer that affects the white blood cells. It is charactersed by the abnormal fusion of two genes, BCR and ABL, resulting in the production of a protein called BCR-ABL. CML leads to an overproduction of abnormal white blood cells."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

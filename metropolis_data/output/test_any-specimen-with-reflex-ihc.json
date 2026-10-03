@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-any-specimen-with-reflex-ihc",
+  "test_name": "Histopathology Test",
+  "slug": "any-specimen-with-reflex-ihc",
+  "source_url": "https://www.metropolisindia.com/parameter/any-specimen-with-reflex-ihc",
+  "canonical_url": "https://www.metropolisindia.com/parameter/any-specimen-with-reflex-ihc",
+  "page_title": "Histopathology Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7875
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical and radiological details must be provided",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is examined in a histopathology test?",
+      "answer": "The test examines tissue samples under a microscope to detect disease, inflammation, or cancer."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are usually ready within 5 days after the sample reaches the lab."
+    },
+    {
+      "question": "Is fasting needed before the histopathology test?",
+      "answer": "Fasting is not required unless your doctor instructs otherwise for a specific biopsy procedure."
+    },
+    {
+      "question": "How is the sample collected for a histopathology test?",
+      "answer": "A doctor collects a small tissue sample during surgery or biopsy and sends it in formalin for testing."
+    },
+    {
+      "question": "Are there any risks associated with this test?",
+      "answer": "Risks are minimal but may include mild pain, bleeding, or infection at the biopsy site."
+    },
+    {
+      "question": "What do abnormal results mean?",
+      "answer": "Abnormal findings may suggest cancer, infection, inflammation, or other tissue diseases."
+    },
+    {
+      "question": "Can histopathology detect all types of cancer?",
+      "answer": "It helps identify most cancers and, with IHC testing, can pinpoint the exact type and origin."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-hepatitis-a-virus-hav-igm-antibody-serum",
+  "test_name": "HAV IgM Test - Hepatitis A Virus IgM Antibody",
+  "slug": "hepatitis-a-virus-hav-igm-antibody-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/hepatitis-a-virus-hav-igm-antibody-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hepatitis-a-virus-hav-igm-antibody-serum",
+  "page_title": "HAV IgM Test - Price, Purpose, Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history and clinician contact details required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the HAV IgM Test?",
+      "answer": "Your doctor may recommend the test when you have symptoms of acute hepatitis, such as jaundice, fever, nausea, abdominal pain or dark urine. HAV IgM is usually detectable around the onset of symptoms."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the HAV IgM Test, and for how long?",
+      "answer": "No, overnight fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can dehydration affect my HAV IgM Test results?",
+      "answer": "Mild dehydration is unlikely to directly affect HAV IgM antibody detection, but normal hydration makes blood collection easier and more comfortable."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the HAV IgM Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines, supplements and ongoing treatments you are taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the HAV IgM Test?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, inserts a sterile needle into a vein and collects about 3 ml of blood in a gel vacutainer."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising or temporary swelling at the needle site. Rarely, some people may feel dizzy."
+    },
+    {
+      "question": "What level of HAV IgM Test is normal?",
+      "answer": "A COI less than 1.0 is considered non-reactive. A COI greater than or equal to 1.0 is considered reactive and should be interpreted by your doctor with your symptoms and liver function test results."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

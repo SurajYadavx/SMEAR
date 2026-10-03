@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-leptospiraigm-antibodiesserum",
+  "test_name": "Leptospira IgM Test",
+  "slug": "leptospiraigm-antibodiesserum",
+  "source_url": "https://www.metropolisindia.com/parameter/leptospiraigm-antibodiesserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leptospiraigm-antibodiesserum",
+  "page_title": "Leptospira IgM Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Leptospira IgM Test detect?",
+      "answer": "It detects IgM antibodies that indicate a recent or active infection with Leptospira bacteria."
+    },
+    {
+      "question": "Is fasting required for the Leptospira IgM Test?",
+      "answer": "Fasting not required; you can eat and drink normally before the test."
+    },
+    {
+      "question": "When should I get a Leptospira IgM Test?",
+      "answer": "If you have fever, muscle pain, or jaundice after exposure to contaminated water or animals."
+    },
+    {
+      "question": "What does a positive Leptospira IgM Test mean?",
+      "answer": "It suggests a recent or ongoing infection with Leptospira bacteria."
+    },
+    {
+      "question": "What if my test result is equivocal?",
+      "answer": "Retest in 2\u20133 weeks or confirm with a Leptospira PCR test."
+    },
+    {
+      "question": "What does a negative result mean?",
+      "answer": "No antibodies detected; early infection cannot be ruled out, so repeat testing may be needed."
+    },
+    {
+      "question": "How is the test performed?",
+      "answer": "A blood sample is collected from a vein and tested using Enzyme Immunoassay (EIA)."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are available on the same day after the sample reaches our Lab."
+    },
+    {
+      "question": "Can other infections cause false positives?",
+      "answer": "Yes, infections like dengue or influenza can occasionally cross-react."
+    },
+    {
+      "question": "Is home collection available for the test?",
+      "answer": "Yes, Metropolis Healthcare offers convenient home sample collection for this test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-hcv-hepatitis-c-genotyping-by-sequencing-plasma",
+  "test_name": "HCV Genotyping by PCR & Sanger Sequencing (Serum or Plasma)",
+  "slug": "hcv-hepatitis-c-genotyping-by-sequencing-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/hcv-hepatitis-c-genotyping-by-sequencing-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hcv-hepatitis-c-genotyping-by-sequencing-plasma",
+  "page_title": "Hcv Genotyping Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-insulin-fasting-cmia-serum",
+  "test_name": "Insulin (Fasting) Test",
+  "slug": "insulin-fasting-cmia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/insulin-fasting-cmia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/insulin-fasting-cmia-serum",
+  "page_title": "Insulin Fasting Test - Price, Report and Preparation",
+  "pricing": {
+    "selling_price": 900
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "12 hours of fasting required; only plain water allowed",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

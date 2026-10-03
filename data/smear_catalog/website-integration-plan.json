@@ -1,0 +1,64 @@
+{
+  "current_architecture": {
+    "data_flow": "The current website injects data via <script src=\"./public/data/packages.js\"></script> into window.SMEAR_PACKAGES, window.SMEAR_CATEGORIES, and window.SMEAR_TESTS, with fallback to fetch().",
+    "package_schema": "Legacy BookMyTest schema relying heavily on 'sourceData' (e.g. preview_content, detailed_content). JavaScript dynamically parses raw text strings to extract prices, discounts, faqs, and profiles.",
+    "test_schema": "Legacy BookMyTest schema with 'test_name', 'lab', and 'price' as a string (e.g. '₹ 1500'). Javascript uses regex to extract the numeric price.",
+    "cart_schema": "Stored in localStorage ('smear_cart_v1') as an array of {id, type, name, price, qty}. Prices coerce falsey values to 0.",
+    "category_architecture": "Categories are defined in package-categories.json with a hardcoded list of {id, name, packageCount} and are mapped in packages.js to local hardcoded icons and colors."
+  },
+  "target_architecture": {
+    "data_flow": "The website should directly fetch() 'smear-packages.json', 'smear-tests.json', and 'smear-categories.json' from 'public/data/'. Window object injection will be deprecated.",
+    "authoritative_files": [
+      "public/data/smear-packages.json",
+      "public/data/smear-tests.json",
+      "public/data/smear-categories.json"
+    ]
+  },
+  "integration_plan": {
+    "packages": "Update src/packages.js to fetch smear-packages.json. Remove extractPrice() and extractDiscount(). Use the native JSON fields.",
+    "tests": "Update src/blood-tests.js to fetch smear-tests.json. Replace regex price extraction with direct property access. Switch test_name to name.",
+    "categories": "Update src/packages.js and src/global-search.js to fetch smear-categories.json. Map the new standardized category IDs to the existing UI icons.",
+    "search_filter": "Update src/global-search.js to search against the normalized JSON dataset (name, category_id, profiles array).",
+    "pagination": "Preserve existing client-side pagination in blood-tests.js. It efficiently slices the dataset into 48-item chunks.",
+    "detail_page": "Update src/package-detail.js. Completely remove parseDetailedContent() regex parser. Directly iterate over pkg.profiles and pkg.faqs arrays.",
+    "cart_handling": "Update src/cart.js to accept price === null. Do not coerce null to 0. In UI, display 'Price available at lab'. In WhatsApp, output 'To be confirmed' instead of '₹0'. Total calculation should only sum valid numeric prices and append a note about unpriced items.",
+    "image_strategy": "Use the existing neutral SVG placeholders defined in packages.js and blood-tests.js since image_url is null and we must not download external images."
+  },
+  "files_to_modify": [
+    "src/packages.js",
+    "src/package-detail.js",
+    "src/blood-tests.js",
+    "src/global-search.js",
+    "src/cart.js"
+  ],
+  "files_to_remain_unchanged": [
+    "packages.html",
+    "package-detail.html",
+    "blood-tests.html",
+    "shop.html",
+    "index.html",
+    "src/styles/*"
+  ],
+  "files_to_deprecate": [
+    "public/data/packages.json",
+    "public/data/packages.js",
+    "public/data/package-categories.json",
+    "public/data/package-categories.js",
+    "public/data/health-tests.json",
+    "src/content/packages.js",
+    "src/content/tests.js"
+  ],
+  "migration_sequence": [
+    "1. Update src/cart.js to handle null prices safely without coercing to 0.",
+    "2. Copy smear-packages.json, smear-tests.json, and smear-categories.json to public/data/.",
+    "3. Update src/blood-tests.js to fetch and render from smear-tests.json.",
+    "4. Update src/packages.js and src/global-search.js to fetch and render from new JSON files. Remove all string/regex parsing logic.",
+    "5. Update src/package-detail.js to render cleanly from the structured JSON schema (profiles/faqs) and remove parseDetailedContent().",
+    "6. Deprecate and remove legacy BookMyTest data files."
+  ],
+  "rollback_strategy": "All changes are confined to frontend JavaScript and data files. A rollback requires reverting the /src directory and restoring the legacy /public/data files from source control.",
+  "risks": [
+    "Cart state corruption: Existing users may have old legacy package IDs in their localStorage cart. If cart.js fails to find a matching ID during render, it may throw errors.",
+    "Missing hardcoded icons: New standardized category IDs might not perfectly map to the hardcoded CAT_ICONS dictionary in packages.js, leading to fallback icons."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-sm-antibodysmith-antibodyserum",
+  "test_name": "Sm AntibodySmith AntibodySerum",
+  "slug": "sm-antibodysmith-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/sm-antibodysmith-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sm-antibodysmith-antibodyserum",
+  "page_title": "anti smith antibody test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1945
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is Sm Antibody Smith Antibody Serum test done?",
+      "answer": "Anti Sm antibody test is done to aid diagnosis of SLE, an autoimmune disorder. Many auto immune disorder have common signs and symptoms \u2014 joint pain, fatigue and fever, butterfly-shaped rash on face, skin lesions, shortness of breath, chest pain, dry eyes etc. Presence of these antibodies is very specific for SLE.Test is useful for both diagnosis and has prognostic potential"
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The blood test measures the presence of Sm antibodies by ELISA technique."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "The blood sample is taken from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "If Sm antibody is also positive along with dsDNA SLE may be inferred. Sm autoantibodies though are found in 5-40% SLE patients but are considered highly specific. Negative result does not rule out connective tissue disease as certain cases may show negative result. Results need to be correlated with clinical symptoms."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

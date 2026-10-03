@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alcoholethanolserum",
+  "test_name": "Alcohol (Ethanol) Serum Test",
+  "slug": "alcoholethanolserum",
+  "source_url": "https://www.metropolisindia.com/parameter/alcoholethanolserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alcoholethanolserum",
+  "page_title": "Alcohol (Ethanol) Serum Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1155
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cd64-blood-by-flow-cytometry",
+  "test_name": "CD64, Blood by Flow Cytometry",
+  "slug": "cd64-blood-by-flow-cytometry",
+  "source_url": "https://www.metropolisindia.com/parameter/cd64-blood-by-flow-cytometry",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd64-blood-by-flow-cytometry",
+  "page_title": "CD64, Blood by Flow Cytometry \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2415
+  },
+  "specimen": "Blood by Flow Cytometry",
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

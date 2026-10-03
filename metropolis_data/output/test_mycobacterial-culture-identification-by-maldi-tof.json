@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-mycobacterial-culture-identification-by-maldi-tof",
+  "test_name": "Mycobacterial Culture Identification By MALDI TOF- Pure Culture",
+  "slug": "mycobacterial-culture-identification-by-maldi-tof",
+  "source_url": "https://www.metropolisindia.com/parameter/mycobacterial-culture-identification-by-maldi-tof",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mycobacterial-culture-identification-by-maldi-tof",
+  "page_title": "Mycobacterial Culture Identification By Maldi TOF Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2310
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "15th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Mycobacterial Identification Test measure?",
+      "answer": "The Mycobacterial Identification Test identifies different species of Mycobacteria present in your sample."
+    },
+    {
+      "question": "Why is the Mycobacterial Identification Test done?",
+      "answer": "\u2022 To diagnose tuberculosis and other mycobacterial infections \u2022 To determine the species of Mycobacteria causing the infection \u2022 To assess drug resistance patterns \u2022 To monitor treatment progress and effectiveness \u2022 To prevent further transmission of the disease"
+    },
+    {
+      "question": "When is the Mycobacterial Identification Test recommended and who should take the test?",
+      "answer": "The Mycobacterial Identification Test is recommended when you \u2022 have symptoms suggestive of tuberculosis or mycobacterial infections, such as persistent cough, fever, weight loss, and night sweats, \u2022 are at high risk of tuberculosis due to close contact with an infected individual, or \u2022 have a positive result on preliminary tests for mycobacterial infections."
+    },
+    {
+      "question": "What if the results of the Mycobacterial Identification Test are abnormal?",
+      "answer": "Abnormal results from the Mycobacterial Identification Test may indicate \u2022 active tuberculosis infection caused by specific species of Mycobacteria, \u2022 drug resistance, which may require alternative medication options, or \u2022 need for further diagnostic tests."
+    },
+    {
+      "question": "What to expect during the Mycobacterial Identification Test?",
+      "answer": "During the test, a sample of pure growth of Mycobacteria will be collected from your sputum, tissue, or other relevant sources. The sample will be sent to the laboratory, where a technique called MALDI TOF (Vitek MS) will be used for analysis."
+    },
+    {
+      "question": "What preparations are required before the Mycobacterial Identification Test?",
+      "answer": "\u2022 Follow any additional instructions provided by your doctor or the laboratory regarding fasting or discontinuing specific medications. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Mycobacterial Identification Test?",
+      "answer": "\u2022 Acid-Fast Bacillus (AFB) smear: This microscopic examination detects acid-fast bacteria in a patient's sample and is often used as an initial screening test for tuberculosis and other mycobacterial infections. \u2022 Gene Xpert MTB/RIF: This molecular test detects the presence of tuberculosis bacteria and determines resistance to rifampicin, an important anti-tuberculosis drug."
+    },
+    {
+      "question": "What is the Mycobacterial Identification Test also known as?",
+      "answer": "Mycobacterial culture identification or mycobacterial species identification"
+    },
+    {
+      "question": "What is tuberculosis?",
+      "answer": "Tuberculosis (TB) is a contagious bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body. Common symptoms include cough, fever, weight loss, and fatigue."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

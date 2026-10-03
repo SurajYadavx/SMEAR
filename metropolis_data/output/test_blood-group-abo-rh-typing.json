@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-blood-group-abo-rh-typing",
+  "test_name": "Blood Group ABO & Rh Factor Test",
+  "slug": "blood-group-abo-rh-typing",
+  "source_url": "https://www.metropolisindia.com/parameter/blood-group-abo-rh-typing",
+  "canonical_url": "https://www.metropolisindia.com/parameter/blood-group-abo-rh-typing",
+  "page_title": "Blood Group ABO & Rh Factor Test - Price, Normal Range, Purpose and Results",
+  "pricing": {
+    "selling_price": 280
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

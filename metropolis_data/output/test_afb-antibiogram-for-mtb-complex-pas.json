@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-antibiogram-for-mtb-complex-pas",
+  "test_name": "AFB (TB) - Antibiogram For MTb Complex - PAS Drug By MGIT - Pure Growth Of MTB Complex",
+  "slug": "afb-antibiogram-for-mtb-complex-pas",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-antibiogram-for-mtb-complex-pas",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-antibiogram-for-mtb-complex-pas",
+  "page_title": "AFB Antibiogram For MTb Complex Pas Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2995
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 5 weeks 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does AFB (TB) Antibiogram - PAS measure?",
+      "answer": "This test measures the drug susceptibility of the Mycobacterium tuberculosis (Mtb) complex to the PAS drug."
+    },
+    {
+      "question": "Why is AFB (TB) Antibiogram - PAS done?",
+      "answer": "\u2022 To determine the drug susceptibility of the Mtb complex to guide TB treatment \u2022 To identify antibiotic resistance patterns and assist in developing appropriate treatment plans \u2022 To monitor the effectiveness of current TB treatments \u2022 To detect multidrug-resistant TB (MDR-TB) or extensively drug-resistant TB (XDR-TB)"
+    },
+    {
+      "question": "When is AFB (TB) Antibiogram - PAS recommended and who should take the test?",
+      "answer": "This test is generally recommended for individuals who \u2022 have been diagnosed with TB and need drug susceptibility testing to guide treatment. \u2022 show signs and symptoms of TB and need confirmation or ruling out of diagnosis. \u2022 have been exposed to someone with known drug-resistant TB. \u2022 have a history of incomplete TB treatment or treatment failure."
+    },
+    {
+      "question": "What if the results of the AFB (TB) Antibiogram - PAS are abnormal?",
+      "answer": "Abnormal results may indicate drug resistance or sensitivity to specific antibiotics."
+    },
+    {
+      "question": "What to expect during the AFB (TB) Antibiogram - PAS?",
+      "answer": "A sputum sample or other appropriate specimen will be collected. The sample will be sent to the laboratory for processing."
+    },
+    {
+      "question": "What preparations are required before the AFB (TB) Antibiogram - PAS?",
+      "answer": "\u2022 Follow any specific instructions given by your healthcare provider regarding fasting or medication restrictions. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with AFB (TB) Antibiogram - PAS?",
+      "answer": "Along with this test, your doctor may recommend GeneXpert MTB/RIF. This molecular test detects the presence of Mtb and determines rifampicin resistance."
+    },
+    {
+      "question": "What is the AFB (TB) Antibiogram - PAS also known as?",
+      "answer": "PAS staining for drug susceptibility testing of Mycobacterium tuberculosis"
+    },
+    {
+      "question": "What is Tuberculosis (TB)?",
+      "answer": "Tuberculosis is an infectious disease caused by the bacteria Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body. Common symptoms include cough, fever, weight loss, and night sweats."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

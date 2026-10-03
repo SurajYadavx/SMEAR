@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-chromium-by-icpms",
+  "test_name": "Chromium by ICPMS",
+  "slug": "chromium-by-icpms",
+  "source_url": "https://www.metropolisindia.com/parameter/chromium-by-icpms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chromium-by-icpms",
+  "page_title": "Chromium by ICPMS \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3730
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "13th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

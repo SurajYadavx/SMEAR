@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cancer-marker-profile-neuroendocrine-tumors",
+  "test_name": "Cancer marker profile (Neuroendocrine tumors)",
+  "slug": "cancer-marker-profile-neuroendocrine-tumors",
+  "source_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-neuroendocrine-tumors",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-neuroendocrine-tumors",
+  "page_title": "Neuroendocrine Tumor Marker Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6450
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

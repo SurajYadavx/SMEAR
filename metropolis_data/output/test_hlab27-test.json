@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-hlab27-test",
+  "test_name": "HLA B27 Test",
+  "slug": "hlab27-test",
+  "source_url": "https://www.metropolisindia.com/parameter/hlab27-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hlab27-test",
+  "page_title": "HLA B27 Test - Price, Purpose, Preparation and Book Online",
+  "pricing": {
+    "selling_price": 3430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

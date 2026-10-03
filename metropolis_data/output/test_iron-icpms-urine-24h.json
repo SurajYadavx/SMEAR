@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-iron-icpms-urine-24h",
+  "test_name": "Iron, 24 Hour Urine",
+  "slug": "iron-icpms-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/iron-icpms-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/iron-icpms-urine-24h",
+  "page_title": "Iron, 24 Hour Urine \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2860
+  },
+  "specimen": "24 Hour Urine",
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-pth-intact-molecule-test",
+  "test_name": "PTH (Parathyroid Hormone) Intact Molecule Test",
+  "slug": "pth-intact-molecule-test",
+  "source_url": "https://www.metropolisindia.com/parameter/pth-intact-molecule-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pth-intact-molecule-test",
+  "page_title": "PTH Test- Price, Book and Get Reports Online from NABL-Certified Labs",
+  "pricing": {
+    "selling_price": 1650
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "A high biotin dose (>5 mg/day) should be avoided at least 8 hours before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the PTH test?",
+      "answer": "PTH levels naturally fluctuate throughout the day, typically peaking in the early morning. Most doctors recommend having your blood sample collected in the morning to ensure consistent and accurate results for proper interpretation."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the PTH test, and for how long?",
+      "answer": "Overnight fasting is not specifically mentioned as mandatory for PTH testing. However, your doctor may recommend fasting if calcium levels are being measured simultaneously, which often requires 8-12 hours of fasting."
+    },
+    {
+      "question": "Can dehydration affect my PTH test results?",
+      "answer": "Yes, dehydration can concentrate substances in your blood, potentially affecting test accuracy. It's important to stay well-hydrated before your test unless your doctor specifically advises otherwise for your particular situation."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the PTH test?",
+      "answer": "Avoid high-dose biotin supplements (over 5 mg daily) for at least 8 hours before testing. Inform your doctor about all medications and supplements you're taking, as some may affect results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the PTH test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a small needle into a vein, collects 2-3 ml of blood in a special tube, removes the needle, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any standard blood test, including slight pain or bruising at the needle site, temporary dizziness, and, very rarely, infection at the puncture site."
+    },
+    {
+      "question": "What level of PTH test is normal?",
+      "answer": "Normal PTH levels typically range from 15 to 65 pg/mL. Your results should always be interpreted alongside your calcium levels and clinical symptoms by your doctor."
+    },
+    {
+      "question": "What is the PTH test also known as?",
+      "answer": "The PTH test is also known as Parathyroid Hormone Test, Parathormone Test, or Intact PTH Test. These names all refer to the same diagnostic blood test measuring parathyroid hormone levels."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

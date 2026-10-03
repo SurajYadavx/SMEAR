@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodbaingan",
+  "test_name": "Allergen,Individual-FoodBaingan",
+  "slug": "allergenindividual-foodbaingan",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbaingan",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodbaingan",
+  "page_title": "Brinjal Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodBaingan",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

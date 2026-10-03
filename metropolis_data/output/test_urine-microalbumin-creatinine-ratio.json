@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-urine-microalbumin-creatinine-ratio",
+  "test_name": "Microalbumin Urine Test",
+  "slug": "urine-microalbumin-creatinine-ratio",
+  "source_url": "https://www.metropolisindia.com/parameter/urine-microalbumin-creatinine-ratio",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urine-microalbumin-creatinine-ratio",
+  "page_title": "Book microalbumin urine test Online \u2013 Price, Normal Range & Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required; collect a 10 ml spot urine sample",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the urine microalbumin test?",
+      "answer": "The first morning urine sample is considered best because it's more concentrated and provides stable readings. However, you can collect a random sample anytime if your doctor prefers spot testing."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the urine microalbumin test, and for how long?",
+      "answer": "No, fasting is not required for this test. You can eat and drink normally before providing your urine sample, unless other tests requiring fasting are ordered simultaneously."
+    },
+    {
+      "question": "Can dehydration affect my urine microalbumin test results?",
+      "answer": "Yes, dehydration can concentrate your urine and potentially increase albumin levels artificially. The albumin-to-creatinine ratio helps correct for concentration differences, making results more reliable despite hydration variations."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the urine microalbumin test?",
+      "answer": "No special diet changes are needed. Avoid intense exercise for 24 hours before testing. Inform your doctor about all medications and supplements, as some may influence results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the urine microalbumin test?",
+      "answer": "This test doesn't require a blood draw. It's a urine test where you provide a clean-catch urine sample in a sterile container. The procedure is completely non-invasive and painless."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "There are no risks associated with this test. Providing a urine sample is completely safe, non-invasive, and causes no discomfort or complications for patients of all ages."
+    },
+    {
+      "question": "What level of urine microalbumin test is normal?",
+      "answer": "A normal albumin-to-creatinine ratio is less than 30 \u03bcg/mg. Microalbuminuria ranges from 30-299 \u03bcg/mg, indicating early kidney damage. Values above 300 \u03bcg/mg suggest more advanced kidney disease requiring immediate attention."
+    },
+    {
+      "question": "What is the urine microalbumin test also known as?",
+      "answer": "This test is also called Albumin-to-Creatinine Ratio (ACR), Microalbuminuria Test, or simply Urine Albumin Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

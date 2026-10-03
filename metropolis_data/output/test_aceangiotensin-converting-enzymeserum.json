@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-aceangiotensin-converting-enzymeserum",
+  "test_name": "ACE Test (Angiotensin Converting Enzyme)",
+  "slug": "aceangiotensin-converting-enzymeserum",
+  "source_url": "https://www.metropolisindia.com/parameter/aceangiotensin-converting-enzymeserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/aceangiotensin-converting-enzymeserum",
+  "page_title": "Angiotensin Converting Enzyme (ACE) Test - Price, Range and Preparation",
+  "pricing": {
+    "selling_price": 1490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": "Fasting may be preferred (as advised by your doctor)",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the ACE test used for?",
+      "answer": "It measures ACE levels in the blood to diagnose and monitor sarcoidosis and other inflammatory or granulomatous diseases."
+    },
+    {
+      "question": "Do I need to fast before the ACE test?",
+      "answer": "Fasting is usually optional but may be recommended by your doctor."
+    },
+    {
+      "question": "What conditions cause high ACE levels?",
+      "answer": "High ACE levels may indicate sarcoidosis, tuberculosis, leprosy, or Gaucher\u2019s disease."
+    },
+    {
+      "question": "What causes low ACE levels?",
+      "answer": "Low ACE levels can result from chronic liver or kidney disease, use of ACE inhibitors, or poor nutrition."
+    },
+    {
+      "question": "How soon will I get my ACE test report?",
+      "answer": "Reports are typically ready within 4 hours once your sample reaches the laboratory."
+    },
+    {
+      "question": "Is home sample collection available for the ACE test?",
+      "answer": "Yes, Metropolis Healthcare provides home sample collection for this test."
+    },
+    {
+      "question": "Can ACE test results alone confirm sarcoidosis?",
+      "answer": "No, ACE results should be interpreted with imaging and clinical evaluation for an accurate diagnosis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

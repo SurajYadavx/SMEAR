@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-urea-clearance-testserum",
+  "test_name": "Urea Clearance Test",
+  "slug": "urea-clearance-testserum",
+  "source_url": "https://www.metropolisindia.com/parameter/urea-clearance-testserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/urea-clearance-testserum",
+  "page_title": "Urea Clearance Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 590
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

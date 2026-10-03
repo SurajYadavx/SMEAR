@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-nicotine-metabolitequantitativeurine-spot",
+  "test_name": "Nicotine Metabolite Quantitative Test",
+  "slug": "nicotine-metabolitequantitativeurine-spot",
+  "source_url": "https://www.metropolisindia.com/parameter/nicotine-metabolitequantitativeurine-spot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nicotine-metabolitequantitativeurine-spot",
+  "page_title": "Nicotine Metabolite, Quantitative \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1815
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Nicotine Metabolite Quantitative Test measure?",
+      "answer": "It measures nicotine and its metabolites like cotinine to detect recent tobacco or nicotine exposure."
+    },
+    {
+      "question": "Is fasting required for this test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "What do high nicotine metabolite levels mean?",
+      "answer": "High levels indicate active nicotine use or exposure from smoking, vaping, or chewing tobacco."
+    },
+    {
+      "question": "Can this test detect secondhand smoke exposure?",
+      "answer": "Yes, it can detect nicotine exposure even from passive smoking environments."
+    },
+    {
+      "question": "How long can nicotine be detected after smoking?",
+      "answer": "Nicotine can be detected for up to 2 days, and cotinine for 3 to 5 days after use."
+    },
+    {
+      "question": "Which method does Metropolis Lab use for this test?",
+      "answer": "The test is performed using Chemiluminescence Immunoassay (CLIA) for accurate and reliable results."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

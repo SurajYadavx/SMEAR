@@ -1,0 +1,708 @@
+[
+  {
+    "profile_name": "Free T4 Test(Thyroxine Serum Test)",
+    "profile_url": "https://www.metropolisindia.com/parameter/free-t4",
+    "profile_slug": "free-t4",
+    "canonical_url": "https://www.metropolisindia.com/parameter/free-t4",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "Helps assess thyroid function, aids in diagnosing hyperthyroidism and hypothyroidism, and supports monitoring of thyroid hormone replacement therapy",
+    "preparation": "High biotin doses (>5 mg/day) should be avoided for at least 8 hours before blood collection",
+    "report_time": "after 6 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What is the best time to take the free T4 test?",
+        "answer": "The free T4 test can generally be taken at any time of day. However, for consistency in monitoring your condition, it's best to follow your doctor's specific instructions or take the test at the same time for subsequent check-ups."
+      },
+      {
+        "question": "Is overnight fasting mandatory for the free T4 test, and for how long?",
+        "answer": "No, fasting is not required for the free T4 test alone. You can eat and drink normally before the test. However, if other tests are ordered simultaneously, your doctor may advise fasting."
+      },
+      {
+        "question": "Can dehydration affect my free T4 test results?",
+        "answer": "Yes, severe dehydration can concentrate your blood and potentially affect test results. It's recommended to stay adequately hydrated before any blood test for accurate results."
+      },
+      {
+        "question": "How should I prepare my diet and medications before the free T4 test?",
+        "answer": "No special diet is needed. However, inform your doctor about all medications, vitamins, and supplements you're taking. High-dose biotin supplements should be stopped at least 8 hours before testing as they can interfere with results."
+      },
+      {
+        "question": "How is the blood draw procedure performed for the free T4 test?",
+        "answer": "A trained phlebotomist cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, draws blood into a vial, removes the needle, and applies a bandage to stop bleeding. The procedure is quick and minimally uncomfortable."
+      },
+      {
+        "question": "Are there any risks to the test?",
+        "answer": "The risks are minimal and similar to any blood test. You may experience slight pain, minor bruising at the needle site, or feel light-headed. Serious complications are extremely rare."
+      },
+      {
+        "question": "What level of free T4 test is normal?",
+        "answer": "Normal Free T4 levels typically range from 0.93-1.7 ng/dL. Pregnant women have different ranges: first trimester (0.7-2.0 ng/dL), second and third trimesters (0.5-1.6 ng/dL). Your doctor will interpret results based on your specific health condition."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Free T3 Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/free-t3",
+    "profile_slug": "free-t3",
+    "canonical_url": "https://www.metropolisindia.com/parameter/free-t3",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "To assess thyroid function, diagnose hyperthyroidism, and monitor thyroid hormone therapy",
+    "preparation": "Avoid high-dose Biotin (>5 mg/day) at least 8 hours before sample collection",
+    "report_time": "after 6 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What does the Free T3 Test measure?",
+        "answer": "It measures the active form of thyroid hormone (triiodothyronine) that helps regulate metabolism and energy use."
+      },
+      {
+        "question": "What do high Free T3 levels indicate?",
+        "answer": "High Free T3 levels suggest hyperthyroidism or overactive thyroid function."
+      },
+      {
+        "question": "What do low Free T3 levels mean?",
+        "answer": "Low levels may indicate hypothyroidism or pituitary dysfunction."
+      },
+      {
+        "question": "Is fasting needed before the Free T3 Test?",
+        "answer": "No, fasting is not required for this test. You can eat and drink normally."
+      },
+      {
+        "question": "Can Biotin affect the Free T3 Test results?",
+        "answer": "Yes, high Biotin intake may interfere with the test. Avoid taking Biotin supplements for at least 8 hours before testing."
+      },
+      {
+        "question": "What other tests are done along with the Free T3 Test?",
+        "answer": "Doctors often recommend TSH and Free T4 tests along with Free T3 for a complete thyroid function assessment."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Lipase Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/lipase-serum",
+    "profile_slug": "lipase-serum",
+    "canonical_url": "https://www.metropolisindia.com/parameter/lipase-serum",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "Helps in diagnosing acute and chronic pancreatitis and supports differentiation of pancreatic from nonpancreatic abdominal pain.",
+    "preparation": "Clinical history is required.",
+    "report_time": "after 4 hrs",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What is the best time to take the lipase test?",
+        "answer": "There is no specific best time of day for the lipase test. It is usually performed immediately when you show sudden, severe symptoms of pancreatic disorders, such as intense abdominal pain, as it is often an emergency procedure."
+      },
+      {
+        "question": "Is overnight fasting mandatory for the lipase test, and for how long?",
+        "answer": "Yes, a fasting of 8-12 hours is required for this test. However, consult your doctor for specific details."
+      },
+      {
+        "question": "Can dehydration affect my lipase test results?",
+        "answer": "Dehydration itself does not directly cause high lipase levels. However, conditions causing high lipase, like acute pancreatitis, often lead to dehydration through vomiting and fluid loss, so dehydration appears alongside elevated lipase rather than causing it."
+      },
+      {
+        "question": "How should I prepare my diet and medications before the lipase test?",
+        "answer": "Inform your doctor about all medicines, vitamins, and supplements you take. Certain medications like painkillers, birth control pills, and blood pressure medicines can affect lipase levels, but never stop prescribed medications without medical advice."
+      },
+      {
+        "question": "How is the blood draw procedure performed for the lipase test?",
+        "answer": "A healthcare professional cleans your arm, ties an elastic band above the collection site, inserts a small needle into a vein, collects blood in a vial, removes the needle, and applies a bandage. The entire process takes just a few minutes."
+      },
+      {
+        "question": "Are there any risks to the test?",
+        "answer": "The risks are very minor, similar to any routine blood draw. You may experience slight pain when the needle is inserted, minor bruising at the site, or feel lightheaded momentarily. Serious complications like infection are extremely rare."
+      },
+      {
+        "question": "What level of lipase test is normal?",
+        "answer": "The normal range for lipase is typically 13-60 U/L. In acute pancreatitis, lipase levels are often 3-10 times higher than the upper normal limit. Always speak to your doctor for the exact interpretation."
+      },
+      {
+        "question": "What is the lipase test also known as?",
+        "answer": "The lipase test is also known as Serum Lipase, Lipase Serum Test, or may be abbreviated as LPS. These terms all refer to the same blood test that measures lipase enzyme levels."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "LDH Lactate Dehydrogenase Serum Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/ldh",
+    "profile_slug": "ldh",
+    "canonical_url": "https://www.metropolisindia.com/parameter/ldh",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "Helps in assessing tissue damage and cellular turnover and supports evaluation of haemolysis, liver disease, and myocardial infarction",
+    "preparation": "3 ml of serum for a single test",
+    "report_time": "after 28 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What is the best time to take the LDH test?",
+        "answer": "There is no specific best time to take an LDH test. You can have this test done at any time of the day as instructed by your doctor, since it doesn't require fasting or special timing considerations."
+      },
+      {
+        "question": "Is overnight fasting mandatory for the LDH test, and for how long?",
+        "answer": "No, fasting is generally not required for a standalone LDH test. However, if your LDH test is part of a larger panel requiring fasting, you'll need to follow those specific instructions, typically 8-12 hours."
+      },
+      {
+        "question": "Can dehydration affect my LDH test results?",
+        "answer": "Yes, severe dehydration can lead to a blood concentration, which may falsely elevate LDH levels. It's advisable to stay well-hydrated before your test unless your doctor instructs otherwise for specific medical reasons."
+      },
+      {
+        "question": "How should I prepare my diet and medications before the LDH test?",
+        "answer": "No special diet is needed before an LDH test. However, inform your doctor about all medications, vitamins, and supplements you're taking, as certain drugs like statins and aspirin can affect LDH levels."
+      },
+      {
+        "question": "How is the blood draw procedure performed for the LDH test?",
+        "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, collects the blood sample, removes the needle, and applies a bandage."
+      },
+      {
+        "question": "Are there any risks to the test?",
+        "answer": "The risks are minimal and similar to any standard blood draw. You may experience slight pain, minor bruising, light-headedness, or, in very rare cases, infection at the needle site."
+      },
+      {
+        "question": "What level of LDH test is normal?",
+        "answer": "Normal LDH levels typically range from 0 to 250 U/L for adults."
+      },
+      {
+        "question": "What is the LDH test also known as?",
+        "answer": "The LDH test is also known as the Lactate Dehydrogenase test or the Lactic Acid Dehydrogenase test. These are alternative names for the same diagnostic procedure that measures this important enzyme."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Creatinine Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+    "profile_slug": "creatinine-serum",
+    "canonical_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "Evaluates kidney function and filtration efficiency, helps diagnose acute and chronic kidney disease.",
+    "preparation": "Clinical history required",
+    "report_time": "after 4 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What is the creatinine test for LFT?",
+        "answer": "The creatinine test is not part of a Liver Function Test (LFT). It belongs to Kidney Function Tests (KFT) or Renal Function Panels, which assess kidney health rather than liver function."
+      },
+      {
+        "question": "What is the best time to take the creatinine test?",
+        "answer": "There's no specific best time for a creatinine test. However, for consistent monitoring results, it's helpful to have the test done around the same time of day."
+      },
+      {
+        "question": "Is overnight fasting mandatory for the creatinine test, and for how long?",
+        "answer": "Fasting is not usually required for a standalone creatinine test. However, if it's part of a comprehensive panel, you may need to fast for 8 to 12 hours. Always follow your doctor's specific instructions."
+      },
+      {
+        "question": "Can dehydration affect my creatinine test results?",
+        "answer": "Yes, dehydration can temporarily increase creatinine levels by reducing blood flow to the kidneys and concentrating waste products in your blood. It's important to stay well-hydrated before the test unless instructed otherwise by your doctor."
+      },
+      {
+        "question": "How should I prepare my diet and medications before the creatinine test?",
+        "answer": "Avoid large amounts of red meat 24 hours before testing. Inform your doctor about all medications and supplements, as some can affect results. Don't stop prescribed medicines without consulting your doctor first."
+      },
+      {
+        "question": "How is the blood draw procedure performed for the creatinine test?",
+        "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, and draws blood into a vial. Once the blood is collected, the needle is removed and pressure is applied to stop bleeding."
+      },
+      {
+        "question": "Are there any risks to the test?",
+        "answer": "Risks are minimal and similar to any blood draw. You may experience a slight pain or bruising at the needle site, feel lightheaded, and very rarely, experience an infection at the puncture site."
+      },
+      {
+        "question": "What level of creatinine test is normal?",
+        "answer": "The normal range of creatinine levels is from 0.51 to 0.95 mg/dL, according to the reference range. However, normal values can vary based on age, gender, muscle mass, and laboratory standards. Always interpret results with your doctor's guidance."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Genetics Counselling Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/genetics-counselling",
+    "profile_slug": "genetics-counselling",
+    "canonical_url": "https://www.metropolisindia.com/parameter/genetics-counselling",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": null,
+    "preparation": null,
+    "report_time": "after 2 days 05:00 pm",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "NULL",
+        "answer": "NULL"
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Globulin, Serum is not available in your location",
+    "profile_url": "https://www.metropolisindia.com/parameter/globulin-serum",
+    "profile_slug": "globulin-serum",
+    "canonical_url": "https://www.metropolisindia.com/parameter/globulin-serum",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": null,
+    "preparation": null,
+    "report_time": null,
+    "specimen": "Serum is not available in your location",
+    "faqs": [],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Call-Icon.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/reports.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg"
+    ],
+    "availability_status": "not_available_in_pune"
+  },
+  {
+    "profile_name": "GFR With Cystatin C Serum (Upto 18 Years)",
+    "profile_url": "https://www.metropolisindia.com/parameter/egfr-for-creatinine-serum",
+    "profile_slug": "egfr-for-creatinine-serum",
+    "canonical_url": "https://www.metropolisindia.com/parameter/egfr-for-creatinine-serum",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": null,
+    "preparation": null,
+    "report_time": "after 30 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "NULL",
+        "answer": "NULL"
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Lipid Profile Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/lipid-profile-mini",
+    "profile_slug": "lipid-profile-mini",
+    "canonical_url": "https://www.metropolisindia.com/parameter/lipid-profile-mini",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "To assess cholesterol and triglyceride levels, evaluate heart disease risk, and monitor treatment response",
+    "preparation": "12\"14 hours fasting required",
+    "report_time": "after 4 hrs",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What do high LDL levels mean?",
+        "answer": "High LDL (bad cholesterol) levels increase the risk of heart attack and stroke due to plaque build-up in arteries."
+      },
+      {
+        "question": "What are normal lipid profile values?",
+        "answer": "Total cholesterol <200 mg/dL, LDL <100 mg/dL, HDL >40 mg/dL, and triglycerides <150 mg/dL are considered desirable."
+      },
+      {
+        "question": "Is fasting required for a lipid profile test?",
+        "answer": "Yes, 12\u201314 hours of fasting\u00a0is\u00a0required\u00a0for\u00a0accurate\u00a0triglyceride and LDL measurement."
+      },
+      {
+        "question": "How can I lower my cholesterol naturally?",
+        "answer": "Eat more fibre-rich foods, reduce saturated fats, exercise regularly, and avoid smoking and alcohol."
+      },
+      {
+        "question": "Can I drink water before the lipid profile test?",
+        "answer": "Yes, you may drink plain water during the fasting period."
+      },
+      {
+        "question": "Can I take my regular medication before the test?",
+        "answer": "Yes, unless your doctor\u00a0advises\u00a0you otherwise. Always inform your healthcare provider about your medicines."
+      },
+      {
+        "question": "How often should I take a lipid profile test?",
+        "answer": "Once every 1\u20132 years, or more\u00a0frequently\u00a0if you have high cholesterol, diabetes, or heart disease."
+      },
+      {
+        "question": "What causes low HDL levels?",
+        "answer": "Smoking, obesity, lack of exercise, and poor diet can lower your HDL (good cholesterol)."
+      },
+      {
+        "question": "Can lipid profile tests be booked online?",
+        "answer": "Yes, you can easily book the test through the Metropolis Healthcare website or app."
+      },
+      {
+        "question": "What happens if my cholesterol is high?",
+        "answer": "Your doctor may recommend lifestyle changes, diet modification, or medications to lower your cholesterol."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp"
+    ],
+    "availability_status": "available"
+  },
+  {
+    "profile_name": "Uric Acid Test",
+    "profile_url": "https://www.metropolisindia.com/parameter/uric-acid-serum",
+    "profile_slug": "uric-acid-serum",
+    "canonical_url": "https://www.metropolisindia.com/parameter/uric-acid-serum",
+    "total_parameters": null,
+    "parameter_names": [],
+    "description": "Helps assess risk for gout and kidney stones, aids in evaluating hyperuricaemia and metabolic disorders",
+    "preparation": "Doctor's prescription and clinical history required",
+    "report_time": "after 4 hours",
+    "specimen": null,
+    "faqs": [
+      {
+        "question": "What is the best time to take the uric acid test?",
+        "answer": "The test can be done at any time during the day. However, it's often performed in the morning when included with other tests that may require fasting."
+      },
+      {
+        "question": "Is overnight fasting mandatory for the uric acid test, and for how long?",
+        "answer": "Fasting is generally not required for a standalone uric acid test. However, if it's part of a larger panel, you may need to fast for 8 to 12 hours."
+      },
+      {
+        "question": "Can dehydration affect my uric acid test results?",
+        "answer": "Yes, dehydration can make your blood more concentrated, potentially leading to falsely elevated uric acid levels. Stay well-hydrated before your test unless instructed otherwise by your doctor."
+      },
+      {
+        "question": "How should I prepare my diet and medications before the uric acid test?",
+        "answer": "Avoid alcohol and high-purine foods like red meat and organ meats for 24 hours before testing. Inform your doctor about all medications, as some may affect results."
+      },
+      {
+        "question": "How is the blood draw procedure performed for the uric acid test?",
+        "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into your vein, and collects 2 ml of blood. The entire process takes just minutes."
+      },
+      {
+        "question": "What level of uric acid is normal?",
+        "answer": "Normal serum uric acid levels typically range from 3.4 to 7.0 mg/dL. However, your doctor will interpret your specific results based on your overall health and symptoms."
+      }
+    ],
+    "images": [
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+      "https://www.metropolisindia.com/newdata/images/logo.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+      "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+    ],
+    "availability_status": "available"
+  }
+]

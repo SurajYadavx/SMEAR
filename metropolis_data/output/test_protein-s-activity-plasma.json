@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-protein-s-activity-plasma",
+  "test_name": "Protein S activity, Plasma",
+  "slug": "protein-s-activity-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/protein-s-activity-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/protein-s-activity-plasma",
+  "page_title": "Protein S Activity Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4970
+  },
+  "specimen": "Plasma",
+  "fasting": "no",
+  "report_time": "after 2 days 01:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Inform your doctor about all medications and supplements before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Protein S Activity Test check for?",
+      "answer": "It measures how well Protein S helps prevent blood clots, identifying risk for conditions like DVT or PE."
+    },
+    {
+      "question": "Is fasting required before the Protein S Activity Test?",
+      "answer": "No fasting is needed before this test."
+    },
+    {
+      "question": "What does low Protein S activity mean?",
+      "answer": "It indicates Protein S deficiency, which may increase your risk of abnormal clot formation."
+    },
+    {
+      "question": "Can medication affect Protein S levels?",
+      "answer": "Yes, anticoagulants, contraceptives, and hormone therapy can affect Protein S activity."
+    },
+    {
+      "question": "Can Protein S deficiency be inherited?",
+      "answer": "Yes, it can be inherited or acquired due to conditions like liver disease or vitamin K deficiency."
+    },
+    {
+      "question": "How is the test sample collected?",
+      "answer": "A blood sample is collected from a vein and processed in frozen plasma for accurate testing."
+    },
+    {
+      "question": "When are test results available?",
+      "answer": "Reports are ready by the next day once the sample reaches the laboratory."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

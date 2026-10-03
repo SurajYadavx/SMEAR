@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-cd19",
+  "test_name": "CD19 Test",
+  "slug": "cd19",
+  "source_url": "https://www.metropolisindia.com/parameter/cd19",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd19",
+  "page_title": "CD19 \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3150
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CD19 Test measure?",
+      "answer": "It measures the presence and number of B-cells (CD19-positive lymphocytes) in your blood to assess immune health and detect disorders."
+    },
+    {
+      "question": "Why is the CD19 Test important for cancer patients?",
+      "answer": "It helps detect and monitor B-cell cancers such as leukemia and lymphoma, and assess response to treatment."
+    },
+    {
+      "question": "Is fasting required before the CD19 Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before your test."
+    },
+    {
+      "question": "What can low CD19 levels mean?",
+      "answer": "Low CD19 counts may indicate immunodeficiency or B-cell depletion from therapy."
+    },
+    {
+      "question": "Can recent infections affect CD19 Test results?",
+      "answer": "Yes, recent infections can temporarily increase B-cell counts and may affect interpretation."
+    },
+    {
+      "question": "What technique is used to perform the CD19 Test?",
+      "answer": "The test is performed using Flow Cytometry, which analyses CD19-positive cells with high precision."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

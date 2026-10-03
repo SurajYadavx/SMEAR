@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-iggtotal-antibodyserum",
+  "test_name": "IgG Total Antibody",
+  "slug": "iggtotal-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/iggtotal-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/iggtotal-antibodyserum",
+  "page_title": "IgG Total Antibody \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 860
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

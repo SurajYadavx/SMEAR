@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-weil-felix-test-for-rickettsia-serum",
+  "test_name": "Weil Felix Test For Rickettsia",
+  "slug": "weil-felix-test-for-rickettsia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/weil-felix-test-for-rickettsia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/weil-felix-test-for-rickettsia-serum",
+  "page_title": "Weil Felix Test - Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1170
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Weil Felix Test?",
+      "answer": "The test can be taken when your doctor suspects a rickettsial infection based on fever, rash, exposure history or related symptoms. If testing is done very early, your doctor may advise repeat testing because antibodies may take time to appear."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Weil Felix Test, and for how long?",
+      "answer": "No, overnight fasting is not required for the Weil Felix Test. You can eat and drink normally before your blood sample is collected unless your doctor gives different instructions for other tests."
+    },
+    {
+      "question": "Can dehydration affect my Weil Felix Test results?",
+      "answer": "Mild dehydration is unlikely to directly change the antibody reaction measured by this test. However, drinking water normally before any blood test can make sample collection easier."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Weil Felix Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines you are taking, especially antibiotics, and share details of your symptoms, travel, insect exposure and previous similar illness."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Weil Felix Test?",
+      "answer": "A healthcare professional ties a tourniquet around your upper arm, cleans the puncture site, inserts a sterile needle into a vein and collects about 3 to 5 ml of blood in a vacutainer. The process usually takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any routine blood test. You may feel brief pain, mild bruising or slight swelling at the puncture site. Serious complications are rare."
+    },
+    {
+      "question": "What level of Weil Felix Test is normal?",
+      "answer": "The expected biological reference interval is no agglutination for OX-19, OX-2 and OX-K. Titres of 1:160 or above are generally considered significant, but your doctor will interpret the result with your symptoms and clinical history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

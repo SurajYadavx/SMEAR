@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-lh-luteinizing-hormone-clia-serum",
+  "test_name": "Luteinizing Hormone (LH) Test",
+  "slug": "lh-luteinizing-hormone-clia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/lh-luteinizing-hormone-clia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lh-luteinizing-hormone-clia-serum",
+  "page_title": "LH Test (Luteinizing Hormone) Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 580
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "High biotin dose (>5 mg/day) should be avoided at least 8 hrs before blood collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

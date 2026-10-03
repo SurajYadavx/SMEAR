@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodgreen-pea",
+  "test_name": "Allergen,Individual-FoodGreen Pea",
+  "slug": "allergenindividual-foodgreen-pea",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgreen-pea",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodgreen-pea",
+  "page_title": "Green Pea Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodGreen Pea",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-acid-phosphatasetotalserum",
+  "test_name": "Acid Phosphatase Total, Serum",
+  "slug": "acid-phosphatasetotalserum",
+  "source_url": "https://www.metropolisindia.com/parameter/acid-phosphatasetotalserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/acid-phosphatasetotalserum",
+  "page_title": "Acid Phosphatase Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 375
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Acid Phosphatase Total measure?",
+      "answer": "This test measures the concentration of acid phosphatase enzymes in the serum."
+    },
+    {
+      "question": "Why is the Acid Phosphatase Total test done?",
+      "answer": "\u2022 The test is typically performed to assess prostate health and diagnose conditions such as prostate cancer and benign prostatic hyperplasia (BPH). \u2022 Elevated acid phosphatase levels may indicate prostate gland abnormalities. \u2022 To diagnose prostatic cancer metastasis"
+    },
+    {
+      "question": "When is the Acid Phosphatase Total recommended, and who should take the test?",
+      "answer": "This test is recommended for individuals when there is suspicion of prostate-related conditions, especially in those with symptoms like urinary problems, elevated prostate-specific antigen (PSA) levels, or a family history of prostate cancer."
+    },
+    {
+      "question": "What if the results of the Acid Phosphatase Total test are positive?",
+      "answer": "A positive result may indicate elevated acid phosphatase levels in the serum, suggesting the possibility of prostate gland abnormalities."
+    },
+    {
+      "question": "What to expect during the Acid Phosphatase Total test?",
+      "answer": "The test involves a blood draw, where a healthcare professional collects a serum sample from a vein, typically in the arm. The procedure is minimally invasive and relatively quick."
+    },
+    {
+      "question": "What preparations are required before the Acid Phosphatase Total test?",
+      "answer": "Patients typically do not need specific preparations before the test. However, it's important to follow any instructions provided by the healthcare provider."
+    },
+    {
+      "question": "Which other tests are ordered with the Acid Phosphatase Total test?",
+      "answer": "The Acid Phosphatase Total Serum test is often part of a comprehensive evaluation for prostate health. Additional tests may include PSA testing, digital rectal examination (DRE), and prostate biopsies."
+    },
+    {
+      "question": "What is the Acid Phosphatase Total test also known as?",
+      "answer": "The Acid Phosphatase Total Serum test may also be referred to as the serum acid phosphatase test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

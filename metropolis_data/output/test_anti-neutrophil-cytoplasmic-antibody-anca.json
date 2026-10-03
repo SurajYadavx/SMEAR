@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-anti-neutrophil-cytoplasmic-antibody-anca",
+  "test_name": "Antineutrophil Cytoplasmic Antibodies Test",
+  "slug": "anti-neutrophil-cytoplasmic-antibody-anca",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-neutrophil-cytoplasmic-antibody-anca",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-neutrophil-cytoplasmic-antibody-anca",
+  "page_title": "Antineutrophil Cytoplasmic Antibodies Test\u200b - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2625
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive ANCA test mean?",
+      "answer": "A positive ANCA test suggests that your immune system is producing antibodies against your own neutrophils, commonly seen in autoimmune vasculitis such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "question": "What are c-ANCA and p-ANCA?",
+      "answer": "c-ANCA targets Proteinase 3 (PR3) and is linked to granulomatosis with polyangiitis, while p-ANCA targets Myeloperoxidase (MPO) and is often associated with microscopic polyangiitis and related autoimmune disorders."
+    },
+    {
+      "question": "Can ANCA be positive without vasculitis?",
+      "answer": "Yes, ANCA can be positive in conditions such as ulcerative colitis or rheumatoid arthritis, even without vasculitis. These are usually considered incidental findings."
+    },
+    {
+      "question": "Is fasting needed before the ANCA test?",
+      "answer": "No fasting is required. You can eat and drink normally before your test unless your doctor advises otherwise."
+    },
+    {
+      "question": "Are there any risks associated with the ANCA test?",
+      "answer": "Risks are minimal and similar to any blood test, including mild pain, bruising, or slight dizziness at the needle site."
+    },
+    {
+      "question": "How is the blood sample collected for the ANCA test?",
+      "answer": "A healthcare professional ties a band around your arm, cleans the area, and draws blood using a sterile needle. The process takes only a few minutes."
+    },
+    {
+      "question": "What is considered a normal ANCA test result?",
+      "answer": "A normal result is negative for both c-ANCA and p-ANCA, meaning no autoantibodies against neutrophils were detected."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

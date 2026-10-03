@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-c-peptide-random",
+  "test_name": "C-Peptide, Random, Serum",
+  "slug": "c-peptide-random",
+  "source_url": "https://www.metropolisindia.com/parameter/c-peptide-random",
+  "canonical_url": "https://www.metropolisindia.com/parameter/c-peptide-random",
+  "page_title": "Random C Peptide Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1435
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "after 30 hours 6 hours (ert 9:00am)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

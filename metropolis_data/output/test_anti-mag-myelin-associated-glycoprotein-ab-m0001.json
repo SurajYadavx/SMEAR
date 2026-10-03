@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-anti-mag-myelin-associated-glycoprotein-ab-m0001",
+  "test_name": "Anti MAG (Myelin associated Glycoprotein) Ab (M0001)",
+  "slug": "anti-mag-myelin-associated-glycoprotein-ab-m0001",
+  "source_url": "https://www.metropolisindia.com/parameter/anti-mag-myelin-associated-glycoprotein-ab-m0001",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anti-mag-myelin-associated-glycoprotein-ab-m0001",
+  "page_title": "Anti Mag Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4470
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is Anti MAG (Myelin associated Glycoprotein) Ab (M0001) test done?",
+      "answer": "Anti MAG (Myelin associated Glycoprotein) antibody test is used for evaluating peripheral neuropathy and paraproteinemic neuropathy. The presence of MAG antibodies is not a complete diagnostic test of an acquired neuropathy and results must be interpreted with clinical and electrophysiological tests."
+    },
+    {
+      "question": "What does it measure?",
+      "answer": "The test measures the concentration of autoantibodies to MAG."
+    },
+    {
+      "question": "What to expect during the test?",
+      "answer": "This test requires a blood sample. A tourniquet (elastic) band is placed tightly on the upper arm. The patient is then asked to make a fist. This helps in the build-up of blood filling the veins. The skin is disinfected before needle insertion and the blood sample is collected in vacutainer."
+    },
+    {
+      "question": "What if results are Present/ Absent?",
+      "answer": "High levels of MAG antibodies may indicate active demyelination in peripheral neuropathies associated with MAG. Low levels may rule out MAG associated peripheral neuropathy but can be associated with other types of neuropathies. Results should be correlated with clinical and electrophysiological findings as well."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

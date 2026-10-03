@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-drugciprofloxacinantibiotic",
+  "test_name": "Allergen,Individual-DrugCiprofloxacinantibiotic",
+  "slug": "allergenindividual-drugciprofloxacinantibiotic",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-drugciprofloxacinantibiotic",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-drugciprofloxacinantibiotic",
+  "page_title": "Book your test for Ciprofloxacin Allergy Treatment - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": "Individual-DrugCiprofloxacinantibiotic",
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

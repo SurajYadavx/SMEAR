@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ca-19-9-blood-test",
+  "test_name": "Ca 19 9 Blood Test",
+  "slug": "ca-19-9-blood-test",
+  "source_url": "https://www.metropolisindia.com/parameter/ca-19-9-blood-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ca-19-9-blood-test",
+  "page_title": "CA 19 9 Test - Price, Normal Range, Purpose, Book and Get Reports Online",
+  "pricing": {
+    "selling_price": 1490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the CA 19.9 test?",
+      "answer": "There is no specific best time of day for the CA 19.9 test. The levels do not fluctuate significantly throughout the day, so you can have the test done at any convenient time."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the CA 19.9 test, and for how long?",
+      "answer": "No, fasting is not required for the CA 19.9 test. However, if other tests requiring fasting are ordered alongside, your doctor will provide specific instructions about preparation requirements."
+    },
+    {
+      "question": "Can dehydration affect my CA 19.9 test results?",
+      "answer": "Severe dehydration can concentrate your blood, potentially causing slight increases in measured CA 19-9 levels. It's advisable to stay adequately hydrated before any blood test for accurate results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the CA 19.9 test?",
+      "answer": "No special dietary preparation is needed. However, inform your doctor about all medications, supplements, and vitamins you're taking, as some substances may interfere with test results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the CA 19.9 test?",
+      "answer": "A healthcare professional will clean your arm, tie an elastic band above the area, insert a needle into a vein, and collect blood in a tube. The entire process takes just a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The CA 19.9 blood test carries minimal risks similar to any standard blood draw, including slight pain, bruising at the needle site, light-headedness, or, rarely, infection."
+    },
+    {
+      "question": "What level of CA 19.9 test is normal?",
+      "answer": "Normal CA 19-9 levels are typically less than 34.0 U/mL according to standard reference ranges. However, levels above normal don't automatically indicate cancer, as benign conditions can also elevate results."
+    },
+    {
+      "question": "What is the CA 19.9 test also known as?",
+      "answer": "The CA 19.9 test is also known as Cancer Antigen 19-9 or Carbohydrate Antigen 19-9. These names all refer to the same blood test that measures this specific tumour marker."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

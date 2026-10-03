@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-apolipoproteins-a1serum",
+  "test_name": "Apolipoprotein Apo A1 Test",
+  "slug": "apolipoproteins-a1serum",
+  "source_url": "https://www.metropolisindia.com/parameter/apolipoproteins-a1serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/apolipoproteins-a1serum",
+  "page_title": "Apolipoprotein Apo A1 Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 685
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

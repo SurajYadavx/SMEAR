@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-helicobacter-pylori-antigen-detection-stool",
+  "test_name": "Helicobacter Pylori Antigen Detection (H Pylori Test)",
+  "slug": "helicobacter-pylori-antigen-detection-stool",
+  "source_url": "https://www.metropolisindia.com/parameter/helicobacter-pylori-antigen-detection-stool",
+  "canonical_url": "https://www.metropolisindia.com/parameter/helicobacter-pylori-antigen-detection-stool",
+  "page_title": "H Pylori Test Price - Report and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

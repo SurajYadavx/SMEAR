@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cystine-quantitative-serum",
+  "test_name": "Cystine Quantitative Plasma Test",
+  "slug": "cystine-quantitative-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/cystine-quantitative-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cystine-quantitative-serum",
+  "page_title": "Cystine Quantitative Serum Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6450
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "wednesday 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

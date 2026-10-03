@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodpistachio",
+  "test_name": "Allergen,Individual-Food Pistachio",
+  "slug": "allergenindividual-foodpistachio",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpistachio",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpistachio",
+  "page_title": "Pistachio Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-Food Pistachio",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

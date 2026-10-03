@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-aldolaseenzymaticserum",
+  "test_name": "Aldolase Enzymatic, Serum",
+  "slug": "aldolaseenzymaticserum",
+  "source_url": "https://www.metropolisindia.com/parameter/aldolaseenzymaticserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/aldolaseenzymaticserum",
+  "page_title": "Aldolase Enzymatic, Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1105
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-haemoglobin-test",
+  "test_name": "Hemoglobin (Hb) Test",
+  "slug": "haemoglobin-test",
+  "source_url": "https://www.metropolisindia.com/parameter/haemoglobin-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/haemoglobin-test",
+  "page_title": "Hemoglobin (Hb) Test Price - Purpose, Reports | Book Online",
+  "pricing": {
+    "selling_price": 200
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the haemoglobin test?",
+      "answer": "There is no specific best time for a haemoglobin test. You can take it any time during the day, as haemoglobin levels remain relatively stable throughout the day and are not significantly affected by timing."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the haemoglobin test, and for how long?",
+      "answer": "No, fasting is not required for a standalone haemoglobin test. However, if your doctor orders additional tests like blood sugar alongside haemoglobin, you may need to fast for 8-12 hours as instructed."
+    },
+    {
+      "question": "Can dehydration affect my haemoglobin test results?",
+      "answer": "Yes, dehydration can significantly affect your results by making blood more concentrated, leading to falsely elevated haemoglobin readings. It's important to stay well-hydrated before your test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the haemoglobin test?",
+      "answer": "No special dietary preparation is needed for the haemoglobin test alone. However, inform your doctor about all medications, especially iron supplements, as they can influence results. Don't stop prescribed medications without medical advice."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the haemoglobin test?",
+      "answer": "A trained phlebotomist cleans your arm, applies a tourniquet, and inserts a sterile needle into a vein to collect blood. The procedure takes just a few minutes and involves minimal discomfort."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any standard blood draw. You may experience slight pain, minor bruising, or feel lightheaded. Infection risk is extremely low when proper sterile procedures are followed"
+    },
+    {
+      "question": "What level of haemoglobin test is normal?",
+      "answer": "The haemoglobin test's normal range is 12.0-16.0 gm/dL, though ranges may vary slightly between laboratories. Your doctor will interpret your specific results based on your age, gender, and overall health status."
+    },
+    {
+      "question": "What is the haemoglobin test also known as?",
+      "answer": "The Haemoglobin Test is commonly referred to as the Hb Test, or the Hgb Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-gfr-with-creatinine-adult-above-18-years",
+  "test_name": "GFR With Creatinine",
+  "slug": "gfr-with-creatinine-adult-above-18-years",
+  "source_url": "https://www.metropolisindia.com/parameter/gfr-with-creatinine-adult-above-18-years",
+  "canonical_url": "https://www.metropolisindia.com/parameter/gfr-with-creatinine-adult-above-18-years",
+  "page_title": "GFR With Creatinine Adults Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the GFR with creatinine test?",
+      "answer": "There is no specific best time for this test. It can be done any time of day unless part of a test panel requiring fasting. Always follow your doctor's or pathology lab instructions."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the GFR with creatinine test, and for how long?",
+      "answer": "No, overnight fasting is not required for the GFR with creatinine test. You can eat and drink normally before having your blood sample collected. However, if included in a comprehensive panel, you may need to fast for 8 to 12 hours before testing."
+    },
+    {
+      "question": "Can dehydration affect my GFR with creatinine test results?",
+      "answer": "Yes, dehydration can temporarily increase creatinine levels and decrease eGFR levels, giving false results. Stay well-hydrated before testing unless advised otherwise."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the GFR with creatinine test?",
+      "answer": "Avoid excessive cooked meat consumption 24 hours before testing. Inform your doctor about all medications you're taking, as some may affect results. Don't stop medications without medical advice."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the GFR with creatinine test?",
+      "answer": "A trained phlebotomist will clean your arm, tie an elastic band above the collection site, insert a small needle into your vein, collect blood, and apply a bandage. The procedure takes a few minutes and involves minimal risks."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood test. You may experience slight pain, minor bruising, or, rarely, feeling lightheaded. Serious complications are extremely rare."
+    },
+    {
+      "question": "What level of GFR with a creatinine test is normal?",
+      "answer": "Normal creatinine levels are 0.67-1.17 mg/dL. Normal eGFR is 90 or higher. Values between 60 and 89 indicate a mild decrease, while values below 60 suggest chronic kidney disease."
+    },
+    {
+      "question": "What is GFR with creatinine test also known as?",
+      "answer": "This test is also known as Serum Creatinine with eGFR, Creatinine Serum, or may be part of a Kidney Function Test (KFT) or Renal Function Panel."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

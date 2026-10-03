@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-mtb-xpert-xdr-rapid-pulmonary",
+  "test_name": "MTB Xpert XDR Rapid (Pulmonary)",
+  "slug": "mtb-xpert-xdr-rapid-pulmonary",
+  "source_url": "https://www.metropolisindia.com/parameter/mtb-xpert-xdr-rapid-pulmonary",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mtb-xpert-xdr-rapid-pulmonary",
+  "page_title": "MTB Xpert XDR Rapid Pulmonary Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3825
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "15th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does MTB Xpert XDR Rapid (Pulmonary) measure?",
+      "answer": "The test measures the presence or absence of resistance to Isoniazid, Fluoroquinolones, Amikacin & Ethionamide in the patient\u2019s pulmonary sample."
+    },
+    {
+      "question": "Why is MTB Xpert XDR Rapid (Pulmonary) Test Done?",
+      "answer": "\u2022 The test is done to detect Mycobacterium tuberculosis and the resistance to TB drugs; Isoniazid, Fluoroquinolones, Amikacin & Ethionamide \u2022 The test is useful to determine the patient\u2019s resistance and the associated responsiveness to the line of drug treatment."
+    },
+    {
+      "question": "Who Should Get MTB Xpert XDR Rapid (Pulmonary) Test Done?",
+      "answer": "The test should be recommended to patients in whom MTB infection and possible drug resistance is suspected."
+    },
+    {
+      "question": "What to expect during MTB Xpert XDR Rapid (Pulmonary) test?",
+      "answer": "The patient will be guided on collecting sputum sample; other pulmonary samples will be collected by the treating doctor"
+    },
+    {
+      "question": "Are any preparations required for MTB Xpert XDR Rapid (Pulmonary) test?",
+      "answer": "No special precautions."
+    },
+    {
+      "question": "What if results are High/ Low?",
+      "answer": "Positive result indicates that MTB is detected in the pulmonary sample. The further resistance status to each drug is also provided. Further clinical correlation can be established based on this."
+    },
+    {
+      "question": "What is MTB Xpert XDR Rapid (Pulmonary) Also Known as?",
+      "answer": "\u2022 XDR test \u2022 Rapid XDR test \u2022 TB GeneXpert Test"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

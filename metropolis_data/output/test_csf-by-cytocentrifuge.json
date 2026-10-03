@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-csf-by-cytocentrifuge",
+  "test_name": "CSF by Cytocentrifuge",
+  "slug": "csf-by-cytocentrifuge",
+  "source_url": "https://www.metropolisindia.com/parameter/csf-by-cytocentrifuge",
+  "canonical_url": "https://www.metropolisindia.com/parameter/csf-by-cytocentrifuge",
+  "page_title": "Csf By Cytocentrifuge Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 945
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "2nd day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the CSF by Cytocentrifuge test measure?",
+      "answer": "The CSF by Cytocentrifuge test examines the cellular components present in the cerebrospinal fluid."
+    },
+    {
+      "question": "Why is the CSF by Cytocentrifuge test done?",
+      "answer": "The CSF by Cytocentrifuge test is performed to \u2022 Diagnose infections in the central nervous system, such as meningitis or encephalitis. \u2022 Detect inflammatory conditions like multiple sclerosis. \u2022 Identify abnormal cells that may indicate brain or spinal cord tumors. \u2022 Assess the effectiveness of treatment for certain neurological diseases."
+    },
+    {
+      "question": "When is the CSF by Cytocentrifuge test recommended and who should take the test?",
+      "answer": "Your doctor may recommend the CSF by Cytocentrifuge test if you have \u2022 Symptoms such as severe headaches, fever, neck stiffness, or altered mental status. \u2022 Suspected central nervous system infections or inflammatory conditions. \u2022 A history of brain or spinal cord tumors. \u2022 Been undergoing treatment for neurological diseases that require monitoring."
+    },
+    {
+      "question": "What if the results of the CSF by Cytocentrifuge test are abnormal?",
+      "answer": "Abnormal results may indicate infection, inflammation, bleeding, or the presence of abnormal cells."
+    },
+    {
+      "question": "What to expect during the CSF by Cytocentrifuge test?",
+      "answer": "During the CSF by Cytocentrifuge test: \u2022 A healthcare professional will collect a sample of your cerebrospinal fluid using a lumbar puncture. \u2022 The procedure involves inserting a needle into your lower back to extract the fluid. \u2022 The sample is then sent to the laboratory for analysis using cytocentrifugation to concentrate the cells present."
+    },
+    {
+      "question": "What preparations are required before the CSF by Cytocentrifuge test?",
+      "answer": "Before the test: \u2022 Inform your doctor about any medications you are taking. \u2022 You may need to fast for a few hours before the procedure. \u2022 Follow your doctor's instructions regarding any specific preparation steps, such as stopping certain medications or avoiding blood-thinning agents. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the CSF by Cytocentrifuge test?",
+      "answer": "Other tests that may be ordered alongside the CSF by Cytocentrifuge test include: \u2022 CSF Protein and Glucose: These tests measure protein and glucose levels in the cerebrospinal fluid and help evaluate various neurological conditions. \u2022 CSF Culture: This test helps identify the specific bacteria, viruses, or fungi causing an infection in the central nervous system."
+    },
+    {
+      "question": "What is the CSF by Cytocentrifuge test also known as?",
+      "answer": "Cerebrospinal Fluid Examination, CSF Cell Count"
+    },
+    {
+      "question": "What is meningitis?",
+      "answer": "Meningitis is an inflammation of the protective membranes covering the brain and spinal cord. It can be caused by infections, including bacterial, viral, or fungal. Common symptoms include fever, headache, stiff neck, and sensitivity to light. Meningitis can be diagnosed through the CSF by Cytocentrifuge test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

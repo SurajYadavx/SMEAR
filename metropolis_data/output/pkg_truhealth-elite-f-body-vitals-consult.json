@@ -1,0 +1,357 @@
+{
+  "id": "metro-pkg-truhealth-elite-f-body-vitals-consult",
+  "package_name": "Truhealth Elite (F) + Body Vitals+Consult",
+  "slug": "truhealth-elite-f-body-vitals-consult",
+  "source_url": "https://www.metropolisindia.com/health-checkup-packages/truhealth-elite-f-body-vitals-consult",
+  "canonical_url": "https://www.metropolisindia.com/health-checkup-packages/truhealth-elite-f-body-vitals-consult",
+  "page_title": "Truhealth Elite (F) + Body Vitals+Consult Package | Metropolis Healthcare",
+  "short_description": null,
+  "pricing": {
+    "selling_price": 10000,
+    "mrp": 33640,
+    "discount_percentage": 25
+  },
+  "fasting": "yes",
+  "report_time": "24hrs",
+  "gender": "female",
+  "sample_type": null,
+  "total_parameters": null,
+  "total_profiles": null,
+  "profiles": [
+    {
+      "profile_name": "Alkaline Phosphatase, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/alkaline-phosphatase-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Bilirubin-Indirect, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/bilirubin-indirect-serum",
+      "parameter_count": 2,
+      "parameters": []
+    },
+    {
+      "profile_name": "Gamma GT, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/gamma-gt-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "LDH",
+      "profile_url": "https://www.metropolisindia.com/parameter/ldh",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Proteins-total, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/proteins-total-serum",
+      "parameter_count": 4,
+      "parameters": []
+    },
+    {
+      "profile_name": "SGOT, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/sgot-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "SGPT, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/sgpt-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "IgE total, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/ige-total-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "AMH, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/amh-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "FSH, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/fsh-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Prolactin, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/prolactin-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Amylase, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/amylase-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "lipase, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/lipase-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Apolipoproteins (A1/B), serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/apolipoproteins-(a1/b)-serum",
+      "parameter_count": 3,
+      "parameters": []
+    },
+    {
+      "profile_name": "Cortisol, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/cortisol-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CPK, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/cpk-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Homocysteine, plasma",
+      "profile_url": "https://www.metropolisindia.com/parameter/homocysteine-plasma",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "HS-CRP, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/hs-crp-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Lipid Profile Mini",
+      "profile_url": "https://www.metropolisindia.com/parameter/lipid-profile-mini",
+      "parameter_count": 8,
+      "parameters": []
+    },
+    {
+      "profile_name": "Lp(a)-Lipoprotein (a), serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/lp(a)-lipoprotein-(a)-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "BUN-Blood Urea Nitrogen, seruum",
+      "profile_url": "https://www.metropolisindia.com/parameter/bun-blood-urea-nitrogen-seruum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Creatinine, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Electrolytes, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/electrolytes-serum",
+      "parameter_count": 3,
+      "parameters": []
+    },
+    {
+      "profile_name": "eGFR for creatinine, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/egfr-for-creatinine-serum",
+      "parameter_count": 2,
+      "parameters": []
+    },
+    {
+      "profile_name": "Microalbumin/creatinine ratio, urine",
+      "profile_url": "https://www.metropolisindia.com/parameter/microalbumin/creatinine-ratio-urine",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Routine Examination Profile - Urine (Automated)",
+      "profile_url": "https://www.metropolisindia.com/parameter/routine-examination-profile---urine-(automated)",
+      "parameter_count": 23,
+      "parameters": []
+    },
+    {
+      "profile_name": "Uric Acid, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/uric-acid-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CA - 15.3 for Breast Cancer",
+      "profile_url": "https://www.metropolisindia.com/parameter/ca---15.3-for-breast-cancer",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CEA for GI /Ovarian Cancer",
+      "profile_url": "https://www.metropolisindia.com/parameter/cea-for-gi-/ovarian-cancer",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Calcium, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/calcium-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Magnesium, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/magnesium-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Phosphorus, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/phosphorus-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "RA Test for Arthritis, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/ra-test-for-arthritis-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "25 OH Vitamin D, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/25-oh-vitamin-d-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Haemogram , blood",
+      "profile_url": "https://www.metropolisindia.com/parameter/haemogram--blood",
+      "parameter_count": 24,
+      "parameters": []
+    },
+    {
+      "profile_name": "Ferritin, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/ferritin-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Folic Acid, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/folic-acid-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Iron studies, serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/iron-studies-serum",
+      "parameter_count": 4,
+      "parameters": []
+    },
+    {
+      "profile_name": "Vitamin B12",
+      "profile_url": "https://www.metropolisindia.com/parameter/vitamin-b12",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CRP",
+      "profile_url": "https://www.metropolisindia.com/parameter/crp",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "ESR",
+      "profile_url": "https://www.metropolisindia.com/parameter/esr",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "HBsAg (for Hepititis B), Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/hbsag-(for-hepititis-b)-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "HCV-total antibody (for Hepititis C), serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/hcv-total-antibody-(for-hepititis-c)-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Glucose, fasting",
+      "profile_url": "https://www.metropolisindia.com/parameter/glucose-fasting",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Glucose, post prandial",
+      "profile_url": "https://www.metropolisindia.com/parameter/glucose-post-prandial",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "HbA1c (glycated Hemoglobin), blood",
+      "profile_url": "https://www.metropolisindia.com/parameter/hba1c-(glycated-hemoglobin)-blood",
+      "parameter_count": 2,
+      "parameters": []
+    },
+    {
+      "profile_name": "Insulin, Fasting",
+      "profile_url": "https://www.metropolisindia.com/parameter/insulin-fasting",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Thyroid Profile - 2",
+      "profile_url": "https://www.metropolisindia.com/parameter/thyroid-profile---2",
+      "parameter_count": 3,
+      "parameters": []
+    }
+  ],
+  "images": [
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/antibacterial.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/cancer.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/anaemia.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bone.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/liver.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/heart.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/fertility-hormones.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/woman.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/pancreatic-cancer.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/diabetes.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+    "https://www.metropolisindia.com/newdata/images/logo.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/infection.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/kidney.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg"
+  ],
+  "faqs": [],
+  "availability_status": "available"
+}

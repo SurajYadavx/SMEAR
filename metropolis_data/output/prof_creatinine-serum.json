@@ -1,0 +1,82 @@
+{
+  "profile_name": "Creatinine Test",
+  "profile_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+  "profile_slug": "creatinine-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/creatinine-serum",
+  "total_parameters": null,
+  "parameter_names": [],
+  "description": "Evaluates kidney function and filtration efficiency, helps diagnose acute and chronic kidney disease.",
+  "preparation": "Clinical history required",
+  "report_time": "after 4 hours",
+  "specimen": null,
+  "faqs": [
+    {
+      "question": "What is the creatinine test for LFT?",
+      "answer": "The creatinine test is not part of a Liver Function Test (LFT). It belongs to Kidney Function Tests (KFT) or Renal Function Panels, which assess kidney health rather than liver function."
+    },
+    {
+      "question": "What is the best time to take the creatinine test?",
+      "answer": "There's no specific best time for a creatinine test. However, for consistent monitoring results, it's helpful to have the test done around the same time of day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the creatinine test, and for how long?",
+      "answer": "Fasting is not usually required for a standalone creatinine test. However, if it's part of a comprehensive panel, you may need to fast for 8 to 12 hours. Always follow your doctor's specific instructions."
+    },
+    {
+      "question": "Can dehydration affect my creatinine test results?",
+      "answer": "Yes, dehydration can temporarily increase creatinine levels by reducing blood flow to the kidneys and concentrating waste products in your blood. It's important to stay well-hydrated before the test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the creatinine test?",
+      "answer": "Avoid large amounts of red meat 24 hours before testing. Inform your doctor about all medications and supplements, as some can affect results. Don't stop prescribed medicines without consulting your doctor first."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the creatinine test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, and draws blood into a vial. Once the blood is collected, the needle is removed and pressure is applied to stop bleeding."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and similar to any blood draw. You may experience a slight pain or bruising at the needle site, feel lightheaded, and very rarely, experience an infection at the puncture site."
+    },
+    {
+      "question": "What level of creatinine test is normal?",
+      "answer": "The normal range of creatinine levels is from 0.51 to 0.95 mg/dL, according to the reference range. However, normal values can vary based on age, gender, muscle mass, and laboratory standards. Always interpret results with your doctor's guidance."
+    }
+  ],
+  "images": [
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+    "https://www.metropolisindia.com/newdata/images/logo.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+  ],
+  "availability_status": "available"
+}

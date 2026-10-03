@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-tpo-thyroid-peroxidase-antibody",
+  "test_name": "Anti Thyroid Peroxidase Test",
+  "slug": "tpo-thyroid-peroxidase-antibody",
+  "source_url": "https://www.metropolisindia.com/parameter/tpo-thyroid-peroxidase-antibody",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tpo-thyroid-peroxidase-antibody",
+  "page_title": "Book Anti Thyroid Peroxidase Test Online - Price, Normal Range and Home Collection",
+  "pricing": {
+    "selling_price": 1350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the anti-TPO test?",
+      "answer": "There is no specific best time of day for the anti-TPO test. Antibody levels remain stable throughout the day, so you can have your blood drawn at any convenient time without worrying about timing affecting your results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the anti-TPO test, and for how long?",
+      "answer": "No, fasting is not required for a standalone anti-TPO test. However, if your doctor orders other tests alongside that require fasting, you may need to fast for 8-12 hours. Always confirm fasting requirements with your doctor."
+    },
+    {
+      "question": "Can dehydration affect my anti-TPO test results?",
+      "answer": "While mild dehydration typically doesn't significantly impact results, severe dehydration can concentrate blood substances, potentially altering antibody measurements. It's best to stay well-hydrated before any blood test unless specifically instructed otherwise by your healthcare provider."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the anti-TPO test?",
+      "answer": "No special diet is needed before the test. However, inform your doctor about all medications and supplements, especially high-dose biotin, which can interfere with thyroid tests and may need to be stopped temporarily."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the anti-TPO test?",
+      "answer": "The procedure involves cleaning your arm, applying an elastic band to make veins visible, inserting a sterile needle to collect blood, and applying a bandage afterward. The entire process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The anti-TPO test has very low risks. You may experience slight pain during needle insertion, minor bruising at the puncture site, or rarely, excessive bleeding, fainting, or infection. These complications are uncommon with proper technique."
+    },
+    {
+      "question": "What level of anti-TPO test is normal?",
+      "answer": "Normal anti-TPO antibody levels are typically less than 34.0 IU/mL according to the reference range. Results above this threshold are generally considered positive, indicating the presence of thyroid peroxidase antibodies and possible autoimmune thyroid disease."
+    },
+    {
+      "question": "What is the anti-TPO test also known as?",
+      "answer": "The anti-TPO test is also called Thyroid Peroxidase Antibody Test (TPOAb), Thyroid Peroxidase Autoantibodies, Microsomal TPO Antibody Titre, or the older term Thyroid Microsomal Antibody Test. All these names refer to the same diagnostic test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

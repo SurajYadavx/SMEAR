@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-varicella-zoster-virus-dna-detection-blood",
+  "test_name": "VZV DNA Detection by Real-time PCR - Blood",
+  "slug": "varicella-zoster-virus-dna-detection-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/varicella-zoster-virus-dna-detection-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/varicella-zoster-virus-dna-detection-blood",
+  "page_title": "VZV Blood Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3590
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does VZV DNA detection by real-time PCR - blood measure?",
+      "answer": "This test detects the presence of Varicella-zoster virus (VZV) DNA in your blood."
+    },
+    {
+      "question": "Why is VZV DNA detection by real-time PCR - blood done?",
+      "answer": "\u2022 To diagnose VZV infection \u2022 To assess treatment effectiveness \u2022 To identify the virus in patients with weakened immune systems"
+    },
+    {
+      "question": "When is the VZV DNA detection test recommended, and who should take the test?",
+      "answer": "Your doctor might recommend this test if you have symptoms of VZV infection such as fever and rash or have been exposed to someone with chickenpox or shingles."
+    },
+    {
+      "question": "What if the results of the VZV DNA detection test are abnormal?",
+      "answer": "Positive results suggest VZV infection."
+    },
+    {
+      "question": "What to expect during the VZV DNA detection test?",
+      "answer": "This test involves taking a small sample of your blood, usually from your arm, which is then sent to a lab for analysis."
+    },
+    {
+      "question": "What preparations are required before the VZV DNA detection test?",
+      "answer": "Inform your doctor of any medications you are taking as they may interfere with the test results. Also, let them know if you have any special requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the VZV DNA detection test?",
+      "answer": "Other tests that may be ordered alongside VZV DNA detection by real-time PCR - blood include VZV antibody testing to confirm prior exposure, and CSF analysis if the virus is suspected in the central nervous system."
+    },
+    {
+      "question": "What is VZV DNA detection by real-time PCR - blood also known as?",
+      "answer": "VZV PCR or VZV Real-time PCR"
+    },
+    {
+      "question": "What are chickenpox and shingles?",
+      "answer": "Chickenpox is a highly contagious viral infection that causes red, itchy blisters all over the body. Shingles, also known as herpes zoster, is a painful rash caused by the reactivation of the chickenpox virus in people who have already had chickenpox."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

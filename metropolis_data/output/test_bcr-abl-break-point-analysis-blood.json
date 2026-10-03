@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-bcr-abl-break-point-analysis-blood",
+  "test_name": "BCR-ABL Breakpoint Analysis Qualitative By Real Time PCR - Blood",
+  "slug": "bcr-abl-break-point-analysis-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/bcr-abl-break-point-analysis-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bcr-abl-break-point-analysis-blood",
+  "page_title": "BCR ABL Break Point Analysis Blood Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4680
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 3 days (ert 7:00pm)",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does BCR-ABL Breakpoint Analysis measure?",
+      "answer": "This test analyzes the breakpoints (major, minor, and micro translocations) of BCR-ABL fusion gene."
+    },
+    {
+      "question": "Why is BCR-ABL Breakpoint Analysis done?",
+      "answer": "\u2022 To diagnose CML \u2022 To monitor the effectiveness of treatment for CML \u2022 To detect major, minor, and micro translocations of the BCR-ABL gene in other cases where it may be present"
+    },
+    {
+      "question": "When is BCR-ABL Breakpoint Analysis recommended and who should take the test?",
+      "answer": "BCR-ABL Breakpoint Analysis may be recommended if you have \u2022 symptoms suggestive of Chronic Myeloid Leukemia (CML) such as unexplained weight loss, fatigue, or enlarged spleen, \u2022 abnormal blood cell counts or other hematological abnormalities, \u2022 aprevious diagnosis of CML to monitor treatment response and remission, or \u2022 a family history or genetic risk factors for CML."
+    },
+    {
+      "question": "What if the results of the BCR-ABL Breakpoint Analysis are abnormal?",
+      "answer": "Abnormal results may suggest the presence of CML or other conditions associated with BCR-ABL gene fusion."
+    },
+    {
+      "question": "What to expect during the BCR-ABL Breakpoint Analysis?",
+      "answer": "A blood sample will be collected from your vein using a needle. The sample will be sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the BCR-ABL Breakpoint Analysis?",
+      "answer": "\u2022 No specific preparation is required for this test. \u2022 Inform your doctor about any relevant clinical history and medications you are taking. Also, tell them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with BCR-ABL Breakpoint Analysis?",
+      "answer": "\u2022 Complete Blood Count (CBC) \u2022 Bone Marrow Aspiration and Biopsy for further evaluation of haematological abnormalities \u2022 Other genetic tests to assess additional mutations or abnormalities associated with CML"
+    },
+    {
+      "question": "What is the BCR-ABL Breakpoint Analysis also known as?",
+      "answer": "BCR-ABL Fusion Gene Analysis or BCR-ABL Transcript Detection"
+    },
+    {
+      "question": "What is Chronic Myeloid Leukaemia?",
+      "answer": "Chronic Myeloid Leukaemia is a type of blood cancer that starts in the bone marrow. It is characterised by the presence of the BCR-ABL gene fusion which leads to uncontrolled growth of blood cells."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

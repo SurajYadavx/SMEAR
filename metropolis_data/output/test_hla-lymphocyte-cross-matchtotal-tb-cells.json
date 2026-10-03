@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-hla-lymphocyte-cross-matchtotal-tb-cells",
+  "test_name": "HLA (Lymphocyte) Cross Match - Total (T+B) Cells",
+  "slug": "hla-lymphocyte-cross-matchtotal-tb-cells",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-lymphocyte-cross-matchtotal-tb-cells",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-lymphocyte-cross-matchtotal-tb-cells",
+  "page_title": "HLA Crossmatch Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2830
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 6:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HLA (Lymphocyte) Cross Match - Total (T+B) Cells measure?",
+      "answer": "The HLA (Lymphocyte) Cross Match evaluates the compatibility of T cells and B cells from the donor with antibodies present in the recipient's serum. It aims to identify potential immune responses against the transplanted organ or tissue."
+    },
+    {
+      "question": "Why is the HLA (Lymphocyte) Cross Match - Total (T+B) Cells done?",
+      "answer": "\u2022 Transplant Compatibility: The test assesses the compatibility between donor and recipient to minimize the risk of immune-mediated graft rejection. \u2022 Preventing Complications: Identifying potential immune reactions early helps avoid post-transplant complications and optimize the success of the transplantation."
+    },
+    {
+      "question": "When is the HLA (Lymphocyte) Cross Match - Total (T+B) Cells recommended and who should take the test?",
+      "answer": "The HLA (Lymphocyte) Cross Match - Total (T+B) Cells is recommended for: \u2022 Patients undergoing solid organ or tissue transplantation (e.g., kidney, heart, liver, bone marrow). \u2022 Recipients with a history of prior sensitization to HLA antigens (e.g., previous transplants, blood transfusions)."
+    },
+    {
+      "question": "What if the results of the HLA (Lymphocyte) Cross Match - Total (T+B) Cells are positive?",
+      "answer": "A positive cross match indicates the presence of donor-specific antibodies that could lead to immune reactions against the transplanted organ or tissue. In such cases, the transplantation team may consider alternative strategies to minimize the risk of graft rejection."
+    },
+    {
+      "question": "What to expect during the HLA (Lymphocyte) Cross Match - Total (T+B) Cells?",
+      "answer": "The test involves mixing recipient serum with donor lymphocytes and observing whether antibodies in the recipient's serum react with the donor cells."
+    },
+    {
+      "question": "What preparations are required before the HLA (Lymphocyte) Cross Match - Total (T+B) Cells?",
+      "answer": "Patients may be advised to fast before the test or follow specific instructions provided by healthcare providers."
+    },
+    {
+      "question": "Which other tests are ordered with the HLA (Lymphocyte) Cross Match - Total (T+B) Cells?",
+      "answer": "\u2022 HLA Typing: Prior HLA typing of both the donor and recipient helps identify potential mismatches that could trigger immune responses. \u2022 Cross Match Variants: Depending on the case, other cross match variants, such as B-cell cross match or T-cell cross match, may be considered."
+    },
+    {
+      "question": "What is the HLA (Lymphocyte) Cross Match - Total (T+B) Cells also known as?",
+      "answer": "\u2022 Total Lymphocyte Cross Match \u2022 Mixed Lymphocyte Cross Match"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

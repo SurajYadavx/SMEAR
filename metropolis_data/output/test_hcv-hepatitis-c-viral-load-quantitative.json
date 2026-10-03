@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-hcv-hepatitis-c-viral-load-quantitative",
+  "test_name": "HCV RNA Viral Load Test by TaqMan RT PCR - serum or plasma",
+  "slug": "hcv-hepatitis-c-viral-load-quantitative",
+  "source_url": "https://www.metropolisindia.com/parameter/hcv-hepatitis-c-viral-load-quantitative",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hcv-hepatitis-c-viral-load-quantitative",
+  "page_title": "HCV Viral Load Test Price, Range and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 8270
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 11:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation needed",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does an HCV Viral Load Test detect?",
+      "answer": "It measures the amount of Hepatitis C virus RNA in your blood to confirm an active infection and monitor treatment effectiveness."
+    },
+    {
+      "question": "Do I need to fast before the HCV Viral Load Test?",
+      "answer": "No, fasting is not needed before the test"
+    },
+    {
+      "question": "What does a high HCV viral load mean?",
+      "answer": "A high viral load indicates active replication of the virus and a higher risk of liver damage."
+    },
+    {
+      "question": "What does \u201cTarget Not Detected\u201d mean?",
+      "answer": "It means that HCV RNA is not found in your blood sample, suggesting successful treatment or remission."
+    },
+    {
+      "question": "Can I get this test done at home?",
+      "answer": "Yes, Metropolis Healthcare offers home collection for this test for your convenience."
+    },
+    {
+      "question": "How long does it take to receive the report?",
+      "answer": "Reports are generally ready on the same day, by 11:00 PM."
+    },
+    {
+      "question": "How often should I repeat the test?",
+      "answer": "Your doctor may recommend repeat testing during treatment or follow-up to monitor progress."
+    },
+    {
+      "question": "What if my result is \u201cBelow 15 IU/mL\u201d?",
+      "answer": "It means the virus is present at a very low level that cannot be accurately measured. Your doctor will decide if further monitoring is needed."
+    },
+    {
+      "question": "Is a \u201cTarget Not Detected\u201d result the same as being HCV negative?",
+      "answer": "Not necessarily; it means the virus is below detection limits but does not always confirm complete elimination."
+    },
+    {
+      "question": "Is this test part of a routine health check-up?",
+      "answer": "The HCV Viral Load Test is primarily done for diagnosis and monitoring of Hepatitis C, not as a preventive screening."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

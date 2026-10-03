@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-egfr-mutation-analysis",
+  "test_name": "EGFR Mutation Detection Test (EXONS 18, 19, 20, 21)",
+  "slug": "egfr-mutation-analysis",
+  "source_url": "https://www.metropolisindia.com/parameter/egfr-mutation-analysis",
+  "canonical_url": "https://www.metropolisindia.com/parameter/egfr-mutation-analysis",
+  "page_title": "EGFR Mutation Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8320
+  },
+  "specimen": "21)",
+  "fasting": "no",
+  "report_time": "6th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

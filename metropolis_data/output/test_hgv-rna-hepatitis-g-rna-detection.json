@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hgv-rna-hepatitis-g-rna-detection",
+  "test_name": "HGV-RNA Detection by PCR in Plasma",
+  "slug": "hgv-rna-hepatitis-g-rna-detection",
+  "source_url": "https://www.metropolisindia.com/parameter/hgv-rna-hepatitis-g-rna-detection",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hgv-rna-hepatitis-g-rna-detection",
+  "page_title": "HGV RNA Hepatitis G RNA Detection Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5460
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "16th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does HGV-RNA Detection by PCR in Plasma measure?",
+      "answer": "This test detects Hepatitis G Virus (HGV) RNA in your plasma using a technique called PCR."
+    },
+    {
+      "question": "Why is HGV-RNA Detection by PCR in Plasma done?",
+      "answer": "\u2022 To detect HGV RNA by PCR in plasma \u2022 To assess the efficacy of treatment for Hepatitis G \u2022 To detect co-infection with other hepatitis viruses \u2022 To monitor liver function"
+    },
+    {
+      "question": "When is HGV-RNA Detection recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 symptoms of acute or chronic Hepatitis G infection, \u2022 history of Hepatitis G or other viral hepatitis infections, \u2022 elevated liver enzyme levels, or \u2022 risk factors for hepatitis infections such as HIV, shared drug needles or unprotected sex with an infected person."
+    },
+    {
+      "question": "What if the results of the HGV-RNA Detection are abnormal?",
+      "answer": "Elevated levels may indicate active Hepatitis G infection, which can cause liver inflammation and damage if left untreated."
+    },
+    {
+      "question": "What to expect during the HGV-RNA Detection in Plasma?",
+      "answer": "This is a simple blood test. A healthcare professional will collect 3 ml of your EDTA plasma in a sterile plain vacutainer. The sample will then be sent to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the HGV-RNA Detection?",
+      "answer": "Before the test, inform your doctor if you have taken any medications or have any known allergies or medical conditions. You do not need to fast or make any special preparations for this test. Also, inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with HGV-RNA Detection?",
+      "answer": "Hepatitis A, B, and C testing: to rule out the presence of other hepatitis viruses Liver function tests: to evaluate the overall health of your liver"
+    },
+    {
+      "question": "What is the HGV-RNA Detection by PCR in Plasma also known as?",
+      "answer": "Hepatitis G Virus RNA PCR Test"
+    },
+    {
+      "question": "What is Hepatitis G?",
+      "answer": "Hepatitis G is a viral infection that attacks the liver and causes inflammation. Most cases of Hepatitis G resolve on their own without treatment. However, some people may develop chronic Hepatitis G infections that can lead to liver damage over time."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

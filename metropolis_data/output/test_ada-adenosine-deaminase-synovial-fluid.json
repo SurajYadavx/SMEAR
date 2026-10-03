@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-ada-adenosine-deaminase-synovial-fluid",
+  "test_name": "ADA - Adenosine Deaminase By Biochemical Method - Synovial Fluid",
+  "slug": "ada-adenosine-deaminase-synovial-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/ada-adenosine-deaminase-synovial-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ada-adenosine-deaminase-synovial-fluid",
+  "page_title": "ADA Adenosine Deaminase Synovial Fluid Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 840
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does ADA Test - Synovial Fluid measure?",
+      "answer": "ADA Test - Synovial Fluid measures the levels of adenosine deaminase (ADA) enzyme activity in the synovial fluid."
+    },
+    {
+      "question": "Why is ADA Test - Synovial Fluid done?",
+      "answer": "\u2022 To rule out tuberculosis and other inflammatory conditions affecting the joints \u2022 To aid in the diagnosis and monitoring of conditions such as rheumatoid arthritis, septic arthritis, and reactive arthritis \u2022 To assess the effectiveness of treatment for tuberculosis or other inflammatory diseases involving the joints"
+    },
+    {
+      "question": "When is ADA Test - Synovial Fluid recommended and who should take the test?",
+      "answer": "This test may be recommended if \u2022 you have symptoms such as joint pain, swelling, stiffness, or limited mobility, \u2022 your doctor suspects tuberculosis or other inflammatory conditions affecting the joints, or \u2022 you have been diagnosed with a condition that requires monitoring of joint inflammation."
+    },
+    {
+      "question": "What if the results of the ADA Test - Synovial Fluid are abnormal?",
+      "answer": "Elevated levels may indicate tuberculosis or other inflammatory conditions."
+    },
+    {
+      "question": "What to expect during the ADA Test - Synovial Fluid?",
+      "answer": "During the test, a small amount of synovial fluid will be collected from your joint using a sterile needle and syringe. The collected synovial fluid will be sent to the laboratory for analysis by biochemical method."
+    },
+    {
+      "question": "What preparations are required before the ADA Test - Synovial Fluid?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking, as certain medications may interfere with the test results. Also, tell them if you have any specific requirements. \u2022 Follow any specific instructions provided by your doctor regarding fasting or discontinuing certain medications."
+    },
+    {
+      "question": "What other tests may be ordered with ADA Test - Synovial Fluid?",
+      "answer": "\u2022 Joint fluid analysis: Examination of synovial fluid for various components to aid in the diagnosis of joint-related conditions. \u2022 Tuberculosis tests: Tests such as a chest x-ray, sputum culture, or interferon-gamma release assay (IGRA) help to confirm or rule out tuberculosis infection."
+    },
+    {
+      "question": "What is the ADA Test - Synovial Fluid also known as?",
+      "answer": "Synovial Fluid ADA Test or ADA Enzyme Assay"
+    },
+    {
+      "question": "What is tuberculosis?",
+      "answer": "Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also involve other organs, including the joints. Symptoms include cough, weight loss, fever, night sweats, and fatigue."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

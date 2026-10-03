@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodcasein-milk-proteindahi",
+  "test_name": "Allergen,Individual-FoodCasein( Milk Protein)Dahi",
+  "slug": "allergenindividual-foodcasein-milk-proteindahi",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcasein-milk-proteindahi",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodcasein-milk-proteindahi",
+  "page_title": "Casein Ige Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-FoodCasein( Milk Protein)Dahi",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

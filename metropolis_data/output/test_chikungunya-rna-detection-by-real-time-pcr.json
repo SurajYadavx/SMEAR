@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-chikungunya-rna-detection-by-real-time-pcr",
+  "test_name": "Chikungunya RNA Detection by RT-PCR",
+  "slug": "chikungunya-rna-detection-by-real-time-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/chikungunya-rna-detection-by-real-time-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/chikungunya-rna-detection-by-real-time-pcr",
+  "page_title": "Chikungunya RNA Detection By Real Time PCR Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5140
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Chikungunya RNA Detection by RT-PCR?",
+      "answer": "The test is most useful during the early phase of illness, especially within the first week after symptoms begin. Your doctor will advise the right timing based on your fever and symptom history."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Chikungunya RNA Detection by RT-PCR, and for how long?",
+      "answer": "No, overnight fasting is not required for the Chikungunya RNA Detection by RT-PCR. You can eat and drink normally unless your doctor has advised fasting for another test."
+    },
+    {
+      "question": "Can dehydration affect my Chikungunya RNA Detection by RT-PCR results?",
+      "answer": "Mild dehydration usually does not directly affect chikungunya RNA detection. However, normal hydration is recommended before any blood test unless your doctor has restricted fluids."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Chikungunya RNA Detection by RT-PCR?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines, fever medicines, painkillers, previous reports and treatment history before the test."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Chikungunya RNA Detection by RT-PCR?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, uses a sterile needle to collect blood for serum testing, removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising, swelling or temporary discomfort at the needle site."
+    },
+    {
+      "question": "What does Chikungunya Virus RNA PCR Not Detected mean?",
+      "answer": "It means chikungunya virus RNA was not detected in your serum sample. Your doctor will interpret this with your symptoms, timing of illness and other test results if needed."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

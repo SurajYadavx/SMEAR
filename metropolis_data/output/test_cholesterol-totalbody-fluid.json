@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cholesterol-totalbody-fluid",
+  "test_name": "Total Cholesterol Body Fluid Test",
+  "slug": "cholesterol-totalbody-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/cholesterol-totalbody-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cholesterol-totalbody-fluid",
+  "page_title": "Total Cholesterol Body Fluid Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 270
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

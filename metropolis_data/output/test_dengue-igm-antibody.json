@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-dengue-igm-antibody",
+  "test_name": "Dengue IgM Test",
+  "slug": "dengue-igm-antibody",
+  "source_url": "https://www.metropolisindia.com/parameter/dengue-igm-antibody",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dengue-igm-antibody",
+  "page_title": "Dengue IgM Test - Price, Purpose, Preparation | Book Online",
+  "pricing": {
+    "selling_price": 630
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Specimen type, site, clinical history and clinician contact details required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Dengue Antibody IgM Test?",
+      "answer": "The test is usually more useful from the 5th day of fever onwards. Testing too early may give a negative result even if dengue is present."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Dengue Antibody IgM Test, and for how long?",
+      "answer": "No, overnight fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can dehydration affect my Dengue Antibody IgM Test results?",
+      "answer": "Mild dehydration is unlikely to directly affect Dengue IgM antibody detection, but normal hydration can make blood collection easier and more comfortable."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Dengue Antibody IgM Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines you take and avoid self-medication for fever or pain unless advised by your doctor."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Dengue Antibody IgM Test?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, inserts a sterile needle into a vein and collects about 3 ml of blood in a gel vacutainer."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any routine blood test. You may feel slight pain, mild bruising or temporary swelling at the needle site. Rarely, some people may feel dizzy."
+    },
+    {
+      "question": "What level of Dengue Antibody IgM Test is normal?",
+      "answer": "A negative result, less than 1 ratio, is considered within the negative reference range. A result greater than or equal to 1 ratio is interpreted as positive and should be reviewed by your doctor."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

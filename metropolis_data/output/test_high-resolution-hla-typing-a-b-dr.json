@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-high-resolution-hla-typing-a-b-dr",
+  "test_name": "HLA Typing Test",
+  "slug": "high-resolution-hla-typing-a-b-dr",
+  "source_url": "https://www.metropolisindia.com/parameter/high-resolution-hla-typing-a-b-dr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/high-resolution-hla-typing-a-b-dr",
+  "page_title": "HLA Typing Test \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 14980
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is an HLA typing test used for?",
+      "answer": "It identifies genetic markers that determine donor-recipient compatibility for organ or bone marrow transplants."
+    },
+    {
+      "question": "Is fasting required for the HLA typing test?",
+      "answer": "Fasting not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How long does it take to get HLA typing test results?",
+      "answer": "Reports are usually available after 7 days once the sample reaches the lab."
+    },
+    {
+      "question": "What sample is used for the HLA typing test?",
+      "answer": "The test requires 6 ml of EDTA blood collected from a vein in your arm."
+    },
+    {
+      "question": "What technology does Metropolis use for HLA typing?",
+      "answer": "The test uses advanced Next-Generation Sequencing (NGS) to identify HLA genes with high precision."
+    },
+    {
+      "question": "Can a recent blood transfusion affect HLA test results?",
+      "answer": "Yes. Blood transfusions within 14 days may interfere with genetic typing accuracy."
+    },
+    {
+      "question": "Who should undergo an HLA typing test?",
+      "answer": "Anyone being considered for an organ or bone marrow transplant, or those with autoimmune or drug hypersensitivity conditions."
+    },
+    {
+      "question": "How does HLA matching help in transplants?",
+      "answer": "Better HLA matches reduce rejection risk and improve transplant success and graft survival."
+    },
+    {
+      "question": "Are HLA test results numerical?",
+      "answer": "No. Results show genetic alleles, not numbers, and are interpreted for compatibility."
+    },
+    {
+      "question": "What conditions can this test help diagnose?",
+      "answer": "It helps in assessing transplant compatibility, autoimmune diseases, and drug hypersensitivity reactions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

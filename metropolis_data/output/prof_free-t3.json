@@ -1,0 +1,74 @@
+{
+  "profile_name": "Free T3 Test",
+  "profile_url": "https://www.metropolisindia.com/parameter/free-t3",
+  "profile_slug": "free-t3",
+  "canonical_url": "https://www.metropolisindia.com/parameter/free-t3",
+  "total_parameters": null,
+  "parameter_names": [],
+  "description": "To assess thyroid function, diagnose hyperthyroidism, and monitor thyroid hormone therapy",
+  "preparation": "Avoid high-dose Biotin (>5 mg/day) at least 8 hours before sample collection",
+  "report_time": "after 6 hours",
+  "specimen": null,
+  "faqs": [
+    {
+      "question": "What does the Free T3 Test measure?",
+      "answer": "It measures the active form of thyroid hormone (triiodothyronine) that helps regulate metabolism and energy use."
+    },
+    {
+      "question": "What do high Free T3 levels indicate?",
+      "answer": "High Free T3 levels suggest hyperthyroidism or overactive thyroid function."
+    },
+    {
+      "question": "What do low Free T3 levels mean?",
+      "answer": "Low levels may indicate hypothyroidism or pituitary dysfunction."
+    },
+    {
+      "question": "Is fasting needed before the Free T3 Test?",
+      "answer": "No, fasting is not required for this test. You can eat and drink normally."
+    },
+    {
+      "question": "Can Biotin affect the Free T3 Test results?",
+      "answer": "Yes, high Biotin intake may interfere with the test. Avoid taking Biotin supplements for at least 8 hours before testing."
+    },
+    {
+      "question": "What other tests are done along with the Free T3 Test?",
+      "answer": "Doctors often recommend TSH and Free T4 tests along with Free T3 for a complete thyroid function assessment."
+    }
+  ],
+  "images": [
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+    "https://www.metropolisindia.com/newdata/images/logo.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+  ],
+  "availability_status": "available"
+}

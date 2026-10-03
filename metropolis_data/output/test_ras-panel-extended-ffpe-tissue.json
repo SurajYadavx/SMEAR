@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-ras-panel-extended-ffpe-tissue",
+  "test_name": "RAS extended panel (KRAS, BRAF, NRAS, PIK3CA) Test",
+  "slug": "ras-panel-extended-ffpe-tissue",
+  "source_url": "https://www.metropolisindia.com/parameter/ras-panel-extended-ffpe-tissue",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ras-panel-extended-ffpe-tissue",
+  "page_title": "RAS extended panel (KRAS, BRAF, NRAS, PIK3CA) Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 15600
+  },
+  "specimen": "PIK3CA) Test",
+  "fasting": "no",
+  "report_time": "11th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take RAS extended panel (KRAS, BRAF, NRAS, PIK3CA) Test?",
+      "answer": "The assay detects KRAS, NRAS, BRAF and PIK3CA mutations from tissue to predict response to EGFR-targeted immunotherapy in metastatic colorectal cancer."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Yes, to predict response to EGFR-targeted immunotherapy in metastatic colorectal cancer."
+    },
+    {
+      "question": "More Info on RAS extended panel (KRAS, BRAF, NRAS, PIK3CA) Test",
+      "answer": "Identifying tumors that may respond to targeted therapies by assessing multiple gene targets simultaneously Identifying mutations that may help determine prognosis for patients with solid tumors., Identifying specific mutations within genes known to be associated with response or resistance to specific cancer therapies."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

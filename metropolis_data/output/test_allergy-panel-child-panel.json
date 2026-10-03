@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-panel-child-panel",
+  "test_name": "Allergy - Child Panel",
+  "slug": "allergy-panel-child-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-panel-child-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-panel-child-panel",
+  "page_title": "Child Allergy Panel Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 12845
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 8 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

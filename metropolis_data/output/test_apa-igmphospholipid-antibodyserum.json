@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-apa-igmphospholipid-antibodyserum",
+  "test_name": "APA-IgM Phospholipid Antibody Serum",
+  "slug": "apa-igmphospholipid-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/apa-igmphospholipid-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/apa-igmphospholipid-antibodyserum",
+  "page_title": "Anti Phospholipid Igm Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Discontinue Heparin for 1 day and Oral Anticoagulants for 7 days before sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive APA-IgM Phospholipid Antibody test mean?",
+      "answer": "A positive result suggests the presence of antiphospholipid antibodies, which increase the risk of blood clots, miscarriages, or autoimmune disorders such as lupus."
+    },
+    {
+      "question": "Can the APA-IgM test confirm Antiphospholipid Syndrome (APS) on its own?",
+      "answer": "No, diagnosis of APS requires repeat testing after 12 weeks and correlation with symptoms and other antibody tests."
+    },
+    {
+      "question": "Do I need to fast before giving the sample for this test?",
+      "answer": "Fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Which medications can affect the test results?",
+      "answer": "Heparin and Oral Anticoagulants can interfere with results. Stop Heparin for 1 day and Oral Anticoagulants for 7 days before testing, as advised by your doctor."
+    },
+    {
+      "question": "How is the APA-IgM Phospholipid Antibody test performed?",
+      "answer": "A healthcare professional draws a small blood sample from your vein. The sample is tested using Enzyme Immunoassay (EIA) to detect IgM antibodies."
+    },
+    {
+      "question": "Can pregnancy influence APA-IgM test results?",
+      "answer": "Yes, pregnancy can temporarily affect antibody levels. If results are positive, a repeat test after delivery may be suggested."
+    },
+    {
+      "question": "How long does it take to get the test report?",
+      "answer": "Reports are usually ready the same day once the sample reaches the lab."
+    },
+    {
+      "question": "What are associated tests for APS diagnosis?",
+      "answer": "Cardiolipin Antibody (IgM) Test and Beta-2 Glycoprotein I (IgM) Antibody Test are often performed along with APA-IgM."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

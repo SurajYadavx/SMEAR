@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — GLOBAL SEARCH v1
+ *  SMEAR PATHOLOGY — GLOBAL SEARCH v2
  *  Searches packages AND blood tests from loaded datasets.
  *  Works on all pages. Loads data lazily if not already in window.
  *
@@ -27,25 +27,6 @@
     return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   }
 
-  function extractPrice(previewContent) {
-    if (!previewContent) return null;
-    // Handle scraped format: ",1 NNNN" where rupee symbol is corrupted
-    var commaMatch = previewContent.match(/,1\s*(\d{3,6})/g);
-    if (commaMatch && commaMatch.length > 0) {
-      var last = commaMatch[commaMatch.length > 1 ? commaMatch.length - 1 : 0];
-      var numMatch = last.match(/(\d{3,6})/);
-      return numMatch ? parseInt(numMatch[1], 10) : null;
-    }
-    var match = previewContent.match(/[\u20b9$]\s*(\d+)/);
-    return match ? parseInt(match[1], 10) : null;
-  }
-
-  function extractTestPrice(priceStr) {
-    if (!priceStr) return null;
-    var match = priceStr.match(/\d+/);
-    return match ? parseInt(match[0], 10) : null;
-  }
-
   function normalize(s) {
     return String(s || '').toLowerCase().trim();
   }
@@ -57,8 +38,9 @@
     for (var i = 0; i < _packages.length && results.length < MAX_RESULTS_PER_TYPE; i++) {
       var pkg = _packages[i];
       var name = normalize(pkg.name || '');
-      var catId = normalize(pkg.categoryId || '');
-      if (name.indexOf(q) > -1 || catId.indexOf(q) > -1) {
+      var catName = normalize(pkg.categoryName || '');
+      var profNames = pkg.profiles ? pkg.profiles.map(function(p){ return normalize(p.name); }).join(' ') : '';
+      if (name.indexOf(q) > -1 || catName.indexOf(q) > -1 || profNames.indexOf(q) > -1) {
         results.push(pkg);
       }
     }
@@ -71,9 +53,9 @@
     var results = [];
     for (var i = 0; i < _tests.length && results.length < MAX_RESULTS_PER_TYPE; i++) {
       var t = _tests[i];
-      var name = normalize(t.test_name || '');
-      var lab  = normalize(t.lab || '');
-      if (name.indexOf(q) > -1 || lab.indexOf(q) > -1) {
+      var name = normalize(t.name || '');
+      var cat = normalize(t.categoryName || '');
+      if (name.indexOf(q) > -1 || cat.indexOf(q) > -1) {
         results.push(t);
       }
     }
@@ -91,12 +73,12 @@
     }
 
     if (!_packages) {
-      if (window.SMEAR_PACKAGES) {
-        _packages = window.SMEAR_PACKAGES;
+      if (window.SmearPackages && window.SmearPackages.getPackages) {
+        _packages = window.SmearPackages.getPackages();
         pkgDone = true;
         check();
       } else {
-        fetch('./public/data/packages.json')
+        fetch('./public/data/smear-packages.json')
           .then(function(r){ return r.json(); })
           .then(function(d){ _packages = d; pkgDone = true; check(); })
           .catch(function(){ _packages = []; pkgDone = true; check(); });
@@ -104,12 +86,12 @@
     }
 
     if (!_tests) {
-      if (window.SMEAR_TESTS) {
-        _tests = window.SMEAR_TESTS;
+      if (window.SmearTests && window.SmearTests.getTests) {
+        _tests = window.SmearTests.getTests();
         testDone = true;
         check();
       } else {
-        fetch('./public/data/health-tests.json')
+        fetch('./public/data/smear-tests.json')
           .then(function(r){ return r.json(); })
           .then(function(d){ _tests = d; testDone = true; check(); })
           .catch(function(){ _tests = []; testDone = true; check(); });
@@ -139,7 +121,7 @@
       section.appendChild(label);
 
       pkgResults.forEach(function(pkg) {
-        var price = extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
+        var price = pkg.price;
         var item = document.createElement('button');
         item.type = 'button';
         item.className = 'search-dropdown-item';
@@ -147,11 +129,10 @@
           '<span class="search-dropdown-item__icon">' + PKG_ICON + '</span>' +
           '<span class="search-dropdown-item__text">' +
             '<span class="search-dropdown-item__name">' + esc(pkg.name) + '</span>' +
-            '<span class="search-dropdown-item__meta">' + esc(pkg.categoryId ? pkg.categoryId.replace(/-/g,' ') : 'Package') + (price ? ' · ₹' + price : '') + '</span>' +
+            '<span class="search-dropdown-item__meta">' + esc(pkg.categoryName || 'Package') + (price !== null ? ' · ₹' + price : '') + '</span>' +
           '</span>';
         item.addEventListener('click', function() {
-          // Navigate to package details
-          window.location.href = 'packages.html?category=' + encodeURIComponent(pkg.categoryId) + '&pkg=' + encodeURIComponent(pkg.id);
+          window.location.href = 'package-detail.html?id=' + encodeURIComponent(pkg.slug || pkg.id);
         });
         section.appendChild(item);
       });
@@ -173,18 +154,18 @@
       section2.appendChild(label2);
 
       testResults.forEach(function(test) {
-        var price = extractTestPrice(test.price);
+        var price = test.price;
         var item = document.createElement('button');
         item.type = 'button';
         item.className = 'search-dropdown-item';
         item.innerHTML =
           '<span class="search-dropdown-item__icon" style="background:rgba(42,168,176,0.1);">' + TEST_ICON + '</span>' +
           '<span class="search-dropdown-item__text">' +
-            '<span class="search-dropdown-item__name">' + esc(test.test_name) + '</span>' +
-            '<span class="search-dropdown-item__meta">' + esc(test.lab || 'Test') + (price ? ' · ₹' + price : '') + '</span>' +
+            '<span class="search-dropdown-item__name">' + esc(test.name) + '</span>' +
+            '<span class="search-dropdown-item__meta">' + esc(test.categoryName || 'Test') + (price !== null ? ' · ₹' + price : '') + '</span>' +
           '</span>';
         item.addEventListener('click', function() {
-          window.location.href = 'blood-tests.html?search=' + encodeURIComponent(test.test_name);
+          window.location.href = 'blood-tests.html?search=' + encodeURIComponent(test.name);
         });
         section2.appendChild(item);
       });
@@ -276,7 +257,6 @@
     var input    = overlay.querySelector('.mobile-search-input');
     var cancelBtn = overlay.querySelector('.mobile-search-cancel');
     var results  = overlay.querySelector('.mobile-search-results');
-    var iconPrefix = overlay.querySelector('.header-search-icon-prefix');
 
     function openOverlay() {
       overlay.classList.add('is-open');
@@ -321,18 +301,11 @@
     searchPackages: searchPackages,
     searchTests: searchTests,
     loadData: loadData,
-    init: function() {
-      // Pre-warm data from window globals if available
-      if (window.SMEAR_PACKAGES) _packages = window.SMEAR_PACKAGES;
-      if (window.SMEAR_TESTS)    _tests    = window.SMEAR_TESTS;
-    }
+    init: function() {}
   };
 
   /* ── Boot ───────────────────────────────────────────────── */
   function boot() {
-    // Pre-warm
-    if (window.SMEAR_PACKAGES) _packages = window.SMEAR_PACKAGES;
-    if (window.SMEAR_TESTS)    _tests    = window.SMEAR_TESTS;
     initDesktopSearch();
     initMobileSearch();
 
@@ -355,12 +328,11 @@
     boot();
   }
 
-  // Re-warm when packages/tests load (for pages that load them dynamically)
   window.addEventListener('smear:packagesLoaded', function(e) {
-    _packages = e.detail || window.SMEAR_PACKAGES;
+    _packages = e.detail;
   });
   window.addEventListener('smear:testsLoaded', function(e) {
-    _tests = e.detail || window.SMEAR_TESTS;
+    _tests = e.detail;
   });
 
 }());

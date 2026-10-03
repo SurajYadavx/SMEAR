@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-nuts-panel",
+  "test_name": "Allergy-Nuts Panel",
+  "slug": "allergy-nuts-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-nuts-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-nuts-panel",
+  "page_title": "Nuts Allergy Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6490
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-sgot",
+  "test_name": "SGOT AST Serum Test",
+  "slug": "sgot",
+  "source_url": "https://www.metropolisindia.com/parameter/sgot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sgot",
+  "page_title": "Book SGOT Test - Price, Get Reports Online from NABL-Certified Labs",
+  "pricing": {
+    "selling_price": 230
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the SGOT test?",
+      "answer": "There is no specific best time for the SGOT test as it can be performed at any time of day. However, it's often done in the morning when included in comprehensive health check-ups or liver function test panels."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the SGOT test, and for how long?",
+      "answer": "Fasting is generally not required for a standalone SGOT test. However, when performed as part of a liver function test panel, you may need to fast for 8-12 hours for accurate results."
+    },
+    {
+      "question": "Can dehydration affect my SGOT test results?",
+      "answer": "Yes, severe dehydration can potentially concentrate blood components, including enzymes like SGOT, leading to falsely elevated results. It's advisable to stay adequately hydrated before your test for accurate readings."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the SGOT test?",
+      "answer": "Continue your normal diet unless fasting is required for additional tests. Inform your doctor about all medications and supplements, as some can affect SGOT levels. Avoid intense exercise before testing."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the SGOT test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into your vein, draws blood into a vial, removes the needle, and applies a bandage to the site."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood test, including slight pain, minor bruising at the needle site, and rarely, dizziness or infection. These complications are uncommon with proper technique."
+    },
+    {
+      "question": "What level of SGOT test is normal?",
+      "answer": "The normal range for SGOT (AST) is typically 0-32 units per litre (U/L) of serum. However, reference ranges may vary slightly between laboratories, so check your specific lab report for accurate ranges."
+    },
+    {
+      "question": "What is SGOT test also known as?",
+      "answer": "The SGOT test is now more commonly known as the Aspartate Aminotransferase (AST) Test. It's also a key component of liver function test panels and comprehensive metabolic assessments."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

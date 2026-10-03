@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-adrenaline-epinephrine-plasma",
+  "test_name": "Adrenaline (Epinephrine), Plasma",
+  "slug": "adrenaline-epinephrine-plasma",
+  "source_url": "https://www.metropolisindia.com/parameter/adrenaline-epinephrine-plasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/adrenaline-epinephrine-plasma",
+  "page_title": "Adrenaline (Epinephrine), Plasma \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3745
+  },
+  "specimen": "Plasma",
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

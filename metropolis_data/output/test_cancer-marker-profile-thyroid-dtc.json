@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cancer-marker-profile-thyroid-dtc",
+  "test_name": "Cancer marker profile - Thyroid-DTC",
+  "slug": "cancer-marker-profile-thyroid-dtc",
+  "source_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-thyroid-dtc",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cancer-marker-profile-thyroid-dtc",
+  "page_title": "Thyroid Dtc Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2290
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

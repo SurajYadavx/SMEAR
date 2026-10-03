@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anaemia-profile-nutritional",
+  "test_name": "Anaemia Profile-Nutritional",
+  "slug": "anaemia-profile-nutritional",
+  "source_url": "https://www.metropolisindia.com/parameter/anaemia-profile-nutritional",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anaemia-profile-nutritional",
+  "page_title": "Anaemia Profile Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3940
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 24hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

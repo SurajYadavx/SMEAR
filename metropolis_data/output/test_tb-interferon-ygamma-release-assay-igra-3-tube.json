@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-tb-interferon-ygamma-release-assay-igra-3-tube",
+  "test_name": "Tb \u2013 Interferon-y (Gamma) Release Assay (IGRA)-3 Tube",
+  "slug": "tb-interferon-ygamma-release-assay-igra-3-tube",
+  "source_url": "https://www.metropolisindia.com/parameter/tb-interferon-ygamma-release-assay-igra-3-tube",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tb-interferon-ygamma-release-assay-igra-3-tube",
+  "page_title": "TB Gold - IGRA (Interferon-y Gamma release assay) - 3 tube, Lithium Heparin Blood",
+  "pricing": {
+    "selling_price": 3540
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "2nd day",
+  "gender": "Male, Female",
+  "preparation": "Provide complete clinical history; fasting not required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the IGRA test used for?",
+      "answer": "It detects latent or past TB infection by measuring immune response to TB-specific antigens."
+    },
+    {
+      "question": "Is fasting required before the IGRA test?",
+      "answer": "No, fasting is not required. You can eat and drink normally."
+    },
+    {
+      "question": "Can the IGRA test diagnose active TB?",
+      "answer": "No, it cannot diagnose active TB. A positive result only indicates exposure; further tests are needed."
+    },
+    {
+      "question": "Is the IGRA test affected by BCG vaccination?",
+      "answer": "No, the test is not influenced by BCG vaccination, unlike the skin test."
+    },
+    {
+      "question": "How long does it take to get the IGRA test report?",
+      "answer": "Reports are usually available by 8:00 PM on the next working day."
+    },
+    {
+      "question": "What does a positive IGRA test mean?",
+      "answer": "It suggests possible TB infection. Further evaluation is needed to confirm latent or active disease."
+    },
+    {
+      "question": "Is home sample collection available?",
+      "answer": "Yes, Metropolis Healthcare offers convenient and safe home collection for IGRA testing."
+    },
+    {
+      "question": "What is the cost of the IGRA test?",
+      "answer": "The IGRA test costs around ?3250. Prices may vary by location."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -37,6 +37,9 @@
         var li = document.createElement('div');
         li.className = 'cart-item';
         li.setAttribute('role', 'listitem');
+        
+        var priceDisplay = item.price === null ? '<span style="font-size: 0.9em; color: var(--color-text-muted)">Price available at lab</span>' : '\u20b9' + (item.price * (item.qty || 1));
+
         li.innerHTML = '' +
           '<div class="cart-item__icon">' +
             '<span>' + esc(item.type === 'package' ? 'PKG' : 'TST') + '</span>' +
@@ -45,7 +48,7 @@
             '<p class="cart-item__name">' + esc(item.name) + '</p>' +
             '<p class="cart-item__type">' + esc(item.type) + (item.qty > 1 ? ' \u00d7' + item.qty : '') + '</p>' +
           '</div>' +
-          (item.price ? '<span class="cart-item__price">\u20b9' + (item.price * (item.qty || 1)) + '</span>' : '') +
+          '<span class="cart-item__price">' + priceDisplay + '</span>' +
           '<button class="cart-item__remove" data-id="' + esc(item.id) + '" data-type="' + esc(item.type) + '" aria-label="Remove ' + esc(item.name) + '">' +
             '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="18" height="18"><path d="M18 6 6 18M6 6l12 12"/></svg>' +
           '</button>';
@@ -62,8 +65,21 @@
     // Summary
     var count = window.SmearCart.count();
     var total = window.SmearCart.total();
+    var unpriced = window.SmearCart.hasUnpricedItems();
+
     if (countEl) countEl.textContent = count;
-    if (totalEl) totalEl.textContent = '\u20b9' + total;
+    
+    if (totalEl) {
+      if (total > 0 && unpriced) {
+        totalEl.textContent = '\u20b9' + total + ' + pending items';
+        totalEl.style.fontSize = '1.2rem';
+      } else if (total > 0) {
+        totalEl.textContent = '\u20b9' + total;
+      } else {
+        totalEl.textContent = 'To be confirmed';
+        totalEl.style.fontSize = '1.2rem';
+      }
+    }
 
     // WhatsApp booking
     if (waBtn) {

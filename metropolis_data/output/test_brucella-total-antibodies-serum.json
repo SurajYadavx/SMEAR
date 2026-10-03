@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-brucella-total-antibodies-serum",
+  "test_name": "Brucella Total Antibodies",
+  "slug": "brucella-total-antibodies-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/brucella-total-antibodies-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/brucella-total-antibodies-serum",
+  "page_title": "Brucella Total Antibodies \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1105
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

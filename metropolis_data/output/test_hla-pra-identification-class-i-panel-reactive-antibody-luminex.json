@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hla-pra-identification-class-i-panel-reactive-antibody-luminex",
+  "test_name": "Panel Reactive Antibody (PRA) Identification By Luminex (Class I)",
+  "slug": "hla-pra-identification-class-i-panel-reactive-antibody-luminex",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-pra-identification-class-i-panel-reactive-antibody-luminex",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-pra-identification-class-i-panel-reactive-antibody-luminex",
+  "page_title": "HLA PRA Identification Class I Panel Reactive Antibody Luminex Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 11160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does PRA Identification Test (Class I) measure?",
+      "answer": "The PRA Identification Test measures the presence of antibodies in a recipient's blood against specific human leukocyte antigens (HLA) Class I."
+    },
+    {
+      "question": "Why is PRA Identification Test (Class I) done?",
+      "answer": "\u2022 To assess compatibility between a transplant recipient and a potential donor \u2022 To reduce the risk of rejection after organ transplantation \u2022 To guide treatment decisions for individuals requiring organ transplants \u2022 To evaluate the effectiveness of immunosuppressive therapy"
+    },
+    {
+      "question": "When is PRA Identification Test (Class I) recommended and who should take the test?",
+      "answer": "This test is recommended for individuals who \u2022 are candidates for organ transplantation, such as kidney or liver transplant, \u2022 have had previous organ transplants and require ongoing monitoring, \u2022 require adjustments to immunosuppressive medication, or \u2022 are involved in living donor programs to ensure compatibility."
+    },
+    {
+      "question": "What if the results of the PRA Identification Test (Class I) are abnormal?",
+      "answer": "Abnormal results may indicate a higher risk of organ rejection or a lower chance of finding a compatible donor."
+    },
+    {
+      "question": "What to expect during the PRA Identification Test (Class I)?",
+      "answer": "A blood sample will be collected from your arm. The sample will be sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the PRA Identification Test (Class I)?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are taking. Also, tell them if you have any specific requirements. \u2022 Follow any additional instructions provided by your healthcare provider regarding discontinuation of immunosuppressive medication before the test."
+    },
+    {
+      "question": "What other tests may be ordered with PRA Identification Test?",
+      "answer": "Crossmatching: This test determines if a potential donor's organ is compatible with the recipient's immune system. HLA Typing: It identifies the specific HLA antigens present in an individual's blood to assess compatibility for transplantation."
+    },
+    {
+      "question": "What is the PRA Identification Test (Class I) also known as?",
+      "answer": "HLA Class I PRA testing"
+    },
+    {
+      "question": "What is organ transplant rejection?",
+      "answer": "Organ transplant rejection occurs when the recipient's immune system recognises the transplanted organ as foreign and attacks it. Rejection can lead to organ failure."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

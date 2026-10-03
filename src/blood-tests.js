@@ -25,8 +25,9 @@
   }
 
   function extractPrice(priceStr) {
+    if (typeof priceStr === 'number') return priceStr;
     if (!priceStr) return 0;
-    var match = priceStr.match(/\d+/);
+    var match = String(priceStr).match(/\d+/);
     return match ? parseInt(match[0], 10) : 0;
   }
 
@@ -49,7 +50,7 @@
     if (!_searchQuery) return _tests;
     var q = _searchQuery.toLowerCase();
     return _tests.filter(function(t) {
-      var name = (t.test_name || '').toLowerCase();
+      var name = (t.name || '').toLowerCase();
       var lab  = (t.lab || '').toLowerCase();
       return name.indexOf(q) > -1 || lab.indexOf(q) > -1;
     });
@@ -137,11 +138,11 @@
 
       card.innerHTML =
         '<div class="test-card__lab">' + esc(test.lab || 'Laboratory Test') + '</div>' +
-        '<div class="test-card__name">' + esc(test.test_name) + '</div>' +
+        '<div class="test-card__name">' + esc(test.name) + '</div>' +
         (price > 0 ? '<div class="test-card__price">₹' + price + '</div>' : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>') +
         '<div class="test-card__ctas">' +
           '<button class="btn btn--outline-primary view-test-btn" data-uid="' + uid + '">Details</button>' +
-          '<button class="btn btn--primary book-test-btn" data-name="' + esc(test.test_name) + '">Book</button>' +
+          '<button class="btn btn--primary book-test-btn" data-name="' + esc(test.name) + '">Book</button>' +
         '</div>';
 
       grid.appendChild(card);
@@ -203,7 +204,10 @@
 
     var price = extractPrice(test.price);
 
-    if (titleEl) titleEl.textContent = test.test_name;
+    if (titleEl) {
+      titleEl.textContent = test.name;
+      titleEl.style.color = '#111827';
+    }
     if (priceEl) priceEl.textContent = price > 0 ? '₹' + price : 'Price on request';
     if (imgEl)   imgEl.style.display = 'none';
     if (placeEl) placeEl.style.display = 'flex';
@@ -211,7 +215,7 @@
     if (descEl) {
       descEl.innerHTML =
         '<div style="font-size:0.92rem;line-height:1.7;text-align:left;">' +
-        '<p style="margin-bottom:8px;"><strong>Test Name:</strong> ' + esc(test.test_name) + '</p>' +
+        '<p style="margin-bottom:8px;"><strong>Test Name:</strong> ' + esc(test.name) + '</p>' +
         '<p style="margin-bottom:8px;"><strong>Laboratory:</strong> ' + esc(test.lab || 'Smear Pathology') + '</p>' +
         '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (price > 0 ? '₹' + price : 'Contact for price') + '</p>' +
         '<p style="margin-top:14px;color:var(--color-text-muted);">Book this test via WhatsApp or call our lab directly. Prices are approximate and confirmed before sample collection.</p>' +
@@ -220,7 +224,7 @@
 
     var phone   = (typeof CONTACT_PHONE !== 'undefined') ? CONTACT_PHONE : '7410745222';
     var telUrl  = (typeof CONTACT_PHONE_TEL !== 'undefined') ? CONTACT_PHONE_TEL : ('tel:+91' + phone);
-    var waMsg   = 'Hello, I would like to enquire about / book the following blood test:\n\n' + test.test_name;
+    var waMsg   = 'Hello, I would like to enquire about / book the following blood test:\n\n' + test.name;
     var waUrl   = 'https://wa.me/91' + phone + '?text=' + encodeURIComponent(waMsg);
 
     if (callBtn) { callBtn.href = telUrl; }
@@ -360,6 +364,7 @@
     if (grid) renderSkeleton(grid);
 
     function afterLoad() {
+      _tests = _tests.filter(function(t) { return typeof t.price === 'number' && t.price > 0; });
       window.dispatchEvent(new CustomEvent('smear:testsLoaded', { detail: _tests }));
       initSearch();
       renderTests();
@@ -369,21 +374,25 @@
       _tests = window.SMEAR_TESTS;
       afterLoad();
     } else {
-      fetch('./public/data/health-tests.json')
+      fetch('./public/data/smear-tests.json')
         .then(function(r){ return r.json(); })
         .then(function(data) {
           _tests = data;
           afterLoad();
         })
-        .catch(function() {
+        .catch(function(err) { console.error('BLOOD ERROR:', err);
           var g = document.getElementById('shop-test-grid');
           if (g) {
             g.className = '';
             g.innerHTML =
-              '<div class="error-state">' +
-                '<h3>Unable to load blood tests</h3>' +
-                '<p>Please ensure you are using a local web server (e.g. VS Code Live Server).</p>' +
-              '</div>';
+              '<div class="error-state" style="padding: 40px 20px; background: #fff0f0; border: 1px solid #ffcccc; border-radius: 12px; margin-top: 40px;">' +
+  '<h3 style="color: #d32f2f; margin-bottom: 12px; font-size: 1.5rem;">Security Block: Cannot Load Data from file:///</h3>' +
+  '<p style="color: #333; margin-bottom: 16px; font-size: 1.1rem;">Modern browsers block loading JSON files directly from your computer.</p>' +
+  '<p style="color: #333; font-weight: bold; font-size: 1.1rem;">Please open the website using the local server we started:</p>' +
+  '<div style="background: #fff; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 1.2rem; color: #000; display: inline-block; border: 1px solid #ccc; margin-top: 10px;">' +
+    '<a href="http://localhost:8000/blood-tests.html" style="color: #2563eb; text-decoration: none;">http://localhost:8000/blood-tests.html</a>' +
+  '</div>' +
+'</div>';
           }
         });
     }

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-diabetes-gold",
+  "test_name": "Diabetes Gold Package",
+  "slug": "diabetes-gold",
+  "source_url": "https://www.metropolisindia.com/parameter/diabetes-gold",
+  "canonical_url": "https://www.metropolisindia.com/parameter/diabetes-gold",
+  "page_title": "Diabetes Gold \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1455
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

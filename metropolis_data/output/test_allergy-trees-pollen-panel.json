@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-trees-pollen-panel",
+  "test_name": "Allergy - Tree Pollen Panel",
+  "slug": "allergy-trees-pollen-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-trees-pollen-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-trees-pollen-panel",
+  "page_title": "Pollen Allergy Test Price & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3950
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

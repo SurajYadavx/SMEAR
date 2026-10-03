@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-homa-index-insulin-resistance-test",
+  "test_name": "HOMA IR Test",
+  "slug": "homa-index-insulin-resistance-test",
+  "source_url": "https://www.metropolisindia.com/parameter/homa-index-insulin-resistance-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/homa-index-insulin-resistance-test",
+  "page_title": "HOMA-IR Test: Price, Procedure, Normal Range, Interpretation & Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1370
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": "Fasting sample required. 3 ml of serum and 2 ml of fluoride plasma",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

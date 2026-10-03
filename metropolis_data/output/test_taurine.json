@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-taurine",
+  "test_name": "Taurine DBS Test",
+  "slug": "taurine",
+  "source_url": "https://www.metropolisindia.com/parameter/taurine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/taurine",
+  "page_title": "Taurine DBS Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6450
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Taurine DBS Test measure?",
+      "answer": "The Taurine DBS (dried blood spot) test measures the level of taurine in the blood."
+    },
+    {
+      "question": "Why is Taurine DBS Test done?",
+      "answer": "\u2022 The taurine DBS test is typically performed on newborns as part of a newborn screening panel. \u2022 To detect taurine deficiency \u2022 To monitor taurine levels in patients with certain diseases like cystinuria or epilepsy \u2022 To evaluate the effectiveness of taurine supplementation"
+    },
+    {
+      "question": "When is Taurine Test recommended and who should take the test?",
+      "answer": "Your doctor may recommend the Taurine Test if \u2022 you have symptoms such as seizures, developmental delays, or vision changes that may indicate taurine deficiency or toxicity, or \u2022 you have a known condition that affects taurine levels, such as cystinuria or epilepsy."
+    },
+    {
+      "question": "What if the results of the Taurine Test are abnormal?",
+      "answer": "Abnormal results may indicate either a deficiency or excess of taurine in the body."
+    },
+    {
+      "question": "What to expect during the Taurine Test?",
+      "answer": "The Taurine test is a simple blood test that involves collecting a small amount of blood from your finger or heel. The blood is collected on special filter paper and dried before sending to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the Taurine Test?",
+      "answer": "\u2022 Inform your doctor about any medications, supplements, or health conditions you have, as they may affect your test results. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Taurine Test?",
+      "answer": "Other tests that may be ordered in conjunction with the Taurine Test include complete blood count (CBC), liver function tests, and tests to assess amino acid metabolism, like methionine loading test and plasma amino acid analysis."
+    },
+    {
+      "question": "What is the Taurine DBS Test also known as?",
+      "answer": "Taurine Dried Blood Spot Test"
+    },
+    {
+      "question": "What is taurine deficiency?",
+      "answer": "Taurine deficiency occurs when there is an inadequate intake of taurine from the diet, a reduced ability to produce taurine in the body, or when the body's ability to absorb or utilise taurine is impaired. Taurine deficiency is most common in infants who are fed formula that is low in taurine. It can also occur in people with certain health conditions, such as kidney disease, liver disease, and cystic fibrosis. Mild deficiency may not cause any symptoms, while severe deficiency can cause a number of problems, including seizures, heart problems, muscle weakness, developmental delays and cognitive decline."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

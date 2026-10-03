@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-apa-iggphospholipid-antibodyserum",
+  "test_name": "Anti Phospholipid Antibody Test",
+  "slug": "apa-iggphospholipid-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/apa-iggphospholipid-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/apa-iggphospholipid-antibodyserum",
+  "page_title": "Anti Phospholipid Antibody Test - Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Heparin should be discontinued for 1 day and oral anticoagulants for 7 days before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive Anti Phospholipid Antibody Test mean?",
+      "answer": "A positive result suggests the presence of antibodies linked to Antiphospholipid Syndrome (APS) or autoimmune conditions such as Lupus, which may increase your risk of developing blood clots or pregnancy complications."
+    },
+    {
+      "question": "Can this test confirm Antiphospholipid Syndrome in one go?",
+      "answer": "No. A confirmed APS diagnosis requires two positive results taken at least 12 weeks apart along with clinical evidence of clotting or pregnancy-related issues."
+    },
+    {
+      "question": "Do I need to fast before the Anti Phospholipid Antibody Test?",
+      "answer": "Fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "Can medications affect my Anti Phospholipid Antibody Test results?",
+      "answer": "Yes. Heparin and oral anticoagulants can interfere with results, so they should be stopped as advised by your doctor before testing."
+    },
+    {
+      "question": "Are there any risks involved in the test?",
+      "answer": "Risks are minimal and similar to any blood draw, including slight bruising or discomfort at the puncture site."
+    },
+    {
+      "question": "When should the test be repeated?",
+      "answer": "If antibodies are detected, your doctor may repeat the test after 12 weeks to confirm persistent positivity, which is essential for APS diagnosis."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

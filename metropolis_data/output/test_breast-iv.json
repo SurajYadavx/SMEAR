@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-breast-iv",
+  "test_name": "Breast IV Test",
+  "slug": "breast-iv",
+  "source_url": "https://www.metropolisindia.com/parameter/breast-iv",
+  "canonical_url": "https://www.metropolisindia.com/parameter/breast-iv",
+  "page_title": "Breast IV test  - Price, Purpose, Preparation and Book Online",
+  "pricing": {
+    "selling_price": 8840
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Paraffin blocks with the original histopathology report and all relevant clinical details are required.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the IHC test?",
+      "answer": "There is no specific timing requirement for the IHC test, as it's performed on preserved tissue samples in the laboratory, not on fresh biological samples from your body."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the IHC test, and for how long?",
+      "answer": "No fasting is required for the IHC test since it analyses tissue samples rather than blood or other body fluids that might be affected by food intake."
+    },
+    {
+      "question": "Can dehydration affect my IHC test results?",
+      "answer": "Dehydration cannot affect IHC test results because the test examines proteins in fixed tissue samples that are unaffected by your current hydration status or metabolic state."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the IHC test?",
+      "answer": "No special dietary preparation or medication adjustments are needed for the IHC test, though you should follow any instructions related to your original biopsy procedure."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the IHC test?",
+      "answer": "The IHC test doesn't involve blood collection. It's performed on tissue samples obtained through biopsy procedures, not through blood draws or other sample collection methods."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The IHC test itself poses no risks, as it's a laboratory analysis. Any risks related to the original biopsy procedure used to obtain your tissue sample are minimal."
+    },
+    {
+      "question": "What level of IHC test is normal?",
+      "answer": "IHC results indicate whether specific proteins are expressed (positive) or not (negative), and the intensity and percentage of stained cells are reported using standardized scoring systems such as the Allred score for ER/PR and ASCO-CAP scoring for HER2."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

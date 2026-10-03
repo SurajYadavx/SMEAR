@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cmv-igm-antibody-serum",
+  "test_name": "Cytomegalovirus CMV IGM Antibody By CLIA Serum Test",
+  "slug": "cmv-igm-antibody-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/cmv-igm-antibody-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cmv-igm-antibody-serum",
+  "page_title": "Cytomegalovirus CMV IGM Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 970
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

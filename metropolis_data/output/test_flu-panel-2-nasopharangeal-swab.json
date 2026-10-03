@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-flu-panel-2-nasopharangeal-swab",
+  "test_name": "Covi-Influenza Viral panel",
+  "slug": "flu-panel-2-nasopharangeal-swab",
+  "source_url": "https://www.metropolisindia.com/parameter/flu-panel-2-nasopharangeal-swab",
+  "canonical_url": "https://www.metropolisindia.com/parameter/flu-panel-2-nasopharangeal-swab",
+  "page_title": "Covi-Influenza Viral panel \u2013 Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6200
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 3:00pm and 11:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What viruses does the Covi-Influenza Viral Panel detect?",
+      "answer": "It detects six major respiratory viruses \u2014 Influenza A, Influenza B, H1N1, H3N2, RSV, and SARS-CoV-2 (COVID-19)."
+    },
+    {
+      "question": "What sample is required for the test?",
+      "answer": "A nasopharyngeal and oropharyngeal swab collected in a VTM tube."
+    },
+    {
+      "question": "How soon are results available?",
+      "answer": "Reports are usually available on the same day once the sample reaches the lab."
+    },
+    {
+      "question": "Is fasting needed for this test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can I take nasal medication before the test?",
+      "answer": "Avoid using nasal sprays or decongestants before sample collection."
+    },
+    {
+      "question": "Can this test differentiate between COVID-19 and flu?",
+      "answer": "Yes, it distinguishes between influenza viruses and SARS-CoV-2 infections in a single test."
+    },
+    {
+      "question": "Who should take this test?",
+      "answer": "Anyone with fever, cough, sore throat, or flu-like symptoms, especially during flu or COVID-19 seasons."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

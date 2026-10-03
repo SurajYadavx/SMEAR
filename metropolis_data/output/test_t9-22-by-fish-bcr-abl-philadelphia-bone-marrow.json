@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-t9-22-by-fish-bcr-abl-philadelphia-bone-marrow",
+  "test_name": "t(9 22) Bcr-Abl (PHILADELPHIA) Bone Marrow by FISH Test",
+  "slug": "t9-22-by-fish-bcr-abl-philadelphia-bone-marrow",
+  "source_url": "https://www.metropolisindia.com/parameter/t9-22-by-fish-bcr-abl-philadelphia-bone-marrow",
+  "canonical_url": "https://www.metropolisindia.com/parameter/t9-22-by-fish-bcr-abl-philadelphia-bone-marrow",
+  "page_title": "t(9 22) Bcr-Abl (PHILADELPHIA) Bone Marrow by FISH Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5045
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "3rd day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take t(9 22) Bcr-Abl (PHILADELPHIA) Bone Marrow by FISH Test?",
+      "answer": "Fluorescence in situ hybridization (FISH) using BCR/ABL 1 probe is useful in the identification of the Philadelphia chromosome in patients with CML, ALL, or AML."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Doctors may prescribe this test on bone marrow in certain types of blood cancers like CML, ALL, AML for diagnosis and managenemt."
+    },
+    {
+      "question": "More Info on t(9 22) Bcr-Abl (PHILADELPHIA) Bone Marrow by FISH Test",
+      "answer": "This test is performed on bonemarrow sample to detect the chromosomal abnormalities of the BCR and ABL1 genes involved in translocation t(9;22) associated with chronic myelogenous leukemia (CML), acute lymphocytic leukemia (ALL) and acute myeloid leukemia (AML) using FISH. FISH is useful in monitoring remission in patient, diagnosing leukemia; as a target of therapuetic drugs, to measure objective response to chemotherapyand also helps in decision making to increase drug dose or to change to a second-line treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

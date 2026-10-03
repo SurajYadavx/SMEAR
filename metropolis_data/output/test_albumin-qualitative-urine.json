@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-albumin-qualitative-urine",
+  "test_name": "Albumin Qualitative (Urine)",
+  "slug": "albumin-qualitative-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/albumin-qualitative-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/albumin-qualitative-urine",
+  "page_title": "Albumin Qualitative (Urine) \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 95
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

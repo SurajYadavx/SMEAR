@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-afp-alpha-feto-proteincliaserum",
+  "test_name": "AFP Test (Alpha-Fetoprotein)",
+  "slug": "afp-alpha-feto-proteincliaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/afp-alpha-feto-proteincliaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afp-alpha-feto-proteincliaserum",
+  "page_title": "AFP Test \u2013 Price, Procedure, Normal Range, Result Interpretation & Home Sample Collection",
+  "pricing": {
+    "selling_price": 1030
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the AFP test?",
+      "answer": "For pregnant women, the AFP test is most accurate between the 15th and 20th weeks of pregnancy. For cancer screening or monitoring, there's no specific best time of day \u2013 it can be done as per your doctor's recommended schedule."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the AFP test, and for how long?",
+      "answer": "No, fasting is not required for the AFP test. You can eat and drink normally before the test unless your doctor has instructed otherwise because you're having additional tests that require fasting."
+    },
+    {
+      "question": "Can dehydration affect my AFP test results?",
+      "answer": "Severe dehydration can make your blood more concentrated, which might potentially alter test results. While not commonly problematic for AFP testing specifically, staying adequately hydrated before any blood draw is always good practice."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the AFP test?",
+      "answer": "No special dietary preparation is needed for the AFP test. However, inform your doctor about all medications, biotin supplements, and vitamins you're taking, as some substances could potentially interfere with results. Don't stop prescribed medications without consulting your doctor."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the AFP test?",
+      "answer": "The procedure involves cleaning your arm with an antiseptic, tying a band around your upper arm to make the veins visible, inserting a small needle into the vein, and collecting blood into a vial. The entire process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are very low and similar to any standard blood test. You may experience slight pain or bruising at the needle site, feel dizzy or lightheaded, or, in very rare cases, develop an infection."
+    },
+    {
+      "question": "What level of AFP test is normal?",
+      "answer": "For non-pregnant adults, normal AFP levels are typically less than or equal to 7 ng/mL. For pregnant women, normal levels change each week of pregnancy and are interpreted based on gestational age and reported as multiples of the median."
+    },
+    {
+      "question": "What is the AFP test also known as?",
+      "answer": "The AFP test is also known by several other names, including Total AFP, Alpha-fetoprotein-L3%, and AFP Tumour Marker. These terms all refer to the same blood test that measures alpha-fetoprotein levels."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

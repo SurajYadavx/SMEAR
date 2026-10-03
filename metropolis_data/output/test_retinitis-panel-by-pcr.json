@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-retinitis-panel-by-pcr",
+  "test_name": "Retinitis Profile by Real-Time PCR - Aqueous/Vitreous Fluid",
+  "slug": "retinitis-panel-by-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/retinitis-panel-by-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/retinitis-panel-by-pcr",
+  "page_title": "Retinitis Panel By PCR Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 10400
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Retinitis Profile measure?",
+      "answer": "This test detects the presence of herpes simplex virus types 1 and 2 (HSV-1 and HSV-2), cytomegalovirus (CMV), and varicella-zoster virus (VZV) in the aqueous/vitreous fluid of the eye."
+    },
+    {
+      "question": "Why is the Retinitis Profile done?",
+      "answer": "\u2022 To diagnose retinitis caused by HSV-1, HSV-2, CMV, or VZV \u2022 To monitor the effectiveness of treatment for retinitis \u2022 To identify other conditions that affect the retina and require different treatment approaches \u2022 To assess the risk of developing retinitis in high-risk individuals"
+    },
+    {
+      "question": "When is Retinitis Profile recommended and who should take the test?",
+      "answer": "This test may be recommended if you have \u2022 symptoms of retinitis such as blurred vision, floaters, and eye pain, \u2022 a diagnosis of retinitis or a known history of HSV, CMV, or VZV infection, or \u2022 conditions that weaken the immune system, such as HIV/AIDS, and increase the risk for retinitis."
+    },
+    {
+      "question": "What if the results of the Retinitis Profile are abnormal?",
+      "answer": "Abnormal results may suggest an active infection with HSV-1, HSV-2, CMV, or VZV."
+    },
+    {
+      "question": "What to expect during the Retinitis Profile - Aqueous/Vitreous Fluid?",
+      "answer": "During this test, a small amount of aqueous/vitreous fluid will be obtained from your eye using a sterile procedure. The sample will be sent to the laboratory for analysis"
+    },
+    {
+      "question": "What preparations are required before the Retinitis Profile?",
+      "answer": "\u2022 Discuss with your clinician about the need for this test and provide relevant clinical history. \u2022 No specific dietary restrictions or fasting are necessary. \u2022 Adhere to pre-test instructions provided by your doctor and inform them if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Retinitis Profile?",
+      "answer": "\u2022 Ophthalmologic examination: To assess the health of your eyes and look for signs of retinitis \u2022 CD4 cell count: To evaluate immune status in individuals at risk for retinitis, such as those with HIV/AIDS \u2022 Other ocular fluid analyses: To investigate other causes of eye inflammation and determine the appropriate treatment"
+    },
+    {
+      "question": "What is the Retinitis Profile by Real-time PCR - Aqueous/Vitreous Fluid also known as?",
+      "answer": "Real Time PCR for Retinitis"
+    },
+    {
+      "question": "What is retinitis?",
+      "answer": "Retinitis is an inflammation of the retina, the light-sensitive tissue at the back of the eye. It can be caused by factors like viral infections. Retinitis can lead to vision loss or blindness if not diagnosed and treated promptly."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

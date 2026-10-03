@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-porphyria-profile-urine-spot",
+  "test_name": "Porphyria Profile - Urine Spot",
+  "slug": "porphyria-profile-urine-spot",
+  "source_url": "https://www.metropolisindia.com/parameter/porphyria-profile-urine-spot",
+  "canonical_url": "https://www.metropolisindia.com/parameter/porphyria-profile-urine-spot",
+  "page_title": "Porphyrin Urine Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5980
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Porphyria Profile measure?",
+      "answer": "This test measures the levels of Aminolevulinic acid (ALA) and porphobilinogen (PBG) in your urine."
+    },
+    {
+      "question": "Why is Porphyria Profile done?",
+      "answer": "\u2022 To diagnose and monitor various types of porphyria \u2022 To evaluate the effectiveness of treatment for porphyria \u2022 To identify the presence of porphyria in individuals with symptoms such as abdominal pain, neurological symptoms, or skin sensitivity to sunlight \u2022 To assess the risk of developing acute attacks in those with a family history of porphyria"
+    },
+    {
+      "question": "When is Porphyria Profile recommended and who should take the test?",
+      "answer": "Your doctor may recommend this test if you have \u2022 symptoms suggestive of porphyria such as abdominal pain, nausea, fatigue, or skin photosensitivity, \u2022 a family history of porphyria, \u2022 unexplained neurologic symptoms or anaemia, or \u2022 a need to evaluate the effectiveness of treatment for porphyria."
+    },
+    {
+      "question": "What if the results of the Porphyria Profile are abnormal?",
+      "answer": "Abnormal results may indicate various types of porphyria, such as acute intermittent porphyria or porphyria cutanea tarda."
+    },
+    {
+      "question": "What to expect during the Porphyria Profile - Urine Spot?",
+      "answer": "During this test, you will have to collect your fresh urine sample in a container. This sample will be sent to a laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Porphyria Profile?",
+      "answer": "Follow any specific instructions provided by your doctor regarding dietary restrictions or medication adjustments. Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Porphyria Profile?",
+      "answer": "\u2022 Blood tests to measure levels of additional porphyrins and heme precursors \u2022 Genetic testing to identify specific gene mutations associated with different types of porphyria \u2022 Liver function tests to assess liver involvement \u2022 Skin biopsy to evaluate skin-related symptoms"
+    },
+    {
+      "question": "What is the Porphyria Profile, Urine Spot also known as?",
+      "answer": "Urine ALA and PBG test"
+    },
+    {
+      "question": "What is porphyria?",
+      "answer": "Porphyria is a group of rare genetic disorders that affect the production of heme, a component of haemoglobin. These disorders result in the accumulation of certain chemicals called porphyrins, which can cause symptoms such as abdominal pain, neurological problems, and skin photosensitivity."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

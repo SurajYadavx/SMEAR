@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-mpo-by-eiap-ancaserum",
+  "test_name": "MPO by EIA, p-ANCA Serum Test",
+  "slug": "mpo-by-eiap-ancaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/mpo-by-eiap-ancaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/mpo-by-eiap-ancaserum",
+  "page_title": "MPO Blood Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1600
+  },
+  "specimen": "p-ANCA Serum Test",
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive MPO-ANCA result indicate?",
+      "answer": "A positive MPO-ANCA result suggests the presence of autoimmune vasculitis, most commonly microscopic polyangiitis or eosinophilic granulomatosis with polyangiitis."
+    },
+    {
+      "question": "Is fasting required before the MPO-ANCA test?",
+      "answer": "No, you can eat and drink normally before the test."
+    },
+    {
+      "question": "What type of sample is collected for the MPO-ANCA test?",
+      "answer": "A small blood sample taken from a vein in your arm is used."
+    },
+    {
+      "question": "Can medications affect the MPO-ANCA test results?",
+      "answer": "Yes, immunosuppressive medicines can reduce antibody levels. Always inform your doctor about your medications before testing."
+    },
+    {
+      "question": "Are there any risks during the MPO-ANCA test?",
+      "answer": "The test is safe, with minimal discomfort or bruising at the puncture site, which typically resolves quickly."
+    },
+    {
+      "question": "How often should the MPO-ANCA test be repeated?",
+      "answer": "Your doctor may repeat this test to monitor disease activity and response to treatment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

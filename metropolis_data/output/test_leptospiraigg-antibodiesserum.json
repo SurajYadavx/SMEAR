@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-leptospiraigg-antibodiesserum",
+  "test_name": "Leptospira IgG Antibodies Test",
+  "slug": "leptospiraigg-antibodiesserum",
+  "source_url": "https://www.metropolisindia.com/parameter/leptospiraigg-antibodiesserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leptospiraigg-antibodiesserum",
+  "page_title": "Leptospira IgG Antibodies \u2013 Price, Purpose and Diagnosis",
+  "pricing": {
+    "selling_price": 1575
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Leptospira IgG Antibodies Test?",
+      "answer": "Your doctor may advise this test after symptoms and exposure history are reviewed. IgG antibodies are more useful later in illness or during recovery rather than very early infection."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Leptospira IgG Antibodies Test, and for how long?",
+      "answer": "No, overnight fasting is not required for the Leptospira IgG Antibodies Test. You can eat and drink normally unless your doctor has advised fasting for another test."
+    },
+    {
+      "question": "Can dehydration affect my Leptospira IgG Antibodies Test results?",
+      "answer": "Mild dehydration usually does not directly affect Leptospira IgG antibody detection. However, normal hydration is recommended before any blood test unless your doctor has restricted fluids."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Leptospira IgG Antibodies Test?",
+      "answer": "No special diet is needed. Inform your doctor about antibiotics, current medicines, recent fever, exposure to floodwater or animals and any previous test reports."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Leptospira IgG Antibodies Test?",
+      "answer": "A healthcare professional ties a tourniquet around your arm, cleans the puncture site, uses a sterile needle to collect blood for serum testing, removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising, swelling or temporary discomfort at the needle site."
+    },
+    {
+      "question": "What level of Leptospira IgG Antibodies Test is normal?",
+      "answer": "A result below 9 NTU is considered negative for Leptospira IgG antibodies. Your doctor will interpret your result with your symptoms, exposure history and other test findings if needed."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

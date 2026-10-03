@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-rbc-folate",
+  "test_name": "RBC Folate Test - Whole Blood",
+  "slug": "rbc-folate",
+  "source_url": "https://www.metropolisindia.com/parameter/rbc-folate",
+  "canonical_url": "https://www.metropolisindia.com/parameter/rbc-folate",
+  "page_title": "RBC Folate Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2520
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

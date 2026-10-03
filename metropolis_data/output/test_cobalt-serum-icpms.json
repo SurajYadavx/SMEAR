@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cobalt-serum-icpms",
+  "test_name": "Cobalt Serum Test",
+  "slug": "cobalt-serum-icpms",
+  "source_url": "https://www.metropolisindia.com/parameter/cobalt-serum-icpms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cobalt-serum-icpms",
+  "page_title": "Cobalt Serum Icpms Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2990
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

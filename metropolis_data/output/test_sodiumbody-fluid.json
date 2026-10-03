@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-sodiumbody-fluid",
+  "test_name": "Sodium Body Fluid Test",
+  "slug": "sodiumbody-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/sodiumbody-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sodiumbody-fluid",
+  "page_title": "Sodium Body Fluid Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 295
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

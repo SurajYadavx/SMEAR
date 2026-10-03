@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-iron-studies-test",
+  "test_name": "Iron Studies (Iron Profile) Test",
+  "slug": "iron-studies-test",
+  "source_url": "https://www.metropolisindia.com/parameter/iron-studies-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/iron-studies-test",
+  "page_title": "Iron Profile Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 900
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take test_name?",
+      "answer": "This is the Iron studies test"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This is the Iron studies test"
+    },
+    {
+      "question": "More Info on test_name",
+      "answer": "This is the Iron studies test"
+    },
+    {
+      "question": "What is the best time to take the iron studies test?",
+      "answer": "The best time for an iron studies test is in the morning, as serum iron levels naturally fluctuate throughout the day and are typically highest in the morning hours, providing the most accurate baseline measurement."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the iron studies test, and for how long?",
+      "answer": "Yes, it's generally recommended to fast for 12 hours before the test. This ensures that recent food intake doesn't affect serum iron levels, providing more accurate results for proper medical interpretation and diagnosis."
+    },
+    {
+      "question": "Can dehydration affect my iron studies test results?",
+      "answer": "Yes, dehydration can affect your test results by concentrating blood components, potentially leading to falsely elevated readings. It's important to maintain normal hydration levels before your test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the iron studies test?",
+      "answer": "Avoid iron-containing supplements for 24 hours before the test as directed by your doctor. Inform your doctor about all medications you're taking, especially those containing iron or affecting iron absorption."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the iron studies test?",
+      "answer": "A healthcare professional cleans your arm with an antiseptic, applies a tourniquet to make the veins visible, inserts a thin needle into a vein to collect blood, removes the needle, and applies a bandage. The entire process takes less than five minutes and is relatively painless."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The iron studies test carries minimal risks typical of any blood draw, including slight pain at the needle site, minor bruising, or, rarely, dizziness. Serious complications are extremely uncommon with this routine procedure."
+    },
+    {
+      "question": "What level of iron studies test is normal?",
+      "answer": "Normal ranges vary by parameter: Serum Iron (33-193 \u03bcg/dL), TIBC (250-450 \u03bcg/dL), UIBC (135-392 \u03bcg/dL), and Transferrin Saturation (14-50%). Your doctor will interpret results based on your individual health status."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

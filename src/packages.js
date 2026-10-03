@@ -20,50 +20,7 @@
   var _searchQuery = '';
   var _debounce = null;
 
-  /* Category emojis/icons for visual variety */
-  var CAT_ICONS = {
-    'allergy'     : '🤧',
-    'anemia'      : '🩸',
-    'arthritis'   : '🦴',
-    'cancer'      : '🎗️',
-    'cardiac'     : '❤️',
-    'child'       : '👶',
-    'detox'       : '🌿',
-    'diabetes'    : '💉',
-    'drug'        : '🧪',
-    'employee'    : '🏢',
-    'female'      : '👩',
-    'fever'       : '🌡️',
-    'food'        : '🥗',
-    'full'        : '🏥',
-    'glp'         : '💊',
-    'gut'         : '🫁',
-    'hair'        : '💇',
-    'hepatitis'   : '🦠',
-    'hormonal'    : '⚗️',
-    'immunity'    : '🛡️',
-    'mens'        : '👨',
-    'metropolis'  : '🏙️',
-    'monsoon'     : '🌧️',
-    'orange'      : '🍊',
-    'pcod'        : '🔬',
-    'pcos'        : '🔬',
-    'pregnancy'   : '🤰',
-    'premarital'  : '💍',
-    'preoperative': '🩺',
-    'senior'      : '👴',
-    'skin'        : '✨',
-    'sports'      : '🏃',
-    'std'         : '🏥',
-    'summer'      : '☀️',
-    'thyrocare'   : '🔬',
-    'thyroid'     : '🦋',
-    'truhealth'   : '💚',
-    'tuberculosis': '🫁',
-    'tumour'      : '🔬',
-    'vitamin'     : '💊',
-  };
-
+  
   var CAT_COLORS = [
     '#0d3b3e','#1a6b6e','#2aa8b0','#1a7d50',
     '#2563eb','#7c3aed','#d97706','#dc2626',
@@ -72,11 +29,8 @@
   ];
 
   function getCatIcon(id) {
-    var lower = id.toLowerCase();
-    for (var key in CAT_ICONS) {
-      if (lower.indexOf(key) > -1) return CAT_ICONS[key];
-    }
-    return '🏥';
+    if (window.SmearVisuals) return window.SmearVisuals.getIconSVG(id);
+    return '';
   }
 
   function getCatColor(index) {
@@ -209,26 +163,34 @@
     var subDesc = document.getElementById('packages-subtitle');
     if (subDesc) subDesc.textContent = 'Browse ' + _categories.length + ' categories of comprehensive diagnostic packages.';
 
+    
+    var catCounts = {};
+    _packages.forEach(function(p) {
+      if(p.categoryId) catCounts[p.categoryId] = (catCounts[p.categoryId] || 0) + 1;
+    });
+
     _categories.forEach(function(cat, idx) {
-      if (cat.packageCount === 0) return;
+      var count = catCounts[cat.categoryId] || 0;
+      if (count === 0) return;
+
       var color = getCatColor(idx);
-      var icon  = getCatIcon(cat.id);
+      var icon  = getCatIcon(cat.categoryId);
       var card  = document.createElement('div');
       card.className = 'pkg-cat-card';
       card.setAttribute('style', '--cat-color:' + color);
       card.setAttribute('tabindex', '0');
       card.setAttribute('role', 'button');
-      card.setAttribute('aria-label', 'Explore ' + cat.name + ' packages');
+      card.setAttribute('aria-label', 'Explore ' + cat.categoryName + ' packages');
 
       card.innerHTML =
         '<div class="pkg-cat-card__icon">' + icon + '</div>' +
-        '<div class="pkg-cat-card__name">' + esc(cat.name) + '</div>' +
-        '<div class="pkg-cat-card__count">' + cat.packageCount + ' Package' + (cat.packageCount !== 1 ? 's' : '') + '</div>' +
+        '<div class="pkg-cat-card__name">' + esc(cat.categoryName) + '</div>' +
+        '<div class="pkg-cat-card__count">' + count + ' Package' + (count !== 1 ? 's' : '') + '</div>' +
         '<div class="pkg-cat-card__explore">Explore →</div>';
 
       card.addEventListener('click', function() {
-        _activeCategory = cat.id;
-        setURLState(cat.id, '');
+        _activeCategory = cat.categoryId;
+        setURLState(cat.categoryId, '');
         renderPackagesForCategory();
       });
       card.addEventListener('keydown', function(e) {
@@ -248,11 +210,13 @@
     var grid = getGrid();
     if (!grid) return;
 
-    var cat = _categories.find(function(c) { return c.id === _activeCategory; });
-    if (!cat) { renderCategoryCards(); return; }
+    var cat = _activeCategory ? _categories.find(function(c) { return c.categoryId === _activeCategory; }) : null;
+    if (!_activeCategory && !_searchQuery) { renderCategoryCards(); return; }
 
     var heading = getHeading();
-    if (heading) heading.textContent = cat.name;
+    
+    if (heading) heading.textContent = cat ? cat.categoryName : 'All Packages';
+
 
     // Show search section
     var searchSection = getSearchSection();
@@ -280,7 +244,9 @@
     var qNorm = query.toLowerCase().trim();
 
     var filtered = _packages.filter(function(pkg) {
-      if (pkg.categoryId !== _activeCategory) return false;
+      
+    if (_activeCategory && pkg.categoryId !== _activeCategory) return false;
+
       if (!qNorm) return true;
       var name = (pkg.name || '').toLowerCase();
       return name.indexOf(qNorm) > -1;
@@ -303,9 +269,9 @@
     }
 
     filtered.forEach(function(pkg) {
-      var price    = extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-      var discount = extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
-      var imgUrl   = pkg.sourceData && pkg.sourceData.preview_image_url;
+      var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
+      var discount = typeof pkg.discount === 'number' ? pkg.discount : extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
+      var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
 
       var card = document.createElement('div');
       card.className = 'pkg-card';
@@ -320,7 +286,7 @@
           (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
         '</div>' +
         '<div class="pkg-card__body">' +
-          '<div class="pkg-card__category">' + esc(cat.name) + '</div>' +
+          '<div class="pkg-card__category">' + esc(cat.categoryName) + '</div>' +
           '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
           (price > 0 ? '<div class="pkg-card__price">₹' + price + '</div>' : '') +
           '<div class="pkg-card__ctas">' +
@@ -424,10 +390,10 @@
       }
 
       filtered.slice(0, 60).forEach(function(pkg) {
-        var price    = extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-        var discount = extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
-        var imgUrl   = pkg.sourceData && pkg.sourceData.preview_image_url;
-        var catObj   = _categories.find(function(c) { return c.id === pkg.categoryId; });
+        var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
+        var discount = typeof pkg.discount === 'number' ? pkg.discount : extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
+        var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
+        var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
         var card = document.createElement('div');
         card.className = 'pkg-card';
@@ -440,7 +406,7 @@
             (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
           '</div>' +
           '<div class="pkg-card__body">' +
-            '<div class="pkg-card__category">' + esc(catObj ? catObj.name : pkg.categoryId) + '</div>' +
+            '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
             '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
             (price > 0 ? '<div class="pkg-card__price">₹' + price + '</div>' : '') +
             '<div class="pkg-card__ctas">' +
@@ -465,6 +431,17 @@
           }
         });
       });
+    }
+  }
+
+  function handleGlobalSearch(q) {
+    _searchQuery = q.trim();
+    if (_searchQuery.length === 0) {
+      if (_activeCategory) renderPackagesForCategory('');
+      else renderCategoryCards();
+    } else {
+      _activeCategory = null;
+      renderPackagesForCategory(_searchQuery);
     }
   }
 
@@ -553,6 +530,10 @@
     }
 
     function afterLoad() {
+      _packages = _packages.filter(function(p) { return typeof p.price === 'number' && p.price > 0; });
+      _categories = _categories.filter(function(c) {
+        return _packages.some(function(p) { return p.categoryId === c.categoryId; });
+      });
       // Expose to global search
       if (window.SmearSearch) window.SmearSearch.init();
       window.dispatchEvent(new CustomEvent('smear:packagesLoaded', { detail: _packages }));
@@ -581,20 +562,24 @@
       afterLoad();
     } else {
       Promise.all([
-        fetch('./public/data/package-categories.json').then(function(r){ return r.json(); }),
-        fetch('./public/data/packages.json').then(function(r){ return r.json(); })
+        fetch('./public/data/smear-categories.json').then(function(r){ return r.json(); }),
+        fetch('./public/data/smear-packages.json').then(function(r){ return r.json(); })
       ]).then(function(values) {
         _categories = values[0];
         _packages   = values[1];
         afterLoad();
-      }).catch(function() {
+      }).catch(function(err) { console.error('PACKAGES ERROR:', err);
         var grid2 = getGrid();
         if (grid2) {
           grid2.innerHTML =
-            '<div class="error-state">' +
-              '<h3>Unable to load packages</h3>' +
-              '<p>Please ensure you are using a local web server (e.g. VS Code Live Server).</p>' +
-            '</div>';
+            '<div class="error-state" style="padding: 40px 20px; background: #fff0f0; border: 1px solid #ffcccc; border-radius: 12px; margin-top: 40px;">' +
+  '<h3 style="color: #d32f2f; margin-bottom: 12px; font-size: 1.5rem;">Security Block: Cannot Load Data from file:///</h3>' +
+  '<p style="color: #333; margin-bottom: 16px; font-size: 1.1rem;">Modern browsers block loading JSON files directly from your computer.</p>' +
+  '<p style="color: #333; font-weight: bold; font-size: 1.1rem;">Please open the website using the local server we started:</p>' +
+  '<div style="background: #fff; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 1.2rem; color: #000; display: inline-block; border: 1px solid #ccc; margin-top: 10px;">' +
+    '<a href="http://localhost:8000/packages.html" style="color: #2563eb; text-decoration: none;">http://localhost:8000/packages.html</a>' +
+  '</div>' +
+'</div>';
         }
       });
     }

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-g6pd-quantitative-reflex-qualitative",
+  "test_name": "G6PD Quantitative Reflex Qualitative Test",
+  "slug": "g6pd-quantitative-reflex-qualitative",
+  "source_url": "https://www.metropolisindia.com/parameter/g6pd-quantitative-reflex-qualitative",
+  "canonical_url": "https://www.metropolisindia.com/parameter/g6pd-quantitative-reflex-qualitative",
+  "page_title": "G6Pd Quantitative Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1210
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the G6PD Quantitative Reflex Qualitative Test check for?",
+      "answer": "It measures the G6PD enzyme level in your blood to detect deficiency that can cause haemolytic anaemia."
+    },
+    {
+      "question": "Why is the reflex qualitative test done?",
+      "answer": "It confirms deficiency if the quantitative enzyme level is borderline or low."
+    },
+    {
+      "question": "Do I need to fast before the G6PD test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "What causes low G6PD levels?",
+      "answer": "It\u2019s usually inherited and can cause red cell breakdown after exposure to certain drugs, infections, or foods."
+    },
+    {
+      "question": "Can G6PD deficiency be cured?",
+      "answer": "No, it is a genetic condition, but symptoms can be prevented by avoiding known triggers."
+    },
+    {
+      "question": "Why is the test important before taking antimalarial drugs?",
+      "answer": "Certain antimalarials like primaquine can cause haemolysis in G6PD-deficient individuals."
+    },
+    {
+      "question": "Is G6PD deficiency common?",
+      "answer": "Yes, it\u2019s one of the most common enzyme deficiencies worldwide, especially in people of African and Asian descent."
+    },
+    {
+      "question": "Can newborns be tested for G6PD deficiency?",
+      "answer": "Yes, the test is often part of newborn screening to prevent complications from jaundice."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

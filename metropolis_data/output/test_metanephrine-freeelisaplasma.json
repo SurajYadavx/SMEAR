@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-metanephrine-freeelisaplasma",
+  "test_name": "Metanephrine- Free Plasma",
+  "slug": "metanephrine-freeelisaplasma",
+  "source_url": "https://www.metropolisindia.com/parameter/metanephrine-freeelisaplasma",
+  "canonical_url": "https://www.metropolisindia.com/parameter/metanephrine-freeelisaplasma",
+  "page_title": "Metanephrine- Free Plasma Test \u2013 Blood Test for Hormone Levels",
+  "pricing": {
+    "selling_price": 5980
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": "Avoid bananas, pineapples, chocolates, coffee, ice cream, cereals, vanilla, potatoes, and vitamin B-complex for 48 hours before the test\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the Metanephrines Free Plasma Test used for?",
+      "answer": "It is used to detect rare adrenal or nerve tissue tumours like pheochromocytoma and paraganglioma that produce excess stress hormones."
+    },
+    {
+      "question": "Is fasting required before the test?",
+      "answer": "Yes, you should fast overnight before the test. Only water is allowed."
+    },
+    {
+      "question": "What should I avoid before the test?",
+      "answer": "Avoid bananas, pineapples, chocolates, coffee, ice cream, cereals, vanilla, potatoes, and B-complex vitamins for 48 hours."
+    },
+    {
+      "question": "Can stress affect the test results?",
+      "answer": "Yes, both emotional and physical stress can temporarily raise metanephrine levels."
+    },
+    {
+      "question": "How is the test performed?",
+      "answer": "A small blood sample is taken from your arm after resting for 20\u201330 minutes, using an EDTA tube for accurate measurement."
+    },
+    {
+      "question": "What does a high metanephrine level mean?",
+      "answer": "It may indicate a hormone-secreting tumour or other conditions causing excess catecholamine activity."
+    },
+    {
+      "question": "When will I get my test results?",
+      "answer": "Reports are available the next day once the sample reaches the lab."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-hiv-1-coreceptor-tropism-genotypic",
+  "test_name": "HIV-1 RNA Coreceptor Tropism (Genotype) by PCR & Sanger Sequencing - EDTA Plasma",
+  "slug": "hiv-1-coreceptor-tropism-genotypic",
+  "source_url": "https://www.metropolisindia.com/parameter/hiv-1-coreceptor-tropism-genotypic",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hiv-1-coreceptor-tropism-genotypic",
+  "page_title": "HIV 1 Coreceptor Tropism Genotypic Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6865
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "16th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the HIV-1 RNA Coreceptor Tropism test measure?",
+      "answer": "This test measures the genetic traits of the HIV-1 virus in your blood."
+    },
+    {
+      "question": "Why is the HIV-1 RNA Coreceptor Tropism test done?",
+      "answer": "\u2022 To identify which antiretroviral drugs will be most effective in halting viral replication in patients living with HIV \u2022 To evaluate response to treatment for HIV \u2022 To diagnose HIV infection in infants \u2022 To monitor disease progression \u2022 To evaluate the risk of disease transmission"
+    },
+    {
+      "question": "When is the HIV-1 RNA Coreceptor Tropism test recommended and who should take the test?",
+      "answer": "Your doctor might recommend this test if you have \u2022 a previous diagnosis of HIV, \u2022 viral load that isn\u2019t suppressed by antiretroviral therapy, \u2022 treatment failure or drug resistance, \u2022 a high viral load even after completing treatment, or \u2022 exposure to a partner with drug-resistant HIV."
+    },
+    {
+      "question": "What if the results of the HIV-1 RNA Coreceptor Tropism test are abnormal?",
+      "answer": "For a positive test, the result is \u201cvirus detected.\u201dAbnormal results may be seen in cases if the virus uses CXCR4 instead of CCR5 as its coreceptor."
+    },
+    {
+      "question": "What to expect during the HIV-1 RNA Coreceptor Tropism test?",
+      "answer": "A small amount of blood will be drawn from a vein in your arm and sent to the lab for analysis."
+    },
+    {
+      "question": "What preparations are required before the HIV-1 RNA Coreceptor Tropism test?",
+      "answer": "Avoid eating or drinking anything for eight hours before the test. Inform your doctor of any medications you are taking and of any specific requirements you have."
+    },
+    {
+      "question": "What other tests may be ordered with the HIV-1 RNA Coreceptor Tropism test?",
+      "answer": "\u2022 CD4 count: This count measures the number of CD4 cells in your blood and helps to evaluate immune system function. \u2022 Viral load test: This test measures the level of virus in your blood and helps to monitor disease progression and response to treatment."
+    },
+    {
+      "question": "What is the HIV-1 RNA Coreceptor Tropism also known as?",
+      "answer": "Tropism testing or simply HIV tropism"
+    },
+    {
+      "question": "What is HIV?",
+      "answer": "HIV stands for human immunodeficiency virus. It is a retrovirus that attacks the immune system. Over time, it compromises the body\u2019s ability to fight infections and diseases. HIV can cause acquired immune deficiency syndrome (AIDS), a condition characterised by a wide array of severe symptoms due to a weakened immune response."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

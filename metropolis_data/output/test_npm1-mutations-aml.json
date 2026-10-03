@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-npm1-mutations-aml",
+  "test_name": "NPM1 mutations AML Test",
+  "slug": "npm1-mutations-aml",
+  "source_url": "https://www.metropolisindia.com/parameter/npm1-mutations-aml",
+  "canonical_url": "https://www.metropolisindia.com/parameter/npm1-mutations-aml",
+  "page_title": "NPM1 mutations AML Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

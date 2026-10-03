@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-platelet-countthrombocyte-countblood",
+  "test_name": "Platelet Count - Thrombocyte Count",
+  "slug": "platelet-countthrombocyte-countblood",
+  "source_url": "https://www.metropolisindia.com/parameter/platelet-countthrombocyte-countblood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/platelet-countthrombocyte-countblood",
+  "page_title": "Platelet Count Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 260
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Platelet Count Test?",
+      "answer": "The Platelet Count Test can usually be done at any time of the day. Follow the appointment time given by Metropolis Healthcare or your doctor."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Platelet Count Test, and for how long?",
+      "answer": "No, overnight fasting is not required for the Platelet Count Test. You can eat and drink normally unless your doctor has advised fasting for other tests being done at the same time."
+    },
+    {
+      "question": "Can dehydration affect my Platelet Count Test results?",
+      "answer": "Mild dehydration usually does not significantly affect platelet count. However, severe dehydration may make blood components appear more concentrated, so normal hydration is recommended before the test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Platelet Count Test?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines you take, especially blood thinning medicines, chemotherapy medicines, heparin, aspirin or medicines that may affect platelet levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Platelet Count Test?",
+      "answer": "A healthcare professional cleans the skin, inserts a sterile needle into a vein in your arm, collects blood in an EDTA vacutainer, removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to a routine blood test. You may feel slight pain, mild bruising or temporary discomfort at the needle site."
+    },
+    {
+      "question": "What level of Platelet Count Test is normal?",
+      "answer": "The biological reference interval for platelet count is 140-440 10^3/\u03bcL. Your doctor will interpret your result along with your symptoms, medical history and other test findings if needed."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

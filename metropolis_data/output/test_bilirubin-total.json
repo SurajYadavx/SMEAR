@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-bilirubin-total",
+  "test_name": "Bilirubin Total Serum",
+  "slug": "bilirubin-total",
+  "source_url": "https://www.metropolisindia.com/parameter/bilirubin-total",
+  "canonical_url": "https://www.metropolisindia.com/parameter/bilirubin-total",
+  "page_title": "Book Bilirubin Total indirect test at your nearest Lab - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 195
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

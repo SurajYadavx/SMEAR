@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-glucose-120-min",
+  "test_name": "Glucose (120 min) Test",
+  "slug": "glucose-120-min",
+  "source_url": "https://www.metropolisindia.com/parameter/glucose-120-min",
+  "canonical_url": "https://www.metropolisindia.com/parameter/glucose-120-min",
+  "page_title": "Glucose (\u20b9100 min) Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 85
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

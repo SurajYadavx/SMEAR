@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-testosterone-total-serum",
+  "test_name": "Total Testosterone Test",
+  "slug": "testosterone-total-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/testosterone-total-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/testosterone-total-serum",
+  "page_title": "Book Testosterone Total Test - Price, Normal Range and Home Collection",
+  "pricing": {
+    "selling_price": 750
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Age and gender are required; Avoid high biotin doses (>5 mg/day) for at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the testosterone total serum test?",
+      "answer": "The best time is early morning, between 7 and 10 am, when testosterone levels naturally peak. This timing ensures the most accurate representation of your body's hormone production."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the testosterone total serum test, and for how long?",
+      "answer": "Overnight fasting is not mandatory for this test. However, your doctor may recommend it if other tests requiring fasting are done simultaneously."
+    },
+    {
+      "question": "Can dehydration affect my testosterone total serum test results?",
+      "answer": "Yes, dehydration can concentrate blood substances and potentially affect results. Maintain normal hydration levels before your test for accurate readings and comfortable blood collection."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the testosterone total serum test?",
+      "answer": "Follow your normal diet unless instructed otherwise. Inform your doctor about all medications, especially hormones, steroids, or supplements, as these can significantly affect testosterone levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the testosterone total serum test?",
+      "answer": "A trained phlebotomist cleans your arm, locates a vein, and uses a sterile needle to collect blood into a special tube. The procedure takes just minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and include slight pain during needle insertion, possible bruising at the puncture site, or, rarely, feeling lightheaded. Serious complications are extremely uncommon."
+    },
+    {
+      "question": "What level of the testosterone total serum test is normal?",
+      "answer": "Normal levels typically range between 300\u20131000 ng/dL in men and 15\u201370 ng/dL in women Your doctor will interpret results considering your gender, age, symptoms, and overall health."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

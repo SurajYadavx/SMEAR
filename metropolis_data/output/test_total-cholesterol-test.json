@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-total-cholesterol-test",
+  "test_name": "Cholesterol Test",
+  "slug": "total-cholesterol-test",
+  "source_url": "https://www.metropolisindia.com/parameter/total-cholesterol-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/total-cholesterol-test",
+  "page_title": "Cholesterol Test - Price, Purpose, Procedure| Book Online",
+  "pricing": {
+    "selling_price": 250
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "12-14 Hours of Fasting Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take test_name?",
+      "answer": "This is the Cholesterol-Total test"
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "This is the Cholesterol-Total test"
+    },
+    {
+      "question": "More Info on test_name",
+      "answer": "This is the Cholesterol-Total test"
+    },
+    {
+      "question": "What is the best time to take the cholesterol test?",
+      "answer": "The best time is in the morning, especially after completing the required 12 - 14-hour fasting period. A morning appointment helps you complete the overnight fasting period comfortably while ensuring accurate results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the cholesterol test, and for how long?",
+      "answer": "Yes, fasting for 12-14 hours is required for accurate results. During this period, you can only drink water. Fasting ensures triglyceride levels aren't affected by recent food intake."
+    },
+    {
+      "question": "Can dehydration affect my cholesterol test results?",
+      "answer": "Yes, dehydration can make your blood more concentrated, potentially causing falsely elevated cholesterol levels. Stay well-hydrated by drinking water even during the fasting period."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the cholesterol test?",
+      "answer": "Maintain your normal diet for several days before testing. Fast for 12-14 hours before the test. Continue prescribed medications unless advised otherwise by your doctor."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the cholesterol test?",
+      "answer": "A healthcare professional cleans your arm, ties a tourniquet, inserts a sterile needle into a vein, collects blood into a vial, then removes the needle and applies a bandage. The procedure is quick and generally painless."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The cholesterol test is very safe with minimal risks like slight pain, minor bruising, or, rarely, feeling lightheaded. Serious complications are extremely uncommon."
+    },
+    {
+      "question": "What level of cholesterol test is normal?",
+      "answer": "Normal total cholesterol is less than 200 mg/dL. Borderline high is 200-240 mg/dL, and high is 240 mg/dL or above. Your doctor will interpret results based on your overall health profile."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

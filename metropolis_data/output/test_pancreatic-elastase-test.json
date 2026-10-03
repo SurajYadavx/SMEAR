@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-pancreatic-elastase-test",
+  "test_name": "Fecal Elastase Test",
+  "slug": "pancreatic-elastase-test",
+  "source_url": "https://www.metropolisindia.com/parameter/pancreatic-elastase-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pancreatic-elastase-test",
+  "page_title": "Fecal Elastase Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 7350
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": "Provide complete medication history before sample collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the Fecal Elastase Test used for?",
+      "answer": "It helps detect exocrine pancreatic insufficiency and assess how well your pancreas produces digestive enzymes."
+    },
+    {
+      "question": "Is fasting required before the Fecal Elastase Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before providing your sample."
+    },
+    {
+      "question": "How is the Fecal Elastase Test sample collected?",
+      "answer": "A small stool sample is collected in a clean, leak-proof container provided by the lab and sent for testing."
+    },
+    {
+      "question": "What does a low fecal elastase level mean?",
+      "answer": "Low levels indicate your pancreas isn\u2019t producing enough digestive enzymes, suggesting pancreatic insufficiency."
+    },
+    {
+      "question": "Can medications affect the test results?",
+      "answer": "Some medicines may influence digestion; inform your doctor about all medications before collection."
+    },
+    {
+      "question": "Does taking pancreatic enzyme supplements interfere with this test?",
+      "answer": "No, the Fecal Elastase Test is not affected by pancreatic enzyme supplements (PERT)."
+    },
+    {
+      "question": "Are there any risks involved in this test?",
+      "answer": "There are no risks since it only requires a stool sample. It\u2019s completely non-invasive."
+    },
+    {
+      "question": "What is considered a normal Fecal Elastase level?",
+      "answer": "Normal pancreatic function is indicated by levels above 200 \u00b5g/g of stool."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

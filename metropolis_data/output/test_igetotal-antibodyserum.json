@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-igetotal-antibodyserum",
+  "test_name": "IgE Total Antibody Test",
+  "slug": "igetotal-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/igetotal-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/igetotal-antibodyserum",
+  "page_title": "Total IgE Test - Price, Purpose, Procedure | Book Online",
+  "pricing": {
+    "selling_price": 1150
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "High biotin doses (> 5 mg/day) should be avoided at least 8 hours before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the IgE test?",
+      "answer": "There is no specific best time for an IgE test. The test can be performed at any time of day, as IgE levels remain relatively stable throughout the day and are not significantly affected by timing."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the IgE test, and for how long?",
+      "answer": "No, overnight fasting is not required for the IgE test. You can eat and drink normally before the test, as food intake does not interfere with IgE antibody measurements in your blood."
+    },
+    {
+      "question": "Can dehydration affect my IgE test results?",
+      "answer": "Mild dehydration typically does not significantly impact IgE test results. However, severe dehydration may concentrate blood components and potentially affect readings, so maintaining normal hydration levels is recommended before any blood test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the IgE test?",
+      "answer": "No special dietary changes are needed before the IgE test. Most medications do not interfere with results, but inform your doctor about all medications and supplements, especially high-dose biotin supplements."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the IgE test?",
+      "answer": "The procedure is quick and simple. A healthcare professional cleans your arm, ties an elastic band around your upper arm, and inserts a small needle to collect blood. The entire process typically takes less than five minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The IgE test carries minimal risks similar to any standard blood draw. You may experience slight pain or bruising at the needle site, occasional dizziness, or, in very rare cases, minor infection at the puncture site."
+    },
+    {
+      "question": "What level of IgE test is normal?",
+      "answer": "Normal IgE levels for adults are typically 0-100 IU/mL according to standard reference ranges."
+    },
+    {
+      "question": "What is the IgE test also known as?",
+      "answer": "The IgE Test is also known as the Total IgE, the IgE Total Antibody Test, the Immunoglobulin E Total Serum Test, or simply as part of allergy blood testing panels for screening allergic conditions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

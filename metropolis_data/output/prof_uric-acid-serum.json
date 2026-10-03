@@ -1,0 +1,74 @@
+{
+  "profile_name": "Uric Acid Test",
+  "profile_url": "https://www.metropolisindia.com/parameter/uric-acid-serum",
+  "profile_slug": "uric-acid-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/uric-acid-serum",
+  "total_parameters": null,
+  "parameter_names": [],
+  "description": "Helps assess risk for gout and kidney stones, aids in evaluating hyperuricaemia and metabolic disorders",
+  "preparation": "Doctor's prescription and clinical history required",
+  "report_time": "after 4 hours",
+  "specimen": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the uric acid test?",
+      "answer": "The test can be done at any time during the day. However, it's often performed in the morning when included with other tests that may require fasting."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the uric acid test, and for how long?",
+      "answer": "Fasting is generally not required for a standalone uric acid test. However, if it's part of a larger panel, you may need to fast for 8 to 12 hours."
+    },
+    {
+      "question": "Can dehydration affect my uric acid test results?",
+      "answer": "Yes, dehydration can make your blood more concentrated, potentially leading to falsely elevated uric acid levels. Stay well-hydrated before your test unless instructed otherwise by your doctor."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the uric acid test?",
+      "answer": "Avoid alcohol and high-purine foods like red meat and organ meats for 24 hours before testing. Inform your doctor about all medications, as some may affect results."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the uric acid test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet, inserts a sterile needle into your vein, and collects 2 ml of blood. The entire process takes just minutes."
+    },
+    {
+      "question": "What level of uric acid is normal?",
+      "answer": "Normal serum uric acid levels typically range from 3.4 to 7.0 mg/dL. However, your doctor will interpret your specific results based on your overall health and symptoms."
+    }
+  ],
+  "images": [
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+    "https://www.metropolisindia.com/newdata/images/logo.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Double_user.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Test_tube.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png"
+  ],
+  "availability_status": "available"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "metro-test-c3-complement",
+  "test_name": "C3 Complement Serum Test",
+  "slug": "c3-complement",
+  "source_url": "https://www.metropolisindia.com/parameter/c3-complement",
+  "canonical_url": "https://www.metropolisindia.com/parameter/c3-complement",
+  "page_title": "C3 Complement Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 880
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the function of C3 in the body?",
+      "answer": "C3 is a key protein in the complement system that helps fight infections, clear damaged cells, and regulate inflammation."
+    },
+    {
+      "question": "What does a low C3 level mean?",
+      "answer": "Low C3 levels often suggest active autoimmune disease such as lupus or immune-mediated kidney disease."
+    },
+    {
+      "question": "What does a high C3 level indicate?",
+      "answer": "High levels may indicate inflammation or infection in the body."
+    },
+    {
+      "question": "Do I need to fast before a C3 test?",
+      "answer": "No fasting is required for a C3 test. You can eat and drink normally."
+    },
+    {
+      "question": "Can medications affect my C3 results?",
+      "answer": "Yes, medications like steroids or immunosuppressants can alter complement levels. Always inform your doctor about current medicines."
+    },
+    {
+      "question": "Is the C3 test done alone?",
+      "answer": "It is often done with a C4 Complement Test for a complete picture of your immune health."
+    },
+    {
+      "question": "What is the normal range of C3?",
+      "answer": "The typical reference range is 90\u2013180 mg/dL, though this may vary slightly by lab."
+    },
+    {
+      "question": "How long will it take to get the C3 test report?",
+      "answer": "Reports are generally available within 6 hours after the sample reaches the laboratory."
+    },
+    {
+      "question": "Are there any risks associated with the test?",
+      "answer": "Risks are minimal and similar to any blood draw, including slight bruising or soreness at the puncture site."
+    },
+    {
+      "question": "Why is the C3 test important for lupus patients?",
+      "answer": "It helps monitor disease activity and treatment response, as C3 levels often decrease during lupus flare-ups."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

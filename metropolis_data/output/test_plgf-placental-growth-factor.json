@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-plgf-placental-growth-factor",
+  "test_name": "PlGF (Placental Growth Factor) Serum",
+  "slug": "plgf-placental-growth-factor",
+  "source_url": "https://www.metropolisindia.com/parameter/plgf-placental-growth-factor",
+  "canonical_url": "https://www.metropolisindia.com/parameter/plgf-placental-growth-factor",
+  "page_title": "PlGF (Placental Growth Factor) Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3950
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "metro-test-nextgen-non-invasive-prenatal-screening-test",
+  "test_name": "Non Invasive Prenatal Testing (NIPT)",
+  "slug": "nextgen-non-invasive-prenatal-screening-test",
+  "source_url": "https://www.metropolisindia.com/parameter/nextgen-non-invasive-prenatal-screening-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nextgen-non-invasive-prenatal-screening-test",
+  "page_title": "NIPT Test - Price, Purpose, Reports, Result and Home Sample Collection",
+  "pricing": {
+    "selling_price": 16000
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day",
+  "gender": "female",
+  "preparation": "No fasting required. A completed NIPT TRF and consent form with clinician stamp, ultrasound report, dual and quadruple marker report, and photo identification proof are required\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the NIPT Test?",
+      "answer": "The NIPT Test is usually done from 10 weeks of pregnancy onwards, as advised by your doctor. It is best done after your first scan and with the required pregnancy documents."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the NIPT Test, and for how long?",
+      "answer": "No. Overnight fasting is not required for the NIPT Test. You can eat and drink normally before your blood sample is collected."
+    },
+    {
+      "question": "Can dehydration affect my NIPT Test results?",
+      "answer": "Mild dehydration usually does not change chromosomal screening results, but it can make blood collection more difficult. Drink water normally before the test unless your doctor advises otherwise."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the NIPT Test?",
+      "answer": "No special diet is needed. Continue your medicines unless your doctor tells you to stop them. Inform your doctor about your medicines, pregnancy details and any major recent medical treatment."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the NIPT Test?",
+      "answer": "A trained professional cleans your arm, inserts a sterile needle into a vein and collects about 10 ml of blood in a special Streck tube. The process usually takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The test is safe for the pregnancy because it only needs your blood sample. You may feel slight pain, bruising or mild dizziness during or after the blood draw."
+    },
+    {
+      "question": "What level of NIPT Test is normal?",
+      "answer": "NIPT does not have one normal level like many routine blood tests. A reassuring result is usually reported as Low Risk for the screened chromosomes, with adequate foetal fraction and z-scores within the reference interval."
+    },
+    {
+      "question": "Does the NIPT Test reveal the baby\u2019s gender?",
+      "answer": "No. This test does not reveal the foetal sex as per the PC-PNDT Act. The report focuses on chromosomal risk assessment for the screened conditions."
+    },
+    {
+      "question": "Is the NIPT Test diagnostic?",
+      "answer": "No. NIPT is a screening test, not a diagnostic test. A high-risk result needs confirmation through diagnostic testing and genetic counselling."
+    },
+    {
+      "question": "What does a low-risk NIPT result mean?",
+      "answer": "A low-risk result means there is a low chance of the screened chromosomal conditions. It does not rule out every genetic or birth condition, so follow your doctor\u2019s pregnancy care plan."
+    },
+    {
+      "question": "What does a high-risk NIPT result mean?",
+      "answer": "A high-risk result means there is a higher chance of a screened chromosomal condition. Your doctor may advise genetic counselling, ultrasound review and confirmatory diagnostic testing."
+    },
+    {
+      "question": "What documents are required for the NIPT Test?",
+      "answer": "You need a completed NIPT TRF and consent form with clinician stamp, ultrasound report, dual and quadruple marker report, and photo identification proof."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

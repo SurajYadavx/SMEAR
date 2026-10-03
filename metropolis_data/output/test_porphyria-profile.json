@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-porphyria-profile",
+  "test_name": "Porphyria Profile, 24 Hrs Urine",
+  "slug": "porphyria-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/porphyria-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/porphyria-profile",
+  "page_title": "Porphyria Profile Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6190
+  },
+  "specimen": "24 Hrs Urine",
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Porphyria Profile measure?",
+      "answer": "Porphyria Profile measures the levels of ALA (aminolevulinic acid) and PBG (porphobilinogen) in your urine."
+    },
+    {
+      "question": "Why is Porphyria Profile done?",
+      "answer": "\u2022 To diagnose and monitor primary or secondary porphyria \u2022 To identify lead poisoning or drug-induced porphyria \u2022 To evaluate the effectiveness of treatment \u2022 To assess the risk of developing porphyria-related symptoms \u2022 To diagnose other conditions that affect heme production"
+    },
+    {
+      "question": "When is Porphyria Profile recommended and who should take the test?",
+      "answer": "\u2022 Porphyria Profile may be recommended if you have a family history or genetic risk factors for porphyria, symptoms suggestive of porphyria-related conditions, or suspected exposure to lead or certain drugs. \u2022 It is also useful for monitoring treatment progress and assessing the risk of developing symptoms in diagnosed patients."
+    },
+    {
+      "question": "What if the results of the Porphyria Profile are abnormal?",
+      "answer": "Elevated levels may indicate primary or secondary porphyria, lead poisoning, or drug-induced porphyria."
+    },
+    {
+      "question": "What to expect during the Porphyria Profile?",
+      "answer": "You will need to collect a 24-hour urine sample and add a preservative. The healthcare professional will send the sample to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before the Porphyria Profile?",
+      "answer": "\u2022 Follow any additional instructions provided by your doctor. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Porphyria Profile?",
+      "answer": "\u2022 Blood lead level: This test measures the amount of lead in your blood to evaluate lead poisoning. \u2022 Genetic testing: This helps identify specific gene mutations associated with porphyria. \u2022 Liver function tests: These assess the overall health of your liver, which is involved in heme production."
+    },
+    {
+      "question": "What is the Porphyria Profile also known as?",
+      "answer": "The Porphyria Profile is also known as ALA and PBG test or porphobilinogen and aminolevulinate test."
+    },
+    {
+      "question": "What is porphyria?",
+      "answer": "Porphyria is a group of rare genetic or acquired disorders that affect the body's ability to produce heme. Heme is essential for the proper function of red blood cells and various enzymes. Symptoms vary depending on the type of porphyria but commonly include abdominal pain, skin sensitivity, and neurological symptoms."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

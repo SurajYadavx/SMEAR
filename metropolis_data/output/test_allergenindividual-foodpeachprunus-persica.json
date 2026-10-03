@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergenindividual-foodpeachprunus-persica",
+  "test_name": "Allergen,Individual-Food Peach Prunus persica",
+  "slug": "allergenindividual-foodpeachprunus-persica",
+  "source_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpeachprunus-persica",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergenindividual-foodpeachprunus-persica",
+  "page_title": "Peach Allergy Treatment Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1470
+  },
+  "specimen": "Individual-Food Peach Prunus persica",
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

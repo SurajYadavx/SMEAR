@@ -1,0 +1,78 @@
+{
+  "id": "metro-test-vitamin-b-12",
+  "test_name": "Vitamin B12 Test",
+  "slug": "vitamin-b-12",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-b-12",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-b-12",
+  "page_title": "Vitamin B12 Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1090
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history is required; high biotin doses (> 5 mg/day) should be avoided at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What are the risks associated with vitamin B12 deficiency?",
+      "answer": "Untreated vitamin B12 deficiency can lead to serious complications, including megaloblastic anaemia, permanent nerve damage, memory loss, confusion, and increased cardiovascular disease risk due to elevated homocysteine levels."
+    },
+    {
+      "question": "Can vitamin B12 deficiency cause depression?",
+      "answer": "Yes, there is a strong connection. Vitamin B12 is essential for producing brain chemicals that affect mood. A deficiency can contribute to or worsen symptoms of depression and anxiety disorders."
+    },
+    {
+      "question": "Name some of the vitamin B12-rich fruits.",
+      "answer": "This is a common misconception. Fruits do not naturally contain significant amounts of vitamin B12. B12 is produced by microorganisms and found almost exclusively in animal products and fortified foods."
+    },
+    {
+      "question": "What are the best vitamin B12 sources for vegetarians?",
+      "answer": "For vegetarians, the best sources include dairy products like milk, curd, paneer, and cheese, plus fortified foods such as breakfast cereals, nutritional yeast, and fortified plant-based milk alternatives."
+    },
+    {
+      "question": "What are some common vitamin B12 sources in non-vegetarian foods?",
+      "answer": "Excellent non-vegetarian sources include fatty fish like tuna and salmon, shellfish, organ meats like liver, red meat, eggs, and poultry, which provide readily absorbable vitamin B12."
+    },
+    {
+      "question": "How can I ensure I'm getting enough vitamin B12 if I follow a vegetarian or vegan diet?",
+      "answer": "The most reliable approach is regularly consuming B12-fortified foods or taking vitamin B12 supplements. Consulting a doctor or registered dietitian helps determine the right dosage and frequency."
+    },
+    {
+      "question": "What medications should not be taken with B12?",
+      "answer": "Certain medications can interfere with B12 absorption, including metformin for diabetes, proton pump inhibitors for acid reflux, H2 blockers, and some antibiotics and anticonvulsants when used long-term."
+    },
+    {
+      "question": "How long does it take for B12 supplements to work?",
+      "answer": "General symptoms like fatigue may improve within weeks. However, neurological symptoms may take several months to improve, and severe, long-standing deficiency may cause some permanent nerve damage."
+    },
+    {
+      "question": "What is the best time to take the vitamin B12 test?",
+      "answer": "The test can be taken at any time, but laboratories often prefer morning samples for consistency with reference ranges because fasting may be recommended in some cases."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the vitamin B12 test, and for how long?",
+      "answer": "No, overnight fasting is not required for a vit B12 test. However, consult your doctor and follow their instructions, as individual cases may vary based on medical history."
+    },
+    {
+      "question": "Can dehydration affect my vitamin B12 test results?",
+      "answer": "Yes, dehydration reduces blood fluid volume, making it more concentrated. This can falsely increase measured vitamin B12 levels, potentially masking a deficiency. Stay well-hydrated before your test."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the vitamin B12 test?",
+      "answer": "You can eat and drink normally before a vitamin B12 test. Inform your doctor about all medications and supplements, especially biotin, which can interfere with results if taken recently."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the vitamin B12 test?",
+      "answer": "A healthcare professional ties a tourniquet around your upper arm, cleans the area with an antiseptic, and then inserts a small needle into the vein to collect blood. The quick procedure takes less than five minutes."
+    },
+    {
+      "question": "What level of vitamin B12 is normal?",
+      "answer": "Based on the reference range, normal B12 levels are 197-771 pg/mL. Values below this range may indicate deficiency, while levels above may suggest excessive supplementation or other conditions."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

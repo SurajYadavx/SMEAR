@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-afb-smear-examination-zn-stain-body-fluids",
+  "test_name": "AFB-Smear Examination by ZN Stain \u2013 Body Fluids",
+  "slug": "afb-smear-examination-zn-stain-body-fluids",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-zn-stain-body-fluids",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-zn-stain-body-fluids",
+  "page_title": "AFB Smear Examination ZN Stain Body Fluids Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 395
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the AFB-Smear Examination by ZN Stain \u2013 Body Fluids measure?",
+      "answer": "This test measures the presence of acid-fast bacilli (AFB) specific to Mycobacterium tuberculosis in different body fluids."
+    },
+    {
+      "question": "Why is the AFB-Smear Examination by ZN Stain \u2013 Body Fluids done?",
+      "answer": "\u2022 To diagnose infection by tuberculosis \u2022 To monitor treatment effectiveness for tuberculosis \u2022 To identify other conditions caused by AFB bacteria \u2022 To assess the risk of developing tuberculosis"
+    },
+    {
+      "question": "When is the AFB-Smear Examination by ZN Stain \u2013 Body Fluids recommended and who should take the test?",
+      "answer": "This test may be recommended if \u2022 You have symptoms of tuberculosis, such as cough, weight loss, fever, and night sweats. \u2022 You have been exposed to someone with active tuberculosis. \u2022 Your doctor suspects other conditions caused by AFB bacteria. \u2022 You need to monitor the effectiveness of tuberculosis treatment."
+    },
+    {
+      "question": "What if the results of the AFB-Smear Examination by ZN Stain \u2013 Body Fluids are abnormal?",
+      "answer": "Abnormal, i.e., positive results may suggest a tuberculosis infection or other conditions caused by AFB bacteria."
+    },
+    {
+      "question": "What to expect during the AFB-Smear Examination by ZN Stain \u2013 Body Fluids?",
+      "answer": "\u2022 You will be required to provide a body fluid sample, such as pleural fluid, cerebrospinal fluid, or ascitic fluid. \u2022 The sample collection is a simple procedure and will be performed at the laboratory or a healthcare facility. \u2022 The sample will be stained using the Ziehl-Neelsen (ZN) stain and examined under a microscope to detect the presence of acid-fast bacilli."
+    },
+    {
+      "question": "What preparations are required before the AFB-Smear Examination by ZN Stain \u2013 Body Fluids?",
+      "answer": "Before the test: \u2022 Inform your doctor about any ongoing medications or medical conditions. \u2022 Ensure the specimen type, site, clinical history, and relevant information are properly mentioned on the test request form (TRF). \u2022 Follow any specific instructions provided by your doctor regarding fasting or other preparations. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the AFB-Smear Examination by ZN Stain \u2013 Body Fluids?",
+      "answer": "Other tests that may be ordered alongside AFB-Smear examination by ZN Stain for body fluids include: \u2022 Culture and Sensitivity testing to identify the specific type of bacteria causing infection and determine antibiotic susceptibility. \u2022 PCR tests to detect the genetic material of Mycobacterium tuberculosis, providing faster and more accurate results. \u2022 Chest X-ray or CT scan to evaluate lung involvement in tuberculosis cases."
+    },
+    {
+      "question": "What is the AFB-Smear Examination by ZN Stain \u2013 Body Fluids also known as?",
+      "answer": "Acid-Fast Bacillus Smear Examination by Ziehl-Neelsen Stain for body fluids"
+    },
+    {
+      "question": "What is tuberculosis?",
+      "answer": "Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis bacteria. It primarily affects the lungs but can also affect other parts of the body. Symptoms include persistent cough, weight loss, fever, night sweats, and fatigue."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

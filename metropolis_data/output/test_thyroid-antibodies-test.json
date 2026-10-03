@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-thyroid-antibodies-test",
+  "test_name": "Thyroid Antibodies Panel (TPOAb and TgAb)",
+  "slug": "thyroid-antibodies-test",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroid-antibodies-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroid-antibodies-test",
+  "page_title": "Thyroid Antibody Test Price - Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2290
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

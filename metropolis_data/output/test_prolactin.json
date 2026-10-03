@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-prolactin",
+  "test_name": "Prolactin Test",
+  "slug": "prolactin",
+  "source_url": "https://www.metropolisindia.com/parameter/prolactin",
+  "canonical_url": "https://www.metropolisindia.com/parameter/prolactin",
+  "page_title": "Prolactin Test - Price, Range and Preparation | Book Serum Prolactin Test Online",
+  "pricing": {
+    "selling_price": 550
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hours",
+  "gender": "Male, Female",
+  "preparation": "Blood collected 2-3 hours after waking up. Avoid stress and strenuous exercise. Rest for 30 minutes before blood collection. High biotin doses (>5 mg/day) should be avoided for at least 8 hours before blood collection.\nShow More",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the prolactin test?",
+      "answer": "The optimal collection time is in the morning, about 2\u20133 hours after waking, when prolactin levels are physiologically stable. They are highest during sleep and immediately upon waking."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the prolactin test, and for how long?",
+      "answer": "Fasting is not mandatory for the prolactin test. You can eat and drink normally before the test, though avoiding heavy meals immediately beforehand may be beneficial."
+    },
+    {
+      "question": "Can dehydration affect my prolactin test results?",
+      "answer": "Hydration status has minimal impact on prolactin levels but good hydration facilitates smooth venipuncture. However, staying well-hydrated before any blood test makes the collection process easier and more comfortable for you."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the prolactin test?",
+      "answer": "No special diet is required. However, inform your doctor about all medications you're taking, as some can affect prolactin levels. Avoid high biotin doses (> 5 mg/day) for at least 8 hours before blood collection."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the prolactin test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around it, inserts a small needle into a vein, collects blood into a tube, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any blood test: slight pain at the needle site, minor bruising, or feeling lightheaded. Serious complications are extremely rare."
+    },
+    {
+      "question": "What level of prolactin test is normal?",
+      "answer": "Normal serum prolactin levels (ECLIA): 4.79\u201323.3 ng/mL (non-pregnant adults). During pregnancy, levels progressively rise\u2014First trimester: 9.95\u2013101 ng/mL; Second: 17.2\u2013270 ng/mL; Third: 67.9\u2013419 ng/mL."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

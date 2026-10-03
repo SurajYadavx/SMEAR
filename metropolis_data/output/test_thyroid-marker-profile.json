@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-thyroid-marker-profile",
+  "test_name": "Thyroid Marker Profile",
+  "slug": "thyroid-marker-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroid-marker-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroid-marker-profile",
+  "page_title": "Thyroid Marker Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4150
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-pr3-by-eiac-ancaserum",
+  "test_name": "PR3 by EIAc-ANCA Serum Test",
+  "slug": "pr3-by-eiac-ancaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/pr3-by-eiac-ancaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pr3-by-eiac-ancaserum",
+  "page_title": "Pr3 Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2060
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

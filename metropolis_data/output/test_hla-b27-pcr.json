@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-hla-b27-pcr",
+  "test_name": "HLA-B*27 PCR",
+  "slug": "hla-b27-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/hla-b27-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/hla-b27-pcr",
+  "page_title": "HLA-B27 PCR Test - DNA Detection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4110
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive HLA B27 PCR Test mean?",
+      "answer": "A positive result means you carry the HLA-B27 gene, which is associated with an increased risk of autoimmune disorders such as Ankylosing Spondylitis or Reactive Arthritis."
+    },
+    {
+      "question": "Is fasting required for the HLA B27 PCR Test?",
+      "answer": "No, fasting is not required. You can eat and drink normally before the test."
+    },
+    {
+      "question": "How is the HLA B27 PCR Test performed?",
+      "answer": "A small blood sample is taken from a vein in your arm and analysed using Real Time PCR to detect the HLA-B27 gene."
+    },
+    {
+      "question": "Can a person have the HLA-B27 gene without having a disease?",
+      "answer": "Yes, many people carry the HLA-B27 gene without developing any autoimmune condition. The gene only increases risk, not certainty."
+    },
+    {
+      "question": "When should I get an HLA B27 PCR Test done?",
+      "answer": "The test is recommended if you have chronic back pain, joint inflammation, or a family history of autoimmune disorders."
+    },
+    {
+      "question": "Are there any risks to the HLA B27 PCR Test?",
+      "answer": "Risks are minimal and similar to any blood test. You might experience slight pain, bruising, or dizziness at the puncture site."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

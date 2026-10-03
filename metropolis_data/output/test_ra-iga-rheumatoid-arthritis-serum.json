@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ra-iga-rheumatoid-arthritis-serum",
+  "test_name": "RA-IgA Rheumatoid Arthritis Serum",
+  "slug": "ra-iga-rheumatoid-arthritis-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/ra-iga-rheumatoid-arthritis-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ra-iga-rheumatoid-arthritis-serum",
+  "page_title": "RA-IgA Rheumatoid Arthritis Serum \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 895
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

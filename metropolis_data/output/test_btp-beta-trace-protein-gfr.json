@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-btp-beta-trace-protein-gfr",
+  "test_name": "BTP-Beta Trace Protein GFR",
+  "slug": "btp-beta-trace-protein-gfr",
+  "source_url": "https://www.metropolisindia.com/parameter/btp-beta-trace-protein-gfr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/btp-beta-trace-protein-gfr",
+  "page_title": "BTP Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

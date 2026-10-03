@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-peripheral-smear-examination",
+  "test_name": "Peripheral Blood Smear Test (PBS Test)",
+  "slug": "peripheral-smear-examination",
+  "source_url": "https://www.metropolisindia.com/parameter/peripheral-smear-examination",
+  "canonical_url": "https://www.metropolisindia.com/parameter/peripheral-smear-examination",
+  "page_title": "Peripheral Blood Smear Test - Price, Normal Range, Purpose | Book PBS Test Online",
+  "pricing": {
+    "selling_price": 320
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the peripheral smear test?",
+      "answer": "There is no specific best time for a peripheral smear test. You can take this test at any time of the day that's convenient for you, as timing doesn't affect the results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the peripheral smear test, and for how long?",
+      "answer": "No, fasting is not required for a peripheral smear test alone. You can eat and drink normally before the test unless other blood tests requiring fasting are ordered simultaneously."
+    },
+    {
+      "question": "Can dehydration affect my peripheral smear test results?",
+      "answer": "Yes, severe dehydration can cause blood concentration changes that may affect cell counts and appearance. It's recommended to stay well-hydrated before any blood test for accurate results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the peripheral smear test?",
+      "answer": "No special dietary preparation is needed. However, inform your doctor about all medications, vitamins, and supplements you're taking, as some drugs can affect blood cell appearance or counts."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the peripheral smear test?",
+      "answer": "A healthcare professional cleans your arm, inserts a sterile needle into a vein, and draws a small blood sample into an EDTA tube. The procedure is quick and minimally uncomfortable."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and include slight pain at the needle site, minor bruising, or light-headedness. Serious complications, like infection, are extremely rare with proper sterile technique."
+    },
+    {
+      "question": "What level of peripheral smear test is normal?",
+      "answer": "A normal peripheral smear report describes blood cells as normal in size, shape, and appearance, with no abnormal cells or parasites seen. Results are descriptive rather than numerical values."
+    },
+    {
+      "question": "What is the peripheral smear test also known as?",
+      "answer": "The test is also called Peripheral Blood Film (PBF), Blood Smear Analysis, Manual Differential, or PBS (Peripheral Smear Examination)."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

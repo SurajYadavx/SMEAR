@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-alpha-thalassemia-by-pcr",
+  "test_name": "Alpha Thalassemia",
+  "slug": "alpha-thalassemia-by-pcr",
+  "source_url": "https://www.metropolisindia.com/parameter/alpha-thalassemia-by-pcr",
+  "canonical_url": "https://www.metropolisindia.com/parameter/alpha-thalassemia-by-pcr",
+  "page_title": "Alpha Thalassemia \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5720
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

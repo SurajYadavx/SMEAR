@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-pregascreen-quadruple",
+  "test_name": "Quadruple Marker Test",
+  "slug": "pregascreen-quadruple",
+  "source_url": "https://www.metropolisindia.com/parameter/pregascreen-quadruple",
+  "canonical_url": "https://www.metropolisindia.com/parameter/pregascreen-quadruple",
+  "page_title": "Quadruple Marker Test - Price, Purpose, Procedure | Book Online",
+  "pricing": {
+    "selling_price": 4570
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "female",
+  "preparation": "Completely fill the maternal TRF with the barcode, and the latest USG report is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the quadruple marker test?",
+      "answer": "The optimal time for a quad marker test is between 14 and 22 weeks of pregnancy, with the most accurate results typically obtained between weeks 16 and 18 of gestation for reliable risk assessment."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the quadruple marker test, and for how long?",
+      "answer": "No fasting is required for this test. You can eat and drink normally before your blood sample is collected for the screening."
+    },
+    {
+      "question": "Can dehydration affect my quadruple marker test results?",
+      "answer": "Severe dehydration may affect blood substance concentration, but it's not considered a significant factor in quadruple marker risk calculations. Stay well-hydrated during pregnancy."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the quadruple marker test?",
+      "answer": "No special diet is needed. Provide accurate pregnancy information, including gestational age, weight, ethnicity, and a complete medication list for proper risk calculation."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the quadruple marker test?",
+      "answer": "A healthcare professional cleans your arm, wraps an elastic band around it, and inserts a small needle into a vein to collect a blood sample."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "No risks exist for your baby. For mothers, minimal risks include slight pain, minor bruising, or, rarely, dizziness at the needle site."
+    },
+    {
+      "question": "What level of quadruple marker test is normal?",
+      "answer": "Normal quadruple marker test results mean all four markers (AFP, hCG, uE3, and Inhibin A) are within the expected range, suggesting a low risk of genetic or neural tube abnormalities."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ldh",
+  "test_name": "LDH Lactate Dehydrogenase Serum Test",
+  "slug": "ldh",
+  "source_url": "https://www.metropolisindia.com/parameter/ldh",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ldh",
+  "page_title": "LDH Test Price - Book & Get Reports Online from NABL-Certified Labs",
+  "pricing": {
+    "selling_price": 650
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": "3 ml of serum for a single test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the LDH test?",
+      "answer": "There is no specific best time to take an LDH test. You can have this test done at any time of the day as instructed by your doctor, since it doesn't require fasting or special timing considerations."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the LDH test, and for how long?",
+      "answer": "No, fasting is generally not required for a standalone LDH test. However, if your LDH test is part of a larger panel requiring fasting, you'll need to follow those specific instructions, typically 8-12 hours."
+    },
+    {
+      "question": "Can dehydration affect my LDH test results?",
+      "answer": "Yes, severe dehydration can lead to a blood concentration, which may falsely elevate LDH levels. It's advisable to stay well-hydrated before your test unless your doctor instructs otherwise for specific medical reasons."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the LDH test?",
+      "answer": "No special diet is needed before an LDH test. However, inform your doctor about all medications, vitamins, and supplements you're taking, as certain drugs like statins and aspirin can affect LDH levels."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the LDH test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, collects the blood sample, removes the needle, and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any standard blood draw. You may experience slight pain, minor bruising, light-headedness, or, in very rare cases, infection at the needle site."
+    },
+    {
+      "question": "What level of LDH test is normal?",
+      "answer": "Normal LDH levels typically range from 0 to 250 U/L for adults."
+    },
+    {
+      "question": "What is the LDH test also known as?",
+      "answer": "The LDH test is also known as the Lactate Dehydrogenase test or the Lactic Acid Dehydrogenase test. These are alternative names for the same diagnostic procedure that measures this important enzyme."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

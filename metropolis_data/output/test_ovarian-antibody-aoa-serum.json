@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ovarian-antibody-aoa-serum",
+  "test_name": "Ovarian Antibody AOA serum",
+  "slug": "ovarian-antibody-aoa-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/ovarian-antibody-aoa-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ovarian-antibody-aoa-serum",
+  "page_title": "Anti Ovarian Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3730
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 08:00 pm",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

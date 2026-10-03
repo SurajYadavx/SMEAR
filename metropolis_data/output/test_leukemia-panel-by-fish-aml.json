@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-leukemia-panel-by-fish-aml",
+  "test_name": "Leukemia Panel By FISH - AML",
+  "slug": "leukemia-panel-by-fish-aml",
+  "source_url": "https://www.metropolisindia.com/parameter/leukemia-panel-by-fish-aml",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leukemia-panel-by-fish-aml",
+  "page_title": "Leukemia Panel By FISH AML Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 15600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Leukaemia Panel - Acute Myeloid Leukaemia (AML) measure?",
+      "answer": "This test examines specific genetic abnormalities including ETO/AML1, PML/RARA, CBFB, and MLL associated with Acute Myeloid Leukaemia."
+    },
+    {
+      "question": "Why is the Leukaemia Panel - AML done?",
+      "answer": "\u2022 To diagnose Acute Myeloid Leukaemia (AML) and monitor the response to treatment \u2022 To assess the risk of relapse, determine the effectiveness of therapy, and provide valuable information for treatment"
+    },
+    {
+      "question": "When is the Leukaemia Panel - AML recommended and who should take the test?",
+      "answer": "This test may be recommended if you have \u2022 symptoms suggestive of AML, such as fatigue, frequent infections, easy bruising or bleeding, or unexplained weight loss, \u2022 abnormal blood cell counts or morphology on routine blood tests, \u2022 a previous diagnosis of AML, or \u2022 treatment for AML to assess response and guide further therapy."
+    },
+    {
+      "question": "What if the results of the Leukaemia Panel - AML are abnormal?",
+      "answer": "Abnormal results indicate the presence of these markers, suggesting a diagnosis of AML."
+    },
+    {
+      "question": "What to expect during the Leukaemia Panel - AML?",
+      "answer": "To conduct this test, a sample of bone marrow is collected using a Na-heparin vacutainer. The sample is processed and tested using the FISH method to detect specific genetic markers associated with AML."
+    },
+    {
+      "question": "What preparations are required before the Leukaemia Panel - AML?",
+      "answer": "\u2022 Inform your doctor about any medications you are taking as certain drugs may interfere with the test results. Also, tell them if you have any specific requirements. \u2022 Follow any instructions provided by your healthcare provider regarding fasting or medication."
+    },
+    {
+      "question": "What other tests may be ordered with the Leukaemia Panel - AML?",
+      "answer": "\u2022 Complete Blood Count (CBC): This test provides information on the number and types of blood cells present in your sample. \u2022 Bone Marrow Aspiration and Biopsy: This procedure helps to assess the morphology and cellular composition of your bone marrow. \u2022 Flow Cytometry: This test uses specific antibodies to identify and characterise different types of cells in your blood or bone marrow."
+    },
+    {
+      "question": "What is the Leukaemia Panel - Acute Myeloid Leukaemia also known as?",
+      "answer": "AML FISH Panel or the Acute Myeloid Leukaemia Fluorescence In Situ Hybridization Panel"
+    },
+    {
+      "question": "What is Acute Myeloid Leukaemia?",
+      "answer": "Acute Myeloid Leukaemia is a type of cancer that affects the bone marrow and blood. It is characterised by the rapid growth of abnormal myeloid cells, which are responsible for producing red blood cells, white blood cells, and platelets. AML can cause symptoms such as fatigue, frequent infections, easy bruising or bleeding, and unexplained weight loss."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

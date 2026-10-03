@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-fever-profile-maxi",
+  "test_name": "Fever Profile Maxi Test",
+  "slug": "fever-profile-maxi",
+  "source_url": "https://www.metropolisindia.com/parameter/fever-profile-maxi",
+  "canonical_url": "https://www.metropolisindia.com/parameter/fever-profile-maxi",
+  "page_title": "Book Fever Profile Maxi Test Online - Price, Normal Range and Home Collection",
+  "pricing": {
+    "selling_price": 2800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-dcp-decarboxy-prothrombin-pivka-ii",
+  "test_name": "DCP \u2013 Decarboxy Prothrombin PIVKA II, Serum",
+  "slug": "dcp-decarboxy-prothrombin-pivka-ii",
+  "source_url": "https://www.metropolisindia.com/parameter/dcp-decarboxy-prothrombin-pivka-ii",
+  "canonical_url": "https://www.metropolisindia.com/parameter/dcp-decarboxy-prothrombin-pivka-ii",
+  "page_title": "DCP Pivka II Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4390
+  },
+  "specimen": "Serum",
+  "fasting": "no",
+  "report_time": "same day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the PIVKA II Test used for?",
+      "answer": "It is used to detect and monitor hepatocellular carcinoma and assess liver function in patients with chronic liver disease."
+    },
+    {
+      "question": "Is fasting required for the PIVKA II Test?",
+      "answer": "No, fasting is not necessary for this test."
+    },
+    {
+      "question": "Can medications affect PIVKA II Test results?",
+      "answer": "Yes, certain drugs like warfarin or antibiotics can increase PIVKA-II levels. Inform your doctor about all medicines you are taking."
+    },
+    {
+      "question": "Who should get a PIVKA II Test?",
+      "answer": "People with hepatitis B, hepatitis C, cirrhosis or suspected liver cancer should get this test."
+    },
+    {
+      "question": "How is the PIVKA II Test different from AFP?",
+      "answer": "AFP measures alpha-fetoprotein, while PIVKA-II detects abnormal prothrombin; using both improves liver cancer detection accuracy."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "Reports are available on the same day once the sample reaches the lab."
+    },
+    {
+      "question": "Can PIVKA II Test be used to monitor treatment response?",
+      "answer": "Yes, it helps doctors evaluate how well liver cancer treatment is working and detect possible recurrence."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "metro-test-nmda-receptor-antibody-nr1-csf",
+  "test_name": "NMDA Receptor Antibody (NR1), CSF",
+  "slug": "nmda-receptor-antibody-nr1-csf",
+  "source_url": "https://www.metropolisindia.com/parameter/nmda-receptor-antibody-nr1-csf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/nmda-receptor-antibody-nr1-csf",
+  "page_title": "NMDA Receptor Antibody Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 6655
+  },
+  "specimen": "CSF",
+  "fasting": "no",
+  "report_time": "next day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why is NMDA Receptor Antibody (NR1), CSF test done",
+      "answer": "This test is used in the diagnosis of autoimmune encephalitis. NMDA encephalitis is usually diagnosed clinically and the test is often done for confirmation. Symptoms include behavioural disorders (paranoia, hallucination, aggression), memory loss, speech disorder, loss of consciousness, seizures. This may be a result of existing ovarian or testicular teratoma (paraneoplastic syndrome, PNS)."
+    },
+    {
+      "question": "What does it measure",
+      "answer": "This test detects antibodies against glutamate receptor type NMDA-NR1 in the cerebrospinal fluid [CSF]."
+    },
+    {
+      "question": "What to expect during the test",
+      "answer": "This test requires a CSF sample. A spinal needle is used and the patient's CSF sample is collected with the necessary aseptic precautions."
+    },
+    {
+      "question": "What if results are Present/ Absent",
+      "answer": "If the NMDA Receptor Antibody (NR1) is detected, it may indicate autoimmune NMDA encephalitis. If the test is negative, it does not rule out other forms of autoimmune encephalitis. The results should be correlated with the clinical findings."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

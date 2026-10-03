@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-vitamin-d-plus-profile",
+  "test_name": "Vitamin D Plus Profile Test",
+  "slug": "vitamin-d-plus-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/vitamin-d-plus-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vitamin-d-plus-profile",
+  "page_title": "Vitamin D Plus Profile Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1930
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 30 hours",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose biotin supplements (>5 mg/day) at least 8 hours before the test",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Vitamin D Plus Profile Test include?",
+      "answer": "It measures 25 OH Vitamin D and Parathyroid Hormone (PTH) to assess Vitamin D status and calcium-bone metabolism together."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No. Fasting is not required."
+    },
+    {
+      "question": "Why is PTH tested along with Vitamin D?",
+      "answer": "PTH reflects how the body is regulating calcium and phosphate. When interpreted with Vitamin D, it helps identify whether symptoms are due to deficiency, parathyroid dysfunction, or other metabolic causes."
+    },
+    {
+      "question": "What does low Vitamin D with high PTH mean?",
+      "answer": "This commonly suggests Vitamin D deficiency with secondary hyperparathyroidism (a compensatory rise in PTH to maintain calcium balance)."
+    },
+    {
+      "question": "Can supplements affect my test results?",
+      "answer": "Yes. Vitamin D and calcium supplements can influence levels. Share details of recent supplementation with your clinician."
+    },
+    {
+      "question": "How often should I repeat this test?",
+      "answer": "Your clinician may recommend retesting every 3\u20136 months, particularly when monitoring deficiency treatment or seasonal variation."
+    },
+    {
+      "question": "What happens if my Vitamin D levels are too high?",
+      "answer": "Very high levels can suggest excessive supplementation and may be associated with high blood calcium. Your doctor will guide dose adjustment and any follow-up testing."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

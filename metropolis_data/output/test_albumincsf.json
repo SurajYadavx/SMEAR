@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-albumincsf",
+  "test_name": "Albumin, CSF",
+  "slug": "albumincsf",
+  "source_url": "https://www.metropolisindia.com/parameter/albumincsf",
+  "canonical_url": "https://www.metropolisindia.com/parameter/albumincsf",
+  "page_title": "Albumin, CSF \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1365
+  },
+  "specimen": "CSF",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

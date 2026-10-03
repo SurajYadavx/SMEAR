@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anaemia-profile-maxi",
+  "test_name": "Anemia Profile Test - Maxi",
+  "slug": "anaemia-profile-maxi",
+  "source_url": "https://www.metropolisindia.com/parameter/anaemia-profile-maxi",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anaemia-profile-maxi",
+  "page_title": "Anemia Profile Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8140
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

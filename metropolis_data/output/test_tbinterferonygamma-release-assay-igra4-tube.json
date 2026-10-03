@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-tbinterferonygamma-release-assay-igra4-tube",
+  "test_name": "QuantiFERON\u00ae-TB Gold Plus (QFT-Plus) Test",
+  "slug": "tbinterferonygamma-release-assay-igra4-tube",
+  "source_url": "https://www.metropolisindia.com/parameter/tbinterferonygamma-release-assay-igra4-tube",
+  "canonical_url": "https://www.metropolisindia.com/parameter/tbinterferonygamma-release-assay-igra4-tube",
+  "page_title": "QuantiFERON\u00ae-TB Gold Plus (QFT-Plus) Test - Price, Purpose and Diagnosis | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3850
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 5:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Clinical history and clinician details must be provided on the TRF",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the QuantiFERON\u00ae-TB Gold Plus Test detect?",
+      "answer": "It detects infection with Mycobacterium tuberculosis by measuring interferon-gamma release from T-cells in response to TB-specific antigens."
+    },
+    {
+      "question": "Is this test useful for detecting active TB?",
+      "answer": "It helps identify TB infection but cannot distinguish between active and latent TB; further tests are needed for active TB confirmation."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can this test be done after BCG vaccination?",
+      "answer": "Yes, the QFT-Plus test is not affected by prior BCG vaccination."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are available the next day after sample collection."
+    },
+    {
+      "question": "What if my result is indeterminate?",
+      "answer": "A repeat test may be advised, especially in immunocompromised individuals or recent TB exposure."
+    },
+    {
+      "question": "Is home blood collection available for this test?",
+      "answer": "Yes, Metropolis Healthcare offers home sample collection for the QuantiFERON\u00ae-TB Gold Plus Test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

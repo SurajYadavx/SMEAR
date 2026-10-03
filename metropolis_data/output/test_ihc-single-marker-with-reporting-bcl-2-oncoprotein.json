@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ihc-single-marker-with-reporting-bcl-2-oncoprotein",
+  "test_name": "Bcl-2 Oncoprotein IHC",
+  "slug": "ihc-single-marker-with-reporting-bcl-2-oncoprotein",
+  "source_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-bcl-2-oncoprotein",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ihc-single-marker-with-reporting-bcl-2-oncoprotein",
+  "page_title": "Bcl-2 Oncoprotein IHC \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2495
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

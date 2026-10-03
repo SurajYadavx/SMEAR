@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-electrolytes-test",
+  "test_name": "Electrolytes Test",
+  "slug": "electrolytes-test",
+  "source_url": "https://www.metropolisindia.com/parameter/electrolytes-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/electrolytes-test",
+  "page_title": "Book Electrolytes test Online \u2013 Price, Procedure, Preparation, Range & Home Collection",
+  "pricing": {
+    "selling_price": 600
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical History Required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the electrolytes test?",
+      "answer": "There is no specific best time for an electrolytes blood test. It can be done at any time of day as instructed by your doctor, though it's often done in the morning."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the electrolytes test, and for how long?",
+      "answer": "Fasting is generally not required for an electrolytes-only test. However, if it's part of a larger panel, you may need to fast for 8-12 hours. Always confirm with your doctor."
+    },
+    {
+      "question": "Can dehydration affect my electrolytes test results?",
+      "answer": "Yes, dehydration can significantly affect your results. When dehydrated, electrolyte concentrations in your blood increase, particularly sodium, leading to abnormal test results that the test is designed to detect."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the electrolytes test?",
+      "answer": "No special dietary preparations are needed unless fasting is required. Continue your regular medications unless your doctor advises otherwise, and inform them about all medicines and supplements you're taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the electrolytes test?",
+      "answer": "A healthcare professional ties a band around your arm, cleans the area, inserts a small needle into your vein, collects blood into a vial, then removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Risks are minimal and may include slight pain from the needle, minor bruising at the site, feeling lightheaded, or, very rarely, infection. Most people experience no complications."
+    },
+    {
+      "question": "What level of electrolytes test is normal?",
+      "answer": "Typical adult reference ranges are: Sodium 136\u2013145 mmol/L, Potassium 3.5\u20135.1 mmol/L, and Chloride 98\u2013107 mmol/L. Always refer to your lab\u2019s report for assay-specific intervals. Your lab report will include reference ranges for accurate interpretation by your doctor."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

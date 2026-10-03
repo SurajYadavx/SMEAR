@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-ttg-antibody-igatissue-transglutaminaseceliac-diseaseserum",
+  "test_name": "TTG IgA Test - Antibody",
+  "slug": "ttg-antibody-igatissue-transglutaminaseceliac-diseaseserum",
+  "source_url": "https://www.metropolisindia.com/parameter/ttg-antibody-igatissue-transglutaminaseceliac-diseaseserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ttg-antibody-igatissue-transglutaminaseceliac-diseaseserum",
+  "page_title": "TTG IgA Test Price - Preparation and Report | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8hrs",
+  "gender": "Male, Female",
+  "preparation": "No specific preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a TTG IgA Test detect?",
+      "answer": "It detects antibodies produced by your immune system against tissue transglutaminase, helping diagnose coeliac disease and gluten sensitivity."
+    },
+    {
+      "question": "Do I need to fast before the TTG IgA Test?",
+      "answer": "No, fasting is not required for this test."
+    },
+    {
+      "question": "Can a gluten-free diet affect my TTG IgA Test results?",
+      "answer": "Yes, starting a gluten-free diet before testing can lower antibody levels and cause false-negative results."
+    },
+    {
+      "question": "How is the TTG IgA Test performed?",
+      "answer": "A small blood sample is collected from a vein in your arm and analysed in the lab using the CLIA method."
+    },
+    {
+      "question": "Can other conditions cause a positive TTG IgA Test?",
+      "answer": "Occasionally, autoimmune diseases like type 1 diabetes or thyroiditis may show mildly raised antibody levels."
+    },
+    {
+      "question": "How long will it take to receive my TTG IgA Test report?",
+      "answer": "Reports are generally available within 8 hours after your sample reaches the lab."
+    },
+    {
+      "question": "What is a normal TTG IgA level?",
+      "answer": "A normal or negative result is less than 8 AU/mL. Values above this suggest coeliac disease or gluten sensitivity."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

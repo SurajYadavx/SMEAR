@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-factor-v-level",
+  "test_name": "Factor V Level",
+  "slug": "factor-v-level",
+  "source_url": "https://www.metropolisindia.com/parameter/factor-v-level",
+  "canonical_url": "https://www.metropolisindia.com/parameter/factor-v-level",
+  "page_title": "Factor V Level Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5720
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Factor V Level test measure?",
+      "answer": "The Factor V Level test measures the amount of Factor V in your blood."
+    },
+    {
+      "question": "Why is the Factor V Level test done?",
+      "answer": "The Factor V Level test is done for various reasons such as: \u2022 Diagnosing inherited or acquired clotting disorders \u2022 Assessing the risk of excessive bleeding or abnormal clotting during surgeries or pregnancy \u2022 Monitoring the effectiveness of anticoagulant medications \u2022 Evaluating the risk of recurrent blood clots"
+    },
+    {
+      "question": "When is the Factor V Level test recommended and who should take the test?",
+      "answer": "The Factor V Level test may be recommended if you have \u2022 A family history of blood clotting disorders. \u2022 A history of recurrent blood clots. \u2022 Unexplained bleeding or excessive bruising. \u2022 Are planning to undergo surgery or are pregnant. \u2022 Been diagnosed with deep vein thrombosis or pulmonary embolism."
+    },
+    {
+      "question": "What if the results of the Factor V Level test are abnormal?",
+      "answer": "Abnormal levels of Factor V can mean an increased risk of blood clots or a decreased ability to form clots, which can indicate conditions like deep vein thrombosis, pulmonary embolism, or inherited clotting disorders. Your doctor will interpret your results in the context of your medical history and other diagnostic tests."
+    },
+    {
+      "question": "What to expect during the Factor V Level test?",
+      "answer": "During the Factor V Level test: \u2022 A small sample of your blood will be drawn from a vein in your arm. \u2022 The area will be cleaned and a needle will be inserted to collect the sample. \u2022 You may feel a slight prick or sting during the procedure. \u2022 The sample will be sent to the laboratory for analysis."
+    },
+    {
+      "question": "What preparations are required before the Factor V Level test?",
+      "answer": "To prepare for the Factor V Level test: \u2022 Inform your doctor about any medications, supplements, or herbal remedies you are taking. \u2022 Follow any fasting instructions provided by your doctor, if applicable. Please reach out to your healthcare provider for any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with the Factor V Level test?",
+      "answer": "Other tests that may be ordered alongside the Factor V Level test include: \u2022 Prothrombin Time (PT) and International Normalized Ratio (INR): These tests measure how long it takes for blood to clot and help monitor the effects of anticoagulant therapy. \u2022 Activated Partial Thromboplastin Time (APTT): This test evaluates the overall clotting ability of your blood."
+    },
+    {
+      "question": "What is the Factor V Level test also known as?",
+      "answer": "Factor V assay, Factor V activity test"
+    },
+    {
+      "question": "What is deep vein thrombosis (DVT)?",
+      "answer": "Deep vein thrombosis (DVT) is a condition characterised by the formation of blood clots in deep veins, usually in the legs. It can lead to symptoms like leg pain, swelling, and warmth. If left untreated, DVT can cause serious complications like pulmonary embolism."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-triglyceridesbiochemicalurine",
+  "test_name": "Triglycerides, Urine",
+  "slug": "triglyceridesbiochemicalurine",
+  "source_url": "https://www.metropolisindia.com/parameter/triglyceridesbiochemicalurine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/triglyceridesbiochemicalurine",
+  "page_title": "Triglycerides, Urine \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 400
+  },
+  "specimen": "Urine",
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-calcium-urine-24h",
+  "test_name": "Calcium Urine 24H",
+  "slug": "calcium-urine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/calcium-urine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calcium-urine-24h",
+  "page_title": "Calcium Urine 24H \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 270
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

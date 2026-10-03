@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-allergy-drug-panel-comprehensive-35-drug",
+  "test_name": "ALLERGY DRUG PANEL - (COMPREHENSIVE - 35 DRUG)",
+  "slug": "allergy-drug-panel-comprehensive-35-drug",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-drug-panel-comprehensive-35-drug",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-drug-panel-comprehensive-35-drug",
+  "page_title": "Drug Allergy Test Panel (35 Drugs) - Book Online",
+  "pricing": {
+    "selling_price": 17160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Drug Panel - Comprehensive (35Drugs), Serum?",
+      "answer": "You can take this test when your doctor recommends it after a suspected drug reaction. Testing is most useful when your reaction history, timing and suspected medicine details are clearly shared with your doctor."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Drug Panel - Comprehensive (35Drugs), Serum, and for how long?",
+      "answer": "No, overnight fasting is not required. You can eat and drink normally before the test unless your doctor has advised fasting for another test."
+    },
+    {
+      "question": "Can dehydration affect my Drug Panel - Comprehensive (35Drugs), Serum results?",
+      "answer": "Mild dehydration usually does not directly affect drug specific IgE results. However, normal hydration can make blood collection easier and more comfortable."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Drug Panel - Comprehensive (35Drugs), Serum?",
+      "answer": "No special diet is needed. Inform your doctor about all medicines, supplements, injections and previous drug reactions. Do not stop or restart any medicine unless your doctor advises you."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Drug Panel - Comprehensive (35Drugs), Serum?",
+      "answer": "A phlebotomist cleans the skin, inserts a sterile needle into a vein in your arm and collects about 3 ml of blood in a gel vacutainer. The sample is then sent to the lab for EIA testing."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any routine blood test. You may feel slight pain, mild bruising, or dizziness during or after sample collection. Serious complications are rare."
+    },
+    {
+      "question": "What level of Drug Panel - Comprehensive (35Drugs), Serum is normal?",
+      "answer": "A result below 0.36 IU/mL is reported as negative and clinically insignificant for the tested drug allergen. A result of 0.36 IU/mL or above is positive and should be interpreted by your doctor with your reaction history."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

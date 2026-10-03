@@ -1,0 +1,126 @@
+{
+  "id": "metro-pkg-truhealth-cancer-screen-360-male",
+  "package_name": "Truhealth Cancer Screen 360 Male",
+  "slug": "truhealth-cancer-screen-360-male",
+  "source_url": "https://www.metropolisindia.com/health-checkup-packages/truhealth-cancer-screen-360-male",
+  "canonical_url": "https://www.metropolisindia.com/health-checkup-packages/truhealth-cancer-screen-360-male",
+  "page_title": "Truhealth Cancer Screen \u20b9$1 Female Package | Metropolis Healthcare",
+  "short_description": null,
+  "pricing": {
+    "selling_price": 17000,
+    "mrp": 31010,
+    "discount_percentage": 25
+  },
+  "fasting": "no",
+  "report_time": "24hrs",
+  "gender": "male",
+  "sample_type": null,
+  "total_parameters": null,
+  "total_profiles": null,
+  "profiles": [
+    {
+      "profile_name": "AFP (Alpha Feto Protein), Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/afp-(alpha-feto-protein)-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CA 19.9, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/ca-19.9-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Calcitonin Thyrocalcitonin, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/calcitonin-thyrocalcitonin-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "CEA for GI /Ovarian Cancer",
+      "profile_url": "https://www.metropolisindia.com/parameter/cea-for-gi-/ovarian-cancer",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "NextGen Hereditary Cancer Panel, EDTA Blood",
+      "profile_url": "https://www.metropolisindia.com/parameter/nextgen-hereditary-cancer-panel-edta-blood",
+      "parameter_count": 317,
+      "parameters": []
+    },
+    {
+      "profile_name": "HCG Beta - Tumour marker, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/hcg-beta---tumour-marker-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Free PSA (Prostate Specific Antigen), Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/free-psa-(prostate-specific-antigen)-serum",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "PSA (for men only)  for Prostate Cancer",
+      "profile_url": "https://www.metropolisindia.com/parameter/psa-(for-men-only)--for-prostate-cancer",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Haemogram , blood",
+      "profile_url": "https://www.metropolisindia.com/parameter/haemogram--blood",
+      "parameter_count": 24,
+      "parameters": []
+    },
+    {
+      "profile_name": "Genetics Counselling",
+      "profile_url": "https://www.metropolisindia.com/parameter/genetics-counselling",
+      "parameter_count": 1,
+      "parameters": []
+    },
+    {
+      "profile_name": "Thyroglobulin, Serum",
+      "profile_url": "https://www.metropolisindia.com/parameter/thyroglobulin-serum",
+      "parameter_count": 1,
+      "parameters": []
+    }
+  ],
+  "images": [
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930113115_6abca5ab5dc11.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Mumbai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/location-check.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/home.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/green_file_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Delhi.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Map_Marker.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Flask.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/phone.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930104610_6abc9b1aad15a.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/cancer.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/Labs.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/apple-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Bangalore.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/anaemia.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/scientific.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/vector/sidebar.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153741_6abcdf6d09253.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/Clock_icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/bookings.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Chennai.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/google-play-store-icon.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153853_6abcdfb59f452.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/whatsapp.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/product/package-test-info/man.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Mobile-logo.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/icons/cart.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Pune.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/organization/Surat.svg",
+    "https://www.metropolisindia.com/newdata/images/logo.svg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/photos/home-visit-banner-desk.jpg",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/twitter.png",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/assets/images/logo/Logo-280.webp",
+    "https://d1r2p0il4ran5t.cloudfront.net/website/blog/images/20260930153825_6abcdf9958862.webp"
+  ],
+  "faqs": [],
+  "availability_status": "available"
+}

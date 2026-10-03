@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-kaolin-clotting-time",
+  "test_name": "Kaolin Clotting Time Test",
+  "slug": "kaolin-clotting-time",
+  "source_url": "https://www.metropolisindia.com/parameter/kaolin-clotting-time",
+  "canonical_url": "https://www.metropolisindia.com/parameter/kaolin-clotting-time",
+  "page_title": "Kaolin Clotting Time Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1315
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 32 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

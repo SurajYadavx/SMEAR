@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-histopathological-examination-of-breast-lump",
+  "test_name": "Breast Lump histopathology with special stains Test",
+  "slug": "histopathological-examination-of-breast-lump",
+  "source_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-breast-lump",
+  "canonical_url": "https://www.metropolisindia.com/parameter/histopathological-examination-of-breast-lump",
+  "page_title": "Breast Lump histopathology with special stains Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2100
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take Breast Lump histopathology with special stains Test?",
+      "answer": "the histopathological examination is necessary to establish the diagnosis and subsequent management of the breast lesion."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Doctor may suggest hisotpathology of biposy of the breast lesion in patients with a breast lump to differentiate between cancerous and non cancerous breast lesions."
+    },
+    {
+      "question": "More Info on Breast Lump histopathology with special stains Test",
+      "answer": "Management of breast lump patients varies as the breast presents with different types of non neoplastic to neoplastic lesions. Hence it is important for surgeons to recognize and distinguish benign and premalignant lesions from breast cancer through histopathological examination of biopsy with subsequent immunohistochemistry (IHC) Immunohistochemical markers are often used to guide treatment decisions, to classify breast cancer into subtypes that are biologically distinct and behave differently, and both as prognostic and predictive factors."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

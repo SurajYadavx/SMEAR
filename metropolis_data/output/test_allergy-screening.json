@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-allergy-screening",
+  "test_name": "Allergy Screening Test",
+  "slug": "allergy-screening",
+  "source_url": "https://www.metropolisindia.com/parameter/allergy-screening",
+  "canonical_url": "https://www.metropolisindia.com/parameter/allergy-screening",
+  "page_title": "Allergy Screening Test \u2013 Book Online, Price, Normal Range and Home Collection | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 5825
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day : 5:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

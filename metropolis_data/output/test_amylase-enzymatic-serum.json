@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-amylase-enzymatic-serum",
+  "test_name": "Amylase Test (Amylase Enzymatic Test)",
+  "slug": "amylase-enzymatic-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/amylase-enzymatic-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/amylase-enzymatic-serum",
+  "page_title": "Amylase Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 580
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "Clinical history required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the amylase test?",
+      "answer": "There's no specific best time of day for the amylase test. It's typically performed when you have symptoms suggesting pancreatitis or other pancreatic problems. The timing depends on your symptoms rather than the time of day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the amylase test, and for how long?",
+      "answer": "Fasting is not required for this test. However, it may be required if the test is combined with another that specifies fasting. Always follow your doctor's instructions before the test."
+    },
+    {
+      "question": "Can dehydration affect my amylase test results?",
+      "answer": "Yes, severe dehydration can affect your results by concentrating substances in your blood, potentially causing falsely elevated amylase levels. Stay adequately hydrated but follow any fasting instructions from your healthcare provider."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the amylase test?",
+      "answer": "Avoid alcohol for 24 hours before testing. Inform your doctor about all medications, as certain drugs can affect amylase levels. Don't stop prescribed medications without consulting your doctor first."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the amylase test?",
+      "answer": "A healthcare professional cleans your arm, applies a tourniquet to make veins visible, inserts a sterile needle into your vein, collects blood in a vial, then removes the needle and applies a bandage."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The amylase test carries minimal risks, including slight pain from the needle insertion, minor bruising at the puncture site, occasional dizziness, or very rarely, infection. These complications are uncommon and typically mild."
+    },
+    {
+      "question": "What level of amylase test is normal?",
+      "answer": "Normal amylase levels typically range from 28-100 U/L. Check with your doctor regarding the specific reference range mentioned on your report for accurate interpretation of your results."
+    },
+    {
+      "question": "What is the amylase test also known as?",
+      "answer": "The amylase test may also be called Serum Amylase, Amy Test, or Body Fluid Amylase, depending on the type of sample being tested."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-thyroglobulincmiaserum",
+  "test_name": "Thyroglobulin Test",
+  "slug": "thyroglobulincmiaserum",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroglobulincmiaserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroglobulincmiaserum",
+  "page_title": "Thyroglobulin Test Price -Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2230
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 8 hrs",
+  "gender": "Male, Female",
+  "preparation": "Avoid high-dose biotin supplements (more than 5 mg/day) for at least 8 hours before blood collection",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Thyroglobulin test measure?",
+      "answer": "It measures the level of thyroglobulin protein in your blood to monitor thyroid cancer treatment and detect recurrence."
+    },
+    {
+      "question": "Is fasting required for the Thyroglobulin test?",
+      "answer": "Fasting not required; you can eat and drink normally before the test."
+    },
+    {
+      "question": "When is the Thyroglobulin test recommended?",
+      "answer": "It is done after thyroid surgery or radioactive iodine therapy to monitor treatment success and recurrence."
+    },
+    {
+      "question": "Can biotin affect my Thyroglobulin test results?",
+      "answer": "Yes, high-dose biotin supplements can interfere. Avoid them at least 8 hours before testing."
+    },
+    {
+      "question": "What do high Thyroglobulin levels mean?",
+      "answer": "High levels may indicate remaining thyroid tissue, cancer recurrence, or metastasis."
+    },
+    {
+      "question": "What do low Thyroglobulin levels indicate?",
+      "answer": "Low or undetectable levels suggest effective thyroid cancer treatment and no residual tissue."
+    },
+    {
+      "question": "Can I take my regular medicines before the test?",
+      "answer": "Yes, but inform your doctor about all medications or supplements you\u2019re taking."
+    },
+    {
+      "question": "How often should I do the Thyroglobulin test?",
+      "answer": "Your doctor will decide the frequency, often every 6\u201312 months after thyroid cancer treatment.<"
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

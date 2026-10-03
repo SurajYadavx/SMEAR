@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-folic-acid-clia-serum",
+  "test_name": "Folic Acid CMIA Serum Test",
+  "slug": "folic-acid-clia-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/folic-acid-clia-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/folic-acid-clia-serum",
+  "page_title": "Folic Acid Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1310
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Fasting for 8\"10 hours required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the folic acid test?",
+      "answer": "The test is usually done in the morning after an overnight fast of 8\u201310 hours."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the folic acid test, and for how long?",
+      "answer": "Yes. You must fast for 8\u201310 hours before the test; only plain water is allowed."
+    },
+    {
+      "question": "Can dehydration affect my folic acid test results?",
+      "answer": "Mild dehydration usually does not affect results, but staying hydrated ensures smooth sample collection."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the folic acid test?",
+      "answer": "Avoid folate-rich foods or supplements for 24 hours before testing and inform your doctor about any medications you take."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the folic acid test?",
+      "answer": "A blood sample (about 2 ml) is drawn from a vein in your arm using a sterile needle; the process takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "Minimal risks such as slight pain, bruising, or dizziness may occur at the puncture site."
+    },
+    {
+      "question": "What level of folic acid is considered normal?",
+      "answer": "A normal serum folate level ranges from 3.1 to 17.5 ng/mL. Levels below 3 ng/mL suggest deficiency."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

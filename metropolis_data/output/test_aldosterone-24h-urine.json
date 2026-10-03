@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-aldosterone-24h-urine",
+  "test_name": "Aldosterone, 24 Hour Urine",
+  "slug": "aldosterone-24h-urine",
+  "source_url": "https://www.metropolisindia.com/parameter/aldosterone-24h-urine",
+  "canonical_url": "https://www.metropolisindia.com/parameter/aldosterone-24h-urine",
+  "page_title": "Aldosterone Urine Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2520
+  },
+  "specimen": "24 Hour Urine",
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

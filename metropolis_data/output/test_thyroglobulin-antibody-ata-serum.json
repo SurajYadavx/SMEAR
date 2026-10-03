@@ -1,0 +1,46 @@
+{
+  "id": "metro-test-thyroglobulin-antibody-ata-serum",
+  "test_name": "Thyroglobulin Antibody Test (Anti-TG Test)",
+  "slug": "thyroglobulin-antibody-ata-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/thyroglobulin-antibody-ata-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/thyroglobulin-antibody-ata-serum",
+  "page_title": "Thyroglobulin Antibody (TgAb) Test - Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1830
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive anti-thyroglobulin antibody test mean?",
+      "answer": "A positive result indicates the presence of antibodies that attack thyroglobulin, suggesting autoimmune thyroid diseases such as Hashimoto\u2019s thyroiditis or Graves\u2019 disease."
+    },
+    {
+      "question": "Is fasting required for the anti-TG test?",
+      "answer": "No fasting is required. You can take the test at any time of the day."
+    },
+    {
+      "question": "Can pregnancy affect anti-TG test results?",
+      "answer": "Yes, mild increases in antibody levels may occur during pregnancy due to immune changes."
+    },
+    {
+      "question": "Can medications interfere with the anti-TG test?",
+      "answer": "Yes, biotin supplements and certain thyroid medications can affect results. Always inform your doctor about ongoing medicines."
+    },
+    {
+      "question": "Is the anti-thyroglobulin antibody test painful?",
+      "answer": "The test involves a routine blood draw and may cause mild discomfort or bruising, which resolves quickly."
+    },
+    {
+      "question": "What are normal anti-TG antibody levels?",
+      "answer": "Normal levels are below 115 IU/mL. Higher values suggest thyroid autoimmunity or other autoimmune diseases."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

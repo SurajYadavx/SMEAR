@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-diabetes-profile-mini",
+  "test_name": "Diabetes Profile Mini Test",
+  "slug": "diabetes-profile-mini",
+  "source_url": "https://www.metropolisindia.com/parameter/diabetes-profile-mini",
+  "canonical_url": "https://www.metropolisindia.com/parameter/diabetes-profile-mini",
+  "page_title": "Diabetes Profile Mini Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 960
+  },
+  "specimen": null,
+  "fasting": "yes",
+  "report_time": "after 24hrs",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

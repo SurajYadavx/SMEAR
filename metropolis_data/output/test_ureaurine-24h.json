@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ureaurine-24h",
+  "test_name": "Urea Test - Urine 24H",
+  "slug": "ureaurine-24h",
+  "source_url": "https://www.metropolisindia.com/parameter/ureaurine-24h",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ureaurine-24h",
+  "page_title": "Ureaurine 24H Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 295
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 28 hours",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

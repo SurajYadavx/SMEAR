@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ferritin-serum-test",
+  "test_name": "Ferritin Test",
+  "slug": "ferritin-serum-test",
+  "source_url": "https://www.metropolisindia.com/parameter/ferritin-serum-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ferritin-serum-test",
+  "page_title": "Ferritin Test - Price, Preparation and Home Collection | Book Online",
+  "pricing": {
+    "selling_price": 850
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "High biotin dose (>5 mg/day) should be avoided at least 8 hrs before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the ferritin test?",
+      "answer": "Due to natural daily variations in ferritin levels, the best time to take the test is between 8-10 AM or 4-6 PM. However, always follow your doctor\u2019s specific instructions, as timing may vary based on your individual health needs or medical history."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the ferritin test, and for how long?",
+      "answer": "Overnight fasting is not required for the ferritin test. However, consult your doctor for specific preparation instructions based on your individual health needs."
+    },
+    {
+      "question": "Can dehydration affect my ferritin test results?",
+      "answer": "Yes, dehydration can affect blood test results by concentrating blood components, potentially making ferritin levels appear falsely elevated. Stay well-hydrated before your test for accurate results."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the ferritin test?",
+      "answer": "Avoid high biotin supplements (>5 mg/day) for at least 8 hours before testing. Inform your doctor about all medications and supplements you're taking for guidance."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the ferritin test?",
+      "answer": "A trained phlebotomist cleans your arm with antiseptic, ties an elastic band around your upper arm, inserts a small needle into a vein, and collects blood in a vial. The entire process is quick and takes only a few minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The ferritin blood test carries minimal risks similar to any standard blood draw. You may experience slight pain, minor bruising, or feel dizzy. Serious complications like infection are very rare."
+    },
+    {
+      "question": "What level of ferritin test is normal?",
+      "answer": "Normal ferritin levels according to the reference range are 13-150 ng/mL. However, discuss your specific results with your doctor for accurate interpretation based on your health."
+    },
+    {
+      "question": "What is the ferritin test also known as?",
+      "answer": "The ferritin blood test is also commonly known as Serum Ferritin or Ferritin, Serum."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

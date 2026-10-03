@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-ccp-antibody-test",
+  "test_name": "Anti CCP Test",
+  "slug": "ccp-antibody-test",
+  "source_url": "https://www.metropolisindia.com/parameter/ccp-antibody-test",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ccp-antibody-test",
+  "page_title": "Anti CCP Test - Price, Normal Range, Purpose, Procedure, Book & Get Reports Online",
+  "pricing": {
+    "selling_price": 1800
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "High biotin doses (>5 mg/day) should be avoided at least 8 hours before blood collection.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the Anti-CCP test?",
+      "answer": "There is no specific best time for the Anti-CCP test. Your antibody levels remain stable throughout the day, so you can take the test at any convenient time without affecting the accuracy of your test results."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the Anti-CCP test, and for how long?",
+      "answer": "No, fasting is not required for the Anti-CCP test. You can eat and drink normally before the test unless your doctor has ordered other tests simultaneously that require fasting."
+    },
+    {
+      "question": "Can dehydration affect my Anti-CCP test results?",
+      "answer": "Severe dehydration is unlikely to alter Anti-CCP test results. However, staying well-hydrated makes blood collection easier for the technician and ensures optimal sample quality for accurate testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the Anti-CCP test?",
+      "answer": "No special dietary preparation is needed. However, avoid high-dose biotin supplements (> 5 mg/day) for at least 8 hours before testing, and inform your doctor about all medications and supplements you're taking."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the Anti-CCP test?",
+      "answer": "A healthcare professional cleans your arm, ties an elastic band around your upper arm, inserts a sterile needle into a vein, and collects blood into a vial. Then the needle is removed and a bandage is applied. The process is quick and involves minimal discomfort."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The risks are minimal and similar to any routine blood test. You may experience slight pain during needle insertion, minor bruising at the site, or, rarely, light-headedness or minor infection risk."
+    },
+    {
+      "question": "What level of Anti-CCP test is normal?",
+      "answer": "Normal levels are considered negative when results are less than 17 U/mL. Positive results are 17 U/mL or higher. Always consult your doctor for the interpretation of your test results."
+    },
+    {
+      "question": "What is the Anti-CCP test also known as?",
+      "answer": "The Anti-CCP test is also known as the CCP Antibody test, the Cyclic Citrullinated Peptide Antibody test, the ACPA (Anti-Citrullinated Protein Antibody) or simply the Anti-CCP test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

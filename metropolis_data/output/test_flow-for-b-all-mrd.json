@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-flow-for-b-all-mrd",
+  "test_name": "Flow For B ALL MRD",
+  "slug": "flow-for-b-all-mrd",
+  "source_url": "https://www.metropolisindia.com/parameter/flow-for-b-all-mrd",
+  "canonical_url": "https://www.metropolisindia.com/parameter/flow-for-b-all-mrd",
+  "page_title": "Flow For B ALL MRD Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 15225
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day : 6:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does B-ALL MRD Test measure?",
+      "answer": "The B-ALL MRD test analyzes and quantifies the residual leukemic cells in the bone marrow or peripheral blood."
+    },
+    {
+      "question": "Why is the B-ALL MRD Test done?",
+      "answer": "\u2022 To assess the presence and level of minimal residual disease (MRD) in patients with B-ALL \u2022 To evaluate treatment effectiveness \u2022 To monitor disease progression and relapse risk \u2022 To guide treatment decisions, such as the need for further therapy or stem cell transplantation"
+    },
+    {
+      "question": "When is B-ALL MRD Test recommended and who should take the test?",
+      "answer": "The B-ALL MRD test is typically recommended for individuals who have been diagnosed with B-ALL. Patients who may benefit from this test include \u2022 those undergoing treatment for B-ALL, \u2022 individuals who have completed treatment to assess their response, and \u2022 patients at risk of relapse or with suspected disease recurrence."
+    },
+    {
+      "question": "What if the results of the B-ALL MRD Test are abnormal?",
+      "answer": "Abnormal results indicating a high level of MRD may suggest a higher risk of relapse or insufficient response to treatment."
+    },
+    {
+      "question": "What to expect during the B-ALL MRD Test?",
+      "answer": "During the test, a sample of bone marrow will be collected using a needle. The sample will then be sent to the laboratory for analysis using flow cytometry."
+    },
+    {
+      "question": "What preparations are required before the B-ALL MRD Test?",
+      "answer": "\u2022 Inform your doctor about any medications or supplements you are taking. Also, tell them if you have any specific requirements. \u2022 Follow any dietary instructions provided by your doctor."
+    },
+    {
+      "question": "What other tests may be ordered with the B-ALL MRD Test?",
+      "answer": "\u2022 Complete Blood Count (CBC): Helps evaluate overall blood cell count and health \u2022 Bone Marrow Aspiration and Biopsy: Provides detailed information about the structure and function of bone marrow cells \u2022 Cytogenetic Testing: Identifies specific genetic changes or abnormalities in cancer cells"
+    },
+    {
+      "question": "What is the B-ALL MRD Test also known as?",
+      "answer": "Minimal Residual Disease test for B-Cell Acute Lymphoblastic Leukaemia"
+    },
+    {
+      "question": "What is B-Cell Acute Lymphoblastic Leukaemia?",
+      "answer": "B-Cell Acute Lymphoblastic Leukaemia is a type of blood cancer that affects the white blood cells, specifically B-cells. It is characterised by the rapid production of immature lymphoblasts in the bone marrow, which overcrowd normal blood cells and impair their normal function."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

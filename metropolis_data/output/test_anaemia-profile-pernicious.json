@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-anaemia-profile-pernicious",
+  "test_name": "Pernicious Anaemia Test",
+  "slug": "anaemia-profile-pernicious",
+  "source_url": "https://www.metropolisindia.com/parameter/anaemia-profile-pernicious",
+  "canonical_url": "https://www.metropolisindia.com/parameter/anaemia-profile-pernicious",
+  "page_title": "Pernicious Anaemia Test Price, Range and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3255
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

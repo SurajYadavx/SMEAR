@@ -1,0 +1,54 @@
+{
+  "id": "metro-test-sodium",
+  "test_name": "Sodium Test",
+  "slug": "sodium",
+  "source_url": "https://www.metropolisindia.com/parameter/sodium",
+  "canonical_url": "https://www.metropolisindia.com/parameter/sodium",
+  "page_title": "Sodium Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 250
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hours",
+  "gender": "Male, Female",
+  "preparation": "No special preparation is required.",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the best time to take the sodium test?",
+      "answer": "There is no specific best time for a sodium test. You can take this test at any time of day as recommended by your doctor, since sodium levels remain relatively stable throughout the day."
+    },
+    {
+      "question": "Is overnight fasting mandatory for the sodium test, and for how long?",
+      "answer": "No, overnight fasting is not required for a standalone sodium test. However, if sodium is part of a larger panel of tests, fasting may be necessary. Always confirm requirements with your healthcare provider."
+    },
+    {
+      "question": "Can dehydration affect my sodium test results?",
+      "answer": "Yes, dehydration can significantly affect your results by concentrating sodium levels in your blood. This may lead to temporarily elevated sodium readings, so it's important to maintain normal hydration before testing."
+    },
+    {
+      "question": "How should I prepare my diet and medications before the sodium test?",
+      "answer": "No special dietary preparation is needed for the sodium test procedure. However, inform your doctor about all medications, supplements, and herbal remedies you're taking, as some can affect sodium levels in your body."
+    },
+    {
+      "question": "How is the blood draw procedure performed for the sodium test?",
+      "answer": "A healthcare professional will clean your arm, insert a small needle into a vein, and collect about 3 ml of blood in a special tube. The entire sodium test procedure takes less than five minutes."
+    },
+    {
+      "question": "Are there any risks to the test?",
+      "answer": "The sodium test carries minimal risks, similar to any routine blood draw. You may experience slight pain, minor bruising at the needle site, or occasional lightheadedness. Serious complications are extremely rare."
+    },
+    {
+      "question": "What level of sodium test is normal?",
+      "answer": "Normal sodium levels in blood typically range from 136 to145 mmol/L. Low or high sodium levels reflect water and electrolyte imbalances and often signal underlying health issues that need medical evaluation."
+    },
+    {
+      "question": "What is the sodium test also known as?",
+      "answer": "The sodium test is also known as the Serum Sodium Test, Na+ Test, or Sodium ISE Serum Test. It's commonly included in electrolyte panels and basic metabolic panels for comprehensive health assessment."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

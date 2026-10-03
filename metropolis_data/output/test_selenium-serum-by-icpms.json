@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-selenium-serum-by-icpms",
+  "test_name": "Selenium Serum Test",
+  "slug": "selenium-serum-by-icpms",
+  "source_url": "https://www.metropolisindia.com/parameter/selenium-serum-by-icpms",
+  "canonical_url": "https://www.metropolisindia.com/parameter/selenium-serum-by-icpms",
+  "page_title": "Selenium Serum By Icpms Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 3495
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

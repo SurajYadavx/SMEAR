@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-lipoproteins-lp-a",
+  "test_name": "Lipoprotein(a) Test",
+  "slug": "lipoproteins-lp-a",
+  "source_url": "https://www.metropolisindia.com/parameter/lipoproteins-lp-a",
+  "canonical_url": "https://www.metropolisindia.com/parameter/lipoproteins-lp-a",
+  "page_title": "Lipoproteins A Test - Price, Purpose and Preparation | Book Online",
+  "pricing": {
+    "selling_price": 1430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 4 hrs",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What is the Lipoprotein(a) Test used for?",
+      "answer": "It measures Lp(a) levels to assess genetic and cardiovascular disease risk."
+    },
+    {
+      "question": "Is fasting required before the Lipoprotein(a) Test?",
+      "answer": "No fasting is needed unless the test is done with a complete lipid profile."
+    },
+    {
+      "question": "What does a high Lipoprotein(a) level mean?",
+      "answer": "It indicates increased risk for heart attack or stroke due to hereditary cholesterol elevation."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are typically available within 4 hours."
+    },
+    {
+      "question": "Is home sample collection available?",
+      "answer": "Yes, Metropolis Healthcare provides home sample collection services."
+    },
+    {
+      "question": "Can lifestyle changes reduce Lp(a) levels?",
+      "answer": "Lp(a) levels are primarily genetic, but healthy habits can help lower overall cardiovascular risk."
+    },
+    {
+      "question": "Who should get a Lipoprotein(a) Test?",
+      "answer": "People with a family history of early heart disease, stroke, or unexplained high cholesterol should consider it."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

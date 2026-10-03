@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-factor-v-leiden-mutant-detection-g1691a-mutation-blood",
+  "test_name": "Factor V Leiden Mutation Test",
+  "slug": "factor-v-leiden-mutant-detection-g1691a-mutation-blood",
+  "source_url": "https://www.metropolisindia.com/parameter/factor-v-leiden-mutant-detection-g1691a-mutation-blood",
+  "canonical_url": "https://www.metropolisindia.com/parameter/factor-v-leiden-mutant-detection-g1691a-mutation-blood",
+  "page_title": "Factor V Leiden Mutant Detection G1691A Mutation Blood Test Price",
+  "pricing": {
+    "selling_price": 6220
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 09:00 pm",
+  "gender": "Male, Female",
+  "preparation": "Provide clinical history, specimen type, and clinician details in the test requisition form (TRF)",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Factor V Leiden Mutation Test detect?",
+      "answer": "It detects the G1691A mutation in the F5 gene that increases the risk of abnormal blood clots."
+    },
+    {
+      "question": "Why is this test important?",
+      "answer": "It helps diagnose hereditary thrombophilia and assess the risk of DVT or PE."
+    },
+    {
+      "question": "What type of sample is needed for the test?",
+      "answer": "A 3 ml EDTA blood sample is required."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "Can this test help in pregnancy-related issues?",
+      "answer": "Yes, it helps identify clotting disorders that may contribute to recurrent miscarriages."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are available on the same day after sample reaches the lab."
+    },
+    {
+      "question": "Is home sample collection available for this test?",
+      "answer": "Yes, Metropolis Healthcare provides home collection for this test."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

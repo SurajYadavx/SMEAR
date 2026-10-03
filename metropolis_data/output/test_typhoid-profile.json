@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-typhoid-profile",
+  "test_name": "Typhoid Profile Test",
+  "slug": "typhoid-profile",
+  "source_url": "https://www.metropolisindia.com/parameter/typhoid-profile",
+  "canonical_url": "https://www.metropolisindia.com/parameter/typhoid-profile",
+  "page_title": "Typhoid Profile Test - Test Price, Range And Preparation | Book Online",
+  "pricing": {
+    "selling_price": 2050
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

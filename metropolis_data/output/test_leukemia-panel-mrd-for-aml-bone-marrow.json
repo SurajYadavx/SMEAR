@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-leukemia-panel-mrd-for-aml-bone-marrow",
+  "test_name": "Flow For AML MRD",
+  "slug": "leukemia-panel-mrd-for-aml-bone-marrow",
+  "source_url": "https://www.metropolisindia.com/parameter/leukemia-panel-mrd-for-aml-bone-marrow",
+  "canonical_url": "https://www.metropolisindia.com/parameter/leukemia-panel-mrd-for-aml-bone-marrow",
+  "page_title": "Flow For AML MRD \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 19425
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

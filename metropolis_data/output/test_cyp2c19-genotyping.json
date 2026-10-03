@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cyp2c19-genotyping",
+  "test_name": "CYP2C19 Genotyping Test",
+  "slug": "cyp2c19-genotyping",
+  "source_url": "https://www.metropolisindia.com/parameter/cyp2c19-genotyping",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cyp2c19-genotyping",
+  "page_title": "CYP2C19 Genotyping Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 8110
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "5th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

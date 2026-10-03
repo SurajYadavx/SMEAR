@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-cd23",
+  "test_name": "CD23",
+  "slug": "cd23",
+  "source_url": "https://www.metropolisindia.com/parameter/cd23",
+  "canonical_url": "https://www.metropolisindia.com/parameter/cd23",
+  "page_title": "CD23 \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2415
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 2 days 05:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

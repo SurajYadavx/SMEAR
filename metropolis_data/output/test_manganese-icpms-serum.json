@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-manganese-icpms-serum",
+  "test_name": "Manganese ICPMS Serum Test",
+  "slug": "manganese-icpms-serum",
+  "source_url": "https://www.metropolisindia.com/parameter/manganese-icpms-serum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/manganese-icpms-serum",
+  "page_title": "Manganese ICPMS Serum Test \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 4275
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "4th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

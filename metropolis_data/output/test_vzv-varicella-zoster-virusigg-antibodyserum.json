@@ -1,0 +1,42 @@
+{
+  "id": "metro-test-vzv-varicella-zoster-virusigg-antibodyserum",
+  "test_name": "VZV IgG Antibody By CLIA",
+  "slug": "vzv-varicella-zoster-virusigg-antibodyserum",
+  "source_url": "https://www.metropolisindia.com/parameter/vzv-varicella-zoster-virusigg-antibodyserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/vzv-varicella-zoster-virusigg-antibodyserum",
+  "page_title": "Varicella Zoster Igg Test Price, Range & Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 2100
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "next day 07:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does a positive VZV IgG test mean?",
+      "answer": "A positive result indicates that you have antibodies against Varicella Zoster Virus, suggesting past infection or successful vaccination."
+    },
+    {
+      "question": "Can this test detect a current chickenpox infection?",
+      "answer": "The IgG test mainly shows past exposure or immunity. For active infection, your doctor may recommend a VZV IgM or PCR test."
+    },
+    {
+      "question": "Is fasting needed before the VZV test?",
+      "answer": "No, fasting is not required. You can eat and drink as usual."
+    },
+    {
+      "question": "Can the test be done during pregnancy?",
+      "answer": "Yes, the VZV test is often recommended during pregnancy to ensure you are immune to chickenpox and to prevent infection risks."
+    },
+    {
+      "question": "What should I tell my doctor before the test?",
+      "answer": "Inform your doctor about any ongoing medications, immune-related conditions, or if you recently received a vaccine."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

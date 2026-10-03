@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-influenza-panel",
+  "test_name": "Flu-Xpert Viral Panel Test (Influenza/ Flu Panel)",
+  "slug": "influenza-panel",
+  "source_url": "https://www.metropolisindia.com/parameter/influenza-panel",
+  "canonical_url": "https://www.metropolisindia.com/parameter/influenza-panel",
+  "page_title": "Viral Flu Panel (influenza) Test - Price, Book and Get Reports Online from NABL-Certified Labs",
+  "pricing": {
+    "selling_price": 5330
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 3:00pm and 11:00 pm",
+  "gender": "Male, Female",
+  "preparation": "No special preparation required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Flu-Xpert Viral Panel Test detect?",
+      "answer": "It detects Influenza A, Influenza B, H1N1, H3N2, and RSV viruses using RT-PCR."
+    },
+    {
+      "question": "How is the sample collected?",
+      "answer": "A nasopharyngeal and oropharyngeal swab is collected using a VTM tube."
+    },
+    {
+      "question": "Do I need to fast before the test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "How long does it take to get results?",
+      "answer": "Reports are provided on the same day at 3:00 PM or 11:00 PM."
+    },
+    {
+      "question": "Is this test used to diagnose Swine Flu?",
+      "answer": "Yes, it specifically detects the H1N1 strain of Influenza A."
+    },
+    {
+      "question": "Can a negative result rule out infection completely?",
+      "answer": "Not always. Early or late-stage infections may show false negatives; results should be correlated clinically."
+    },
+    {
+      "question": "What technology is used for this test?",
+      "answer": "The test uses Real-Time PCR (RT-PCR) for detecting viral genetic material accurately."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

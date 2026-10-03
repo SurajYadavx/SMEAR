@@ -1,0 +1,34 @@
+{
+  "id": "metro-test-met-gene-amplification",
+  "test_name": "MET Amplification FISH Test",
+  "slug": "met-gene-amplification",
+  "source_url": "https://www.metropolisindia.com/parameter/met-gene-amplification",
+  "canonical_url": "https://www.metropolisindia.com/parameter/met-gene-amplification",
+  "page_title": "MET Amplification FISH Test  - Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 10400
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "6th day 06:00 pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "Why take MET Amplification FISH Test?",
+      "answer": "Providing prognostic information and guiding treatment primarily for patients with lung cancer."
+    },
+    {
+      "question": "Is this test for you?",
+      "answer": "Your doctor may suggest to get the test done to provide prognostic information and guiding treatment primarily for patients with lung cancer."
+    },
+    {
+      "question": "More Info on MET Amplification FISH Test",
+      "answer": "MET is a proto-oncogene and its overexpression is associated with disease progression. Recent studies have shown MET amplification to be a major mechanism of acquired resistance to certain anti cancer medicines."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

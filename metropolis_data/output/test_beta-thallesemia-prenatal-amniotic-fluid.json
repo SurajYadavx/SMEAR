@@ -1,0 +1,58 @@
+{
+  "id": "metro-test-beta-thallesemia-prenatal-amniotic-fluid",
+  "test_name": "Beta Thalassemia Prenatal Diagnosis",
+  "slug": "beta-thallesemia-prenatal-amniotic-fluid",
+  "source_url": "https://www.metropolisindia.com/parameter/beta-thallesemia-prenatal-amniotic-fluid",
+  "canonical_url": "https://www.metropolisindia.com/parameter/beta-thallesemia-prenatal-amniotic-fluid",
+  "page_title": "Beta Thallesemia Prenatal Amniotic Fluid Test Price | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 17160
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "8th day 06:00 pm",
+  "gender": "female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does Beta Thalassemia Prenatal Diagnosis measure?",
+      "answer": "Beta Thalassemia Prenatal Diagnosis test detects 97-99% of disease-causing as well as rare mutations in the HBB gene."
+    },
+    {
+      "question": "Why is Beta Thalassemia Prenatal Diagnosis done?",
+      "answer": "\u2022 To detect and diagnose beta thalassemia in unborn babies \u2022 To help parents make informed decisions about their pregnancy, assess the risk of passing on the disease, and plan for appropriate medical intervention or treatment, if necessary."
+    },
+    {
+      "question": "When is Beta Thalassemia Prenatal Diagnosis recommended and who should take the test?",
+      "answer": "Beta Thalassemia Prenatal Diagnosis is recommended under the following circumstances: \u2022 if one or both parents are known carriers of beta thalassemia \u2022 if there is a family history of beta thalassemia \u2022 if there is a previous child with beta-thalassemia \u2022 if either parent has a high risk of being a carrier based on their ethnic background \u2022 if prenatal screening tests indicate a high risk of having a baby with beta thalassemia"
+    },
+    {
+      "question": "What if the results of the Beta Thalassemia Prenatal Diagnosis are abnormal?",
+      "answer": "Abnormal results suggest the presence of mutations associated with beta thalassemia."
+    },
+    {
+      "question": "What to expect during Beta Thalassemia Prenatal Diagnosis?",
+      "answer": "During the test, a sample of amniotic fluid or chorionic villus tissue is collected from the mother. A blood sample is also collected from the mother. The samples are sent to the laboratory for testing."
+    },
+    {
+      "question": "What preparations are required before Beta Thalassemia Prenatal Diagnosis?",
+      "answer": "\u2022 Provide a duly signed consent form as per PCPNDT guidelines, including a sample forwarding doctor's covering letter and Form G (for invasive techniques). \u2022 Ensure that clinical indication and family history information is provided. \u2022 Follow any specific instructions provided by your healthcare provider regarding fasting, medication, or other preparations. \u2022 Inform your doctor if you have any specific requirements."
+    },
+    {
+      "question": "What other tests may be ordered with Beta Thalassemia Prenatal Diagnosis?",
+      "answer": "\u2022 Complete Blood Count (CBC): This test measures the levels of different components in your blood and helps assess the severity of beta thalassemia. \u2022 Haemoglobin Electrophoresis: This test identifies abnormal types of haemoglobin, which can aid in the diagnosis and classification of beta thalassemia."
+    },
+    {
+      "question": "What is Beta Thalassemia Prenatal Diagnosis also known as?",
+      "answer": "24-hour urine 5-hydroxyindoleacetic acid test or 24-hour urine 5-HIAA test"
+    },
+    {
+      "question": "What is beta thalassemia?",
+      "answer": "Beta thalassemia is an inherited blood disorder characterised by reduced or absent production of beta-globin protein, which is a component of haemoglobin. It leads to inadequate red blood cell production and can cause anaemia."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

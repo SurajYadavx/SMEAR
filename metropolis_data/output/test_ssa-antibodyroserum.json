@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-ssa-antibodyroserum",
+  "test_name": "SSA-Antibody Ro",
+  "slug": "ssa-antibodyroserum",
+  "source_url": "https://www.metropolisindia.com/parameter/ssa-antibodyroserum",
+  "canonical_url": "https://www.metropolisindia.com/parameter/ssa-antibodyroserum",
+  "page_title": "SSA-Antibody Ro \u2013 Price, Purpose and Preparation | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 1890
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day : 7:00pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}

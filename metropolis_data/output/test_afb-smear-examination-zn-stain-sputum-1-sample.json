@@ -1,0 +1,50 @@
+{
+  "id": "metro-test-afb-smear-examination-zn-stain-sputum-1-sample",
+  "test_name": "Sputum AFB Test",
+  "slug": "afb-smear-examination-zn-stain-sputum-1-sample",
+  "source_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-zn-stain-sputum-1-sample",
+  "canonical_url": "https://www.metropolisindia.com/parameter/afb-smear-examination-zn-stain-sputum-1-sample",
+  "page_title": "Sputum AFB Test \u2013 Best Price & Quick Report Near Me | Metropolis Healthcare",
+  "pricing": {
+    "selling_price": 430
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "after 6 hrs",
+  "gender": "Male, Female",
+  "preparation": "Complete TB Test Requisition Form (TRF) details are required",
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [
+    {
+      "question": "What does the Sputum AFB Test detect?",
+      "answer": "It detects acid-fast bacilli (AFB), including Mycobacterium tuberculosis, which causes TB."
+    },
+    {
+      "question": "How is the sputum sample collected?",
+      "answer": "You cough deeply to produce sputum from the lungs into a sterile container."
+    },
+    {
+      "question": "Do I need to fast before this test?",
+      "answer": "No, fasting is not required."
+    },
+    {
+      "question": "When should I give my sample?",
+      "answer": "Early morning sputum is preferred for best accuracy."
+    },
+    {
+      "question": "How soon can I get the report?",
+      "answer": "Reports are usually available within 6 hours after the sample reaches the laboratory."
+    },
+    {
+      "question": "What if my result is positive?",
+      "answer": "A positive smear suggests active TB (or another mycobacterial infection). Your doctor will advise confirmatory tests and treatment."
+    },
+    {
+      "question": "Can the AFB test detect drug resistance?",
+      "answer": "No. If AFB is detected, additional testing such as GeneXpert or culture-based drug susceptibility testing is used to assess drug resistance."
+    }
+  ],
+  "images": [],
+  "availability_status": "available"
+}

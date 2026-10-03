@@ -1,0 +1,21 @@
+{
+  "id": "metro-test-calprotectin",
+  "test_name": "Fecal Calprotectin Test",
+  "slug": "calprotectin",
+  "source_url": "https://www.metropolisindia.com/parameter/calprotectin",
+  "canonical_url": "https://www.metropolisindia.com/parameter/calprotectin",
+  "page_title": "Fecal Calprotectin Test - Price, Normal Range and Home Collection | Book Online",
+  "pricing": {
+    "selling_price": 3370
+  },
+  "specimen": null,
+  "fasting": "no",
+  "report_time": "same day 5pm",
+  "gender": "Male, Female",
+  "preparation": null,
+  "methodology": null,
+  "clinical_information": null,
+  "faqs": [],
+  "images": [],
+  "availability_status": "available"
+}
