@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en" id="html-root">
 
 <head>
@@ -71,14 +71,14 @@
       <h2 class="lang-popup__title">
         <span class="lang-popup__title-en">Choose Language</span>
         <span class="lang-popup__title-sep"> / </span>
-        <span class="lang-popup__title-mr">à¤­à¤¾à¤·à¤¾ à¤¨à¤¿à¤µà¤¡à¤¾</span>
+        <span class="lang-popup__title-mr">भाषा निवडा</span>
       </h2>
       <p class="lang-popup__sub" id="lang-popup-sub">
         Please select the language you are comfortable with.
       </p>
       <div class="lang-popup__buttons">
         <button id="lang-btn-mr" class="lang-popup__btn lang-popup__btn--mr" aria-label="Continue in Marathi">
-          à¤®à¤°à¤¾à¤ à¥€à¤¤ à¤¸à¥à¤°à¥‚ à¤ à¥‡à¤µà¤¾
+          मà¤°à¤¾à¤ à¥€à¤¤ à¤¸à¥à¤°à¥‚ à¤ à¥‡à¤µà¤¾
         </button>
         <button id="lang-btn-en" class="lang-popup__btn lang-popup__btn--en" aria-label="Continue in English">
           Continue in English
@@ -247,7 +247,7 @@
         </a>
         <!-- Language toggle (persistent after popup choice) -->
         <button id="lang-toggle" class="lang-toggle" aria-label="Switch language" title="Switch language">
-          <span id="lang-toggle-label" data-i18n="langToggle">à¤®</span>
+          <span id="lang-toggle-label" data-i18n="langToggle">म</span>
         </button>
       </div>
 
@@ -293,7 +293,7 @@
         </a>
         <button id="lang-toggle-mobile" class="btn btn--outline-white btn--full lang-toggle-mobile"
           aria-label="Switch language">
-          <span data-i18n="langToggle">à¤®</span>
+          <span data-i18n="langToggle">म</span>
         </button>
       </div>
     </div>
@@ -346,35 +346,112 @@
             <span data-i18n="hero.waBtn">WhatsApp Us</span>
           </a>
         </div>
-      </div>
 
-      <!-- NEW: Large glossy features on the right -->
-      <div class="hero-features fade-in">
-        <div class="hero-feature-card">
-          <div class="hf-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none"
-              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <div class="hero-bottom-features" style="margin-top: 32px; display: flex; gap: 16px; flex-wrap: wrap;">
+          <div style="background: rgba(0,0,0,0.3); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 12px 16px; display: flex; align-items: center; gap: 12px; flex: 1; min-width: 220px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2aa8b0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="12" cy="12" r="10" />
               <polyline points="12 6 12 12 16 14" />
             </svg>
+            <div>
+              <h4 style="color: #fff; margin: 0 0 2px; font-size: 0.95rem; font-weight: 600;">24/7 Full Services</h4>
+              <p style="color: rgba(255,255,255,0.7); margin: 0; font-size: 0.8rem;">Open round the clock</p>
+            </div>
           </div>
-          <div class="hf-text">
-            <h3>24/7 Full Services Available</h3>
-            <p>We are open round the clock for emergencies</p>
-          </div>
-        </div>
-        <div class="hero-feature-card">
-          <div class="hf-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none"
-              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <div style="background: rgba(0,0,0,0.3); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 12px 16px; display: flex; align-items: center; gap: 12px; flex: 1; min-width: 220px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
               <polyline points="9 22 9 12 15 12 15 22" />
             </svg>
+            <div>
+              <h4 style="color: #fff; margin: 0 0 2px; font-size: 0.95rem; font-weight: 600;">Home Collection</h4>
+              <p style="color: rgba(255,255,255,0.7); margin: 0; font-size: 0.8rem;">Safe & hygienic testing</p>
+            </div>
           </div>
-          <div class="hf-text">
-            <h3>Home Sample Collection</h3>
-            <p>Safe and hygienic testing at your doorstep</p>
-          </div>
+        </div>
+
+      </div>
+
+      <!-- NEW: Large glossy features on the right + Premium Discount Banner -->
+      <style>
+        .premium-promo-card {
+          background: linear-gradient(135deg, rgba(255,255,255,0.12), rgba(255,255,255,0.04));
+          backdrop-filter: blur(16px);
+          -webkit-backdrop-filter: blur(16px);
+          border: 1px solid rgba(255,255,255,0.25);
+          border-radius: 20px;
+          padding: 24px 20px;
+          box-shadow: 0 12px 40px rgba(0,0,0,0.25);
+          text-align: center;
+          margin-bottom: 12px;
+          animation: pulseGlow 4s infinite alternate;
+        }
+        @keyframes pulseGlow {
+          0% { box-shadow: 0 8px 32px rgba(255,215,0,0.1); }
+          100% { box-shadow: 0 8px 32px rgba(255,215,0,0.25); }
+        }
+        .promo-btn {
+          display: block;
+          padding: 16px 20px;
+          border-radius: 14px;
+          text-decoration: none;
+          margin-bottom: 12px;
+          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+          border: 1px solid rgba(255,255,255,0.1);
+        }
+        .promo-btn:last-child { margin-bottom: 0; }
+        .promo-btn:hover {
+          transform: translateY(-3px) scale(1.02);
+          filter: brightness(1.1);
+        }
+        .promo-btn--pkg {
+          background: linear-gradient(135deg, #1a6b6e, #2aa8b0);
+          box-shadow: 0 6px 16px rgba(42, 168, 176, 0.4);
+        }
+        .promo-btn--test {
+          background: linear-gradient(135deg, #2563eb, #3b82f6);
+          box-shadow: 0 6px 16px rgba(59, 130, 246, 0.4);
+        }
+        .promo-val {
+          display: block;
+          font-family: 'Outfit', sans-serif;
+          font-size: 1.5rem;
+          font-weight: 800;
+          color: #FFD700;
+          margin-bottom: 2px;
+          text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+          letter-spacing: 0.03em;
+        }
+        .promo-txt {
+          font-size: 0.95rem;
+          color: #fff;
+          font-weight: 500;
+          letter-spacing: 0.02em;
+        }
+        .hf-compact {
+          padding: 12px 16px !important;
+          background: rgba(255,255,255,0.06) !important;
+          min-height: 0 !important;
+        }
+        .hf-compact .hf-icon { width: 28px !important; height: 28px !important; }
+        .hf-compact h3 { font-size: 0.95rem !important; margin-bottom: 2px !important; }
+        .hf-compact p { font-size: 0.8rem !important; }
+      </style>
+      <div class="hero-features fade-in" style="gap: 12px; width: 100%; max-width: 360px;">
+        <div class="premium-promo-card">
+          <h3 style="color: #FFD700; font-size: 1.25rem; font-family: 'Outfit', sans-serif; font-weight: 700; letter-spacing: 0.08em; margin: 0 0 16px; text-transform: uppercase; text-shadow: 0 2px 6px rgba(0,0,0,0.4);">
+            ✨ Special Offers ✨
+          </h3>
+          
+          <a href="packages.html" class="promo-btn promo-btn--pkg">
+            <span class="promo-val">40% OFF</span>
+            <span class="promo-txt">On All Health Packages</span>
+          </a>
+
+          <a href="blood-tests.html" class="promo-btn promo-btn--test">
+            <span class="promo-val">30% OFF</span>
+            <span class="promo-txt">On All Blood Tests</span>
+          </a>
         </div>
       </div>
 

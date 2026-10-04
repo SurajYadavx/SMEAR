@@ -1,4 +1,4 @@
-﻿/* ============================================================
+/* ============================================================
    SMEAR PATHOLOGY — V15 PACKAGES + BLOOD-TESTS POLISH
    ============================================================ */
 
@@ -177,3 +177,57 @@
 }
 
 .catalogue-section__head { margin-bottom: 28px; }
+
+/* ── PREMIUM BLOOD TEST CARDS (TC-PREMIUM) ───────────────── */
+.test-card.tc-premium {
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.test-card.tc-premium::before {
+  display: none; /* Hide the old left border accent */
+}
+
+.tc-visual-header {
+  position: relative;
+  padding: 24px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.tc-visual-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 18% 55%, rgba(255,255,255,0.09) 0%, transparent 50%),
+    radial-gradient(circle at 82% 18%, rgba(255,255,255,0.07) 0%, transparent 38%),
+    repeating-linear-gradient(-45deg, transparent, transparent 18px, rgba(255,255,255,0.025) 18px, rgba(255,255,255,0.025) 36px);
+}
+
+.tc-visual-label {
+  position: relative;
+  z-index: 2;
+  color: rgba(255,255,255,0.92);
+  font-family: "Outfit", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.4;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.35);
+}
+
+.test-card__body-wrap {
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  flex: 1;
+}
+

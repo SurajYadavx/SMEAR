@@ -50,7 +50,10 @@ document.addEventListener('DOMContentLoaded', function() {
       descEl.innerHTML = '<p>' + descText.split('\n').join('</p><p>') + '</p>';
 
       // Price
-      var pPrice = _pkg.price;
+      var pOldPrice = _pkg.price;
+      var pPrice = pOldPrice !== null && pOldPrice > 0 ? Math.round(pOldPrice * 0.60) : null; // 40% OFF
+      var pDiscount = 40;
+
       if (pPrice !== null) {
         document.getElementById('pd-price').textContent = '₹' + pPrice;
       } else {
@@ -59,13 +62,16 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('pd-price').style.color = 'var(--color-text)';
       }
 
-      var pDiscount = _pkg.discount || 0;
-      if (pDiscount > 0 && pPrice !== null) {
-        document.getElementById('pd-discount').textContent = pDiscount + '% OFF';
+      if (pPrice !== null && pOldPrice > 0) {
+        document.getElementById('pd-discount').textContent = '40% OFF';
         document.getElementById('pd-discount').style.display = 'inline-block';
-        var mrp = _pkg.mrp || Math.round(pPrice / (1 - pDiscount / 100));
-        document.getElementById('pd-mrp').textContent = '₹' + mrp;
+        document.getElementById('pd-discount').style.background = 'linear-gradient(135deg, #FFD700, #FFA500)';
+        document.getElementById('pd-discount').style.color = '#000';
+        document.getElementById('pd-discount').style.boxShadow = '0 2px 6px rgba(255,165,0,0.4)';
+        
+        document.getElementById('pd-mrp').textContent = '₹' + pOldPrice;
         document.getElementById('pd-mrp').style.display = 'inline-block';
+        document.getElementById('pd-mrp').style.textDecoration = 'line-through';
       }
 
       // Tags (Hero)

@@ -227,8 +227,9 @@
     }
 
     filtered.forEach(function(pkg) {
-      var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-      var discount = typeof pkg.discount === 'number' ? pkg.discount : extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
+      var oldPrice = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
+      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.60) : 0;
+      var discount = 40;
       var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
       var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
@@ -243,12 +244,12 @@
       card.innerHTML =
         '<div class="pkg-card__img-wrap">' +
           imgHtml +
-          (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
+          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">40% OFF</span>' +
         '</div>' +
         '<div class="pkg-card__body">' +
           '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
           '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
-          (price > 0 ? '<div class="pkg-card__price">₹' + price + '</div>' : '') +
+          (price > 0 ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>' : '') +
           '<div class="pkg-card__ctas">' +
             '<button class="btn btn--outline-primary view-pkg-btn" data-id="' + esc(pkg.id) + '">View Details</button>' +
             '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + price + '">Add to Cart</button>' +
@@ -325,8 +326,9 @@
     }
 
       filtered.slice(0, 60).forEach(function(pkg) {
-        var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-        var discount = typeof pkg.discount === 'number' ? pkg.discount : extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
+        var oldPrice = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
+        var price    = oldPrice > 0 ? Math.round(oldPrice * 0.60) : 0;
+        var discount = 40;
         var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
         var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
@@ -339,12 +341,12 @@
 
         card.innerHTML =
           '<div class="pkg-card__img-wrap">' + imgHtml +
-            (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
+            '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">40% OFF</span>' +
           '</div>' +
           '<div class="pkg-card__body">' +
             '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
             '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
-            (price > 0 ? '<div class="pkg-card__price">₹' + price + '</div>' : '') +
+            (price > 0 ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>' : '') +
             '<div class="pkg-card__ctas">' +
               '<button class="btn btn--outline-primary view-pkg-btn" data-id="' + esc(pkg.id) + '">View Details</button>' +
               '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + price + '">Add to Cart</button>' +

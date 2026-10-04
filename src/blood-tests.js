@@ -1,13 +1,13 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — BLOOD-TESTS.JS v2
+ *  SMEAR PATHOLOGY — BLOOD-TESTS.JS v3
  *  Powers blood-tests.html
- *  - Premium test cards
+ *  - Premium test cards with colorful gradient visual headers
  *  - Full dataset search (debounced)
  *  - Proper pagination
  *  - Loading/empty/error states
  *  - Smear-only WhatsApp
- *  - Modal with proper scroll lock
+ *  - Modal with CORRECT test lookup (stable ID, not positional UID)
  * ============================================================
  */
 (function () {
@@ -19,6 +19,41 @@
   var _searchQuery = '';
   var _debounce    = null;
   var _modalSavedScroll = 0;
+
+  /* ── Gradient palette for card visual headers ── */
+  var CARD_GRADIENTS = [
+    'linear-gradient(135deg, #0d3b3e 0%, #1a6b6e 60%, #2aa8b0 100%)',
+    'linear-gradient(135deg, #1a3a5c 0%, #1d6fa0 60%, #38b2ac 100%)',
+    'linear-gradient(135deg, #1a3730 0%, #2f6b5a 60%, #48bb78 100%)',
+    'linear-gradient(135deg, #2d1b4e 0%, #553c9a 60%, #9f7aea 100%)',
+    'linear-gradient(135deg, #3d1a1a 0%, #9b2c2c 60%, #fc8181 100%)',
+    'linear-gradient(135deg, #1a2a4a 0%, #2563eb 60%, #60a5fa 100%)',
+    'linear-gradient(135deg, #1a3320 0%, #2d6a4f 60%, #52b788 100%)',
+    'linear-gradient(135deg, #3b1a00 0%, #b45309 60%, #fcd34d 100%)',
+  ];
+
+  var CAT_GRADIENT_MAP = {
+    'infection': 0,
+    'blood': 1,
+    'cardiac': 5,
+    'diabetes': 2,
+    'thyroid': 3,
+    'vitamins': 6,
+    'kidney': 7,
+    'liver': 2,
+    'cancer': 4,
+    'allergy': 3,
+    'hormones': 3,
+    'other': 0,
+  };
+
+  function getGradient(test, absIdx) {
+    var catId = (test.categoryId || '').toLowerCase();
+    if (CAT_GRADIENT_MAP.hasOwnProperty(catId)) {
+      return CARD_GRADIENTS[CAT_GRADIENT_MAP[catId]];
+    }
+    return CARD_GRADIENTS[absIdx % CARD_GRADIENTS.length];
+  }
 
   function esc(s) {
     return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -51,8 +86,8 @@
     var q = _searchQuery.toLowerCase();
     return _tests.filter(function(t) {
       var name = (t.name || '').toLowerCase();
-      var lab  = (t.lab || '').toLowerCase();
-      return name.indexOf(q) > -1 || lab.indexOf(q) > -1;
+      var cat  = (t.categoryName || t.categoryId || '').toLowerCase();
+      return name.indexOf(q) > -1 || cat.indexOf(q) > -1;
     });
   }
 
@@ -62,8 +97,9 @@
     grid.innerHTML = '';
     for (var i = 0; i < 12; i++) {
       var card = document.createElement('div');
-      card.className = 'skeleton-card';
+      card.className = 'skeleton-card tc-premium';
       card.innerHTML =
+        '<div class="skeleton-img"></div>' +
         '<div class="skeleton-body">' +
           '<div class="skeleton-line skeleton-line--short"></div>' +
           '<div class="skeleton-line skeleton-line--medium"></div>' +
@@ -129,33 +165,50 @@
     }
 
     paginated.forEach(function(test, idx) {
-      var price = extractPrice(test.price);
-      var uid   = startIdx + idx;
-      test._uid = uid;
+      var oldPrice = extractPrice(test.price);
+      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.70) : 0; // 30% OFF
+      var absIdx   = startIdx + idx;
+      var gradient = getGradient(test, absIdx);
+      var catLabel = test.categoryName || test.categoryId || 'Laboratory Test';
+
+      /* Stable ID for correct modal lookup — no more positional UIDs! */
+      var stableId = test.id || test.slug || ('idx-' + absIdx);
 
       var card = document.createElement('div');
-      card.className = 'test-card';
+      card.className = 'test-card tc-premium';
 
       card.innerHTML =
-        '<div class="test-card__lab">' + esc(test.lab || 'Laboratory Test') + '</div>' +
-        '<div class="test-card__name">' + esc(test.name) + '</div>' +
-        (price > 0 ? '<div class="test-card__price">₹' + price + '</div>' : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>') +
-        '<div class="test-card__ctas">' +
-          '<button class="btn btn--outline-primary view-test-btn" data-uid="' + uid + '">Details</button>' +
-          '<button class="btn btn--primary book-test-btn" data-name="' + esc(test.name) + '">Book</button>' +
+        /* ── Colorful gradient visual header ── */
+        '<div class="tc-visual-header" style="background:' + gradient + ';">' +
+          '<div class="tc-visual-overlay"></div>' +
+          '<span class="tc-visual-label">' + esc(catLabel) + '</span>' +
+          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">30% OFF</span>' +
+        '</div>' +
+        /* ── Card body ── */
+        '<div class="test-card__body-wrap">' +
+          '<div class="test-card__lab">Laboratory Test</div>' +
+          '<div class="test-card__name">' + esc(test.name) + '</div>' +
+          (price > 0
+            ? '<div class="test-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>'
+            : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>') +
+          '<div class="test-card__ctas">' +
+            '<button class="btn btn--outline-primary view-test-btn" data-id="' + esc(stableId) + '">Details</button>' +
+            '<button class="btn btn--primary book-test-btn" data-name="' + esc(test.name) + '">Book</button>' +
+          '</div>' +
         '</div>';
 
       grid.appendChild(card);
     });
 
-    // Events
+    /* Events — use data-id (STABLE) not data-uid (POSITIONAL, was buggy) */
     grid.querySelectorAll('.view-test-btn').forEach(function(btn) {
       btn.addEventListener('click', function() {
-        var uid = parseInt(btn.getAttribute('data-uid'), 10);
-        var test = _tests.find(function(t){ return t._uid === uid; });
-        if (!test) { /* fallback: find by index in paginated */
-          var idx2 = uid - startIdx;
-          test = paginated[idx2];
+        var sid  = btn.getAttribute('data-id');
+        /* Find by id first, then by slug, then by generated idx- key */
+        var test = _tests.find(function(t) { return t.id === sid; });
+        if (!test) test = _tests.find(function(t) { return t.slug === sid; });
+        if (!test && sid.indexOf('idx-') === 0) {
+          test = _tests[parseInt(sid.replace('idx-', ''), 10)];
         }
         if (test) openTestModal(test);
       });
@@ -163,7 +216,7 @@
 
     grid.querySelectorAll('.book-test-btn').forEach(function(btn) {
       btn.addEventListener('click', function() {
-        var name = btn.getAttribute('data-name');
+        var name  = btn.getAttribute('data-name');
         var waMsg = 'Hello, I would like to enquire about / book the following blood test:\n\n' + name;
         var phone = (typeof CONTACT_PHONE !== 'undefined') ? CONTACT_PHONE : '7410745222';
         window.open('https://wa.me/91' + phone + '?text=' + encodeURIComponent(waMsg), '_blank');
@@ -199,28 +252,39 @@
     var priceEl = document.getElementById('modal-price');
     var callBtn = document.getElementById('modal-call-btn');
     var waBtn   = document.getElementById('modal-wa-btn');
-    var price = extractPrice(test.price);
+    var oldPrice = extractPrice(test.price);
+    var price    = oldPrice > 0 ? Math.round(oldPrice * 0.70) : 0; // 30% OFF
 
     if (titleEl) {
       titleEl.textContent = test.name;
       titleEl.style.color = '#000';
     }
-    if (priceEl) priceEl.textContent = price > 0 ? '₹' + price : 'Price on request';
+    if (priceEl) {
+      if (price > 0) {
+        priceEl.innerHTML = '<span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price;
+      } else {
+        priceEl.textContent = 'Price on request';
+      }
+    }
 
     if (descEl) {
+      var labName = test.lab || test.labName || 'Smear Pathology';
       descEl.innerHTML =
         '<div style="font-size:0.92rem;line-height:1.7;text-align:left;">' +
         '<p style="margin-bottom:8px;"><strong>Test Name:</strong> ' + esc(test.name) + '</p>' +
-        '<p style="margin-bottom:8px;"><strong>Laboratory:</strong> ' + esc(test.lab || 'Smear Pathology') + '</p>' +
-        '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (price > 0 ? '₹' + price : 'Contact for price') + '</p>' +
+        '<p style="margin-bottom:8px;"><strong>Laboratory:</strong> ' + esc(labName) + '</p>' +
+        '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (price > 0 ? '<span style="text-decoration: line-through; color: var(--color-text-muted); margin-right: 6px;">₹' + oldPrice + '</span>₹' + price : 'Contact for price') + '</p>' +
+        (test.specimen ? '<p style="margin-bottom:8px;"><strong>Specimen:</strong> ' + esc(test.specimen) + '</p>' : '') +
+        (test.report_time ? '<p style="margin-bottom:8px;"><strong>Report Time:</strong> ' + esc(test.report_time) + '</p>' : '') +
+        (test.fasting && test.fasting !== 'no' ? '<p style="margin-bottom:8px;"><strong>Fasting:</strong> ' + esc(test.fasting) + '</p>' : '') +
         '<p style="margin-top:14px;color:var(--color-text-muted);">Book this test via WhatsApp or call our lab directly. Prices are approximate and confirmed before sample collection.</p>' +
         '</div>';
     }
 
-    var phone   = (typeof CONTACT_PHONE !== 'undefined') ? CONTACT_PHONE : '7410745222';
-    var telUrl  = (typeof CONTACT_PHONE_TEL !== 'undefined') ? CONTACT_PHONE_TEL : ('tel:+91' + phone);
-    var waMsg   = 'Hello, I would like to enquire about / book the following blood test:\n\n' + test.name;
-    var waUrl   = 'https://wa.me/91' + phone + '?text=' + encodeURIComponent(waMsg);
+    var phone  = (typeof CONTACT_PHONE !== 'undefined') ? CONTACT_PHONE : '7410745222';
+    var telUrl = (typeof CONTACT_PHONE_TEL !== 'undefined') ? CONTACT_PHONE_TEL : ('tel:+91' + phone);
+    var waMsg  = 'Hello, I would like to enquire about / book the following blood test:\n\n' + test.name;
+    var waUrl  = 'https://wa.me/91' + phone + '?text=' + encodeURIComponent(waMsg);
 
     if (callBtn) { callBtn.href = telUrl; }
     if (waBtn)   { waBtn.href = waUrl; waBtn.target = '_blank'; waBtn.rel = 'noopener noreferrer'; }
@@ -292,7 +356,6 @@
 
   /* ── Search Wiring ────────────────────────────────────────── */
   function initSearch() {
-    // The HTML already has #shop-search-input; also check for legacy test input
     var input = document.getElementById('shop-search-input');
     if (!input) return;
 
@@ -300,8 +363,9 @@
 
     // Add clear button
     var wrapper = input.parentNode;
+    var clearBtn;
     if (wrapper) {
-      var clearBtn = document.createElement('button');
+      clearBtn = document.createElement('button');
       clearBtn.type = 'button';
       clearBtn.className = 'shop-search-clear-btn';
       clearBtn.setAttribute('aria-label', 'Clear search');
