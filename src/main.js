@@ -567,7 +567,7 @@ function injectJSONLD() {
     '@context':'https://schema.org','@type':'MedicalBusiness',
     'name':'Smear Pathology',
     'description':'Diagnostic pathology and microbiology laboratory in Indapur, Pune, Maharashtra.',
-    'url':'https://smearpathology.in/','logo':'https://smearpathology.in/public/assets/logo/logo.png',
+    'url':'https://surajyadavx.github.io/SMEAR/','logo':'https://surajyadavx.github.io/SMEAR/public/assets/logo/logo.png',
     'telephone':'+917410745222','email':CONTACT_EMAIL,
     'address':{'@type':'PostalAddress','streetAddress':'Indapur','addressLocality':'Indapur','addressRegion':'Maharashtra','postalCode':'413106','addressCountry':'IN'},
     'geo':{'@type':'GeoCoordinates','latitude':MAP_LAT,'longitude':MAP_LNG},

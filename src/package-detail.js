@@ -188,8 +188,12 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('pd-faq-section').style.display = 'none';
       }
 
-      // Related Packages (same category)
-      var related = packages.filter(function(p) { return p.categoryId === _pkg.categoryId && p.id !== _pkg.id; });
+      // Related Packages (same category prioritized, exclude null prices)
+      var related = packages.filter(function(p) { return p.categoryId === _pkg.categoryId && p.id !== _pkg.id && p.price !== null && p.price > 0; });
+      if (related.length < 3) {
+        var more = packages.filter(function(p) { return p.id !== _pkg.id && p.price !== null && p.price > 0 && related.indexOf(p) === -1; });
+        related = related.concat(more);
+      }
       if (related.length > 0) {
         document.getElementById('pd-related-section').style.display = 'block';
         var rGrid = document.getElementById('pd-related-grid');

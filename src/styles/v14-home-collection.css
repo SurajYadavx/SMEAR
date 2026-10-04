@@ -3,7 +3,7 @@
 /* Premium Hero */
 .hc-premium-hero {
   position: relative;
-  background: linear-gradient(135deg, #092c2e 0%, #0d3b3e 100%);
+  background: linear-gradient(rgba(9, 44, 46, 0.8), rgba(13, 59, 62, 0.8)), url('../../public/assets/team/lab-equi.jpeg') center/cover no-repeat;
   color: #fff;
   padding: 100px 0 120px;
   overflow: hidden;

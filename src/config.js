@@ -39,12 +39,12 @@ var LAB_OWNER_CRED = 'BSc Microbiology, PGDMLT';
 // PLACEHOLDER: Replace with exact confirmed address before launch
 var LAB_ADDRESS    = 'Indapur, Pune District, Maharashtra \u2014 413106';
 // PLACEHOLDER: Replace with confirmed operating hours before launch
-var LAB_HOURS      = '24/7 Services Available';
+var LAB_HOURS      = 'Call or WhatsApp to confirm today\'s hours';
 
 // ── SEO / META BASE ──────────────────────────────────────────
 var SEO_TITLE       = 'Smear Pathology \u2014 Pathology Lab & Diagnostic Centre in Indapur, Pune';
 var SEO_DESCRIPTION = 'Smear Pathology is a trusted diagnostic pathology and microbiology laboratory in Indapur, Pune. Accurate blood tests, urine tests, and microbiological reports with quick turnaround. Book via WhatsApp or call.';
-var SITE_URL        = 'https://smearpathology.in';
+var SITE_URL        = 'https://surajyadavx.github.io/SMEAR/';
 
 // ── GALLERY IMAGES ───────────────────────────────────────────
 var GALLERY_IMAGES = [
