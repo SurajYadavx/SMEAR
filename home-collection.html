@@ -251,13 +251,40 @@
 
         </div>
       </section>
-      <section class="shop-section" aria-labelledby="hc-packages-heading">
-        <div class="container">
-          <h2 id="hc-packages-heading" class="shop-section__title">Packages Available for Home Collection</h2>
-          <p style="color:#5a7070;margin:-12px 0 24px;font-size:0.9rem;"><a href="packages.html">View all packages →</a></p>
-          <div class="pkg-card-grid" id="hc-package-grid"></div>
+    <!-- ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═  SEARCH + FILTERS ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═  -->
+    <section class="shop-search-section" aria-label="Search and filter">
+      <div class="container">
+        <div class="catalogue-section__head" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:24px; flex-wrap:wrap; gap:16px;">
+          <h2 id="hc-packages-heading" class="shop-section__title" style="margin:0;">Packages Available for Home Collection</h2>
+          <a href="packages.html" style="color:var(--color-primary); font-weight:600; font-size:0.95rem; white-space:nowrap;">View all packages &rarr;</a>
         </div>
-      </section>
+        <div class="shop-search-wrapper">
+          <span class="shop-search-icon" style="position:absolute;left:16px;top:50%;transform:translateY(-50%);color:#a0aab2;display:flex;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </span>
+          <input
+            type="search"
+            id="shop-search-input"
+            class="shop-search-input"
+            placeholder="Search packages…"
+            autocomplete="off"
+            spellcheck="false"
+            style="padding-left: 44px;"
+          />
+        </div>
+        <div class="shop-category-filters" id="shop-category-filters" role="group" aria-label="Filter by category" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:20px;">
+        </div>
+      </div>
+    </section>
+
+    <!-- ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═  PACKAGES GRID ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═ ═  -->
+    <section class="shop-section" aria-labelledby="hc-packages-heading">
+      <div class="container">
+        <div class="shop-grid" id="shop-package-grid" aria-label="Package catalogue">
+          <p style="color:#5a7070;grid-column:1/-1;">Loading packages…</p>
+        </div>
+      </div>
+    </section>
 
       <!-- ═══════════ FAQ SECTION ═════════════════════════════ -->
       <section class="hc-faq-section" style="padding: 80px 0; background: var(--color-bg);">
@@ -555,5 +582,7 @@
     <script src="./src/cart.js"></script>
     <script src="./src/partials.js"></script>
     <script src="./src/home-collection.js?v=3"></script>
+    <script src="./src/global-search.js"></script>
+    <script src="./src/packages.js?v=4"></script>
   </body>
 </html>
