@@ -138,71 +138,45 @@
     if (grid && grid.parentNode) grid.parentNode.insertBefore(bar, grid);
   }
 
-  /* ── Category Cards ───────────────────────────────────────── */
-  function renderCategoryCards() {
-    _activeCategory = null;
-    _searchQuery = '';
-
-    var grid = getGrid();
-    if (!grid) return;
-
-    var heading = getHeading();
-    if (heading) heading.textContent = 'Package Categories';
-
-    var searchSection = getSearchSection();
-    if (searchSection) searchSection.style.display = '';
-
-    removeBackBtn();
-    updateResultCount(null);
-
-    // Switch grid class
-    grid.className = 'pkg-category-grid';
-    grid.innerHTML = '';
-
-    var subEl = document.getElementById('shop-packages-heading');
-    var subDesc = document.getElementById('packages-subtitle');
-    if (subDesc) subDesc.textContent = 'Browse ' + _categories.length + ' categories of comprehensive diagnostic packages.';
-
+  /* ── Category Tabs ───────────────────────────────────────── */
+  function renderCategoryTabs() {
+    var filtersContainer = document.getElementById('shop-category-filters');
+    if (!filtersContainer) return;
     
+    filtersContainer.innerHTML = '';
+    
+    // Add "All" tab
+    var allTab = document.createElement('button');
+    allTab.className = 'shop-filter-btn' + (!_activeCategory ? ' active' : '');
+    allTab.textContent = 'All';
+    allTab.addEventListener('click', function() {
+      _activeCategory = null;
+      renderCategoryTabs();
+      setURLState('', '');
+      renderPackagesForCategory();
+    });
+    filtersContainer.appendChild(allTab);
+
     var catCounts = {};
     _packages.forEach(function(p) {
       if(p.categoryId) catCounts[p.categoryId] = (catCounts[p.categoryId] || 0) + 1;
     });
 
-    _categories.forEach(function(cat, idx) {
+    _categories.forEach(function(cat) {
       var count = catCounts[cat.categoryId] || 0;
       if (count === 0) return;
-
-      var color = getCatColor(idx);
-      var icon  = getCatIcon(cat.categoryId);
-      var card  = document.createElement('div');
-      card.className = 'pkg-cat-card';
-      card.setAttribute('style', '--cat-color:' + color);
-      card.setAttribute('tabindex', '0');
-      card.setAttribute('role', 'button');
-      card.setAttribute('aria-label', 'Explore ' + cat.categoryName + ' packages');
-
-      card.innerHTML =
-        '<div class="pkg-cat-card__icon">' + icon + '</div>' +
-        '<div class="pkg-cat-card__name">' + esc(cat.categoryName) + '</div>' +
-        '<div class="pkg-cat-card__count">' + count + ' Package' + (count !== 1 ? 's' : '') + '</div>' +
-        '<div class="pkg-cat-card__explore">Explore →</div>';
-
-      card.addEventListener('click', function() {
+      
+      var tab = document.createElement('button');
+      tab.className = 'shop-filter-btn' + (_activeCategory === cat.categoryId ? ' active' : '');
+      tab.textContent = cat.categoryName;
+      tab.addEventListener('click', function() {
         _activeCategory = cat.categoryId;
+        renderCategoryTabs();
         setURLState(cat.categoryId, '');
         renderPackagesForCategory();
       });
-      card.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter' || e.key === ' ') {
-          e.preventDefault();
-          card.click();
-        }
-      });
-      grid.appendChild(card);
+      filtersContainer.appendChild(tab);
     });
-
-    setURLState('', '');
   }
 
   /* ── Package Cards for Category ───────────────────────────── */
@@ -211,9 +185,8 @@
     if (!grid) return;
 
     var cat = _activeCategory ? _categories.find(function(c) { return c.categoryId === _activeCategory; }) : null;
-    if (!_activeCategory && !_searchQuery) { renderCategoryCards(); return; }
 
-    var heading = getHeading();
+    var heading = document.getElementById('shop-packages-heading');
     
     if (heading) heading.textContent = cat ? cat.categoryName : 'All Packages';
 
@@ -224,21 +197,6 @@
 
     // Back button
     removeBackBtn();
-    var headContainer = getHeadContainer();
-    if (headContainer) {
-      var backBtn = document.createElement('button');
-      backBtn.id = 'back-to-categories';
-      backBtn.className = 'back-nav-btn';
-      backBtn.innerHTML =
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>' +
-        'All Categories';
-      backBtn.addEventListener('click', function() {
-        _activeCategory = null;
-        renderCategoryCards();
-        setURLState('', '');
-      });
-      headContainer.insertBefore(backBtn, headContainer.firstChild);
-    }
 
     var query = searchOverride !== undefined ? searchOverride : _searchQuery;
     var qNorm = query.toLowerCase().trim();
@@ -272,13 +230,15 @@
       var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
       var discount = typeof pkg.discount === 'number' ? pkg.discount : extractDiscount(pkg.sourceData && pkg.sourceData.preview_content);
       var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
+      var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
       var card = document.createElement('div');
       card.className = 'pkg-card';
 
+      var catLabel = catObj ? catObj.categoryName : (pkg.categoryId || 'Health Package');
       var imgHtml = imgUrl
         ? '<img src="' + esc(imgUrl) + '" alt="' + esc(pkg.name) + '" loading="lazy" />'
-        : '<div class="pkg-card__placeholder"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none"><rect width="64" height="64" rx="12" fill="rgba(13,59,62,0.06)"/><path d="M10 48l12-16 10 10 8-10 14 16H10z" fill="rgba(13,59,62,0.12)"/><circle cx="44" cy="20" r="6" fill="rgba(13,59,62,0.12)"/></svg></div>';
+        : '<div class="pkg-card__placeholder"><span class="pkg-card__placeholder-label">' + esc(catLabel) + '</span></div>';
 
       card.innerHTML =
         '<div class="pkg-card__img-wrap">' +
@@ -286,7 +246,7 @@
           (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
         '</div>' +
         '<div class="pkg-card__body">' +
-          '<div class="pkg-card__category">' + esc(cat.categoryName) + '</div>' +
+          '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
           '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
           (price > 0 ? '<div class="pkg-card__price">₹' + price + '</div>' : '') +
           '<div class="pkg-card__ctas">' +
@@ -329,65 +289,40 @@
 
   /* ── Global Search (from header or cross-page) ─────────────── */
   function handleGlobalSearch(q) {
-    if (_activeCategory) {
-      _searchQuery = q;
-      renderPackagesForCategory(q);
-    } else {
-      // On category view: search all packages and show flat results
-      _searchQuery = q;
-      var qNorm = q.toLowerCase().trim();
-      var grid = getGrid();
-      if (!grid) return;
+    _searchQuery = q;
+    var qNorm = q.toLowerCase().trim();
+    var grid = getGrid();
+    if (!grid) return;
 
-      if (!qNorm) { renderCategoryCards(); return; }
+    grid.className = 'pkg-card-grid';
+    grid.innerHTML = '';
 
-      grid.className = 'pkg-card-grid';
-      grid.innerHTML = '';
+    var searchSection = getSearchSection();
+    if (searchSection) searchSection.style.display = '';
 
-      var searchSection = getSearchSection();
-      if (searchSection) searchSection.style.display = '';
+    var heading = getHeading();
+    if (heading) heading.textContent = qNorm ? 'Search Results' : (_activeCategory ? (_categories.find(function(c){ return c.categoryId === _activeCategory;})||{}).categoryName : 'All Packages');
 
-      var heading = getHeading();
-      if (heading) heading.textContent = 'Search Results';
+    var filtered = _packages.filter(function(pkg) {
+      if (_activeCategory && pkg.categoryId !== _activeCategory) return false;
+      if (!qNorm) return true;
+      var name  = (pkg.name || '').toLowerCase();
+      var catId = (pkg.categoryId || '').toLowerCase();
+      return name.indexOf(qNorm) > -1 || catId.indexOf(qNorm) > -1;
+    });
 
-      removeBackBtn();
-      var headContainer = getHeadContainer();
-      if (headContainer) {
-        var backBtn = document.createElement('button');
-        backBtn.id = 'back-to-categories';
-        backBtn.className = 'back-nav-btn';
-        backBtn.innerHTML =
-          '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>' +
-          'All Categories';
-        backBtn.addEventListener('click', function() {
-          _activeCategory = null;
-          _searchQuery = '';
-          var inp = document.getElementById('shop-search-input');
-          if (inp) inp.value = '';
-          renderCategoryCards();
-          setURLState('', '');
-        });
-        headContainer.insertBefore(backBtn, headContainer.firstChild);
-      }
+    updateResultCount(filtered.length, qNorm);
 
-      var filtered = _packages.filter(function(pkg) {
-        var name  = (pkg.name || '').toLowerCase();
-        var catId = (pkg.categoryId || '').toLowerCase();
-        return name.indexOf(qNorm) > -1 || catId.indexOf(qNorm) > -1;
-      });
-
-      updateResultCount(filtered.length, qNorm);
-
-      if (filtered.length === 0) {
-        grid.innerHTML =
-          '<div class="empty-state">' +
-            '<div class="empty-state__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>' +
-            '<h3>No packages found</h3>' +
-            '<p>No packages match "' + esc(qNorm) + '". Try a different search.</p>' +
-            '<button class="btn btn--outline-primary" onclick="var inp=document.getElementById(\'shop-search-input\');if(inp){inp.value=\'\';inp.dispatchEvent(new Event(\'input\',{bubbles:true}));}" style="margin: 0 auto;">Clear Search</button>' +
-          '</div>';
-        return;
-      }
+    if (filtered.length === 0) {
+      grid.innerHTML =
+        '<div class="empty-state">' +
+          '<div class="empty-state__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>' +
+          '<h3>No packages found</h3>' +
+          '<p>No packages match "' + esc(qNorm) + '". Try a different search.</p>' +
+          '<button class="btn btn--outline-primary" onclick="var inp=document.getElementById(\'shop-search-input\');if(inp){inp.value=\'\';inp.dispatchEvent(new Event(\'input\',{bubbles:true}));}" style="margin: 0 auto;">Clear Search</button>' +
+        '</div>';
+      return;
+    }
 
       filtered.slice(0, 60).forEach(function(pkg) {
         var price    = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
@@ -397,9 +332,10 @@
 
         var card = document.createElement('div');
         card.className = 'pkg-card';
+        var catLabel2 = catObj ? catObj.categoryName : (pkg.categoryId || 'Health Package');
         var imgHtml = imgUrl
           ? '<img src="' + esc(imgUrl) + '" alt="' + esc(pkg.name) + '" loading="lazy" />'
-          : '<div class="pkg-card__placeholder"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none"><rect width="64" height="64" rx="12" fill="rgba(13,59,62,0.06)"/><path d="M10 48l12-16 10 10 8-10 14 16H10z" fill="rgba(13,59,62,0.12)"/><circle cx="44" cy="20" r="6" fill="rgba(13,59,62,0.12)"/></svg></div>';
+          : '<div class="pkg-card__placeholder"><span class="pkg-card__placeholder-label">' + esc(catLabel2) + '</span></div>';
 
         card.innerHTML =
           '<div class="pkg-card__img-wrap">' + imgHtml +
@@ -431,19 +367,8 @@
           }
         });
       });
-    }
   }
 
-  function handleGlobalSearch(q) {
-    _searchQuery = q.trim();
-    if (_searchQuery.length === 0) {
-      if (_activeCategory) renderPackagesForCategory('');
-      else renderCategoryCards();
-    } else {
-      _activeCategory = null;
-      renderPackagesForCategory(_searchQuery);
-    }
-  }
 
   /* ── Search Input Wiring ───────────────────────────────────── */
   function initSearch() {
@@ -463,8 +388,7 @@
       input.value = '';
       clearBtn.classList.remove('visible');
       _searchQuery = '';
-      if (_activeCategory) renderPackagesForCategory('');
-      else renderCategoryCards();
+      renderPackagesForCategory();
     });
 
     input.addEventListener('input', function() {
@@ -488,13 +412,9 @@
   /* ── Browser Back Button ───────────────────────────────────── */
   window.addEventListener('popstate', function(e) {
     var state = e.state || {};
-    if (state.category) {
-      _activeCategory = state.category;
-      renderPackagesForCategory();
-    } else {
-      _activeCategory = null;
-      renderCategoryCards();
-    }
+    _activeCategory = state.category || null;
+    renderCategoryTabs();
+    renderPackagesForCategory();
   });
 
   /* ── Init ──────────────────────────────────────────────────── */
@@ -530,30 +450,35 @@
     }
 
     function afterLoad() {
-      _packages = _packages.filter(function(p) { return typeof p.price === 'number' && p.price > 0; });
-      _categories = _categories.filter(function(c) {
-        return _packages.some(function(p) { return p.categoryId === c.categoryId; });
-      });
-      // Expose to global search
-      if (window.SmearSearch) window.SmearSearch.init();
-      window.dispatchEvent(new CustomEvent('smear:packagesLoaded', { detail: _packages }));
+      try {
+        _packages = _packages.filter(function(p) { return typeof p.price === 'number' && p.price > 0; });
+        _categories = _categories.filter(function(c) {
+          return _packages.some(function(p) { return p.categoryId === c.categoryId; });
+        });
+        // Expose to global search
+        if (window.SmearSearch) window.SmearSearch.init();
+        window.dispatchEvent(new CustomEvent('smear:packagesLoaded', { detail: _packages }));
 
-      // Check URL state
-      var urlState = readURLState();
-      if (urlState.category) {
-        _activeCategory = urlState.category;
+        // Check URL state
+        var urlState = readURLState();
+        _activeCategory = urlState.category || null;
+        renderCategoryTabs();
         renderPackagesForCategory();
-      } else {
-        renderCategoryCards();
+
+        initSearch();
+
+        // Update hero stats if elements exist
+        var catCountEl = document.getElementById('pkg-stat-cats');
+        var pkgCountEl = document.getElementById('pkg-stat-total');
+        if (catCountEl) catCountEl.textContent = _categories.length;
+        if (pkgCountEl) pkgCountEl.textContent = _packages.length;
+      } catch (err) {
+        console.error("PACKAGES CRASH:", err);
+        var h = document.getElementById('shop-packages-heading');
+        if (h) h.textContent = "Error: " + err.message;
+        var g = document.getElementById('shop-package-grid');
+        if (g) g.innerHTML = "<div style='color:red;padding:20px;'>" + err.stack + "</div>";
       }
-
-      initSearch();
-
-      // Update hero stats if elements exist
-      var catCountEl = document.getElementById('pkg-stat-cats');
-      var pkgCountEl = document.getElementById('pkg-stat-total');
-      if (catCountEl) catCountEl.textContent = _categories.length;
-      if (pkgCountEl) pkgCountEl.textContent = _packages.length;
     }
 
     if (window.SMEAR_CATEGORIES && window.SMEAR_PACKAGES) {

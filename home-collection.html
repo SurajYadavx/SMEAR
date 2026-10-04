@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="./src/styles/v5-shop.css" />
     <link rel="stylesheet" href="./src/styles/v6-polish.css" />
     <link rel="stylesheet" href="./src/styles/v13-upgrade.css" />
+    <link rel="stylesheet" href="./src/styles/v14-home-collection.css?v=3" />
   </head>
   <body>
 
@@ -28,15 +29,25 @@
           <span id="logo-text" class="header-logo__text" style="display:none"><span class="logo-text-smear">Smear</span><span class="logo-text-path">Pathology</span></span>
         </a>
         <nav class="header-nav" aria-label="Main navigation">
-          <a href="index.html"            class="nav-link" data-i18n="nav.home">Home</a>
+          <a href="index.html" class="nav-link">Home</a>
           <a href="packages.html" class="nav-link">Packages</a>
           <a href="blood-tests.html" class="nav-link">Blood Tests</a>
-          <a href="home-collection.html"  class="nav-link" data-i18n="nav.homeCollection">Home Collection</a>
-          <a href="index.html#about"      class="nav-link" data-i18n="nav.about">About</a>
-          <a href="index.html#founder"    class="nav-link" data-i18n="nav.founder">Our Director</a>
-          <a href="index.html#contact"    class="nav-link" data-i18n="nav.contact">Contact</a>
+          <a href="home-collection.html" class="nav-link nav-link--active">Home Collection</a>
+          <a href="index.html#about" class="nav-link">About</a>
         </nav>
+        <!-- Global Header Search -->
+        <div id="header-search-wrap" class="header-search-wrap">
+          <div class="header-search-input-wrap">
+            <span class="header-search-icon-prefix"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></span>
+            <input type="search" class="header-search-input" placeholder="Search tests & packages…" autocomplete="off" spellcheck="false" aria-label="Search tests and packages" />
+            <button class="header-search-clear" aria-label="Clear search" type="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="14" height="14"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+          </div>
+          <div class="global-search-dropdown" id="header-search-dropdown"></div>
+        </div>
         <div class="header-ctas" aria-label="Quick contact">
+          <button id="header-search-mobile-btn" class="header-search-mobile-btn" aria-label="Search tests and packages">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </button>
           <a href="#" id="header-call-btn" class="btn-icon btn-icon--call" aria-label="Call Smear Pathology">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
             <span data-i18n="header.callBtn">Call Now</span>
@@ -49,20 +60,19 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" width="20" height="20"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
             <span class="cart-badge" style="display:none" aria-live="polite">0</span>
           </a>
-          <button id="lang-toggle" class="lang-toggle" aria-label="Switch language"><span id="lang-toggle-label" data-i18n="langToggle">म</span></button>
+          <button id="lang-toggle" class="lang-toggle" aria-label="Switch language" title="Switch language">
+            <span id="lang-toggle-label" data-i18n="langToggle">म</span>
+          </button>
         </div>
         <button id="hamburger" class="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span><span></span></button>
       </div>
       <div id="mobile-nav" class="mobile-nav" aria-hidden="true">
         <nav aria-label="Mobile navigation">
-          <a href="index.html"           class="mobile-nav__link" data-i18n="nav.home">Home</a>
+          <a href="index.html" class="mobile-nav__link">Home</a>
           <a href="packages.html" class="mobile-nav__link">Packages</a>
           <a href="blood-tests.html" class="mobile-nav__link">Blood Tests</a>
-          <a href="home-collection.html" class="mobile-nav__link" data-i18n="nav.homeCollection">Home Collection</a>
-          <a href="index.html#about"     class="mobile-nav__link" data-i18n="nav.about">About</a>
-          <a href="index.html#gallery"   class="mobile-nav__link" data-i18n="nav.gallery">Gallery</a>
-          <a href="index.html#faq"       class="mobile-nav__link" data-i18n="nav.faq">FAQ</a>
-          <a href="index.html#contact"   class="mobile-nav__link" data-i18n="nav.contact">Contact</a>
+          <a href="home-collection.html" class="mobile-nav__link" style="font-weight:700;color:var(--color-primary);">Home Collection</a>
+          <a href="index.html#about" class="mobile-nav__link">About</a>
           <a href="cart.html" class="mobile-nav__link" id="mobile-cart-link">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" width="18" height="18"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
             <span data-i18n="header.cartBtn">My Cart</span>
@@ -70,148 +80,175 @@
           </a>
         </nav>
         <div class="mobile-nav__ctas">
-          <a href="#" id="mobile-call-btn" class="btn btn--outline-white btn--full"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg><span data-i18n="header.callBtn">Call Now</span></a>
-          <a href="#" id="mobile-wa-btn" class="btn btn--green btn--full" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="18" height="18"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg><span data-i18n="floatBtn">WhatsApp Us</span></a>
-          <button id="lang-toggle-mobile" class="btn btn--outline-white btn--full lang-toggle-mobile" aria-label="Switch language"><span data-i18n="langToggle">म</span></button>
+          <a href="#" id="mobile-call-btn" class="btn btn--outline-white btn--full">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
+            <span data-i18n="header.callBtn">Call Now</span>
+          </a>
+          <a href="#" id="mobile-wa-btn" class="btn btn--green btn--full" target="_blank" rel="noopener noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="18" height="18"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg>
+            <span data-i18n="floatBtn">WhatsApp Us</span>
+          </a>
+          <button id="lang-toggle-mobile" class="btn btn--outline-white btn--full lang-toggle-mobile" aria-label="Switch language">
+            <span data-i18n="langToggle">म</span>
+          </button>
         </div>
       </div>
     </header>
     <div id="mobile-nav-overlay" class="mobile-nav-overlay" aria-hidden="true" style="display:none;opacity:0"></div>
     <!-- END SHARED HEADER -->
 
+    <!-- Mobile Search Overlay -->
+    <div id="mobile-search-overlay" class="mobile-search-overlay" aria-modal="true" role="dialog" aria-label="Search">
+      <div class="mobile-search-top">
+        <div class="mobile-search-input-wrap">
+          <span class="header-search-icon-prefix"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></span>
+          <input type="search" class="mobile-search-input" placeholder="Search tests and packages…" autocomplete="off" spellcheck="false" aria-label="Search" />
+        </div>
+        <button class="mobile-search-cancel" type="button">Cancel</button>
+      </div>
+      <div class="mobile-search-results"></div>
+    </div>
+
     <!-- ═══════════ HOME COLLECTION HERO ════════════════════ -->
-    <section class="pkg-page-hero" aria-labelledby="hc-hero-heading">
-      <div class="container">
-        <span class="pkg-page-hero__eyebrow">Home Sample Collection</span>
-        <h1 id="hc-hero-heading" class="pkg-page-hero__title">Get Tested Without Leaving Home</h1>
-        <p class="pkg-page-hero__sub">Our trained team visits your location, collects your sample, and gets it tested — you receive your report as usual.</p>
-        <div class="hc-cta-row" style="margin-top: 32px; display: flex; gap: 16px;">
-          <a href="#" id="hc-wa-book" class="btn btn--green" target="_blank" rel="noopener noreferrer">Book on WhatsApp</a>
-          <a href="#" id="hc-call-book" class="btn btn--primary">Call to Book</a>
+    <section class="hc-premium-hero" aria-labelledby="hc-hero-heading">
+      <div class="container hc-hero-content">
+        <span class="hc-hero-eyebrow">Home Sample Collection</span>
+        <h1 id="hc-hero-heading" class="hc-hero-title">Get Tested Without Leaving Home</h1>
+        <p class="hc-hero-sub">Our trained team visits your location, collects your sample, and gets it tested — you receive your report as usual.</p>
+        <div class="hc-hero-ctas">
+          <a href="#" id="hc-wa-book" class="hc-btn-whatsapp" target="_blank" rel="noopener noreferrer">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor" width="20" height="20"><path d="M16 0C7.163 0 0 7.163 0 16c0 2.822.736 5.469 2.023 7.773L0 32l8.466-2.018A15.93 15.93 0 0016 32c8.837 0 16-7.163 16-16S24.837 0 16 0zm8.222 22.403c-.347.974-2.017 1.859-2.777 1.977-.71.11-1.608.155-2.592-.163-.599-.19-1.369-.445-2.352-.871-4.14-1.784-6.845-5.959-7.052-6.237-.208-.278-1.693-2.252-1.693-4.296 0-2.043 1.073-3.049 1.453-3.463.381-.413.832-.516 1.108-.516.278 0 .555.003.798.013.255.012.597-.097.934.713.347.832 1.179 2.876 1.284 3.085.104.208.174.451.035.728-.139.278-.208.451-.415.694-.208.243-.437.543-.624.729-.208.208-.424.432-.182.847.242.416 1.076 1.776 2.31 2.878 1.587 1.41 2.926 1.847 3.342 2.054.416.208.659.174.902-.104.243-.278 1.041-1.214 1.318-1.63.278-.416.555-.347.937-.208.381.139 2.422 1.143 2.838 1.351.416.208.693.312.797.486.104.173.104 1.006-.242 1.98z"/></svg>
+            Book on WhatsApp
+          </a>
+          <a href="#" id="hc-call-book" class="hc-btn-primary">Call to Book</a>
         </div>
       </div>
     </section>
 
     <!-- ═══════════ ACTIVE STATE ════════════════════════════ -->
     <div id="hc-active-content" style="display:none">
-      <section class="hc-how-section" aria-labelledby="hc-how-heading" style="padding: 80px 0; background: var(--color-surface);">
+      <section class="hc-steps-section" aria-labelledby="hc-how-heading">
         <div class="container">
-          <div class="section-header" style="text-align: center; margin-bottom: 56px;">
-            <span class="pkg-page-hero__eyebrow" style="color: var(--color-primary); background: rgba(3, 169, 244, 0.1); padding: 4px 12px; border-radius: 100px; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Simple Process</span>
-            <h2 id="hc-how-heading" class="section-title" style="margin-top: 16px; font-size: 2.5rem; color: var(--color-text-dark);">How Home Collection Works</h2>
+          <div class="section-header" style="text-align: center;">
+            <span class="hc-hero-eyebrow" style="color:#0d9488;background:rgba(13,148,136,0.1);border:none;">Simple Process</span>
+            <h2 id="hc-how-heading" class="section-title" style="margin-top: 16px; font-size: 2.5rem; color: #0f172a;">How Home Collection Works</h2>
           </div>
           
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 32px;">
+          <div class="hc-steps-grid">
             <!-- Step 1 -->
-            <div style="background: #fff; padding: 32px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); text-align: center; position: relative; border: 1px solid var(--color-border); transition: transform 0.3s ease;">
-              <div style="width: 64px; height: 64px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 24px;">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="32" height="32"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+            <div class="hc-step-card">
+              <div class="hc-step-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
               </div>
-              <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--color-text-dark); margin-bottom: 12px;">Book via WhatsApp</h3>
-              <p style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.6;">Tell us your name, address, and the tests you need. We confirm availability and your slot.</p>
+              <h3 class="hc-step-title">Book via WhatsApp</h3>
+              <p class="hc-step-desc">Tell us your name, address, and the tests you need. We confirm availability and your slot.</p>
             </div>
 
             <!-- Step 2 -->
-            <div style="background: #fff; padding: 32px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); text-align: center; position: relative; border: 1px solid var(--color-border); transition: transform 0.3s ease;">
-              <div style="width: 64px; height: 64px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 24px;">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="32" height="32"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+            <div class="hc-step-card">
+              <div class="hc-step-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
               </div>
-              <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--color-text-dark); margin-bottom: 12px;">We Come to You</h3>
-              <p style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.6;">A trained sample collector visits your home at the agreed time with all sterile equipment.</p>
+              <h3 class="hc-step-title">We Come to You</h3>
+              <p class="hc-step-desc">A trained sample collector visits your home at the agreed time with all sterile equipment.</p>
             </div>
 
             <!-- Step 3 -->
-            <div style="background: #fff; padding: 32px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); text-align: center; position: relative; border: 1px solid var(--color-border); transition: transform 0.3s ease;">
-              <div style="width: 64px; height: 64px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 24px;">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="32" height="32"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+            <div class="hc-step-card">
+              <div class="hc-step-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
               </div>
-              <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--color-text-dark); margin-bottom: 12px;">Sample Processed</h3>
-              <p style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.6;">Your sample is transported to our certified lab in Indapur and processed securely.</p>
+              <h3 class="hc-step-title">Sample Processed</h3>
+              <p class="hc-step-desc">Your sample is securely transported to our certified lab in Indapur for immediate processing.</p>
             </div>
 
             <!-- Step 4 -->
-            <div style="background: #fff; padding: 32px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); text-align: center; position: relative; border: 1px solid var(--color-border); transition: transform 0.3s ease;">
-              <div style="width: 64px; height: 64px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 24px;">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="32" height="32"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+            <div class="hc-step-card">
+              <div class="hc-step-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="36" height="36"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
               </div>
-              <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--color-text-dark); margin-bottom: 12px;">Report Shared</h3>
-              <p style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.6;">Your highly accurate report is shared directly with you via WhatsApp or Email.</p>
+              <h3 class="hc-step-title">Report Shared</h3>
+              <p class="hc-step-desc">Your highly accurate digital report is shared directly with you via WhatsApp or Email.</p>
             </div>
           </div>
         </div>
       </section>
 
       <!-- ═══════════ KEY BENEFITS & WHY CHOOSE US ════════════════════ -->
-      <section class="hc-benefits-section" style="padding: 80px 0; background: #fff;">
-        <div class="container">
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 48px;">
+      <section class="hc-benefits-section">
+        <div class="container hc-benefits-wrapper">
+          
+          <!-- Key Benefits -->
+          <div>
+            <span class="hc-hero-eyebrow" style="color:#0d9488;background:rgba(13,148,136,0.1);border:none;">Convenience</span>
+            <h2 style="font-size: 2.5rem; color: #0f172a; font-weight:800; margin-bottom: 40px; margin-top:8px;">Key Benefits of Home Collection</h2>
             
-            <!-- Key Benefits -->
-            <div>
-              <div style="margin-bottom: 32px;">
-                <span class="pkg-page-hero__eyebrow" style="color: var(--color-primary); font-weight: 600; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Convenience</span>
-                <h2 style="font-size: 2rem; color: var(--color-text-dark); margin-top: 8px;">Key Benefits of Home Collection</h2>
+            <div class="hc-benefit-item">
+              <div class="hc-benefit-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
               </div>
-              <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 20px;">
-                <li style="display: flex; gap: 16px; align-items: flex-start;">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" style="flex-shrink: 0; margin-top: 2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.1rem; margin-bottom: 4px;">Save Time & Effort</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.5; display: block;">No need to travel or wait in clinic queues. Get tested from the comfort of your own home.</span>
-                  </div>
-                </li>
-                <li style="display: flex; gap: 16px; align-items: flex-start;">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" style="flex-shrink: 0; margin-top: 2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.1rem; margin-bottom: 4px;">Ideal for Elderly & Weak Patients</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.5; display: block;">Perfect for senior citizens or individuals too unwell to visit the laboratory.</span>
-                  </div>
-                </li>
-                <li style="display: flex; gap: 16px; align-items: flex-start;">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24" style="flex-shrink: 0; margin-top: 2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.1rem; margin-bottom: 4px;">Safe & Hygienic</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.95rem; line-height: 1.5; display: block;">Our phlebotomists use fresh, sterile, single-use equipment for every single home visit.</span>
-                  </div>
-                </li>
-              </ul>
-            </div>
-
-            <!-- Why Choose -->
-            <div style="background: var(--color-surface); padding: 40px; border-radius: 16px; border: 1px solid var(--color-border);">
-              <h2 style="font-size: 1.75rem; color: var(--color-text-dark); margin-bottom: 24px;">Why Choose Smear Pathology?</h2>
-              <div style="display: flex; flex-direction: column; gap: 24px;">
-                <div style="display: flex; gap: 16px;">
-                  <div style="width: 48px; height: 48px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
-                  </div>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.05rem; margin-bottom: 4px;">Accurate & Reliable Reports</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.9rem; line-height: 1.5;">Processed locally in our advanced Indapur laboratory by qualified professionals.</span>
-                  </div>
-                </div>
-                <div style="display: flex; gap: 16px;">
-                  <div style="width: 48px; height: 48px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                  </div>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.05rem; margin-bottom: 4px;">Fast Turnaround Time</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.9rem; line-height: 1.5;">Since testing is done in-house, you get your reports faster—often on the same day.</span>
-                  </div>
-                </div>
-                <div style="display: flex; gap: 16px;">
-                  <div style="width: 48px; height: 48px; background: rgba(3, 169, 244, 0.1); color: var(--color-primary); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
-                  </div>
-                  <div>
-                    <strong style="color: var(--color-text-dark); display: block; font-size: 1.05rem; margin-bottom: 4px;">Trained Professionals</strong>
-                    <span style="color: var(--color-text-mid); font-size: 0.9rem; line-height: 1.5;">Our sample collection team is highly experienced to ensure a painless procedure.</span>
-                  </div>
-                </div>
+              <div class="hc-benefit-text">
+                <h4>Save Time & Effort</h4>
+                <p>No need to travel or wait in clinic queues. Get tested from the comfort of your own home at a time that works for you.</p>
               </div>
             </div>
 
+            <div class="hc-benefit-item">
+              <div class="hc-benefit-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+              </div>
+              <div class="hc-benefit-text">
+                <h4>Ideal for Elderly & Weak Patients</h4>
+                <p>Perfect for senior citizens or individuals too unwell to visit the laboratory safely.</p>
+              </div>
+            </div>
+
+            <div class="hc-benefit-item">
+              <div class="hc-benefit-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+              </div>
+              <div class="hc-benefit-text">
+                <h4>100% Safe & Hygienic</h4>
+                <p>Our phlebotomists use fresh, sterile, single-use equipment for every single home visit, ensuring maximum safety.</p>
+              </div>
+            </div>
           </div>
+
+          <!-- Why Choose Box -->
+          <div class="hc-why-box">
+            <h3>Why Choose Smear Pathology?</h3>
+            
+            <div class="hc-why-item">
+              <div class="hc-why-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="28" height="28"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
+              </div>
+              <div class="hc-why-text">
+                <h4>Accurate & Reliable Reports</h4>
+                <p>Processed locally in our advanced Indapur laboratory by qualified professionals.</p>
+              </div>
+            </div>
+
+            <div class="hc-why-item">
+              <div class="hc-why-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="28" height="28"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              </div>
+              <div class="hc-why-text">
+                <h4>Fast Turnaround Time</h4>
+                <p>Since testing is done in-house, you get your reports faster—often on the same day.</p>
+              </div>
+            </div>
+
+            <div class="hc-why-item">
+              <div class="hc-why-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="28" height="28"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+              </div>
+              <div class="hc-why-text">
+                <h4>Trained Professionals</h4>
+                <p>Our sample collection team is highly experienced to ensure a painless and smooth procedure.</p>
+              </div>
+            </div>
+          </div>
+
         </div>
       </section>
       <section class="shop-section" aria-labelledby="hc-packages-heading">
@@ -517,6 +554,6 @@
     
     <script src="./src/cart.js"></script>
     <script src="./src/partials.js"></script>
-    <script src="./src/home-collection.js"></script>
+    <script src="./src/home-collection.js?v=3"></script>
   </body>
 </html>

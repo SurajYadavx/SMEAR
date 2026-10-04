@@ -197,20 +197,15 @@
     var titleEl = document.getElementById('modal-title');
     var descEl  = document.getElementById('modal-desc');
     var priceEl = document.getElementById('modal-price');
-    var imgEl   = document.getElementById('modal-img');
-    var placeEl = document.getElementById('modal-img-placeholder');
     var callBtn = document.getElementById('modal-call-btn');
     var waBtn   = document.getElementById('modal-wa-btn');
-
     var price = extractPrice(test.price);
 
     if (titleEl) {
       titleEl.textContent = test.name;
-      titleEl.style.color = '#111827';
+      titleEl.style.color = '#000';
     }
     if (priceEl) priceEl.textContent = price > 0 ? '₹' + price : 'Price on request';
-    if (imgEl)   imgEl.style.display = 'none';
-    if (placeEl) placeEl.style.display = 'flex';
 
     if (descEl) {
       descEl.innerHTML =

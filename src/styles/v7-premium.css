@@ -279,14 +279,14 @@ img.pkg-preview-img:hover {
   border-bottom: none !important;
 }
 #modal-title {
-  color: #ffffff !important;
+  color: #111827 !important;
   font-family: 'Outfit', sans-serif;
   font-weight: 700 !important;
   font-size: 1.5rem !important;
 }
 .modal-close {
-  color: #ffffff !important;
-  background: rgba(255,255,255,0.1) !important;
+  color: #111827 !important;
+  background: rgba(0,0,0,0.05) !important;
   border-radius: 50% !important;
   width: 36px !important;
   height: 36px !important;

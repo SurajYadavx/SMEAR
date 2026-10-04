@@ -1,0 +1,230 @@
+/* src/styles/v14-home-collection.css */
+
+/* Premium Hero */
+.hc-premium-hero {
+  position: relative;
+  background: linear-gradient(135deg, #092c2e 0%, #0d3b3e 100%);
+  color: #fff;
+  padding: 100px 0 120px;
+  overflow: hidden;
+  text-align: center;
+}
+.hc-premium-hero::before {
+  content: '';
+  position: absolute;
+  top: -50%; left: -50%;
+  width: 200%; height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 60%);
+  animation: hc-rotate 30s linear infinite;
+  pointer-events: none;
+}
+@keyframes hc-rotate { 100% { transform: rotate(360deg); } }
+
+.hc-hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.hc-hero-eyebrow {
+  display: inline-block;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: #a7f3d0;
+  padding: 6px 16px;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.hc-hero-title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 24px;
+  background: linear-gradient(to right, #fff, #a7f3d0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hc-hero-sub {
+  font-size: 1.15rem;
+  color: rgba(255,255,255,0.8);
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+.hc-hero-ctas {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.hc-btn-primary {
+  background: #fff;
+  color: #092c2e;
+  padding: 14px 32px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+.hc-btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+}
+.hc-btn-whatsapp {
+  background: #10b981;
+  color: #fff;
+  padding: 14px 32px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 25px rgba(16,185,129,0.3);
+}
+.hc-btn-whatsapp:hover {
+  background: #059669;
+  transform: translateY(-3px);
+  box-shadow: 0 15px 30px rgba(16,185,129,0.4);
+}
+
+/* Premium Steps */
+.hc-steps-section {
+  padding: 100px 0;
+  background: #f8fafc;
+}
+.hc-steps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 30px;
+  margin-top: 50px;
+}
+.hc-step-card {
+  background: #fff;
+  border-radius: 24px;
+  padding: 40px 30px;
+  text-align: center;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,0.02);
+}
+.hc-step-card::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 4px;
+  background: linear-gradient(90deg, #10b981, #0ea5e9);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+.hc-step-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 30px 60px rgba(0,0,0,0.08);
+}
+.hc-step-card:hover::after {
+  opacity: 1;
+}
+.hc-step-icon {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(135deg, rgba(16,185,129,0.1) 0%, rgba(14,165,233,0.1) 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 24px;
+  color: #0d3b3e;
+  transition: transform 0.4s ease;
+}
+.hc-step-card:hover .hc-step-icon {
+  transform: scale(1.1) rotate(5deg);
+}
+.hc-step-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #1e293b;
+  margin-bottom: 12px;
+}
+.hc-step-desc {
+  font-size: 0.95rem;
+  color: #64748b;
+  line-height: 1.6;
+}
+
+/* Premium Benefits */
+.hc-benefits-section {
+  padding: 100px 0;
+  background: #fff;
+}
+.hc-benefits-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+.hc-benefit-item {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.hc-benefit-icon {
+  width: 50px;
+  height: 50px;
+  background: #f0fdfa;
+  border: 1px solid #ccfbf1;
+  color: #0d9488;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.hc-benefit-text h4 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 8px;
+}
+.hc-benefit-text p {
+  font-size: 0.95rem;
+  color: #64748b;
+  line-height: 1.6;
+}
+.hc-why-box {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  border-radius: 30px;
+  padding: 50px;
+  color: #fff;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.15);
+}
+.hc-why-box h3 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: #fff;
+}
+.hc-why-item {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+.hc-why-icon {
+  color: #38bdf8;
+}
+.hc-why-text h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.hc-why-text p {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  line-height: 1.5;
+}

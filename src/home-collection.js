@@ -18,8 +18,7 @@
       grid.innerHTML = '<p style="color:#5a7070;grid-column:1/-1">Home collection packages will be listed here. <a href="packages.html">Browse all packages.</a></p>';
       return;
     }
-    // Take first 6 as "popular" home collection packages
-    packages.slice(0, 6).forEach(function (pkg) {
+    packages.forEach(function (pkg) {
       var price    = pkg.price;
       var discount = pkg.discount || 0;
       var imgUrl   = pkg.image_url;
