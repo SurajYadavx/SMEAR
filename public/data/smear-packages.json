@@ -198,7 +198,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-silver-nf",
@@ -218,7 +225,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-platinum-nf",
@@ -238,7 +247,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-expert-female",
@@ -435,7 +446,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-advance-nf",
@@ -455,7 +473,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-gold-nf",
@@ -475,7 +495,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-advance-diet-consultation",
@@ -495,7 +517,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-expert-male-body-vitals-consult",
@@ -676,7 +700,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-comprehensive-nf",
@@ -696,7 +727,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-gold-body-vitals-consult",
@@ -716,7 +749,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-platinum-body-vitals-consult",
@@ -736,7 +771,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-advance-body-vitals-consult",
@@ -756,7 +793,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-vital-health-checkup-plus",
@@ -881,7 +920,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-female-diet-consultation",
@@ -1090,7 +1135,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-comprehensive-body-vitals-consult",
@@ -1110,7 +1162,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-glp-1-monitor",
@@ -1207,7 +1261,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-platinum-diet-consultation",
@@ -1227,7 +1287,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-mind-body-basic",
@@ -1320,7 +1382,12 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum)",
+    "sample_types": [
+      "Blood",
+      "Serum"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-silver-diet-consultation",
@@ -1340,7 +1407,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-glp-1-ready",
@@ -1449,7 +1518,13 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-essential",
@@ -1469,7 +1544,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-basic-nf",
@@ -1489,7 +1566,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-comprehensive-health-checkup-female-diet-consultation",
@@ -1734,7 +1813,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-male-diet-consultation",
@@ -1943,7 +2029,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-platinum",
@@ -1963,7 +2056,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-comprehensive-health-checkup-female",
@@ -2176,7 +2271,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-silver",
@@ -2196,7 +2298,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-comprehensive-health-checkup-female-body-vitalsconsult",
@@ -2409,7 +2513,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-expert-male-diet-consultation",
@@ -2634,7 +2745,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-male-diet-consultation",
@@ -2827,7 +2945,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-comprehensive-health-checkup-male-diet-consultation",
@@ -3060,7 +3184,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-male",
@@ -3237,7 +3368,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-female-body-vitals-consult",
@@ -3402,7 +3540,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-comprehensive",
@@ -3422,7 +3567,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-expert-female-body-vitals-consult",
@@ -3607,7 +3754,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-male",
@@ -3772,7 +3926,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-silver-body-vitals-consult",
@@ -3792,7 +3952,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-vital-health-checkup-plus-diet-consultation",
@@ -3945,7 +4107,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-gold-diet-consultation",
@@ -3965,7 +4133,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-comprehensive-diet-consultation",
@@ -3985,7 +4155,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-vital-health-checkup-body-vitals-consult",
@@ -4090,7 +4262,13 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-female-body-vitals-consult",
@@ -4243,7 +4421,13 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-female",
@@ -4420,7 +4604,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-proactive-male-body-vitals-consult",
@@ -4585,7 +4776,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-cancer-screen-360-female",
@@ -4654,7 +4852,12 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum)",
+    "sample_types": [
+      "Blood",
+      "Serum"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-gold",
@@ -4674,7 +4877,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-mind-body-total",
@@ -4775,7 +4980,12 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum)",
+    "sample_types": [
+      "Blood",
+      "Serum"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-expert-female-diet-consultation",
@@ -5004,7 +5214,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-master-health-checkup-nf",
@@ -5024,7 +5241,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-health-checkup-cancer-screen-360-male",
@@ -5089,7 +5308,12 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum)",
+    "sample_types": [
+      "Blood",
+      "Serum"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-expert-male",
@@ -5282,7 +5506,14 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-vital-health-checkup-plus-body-vitals-consult",
@@ -5391,7 +5622,13 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-male-body-vitals-consult",
@@ -5540,7 +5777,13 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-advance",
@@ -5560,7 +5803,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-female-diet-consultation",
@@ -5757,7 +6002,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-health-checkup-basic",
@@ -5777,7 +6028,9 @@
     "report_time": null,
     "gender": null,
     "profiles": [],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": null,
+    "sample_types": []
   },
   {
     "id": "smear-pkg-comprehensive-health-checkup-male-body-vitalsconsult",
@@ -5978,7 +6231,14 @@
         "parameter_count": 3
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Plasma, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Plasma",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-vital-health-checkup",
@@ -6095,7 +6355,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-active-lifestyle-health-checkup-female",
@@ -6268,7 +6534,13 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   },
   {
     "id": "smear-pkg-vital-health-checkup-diet-consultation",
@@ -6413,6 +6685,12 @@
         "parameter_count": 1
       }
     ],
-    "catalog_status": "active"
+    "catalog_status": "active",
+    "specimen": "Multiple sample types (Blood, Serum, Urine)",
+    "sample_types": [
+      "Blood",
+      "Serum",
+      "Urine"
+    ]
   }
 ]

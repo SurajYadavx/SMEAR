@@ -96,11 +96,22 @@ document.addEventListener('DOMContentLoaded', function() {
       if (_pkg.report_time) {
         tagsHtml += `<div class="pd-tag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>Report: ${_pkg.report_time}</div>`;
       }
+      if (_pkg.specimen) {
+        var sampleTagText = (_pkg.sample_types && _pkg.sample_types.length > 1) ? 'Multiple sample types' : _pkg.specimen;
+        tagsHtml += `<div class="pd-tag"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg>Sample: ${sampleTagText}</div>`;
+      }
       tagsContainer.innerHTML = tagsHtml;
 
       // Info Cards Grid
       var infoGrid = document.getElementById('pd-info-grid');
       var infoHtml = '';
+      if (_pkg.specimen) {
+        infoHtml += `<div class="pd-info-card">
+          <div class="pd-info-card__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="20" height="20"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg></div>
+          <div class="pd-info-card__label">Sample / Specimen</div>
+          <div class="pd-info-card__value">${_pkg.specimen}</div>
+        </div>`;
+      }
       if (_pkg.fasting) {
         infoHtml += `<div class="pd-info-card">
           <div class="pd-info-card__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="20" height="20"><path d="M21.1 11.2a1 1 0 0 1 0 1.6l-8.3 8.3a1 1 0 0 1-1.6 0l-8.3-8.3a1 1 0 0 1 0-1.6l8.3-8.3a1 1 0 0 1 1.6 0l8.3 8.3z"></path></svg></div>

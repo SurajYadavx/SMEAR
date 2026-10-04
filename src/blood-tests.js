@@ -1,19 +1,25 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — BLOOD-TESTS.JS v3
+ *  SMEAR PATHOLOGY — BLOOD-TESTS.JS v4
  *  Powers blood-tests.html
+ *  - Individual blood test category filtering matching packages.html
+ *  - "All" category preserving all 1,429 tests
+ *  - Filter by appropriate medical categories
+ *  - Specimen / Sample type display (badge + detail info area)
  *  - Premium test cards with colorful gradient visual headers
  *  - Full dataset search (debounced)
  *  - Proper pagination
  *  - Loading/empty/error states
- *  - Smear-only WhatsApp
- *  - Modal with CORRECT test lookup (stable ID, not positional UID)
+ *  - Smear WhatsApp & Call booking
+ *  - Modal with stable ID lookup
  * ============================================================
  */
 (function () {
   'use strict';
 
   var _tests       = [];
+  var _categories  = [];
+  var _activeCategory = null;
   var _currentPage = 1;
   var _perPage     = 48;
   var _searchQuery = '';
@@ -34,16 +40,24 @@
 
   var CAT_GRADIENT_MAP = {
     'infection': 0,
+    'blood-hematology': 1,
     'blood': 1,
+    'heart-cardiac': 5,
     'cardiac': 5,
     'diabetes': 2,
     'thyroid': 3,
+    'vitamins-nutrition': 6,
     'vitamins': 6,
     'kidney': 7,
     'liver': 2,
+    'cancer-screening': 4,
     'cancer': 4,
     'allergy': 3,
     'hormones': 3,
+    'bone-joint': 7,
+    'mens-health': 5,
+    'pregnancy': 2,
+    'general-health': 1,
     'other': 0,
   };
 
@@ -67,27 +81,90 @@
   }
 
   /* ── URL State ────────────────────────────────────────────── */
-  function readSearchParam() {
+  function readURLState() {
     var params = new URLSearchParams(window.location.search);
-    return params.get('search') || params.get('q') || '';
+    var cat    = params.get('category') || '';
+    var q      = params.get('search') || params.get('q') || '';
+    return { category: cat, query: q };
   }
 
-  function setSearchParam(q) {
-    var params = new URLSearchParams(window.location.search);
-    if (q) params.set('search', q);
-    else params.delete('search');
+  function setURLState(cat, q) {
+    var params = new URLSearchParams();
+    if (cat) params.set('category', cat);
+    if (q)   params.set('search', q);
     var url = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
-    history.replaceState(null, '', url);
+    history.replaceState({ category: cat, query: q }, '', url);
   }
 
   /* ── Filtered tests ───────────────────────────────────────── */
   function getFiltered() {
-    if (!_searchQuery) return _tests;
+    var list = _tests;
+    if (_activeCategory) {
+      list = list.filter(function(t) {
+        return t.categoryId === _activeCategory;
+      });
+    }
+    if (!_searchQuery) return list;
     var q = _searchQuery.toLowerCase();
-    return _tests.filter(function(t) {
+    return list.filter(function(t) {
       var name = (t.name || '').toLowerCase();
       var cat  = (t.categoryName || t.categoryId || '').toLowerCase();
-      return name.indexOf(q) > -1 || cat.indexOf(q) > -1;
+      var spec = (t.specimen || '').toLowerCase();
+      return name.indexOf(q) > -1 || cat.indexOf(q) > -1 || spec.indexOf(q) > -1;
+    });
+  }
+
+  /* ── Category Tabs ───────────────────────────────────────── */
+  function renderCategoryTabs() {
+    var filtersContainer = document.getElementById('shop-category-filters');
+    if (!filtersContainer) return;
+    
+    filtersContainer.innerHTML = '';
+    
+    // Add "All" tab
+    var allTab = document.createElement('button');
+    allTab.type = 'button';
+    allTab.className = 'shop-filter-btn' + (!_activeCategory ? ' active' : '');
+    allTab.textContent = 'All';
+    allTab.addEventListener('click', function() {
+      _activeCategory = null;
+      _currentPage = 1;
+      renderCategoryTabs();
+      setURLState('', _searchQuery);
+      renderTests();
+    });
+    filtersContainer.appendChild(allTab);
+
+    var catCounts = {};
+    _tests.forEach(function(t) {
+      if (t.categoryId) {
+        catCounts[t.categoryId] = (catCounts[t.categoryId] || 0) + 1;
+      }
+    });
+
+    // Sort categories: Medical categories alphabetically, 'other' at the end
+    var sortedCats = _categories.slice().sort(function(a, b) {
+      if (a.categoryId === 'other') return 1;
+      if (b.categoryId === 'other') return -1;
+      return a.categoryName.localeCompare(b.categoryName);
+    });
+
+    sortedCats.forEach(function(cat) {
+      var count = catCounts[cat.categoryId] || 0;
+      if (count === 0) return;
+      
+      var tab = document.createElement('button');
+      tab.type = 'button';
+      tab.className = 'shop-filter-btn' + (_activeCategory === cat.categoryId ? ' active' : '');
+      tab.textContent = cat.categoryName;
+      tab.addEventListener('click', function() {
+        _activeCategory = cat.categoryId;
+        _currentPage = 1;
+        renderCategoryTabs();
+        setURLState(cat.categoryId, _searchQuery);
+        renderTests();
+      });
+      filtersContainer.appendChild(tab);
     });
   }
 
@@ -130,19 +207,39 @@
     bar.className = 'search-meta-bar';
     var countEl = document.createElement('span');
     countEl.className = 'search-meta-bar__count';
-    if (_searchQuery) {
+
+    var activeCatObj = _activeCategory ? _categories.find(function(c){ return c.categoryId === _activeCategory; }) : null;
+    var activeCatName = activeCatObj ? activeCatObj.categoryName : null;
+
+    if (_searchQuery && activeCatName) {
+      countEl.innerHTML = 'Found <strong>' + filtered.length + '</strong> test' + (filtered.length !== 1 ? 's' : '') + ' for "' + esc(_searchQuery) + '" in <strong>' + esc(activeCatName) + '</strong>';
+    } else if (_searchQuery) {
       countEl.innerHTML = 'Found <strong>' + filtered.length + '</strong> test' + (filtered.length !== 1 ? 's' : '') + ' for "' + esc(_searchQuery) + '"';
+    } else if (activeCatName) {
+      countEl.innerHTML = 'Showing <strong>' + filtered.length + '</strong> test' + (filtered.length !== 1 ? 's' : '') + ' in <strong>' + esc(activeCatName) + '</strong>';
     } else {
       countEl.innerHTML = '<strong>' + filtered.length + '</strong> test' + (filtered.length !== 1 ? 's' : '') + ' available';
     }
     bar.appendChild(countEl);
-    if (_searchQuery) {
+
+    if (_searchQuery || _activeCategory) {
       var clearBtn2 = document.createElement('button');
+      clearBtn2.type = 'button';
       clearBtn2.className = 'search-meta-bar__clear';
-      clearBtn2.textContent = '✕ Clear';
+      clearBtn2.textContent = '✕ Reset Filter';
       clearBtn2.addEventListener('click', function() {
+        _activeCategory = null;
+        _searchQuery = '';
+        _currentPage = 1;
         var inp = document.getElementById('shop-search-input');
-        if (inp) { inp.value = ''; inp.dispatchEvent(new Event('input', { bubbles: true })); }
+        if (inp) {
+          inp.value = '';
+          var cl = inp.parentNode ? inp.parentNode.querySelector('.shop-search-clear-btn') : null;
+          if (cl) cl.classList.remove('visible');
+        }
+        renderCategoryTabs();
+        setURLState('', '');
+        renderTests();
       });
       bar.appendChild(clearBtn2);
     }
@@ -157,21 +254,34 @@
         '<div class="empty-state">' +
           '<div class="empty-state__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>' +
           '<h3>No tests found</h3>' +
-          '<p>' + (_searchQuery ? 'No tests match "' + esc(_searchQuery) + '".' : 'No tests available.') + '</p>' +
-          '<button class="btn btn--outline-primary" onclick="var inp=document.getElementById(\'shop-search-input\');if(inp){inp.value=\'\';inp.dispatchEvent(new Event(\'input\',{bubbles:true}));}" style="margin:0 auto;">Clear Search</button>' +
+          '<p>' + (_searchQuery ? 'No tests match "' + esc(_searchQuery) + '".' : 'No tests available in this category.') + '</p>' +
+          '<button class="btn btn--outline-primary" id="empty-clear-btn" style="margin:0 auto;">Reset Filters</button>' +
         '</div>';
+      var emptyClear = document.getElementById('empty-clear-btn');
+      if (emptyClear) {
+        emptyClear.addEventListener('click', function() {
+          _activeCategory = null;
+          _searchQuery = '';
+          _currentPage = 1;
+          var inp = document.getElementById('shop-search-input');
+          if (inp) { inp.value = ''; }
+          renderCategoryTabs();
+          setURLState('', '');
+          renderTests();
+        });
+      }
       renderPagination(0, 0);
       return;
     }
 
     paginated.forEach(function(test, idx) {
       var oldPrice = extractPrice(test.price);
-      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.70) : 0; // 30% OFF
+      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.80) : 0; // 20% OFF
       var absIdx   = startIdx + idx;
       var gradient = getGradient(test, absIdx);
       var catLabel = test.categoryName || test.categoryId || 'Laboratory Test';
 
-      /* Stable ID for correct modal lookup — no more positional UIDs! */
+      /* Stable ID for correct modal lookup */
       var stableId = test.id || test.slug || ('idx-' + absIdx);
 
       var card = document.createElement('div');
@@ -182,12 +292,17 @@
         '<div class="tc-visual-header" style="background:' + gradient + ';">' +
           '<div class="tc-visual-overlay"></div>' +
           '<span class="tc-visual-label">' + esc(catLabel) + '</span>' +
-          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">30% OFF</span>' +
+          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">20% OFF</span>' +
         '</div>' +
         /* ── Card body ── */
         '<div class="test-card__body-wrap">' +
           '<div class="test-card__lab">Laboratory Test</div>' +
           '<div class="test-card__name">' + esc(test.name) + '</div>' +
+          (test.specimen
+            ? '<div class="test-card__specimen" style="font-size:0.8rem; color:#1a6b6e; font-weight:600; margin-bottom:8px; display:inline-flex; align-items:center; gap:4px; background:#e8f4f4; padding:2px 8px; border-radius:4px; border:1px solid rgba(26,107,110,0.18);">' +
+                '<span style="color:#0d3b3e; font-weight:500;">Sample:</span> ' + esc(test.specimen) +
+              '</div>'
+            : '') +
           (price > 0
             ? '<div class="test-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>'
             : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>') +
@@ -200,11 +315,10 @@
       grid.appendChild(card);
     });
 
-    /* Events — use data-id (STABLE) not data-uid (POSITIONAL, was buggy) */
+    /* Events — use data-id (STABLE) */
     grid.querySelectorAll('.view-test-btn').forEach(function(btn) {
       btn.addEventListener('click', function() {
         var sid  = btn.getAttribute('data-id');
-        /* Find by id first, then by slug, then by generated idx- key */
         var test = _tests.find(function(t) { return t.id === sid; });
         if (!test) test = _tests.find(function(t) { return t.slug === sid; });
         if (!test && sid.indexOf('idx-') === 0) {
@@ -253,7 +367,7 @@
     var callBtn = document.getElementById('modal-call-btn');
     var waBtn   = document.getElementById('modal-wa-btn');
     var oldPrice = extractPrice(test.price);
-    var price    = oldPrice > 0 ? Math.round(oldPrice * 0.70) : 0; // 30% OFF
+    var price    = oldPrice > 0 ? Math.round(oldPrice * 0.80) : 0; // 20% OFF
 
     if (titleEl) {
       titleEl.textContent = test.name;
@@ -269,12 +383,17 @@
 
     if (descEl) {
       var labName = test.lab || test.labName || 'Smear Pathology';
+      var sampleBadgeHtml = test.specimen
+        ? '<div class="modal-sample-badge" style="display:inline-flex; align-items:center; gap:6px; background:#e8f4f4; color:#0d3b3e; border:1px solid rgba(13,59,62,0.22); border-radius:6px; padding:6px 14px; font-weight:600; font-size:0.92rem; margin:8px 0 16px;"><span style="color:#1a6b6e; font-weight:500;">Sample:</span> ' + esc(test.specimen) + '</div>'
+        : '';
+
       descEl.innerHTML =
+        sampleBadgeHtml +
         '<div style="font-size:0.92rem;line-height:1.7;text-align:left;">' +
         '<p style="margin-bottom:8px;"><strong>Test Name:</strong> ' + esc(test.name) + '</p>' +
         '<p style="margin-bottom:8px;"><strong>Laboratory:</strong> ' + esc(labName) + '</p>' +
         '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (price > 0 ? '<span style="text-decoration: line-through; color: var(--color-text-muted); margin-right: 6px;">₹' + oldPrice + '</span>₹' + price : 'Contact for price') + '</p>' +
-        (test.specimen ? '<p style="margin-bottom:8px;"><strong>Specimen:</strong> ' + esc(test.specimen) + '</p>' : '') +
+        (test.specimen ? '<p style="margin-bottom:8px;"><strong>Sample / Specimen:</strong> ' + esc(test.specimen) + '</p>' : '') +
         (test.report_time ? '<p style="margin-bottom:8px;"><strong>Report Time:</strong> ' + esc(test.report_time) + '</p>' : '') +
         (test.fasting && test.fasting !== 'no' ? '<p style="margin-bottom:8px;"><strong>Fasting:</strong> ' + esc(test.fasting) + '</p>' : '') +
         '<p style="margin-top:14px;color:var(--color-text-muted);">Book this test via WhatsApp or call our lab directly. Prices are approximate and confirmed before sample collection.</p>' +
@@ -317,6 +436,7 @@
 
     // Prev
     var prev = document.createElement('button');
+    prev.type = 'button';
     prev.className = 'pagination-btn';
     prev.innerHTML = '&larr; Prev';
     prev.disabled = _currentPage === 1;
@@ -336,6 +456,7 @@
 
     // Next
     var next = document.createElement('button');
+    next.type = 'button';
     next.className = 'pagination-btn';
     next.innerHTML = 'Next &rarr;';
     next.disabled = _currentPage === totalPages;
@@ -365,19 +486,22 @@
     var wrapper = input.parentNode;
     var clearBtn;
     if (wrapper) {
-      clearBtn = document.createElement('button');
-      clearBtn.type = 'button';
-      clearBtn.className = 'shop-search-clear-btn';
-      clearBtn.setAttribute('aria-label', 'Clear search');
-      clearBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
-      wrapper.appendChild(clearBtn);
+      clearBtn = wrapper.querySelector('.shop-search-clear-btn');
+      if (!clearBtn) {
+        clearBtn = document.createElement('button');
+        clearBtn.type = 'button';
+        clearBtn.className = 'shop-search-clear-btn';
+        clearBtn.setAttribute('aria-label', 'Clear search');
+        clearBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
+        wrapper.appendChild(clearBtn);
+      }
 
       clearBtn.addEventListener('click', function() {
         input.value = '';
         clearBtn.classList.remove('visible');
         _searchQuery = '';
         _currentPage = 1;
-        setSearchParam('');
+        setURLState(_activeCategory, '');
         renderTests();
       });
     }
@@ -389,17 +513,15 @@
       _debounce = setTimeout(function() {
         _searchQuery = q.trim();
         _currentPage = 1;
-        setSearchParam(_searchQuery);
+        setURLState(_activeCategory, _searchQuery);
         renderTests();
       }, 220);
     });
 
-    // Handle ?search= URL param
-    var initial = readSearchParam();
-    if (initial) {
-      input.value = initial;
+    // Handle initial search state from URL
+    if (_searchQuery) {
+      input.value = _searchQuery;
       if (clearBtn) clearBtn.classList.add('visible');
-      _searchQuery = initial.trim();
     }
   }
 
@@ -424,36 +546,54 @@
 
     function afterLoad() {
       _tests = _tests.filter(function(t) { return typeof t.price === 'number' && t.price > 0; });
+      if (!_categories || _categories.length === 0) {
+        var seenCats = {};
+        _categories = [];
+        _tests.forEach(function(t) {
+          if (t.categoryId && !seenCats[t.categoryId]) {
+            seenCats[t.categoryId] = true;
+            _categories.push({ categoryId: t.categoryId, categoryName: t.categoryName || t.categoryId });
+          }
+        });
+      }
+      var urlState = readURLState();
+      _activeCategory = urlState.category || null;
+      _searchQuery = urlState.query || '';
+
       window.dispatchEvent(new CustomEvent('smear:testsLoaded', { detail: _tests }));
+      renderCategoryTabs();
       initSearch();
       renderTests();
     }
 
     if (window.SMEAR_TESTS) {
       _tests = window.SMEAR_TESTS;
+      _categories = window.SMEAR_CATEGORIES || [];
       afterLoad();
     } else {
-      fetch('./public/data/smear-tests.json')
-        .then(function(r){ return r.json(); })
-        .then(function(data) {
-          _tests = data;
-          afterLoad();
-        })
-        .catch(function(err) { console.error('BLOOD ERROR:', err);
-          var g = document.getElementById('shop-test-grid');
-          if (g) {
-            g.className = '';
-            g.innerHTML =
-              '<div class="error-state" style="padding: 40px 20px; background: #fff0f0; border: 1px solid #ffcccc; border-radius: 12px; margin-top: 40px;">' +
-  '<h3 style="color: #d32f2f; margin-bottom: 12px; font-size: 1.5rem;">Security Block: Cannot Load Data from file:///</h3>' +
-  '<p style="color: #333; margin-bottom: 16px; font-size: 1.1rem;">Modern browsers block loading JSON files directly from your computer.</p>' +
-  '<p style="color: #333; font-weight: bold; font-size: 1.1rem;">Please open the website using the local server we started:</p>' +
-  '<div style="background: #fff; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 1.2rem; color: #000; display: inline-block; border: 1px solid #ccc; margin-top: 10px;">' +
-    '<a href="http://localhost:8000/blood-tests.html" style="color: #2563eb; text-decoration: none;">http://localhost:8000/blood-tests.html</a>' +
-  '</div>' +
-'</div>';
-          }
-        });
+      Promise.all([
+        fetch('./public/data/smear-categories.json').then(function(r){ return r.json(); }).catch(function(){ return []; }),
+        fetch('./public/data/smear-tests.json').then(function(r){ return r.json(); })
+      ]).then(function(values) {
+        _categories = values[0] || [];
+        _tests      = values[1];
+        afterLoad();
+      }).catch(function(err) {
+        console.error('BLOOD ERROR:', err);
+        var g = document.getElementById('shop-test-grid');
+        if (g) {
+          g.className = '';
+          g.innerHTML =
+            '<div class="error-state" style="padding: 40px 20px; background: #fff0f0; border: 1px solid #ffcccc; border-radius: 12px; margin-top: 40px;">' +
+            '<h3 style="color: #d32f2f; margin-bottom: 12px; font-size: 1.5rem;">Security Block: Cannot Load Data from file:///</h3>' +
+            '<p style="color: #333; margin-bottom: 16px; font-size: 1.1rem;">Modern browsers block loading JSON files directly from your computer.</p>' +
+            '<p style="color: #333; font-weight: bold; font-size: 1.1rem;">Please open the website using the local server we started:</p>' +
+            '<div style="background: #fff; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 1.2rem; color: #000; display: inline-block; border: 1px solid #ccc; margin-top: 10px;">' +
+            '<a href="http://localhost:8000/blood-tests.html" style="color: #2563eb; text-decoration: none;">http://localhost:8000/blood-tests.html</a>' +
+            '</div>' +
+            '</div>';
+        }
+      });
     }
   }
 
