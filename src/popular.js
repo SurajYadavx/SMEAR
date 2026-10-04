@@ -79,8 +79,8 @@
     fetch('./public/data/smear-packages.json').then(function(r) { return r.json(); }).catch(function() { return []; }),
     fetch('./public/data/smear-tests.json').then(function(r) { return r.json(); }).catch(function() { return []; })
   ]).then(function(results) {
-    var packages = results[0].slice(0, 3);
-    var tests = results[1].slice(0, 3);
+    var packages = results[0].filter(function(p) { return (p.price || 0) > 0; }).slice(0, 3);
+    var tests = results[1].filter(function(t) { return extractPrice(t.price) > 0; }).slice(0, 3);
     
     packages.forEach(function(pkg, idx) {
       renderCard(pkg, idx, 'popular-packages-container', true);
