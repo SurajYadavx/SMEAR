@@ -228,3 +228,31 @@
   color: #cbd5e1;
   line-height: 1.5;
 }
+
+/* Mobile responsiveness fixes */
+@media (max-width: 991px) {
+  .hc-benefits-wrapper {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .hc-hero-title {
+    font-size: 2.5rem;
+  }
+  
+  .hc-hero-ctas {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .hc-btn-primary, .hc-btn-whatsapp {
+    text-align: center;
+    justify-content: center;
+  }
+
+  .hc-why-box {
+    padding: 30px;
+  }
+}
