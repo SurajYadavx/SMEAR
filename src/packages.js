@@ -500,11 +500,11 @@
         if (grid2) {
           grid2.innerHTML =
             '<div class="error-state" style="padding: 40px 20px; background: #fff0f0; border: 1px solid #ffcccc; border-radius: 12px; margin-top: 40px;">' +
-  '<h3 style="color: #d32f2f; margin-bottom: 12px; font-size: 1.5rem;">Security Block: Cannot Load Data from file:///</h3>' +
+  '<h3>Local File Access Denied</h3>' +
   '<p style="color: #333; margin-bottom: 16px; font-size: 1.1rem;">Modern browsers block loading JSON files directly from your computer.</p>' +
   '<p style="color: #333; font-weight: bold; font-size: 1.1rem;">Please open the website using the local server we started:</p>' +
   '<div style="background: #fff; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 1.2rem; color: #000; display: inline-block; border: 1px solid #ccc; margin-top: 10px;">' +
-    '<a href="http://localhost:8000/packages.html" style="color: #2563eb; text-decoration: none;">http://localhost:8000/packages.html</a>' +
+    '' +
   '</div>' +
 '</div>';
         }

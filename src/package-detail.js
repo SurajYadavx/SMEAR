@@ -24,8 +24,23 @@ document.addEventListener('DOMContentLoaded', function() {
       var pdMain = document.getElementById('package-detail-main');
       if (pdMain) pdMain.style.display = 'block';
 
-      // Set page title
+      // Set page title and SEO metadata
       document.title = _pkg.name + ' | Smear Pathology Indapur';
+
+      var metaDesc = document.querySelector('meta[name="description"]');
+      if (metaDesc) {
+        var paramsText = _pkg.parameters_count ? _pkg.parameters_count + " parameters included." : "";
+        var shortDesc = _pkg.description ? _pkg.description.substring(0, 150) : (_pkg.name + " test at Smear Pathology Indapur. " + paramsText);
+        metaDesc.setAttribute('content', shortDesc.trim().replace(/\n/g, ' '));
+      }
+
+      var canonical = document.querySelector('link[rel="canonical"]');
+      if (!canonical) {
+        canonical = document.createElement('link');
+        canonical.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonical);
+      }
+      canonical.setAttribute('href', 'https://smearpathology.in/package-detail.html?id=' + encodeURIComponent(_pkg.id || _pkg.slug));
 
       // Render breadcrumbs
       var bcCategory = document.getElementById('breadcrumb-category');
