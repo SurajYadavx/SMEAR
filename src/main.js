@@ -148,8 +148,18 @@ function wireContactLinks() {
 function wireStaticContactBlocks() {
   var pl = document.getElementById('contact-phone-link');
   if (pl) { pl.textContent = CONTACT_PHONE_DISPLAY; pl.href = CONTACT_PHONE_TEL; }
+  var pl2 = document.getElementById('contact-phone-link-2');
+  if (pl2 && typeof CONTACT_PHONE_2_DISPLAY !== 'undefined') { pl2.textContent = CONTACT_PHONE_2_DISPLAY; pl2.href = CONTACT_PHONE_2_TEL; }
+  var pl3 = document.getElementById('contact-phone-link-3');
+  if (pl3 && typeof CONTACT_PHONE_3_DISPLAY !== 'undefined') { pl3.textContent = CONTACT_PHONE_3_DISPLAY; pl3.href = CONTACT_PHONE_3_TEL; }
+
   var fp = document.getElementById('footer-phone-display');
   if (fp) fp.textContent = CONTACT_PHONE_DISPLAY;
+  var fp2 = document.getElementById('footer-phone-display-2');
+  if (fp2 && typeof CONTACT_PHONE_2_DISPLAY !== 'undefined') fp2.textContent = CONTACT_PHONE_2_DISPLAY;
+  var fp3 = document.getElementById('footer-phone-display-3');
+  if (fp3 && typeof CONTACT_PHONE_3_DISPLAY !== 'undefined') fp3.textContent = CONTACT_PHONE_3_DISPLAY;
+
   var ho = document.getElementById('contact-hours');
   if (ho) ho.textContent = LAB_HOURS;
   document.querySelectorAll('.email-display').forEach(function (el) { el.textContent = CONTACT_EMAIL; el.href = CONTACT_EMAIL_HREF; });
@@ -567,8 +577,8 @@ function injectJSONLD() {
     '@context':'https://schema.org','@type':'MedicalBusiness',
     'name':'Smear Pathology',
     'description':'Diagnostic pathology and microbiology laboratory in Indapur, Pune, Maharashtra.',
-    'url':'https://smearpathology.in','logo':'https://smearpathology.inpublic/assets/logo/logo.png',
-    'telephone':'+917410745222','email':CONTACT_EMAIL,
+    'url':'https://smearpathology.in','logo':'https://smearpathology.in/public/assets/logo/logo.png',
+    'telephone':['+917410745222','+919096053901','+919096053801'],'email':CONTACT_EMAIL,
     'address':{'@type':'PostalAddress','streetAddress':'Indapur','addressLocality':'Indapur','addressRegion':'Maharashtra','postalCode':'413106','addressCountry':'IN'},
     'geo':{'@type':'GeoCoordinates','latitude':MAP_LAT,'longitude':MAP_LNG},
     'openingHoursSpecification':[

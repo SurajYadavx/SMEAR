@@ -104,15 +104,17 @@ const REVIEW_IMAGES = [
 
 ---
 
-## Updating the Phone Number
+## Updating Phone Numbers
 
-Open `src/main.js`, find line:
+Open `src/config.js`, find lines:
 
 ```js
-const CONTACT_PHONE = "7410745222"; // edit ONLY here
+var CONTACT_PHONE         = '7410745222'; // Primary Lab Line & WhatsApp
+var CONTACT_PHONE_2       = '9096053901'; // Doctor / Service Line 1 (Calls only)
+var CONTACT_PHONE_3       = '9096053801'; // Doctor / Service Line 2 (Calls only)
 ```
 
-Replace the number. Every call button, WhatsApp link, and footer reference updates automatically.
+Replace the numbers as needed. Every call button, multi-number modal, and footer reference updates automatically. WhatsApp redirects remain dedicated to `CONTACT_PHONE`.
 
 ---
 

@@ -13,10 +13,26 @@
 var HOME_COLLECTION_AVAILABLE = true;
 
 // ── CONTACT ──────────────────────────────────────────────────
-// PLACEHOLDER: Replace with client's real number before launch
 var CONTACT_PHONE         = '7410745222';
 var CONTACT_PHONE_DISPLAY = '+91 74107 45222';
 var CONTACT_PHONE_TEL     = 'tel:+91' + CONTACT_PHONE;
+
+// Service & Doctor Call Numbers (Calls only; WhatsApp stays on CONTACT_PHONE)
+var CONTACT_PHONE_2         = '9096053901';
+var CONTACT_PHONE_2_DISPLAY = '+91 90960 53901';
+var CONTACT_PHONE_2_TEL     = 'tel:+91' + CONTACT_PHONE_2;
+
+var CONTACT_PHONE_3         = '9096053801';
+var CONTACT_PHONE_3_DISPLAY = '+91 90960 53801';
+var CONTACT_PHONE_3_TEL     = 'tel:+91' + CONTACT_PHONE_3;
+
+// Service phone list for phone pickers, contact lists, and footers
+var SERVICE_PHONES = [
+  { raw: CONTACT_PHONE,   display: CONTACT_PHONE_DISPLAY,   tel: CONTACT_PHONE_TEL,   label: 'Lab & Main Line' },
+  { raw: CONTACT_PHONE_2, display: CONTACT_PHONE_2_DISPLAY, tel: CONTACT_PHONE_2_TEL, label: 'Doctor / Service Line 1' },
+  { raw: CONTACT_PHONE_3, display: CONTACT_PHONE_3_DISPLAY, tel: CONTACT_PHONE_3_TEL, label: 'Doctor / Service Line 2' }
+];
+
 var CONTACT_EMAIL         = 'jssmearpathology0355@gmail.com';
 var CONTACT_EMAIL_HREF    = 'mailto:' + CONTACT_EMAIL;
 var CONTACT_WHATSAPP_URL  = 'https://wa.me/91' + CONTACT_PHONE +
