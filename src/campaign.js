@@ -27,7 +27,7 @@
     testOfferLabel: 'FLAT 50% OFF',
     pkgHref: 'packages.html',
     testHref: 'blood-tests.html',
-    websiteUrl: 'https://smearpathology.in/',
+    websiteUrl: 'https://smearpathology.in/diwali-offer',
 
     // Exact IST timestamps:
     // Start: 1 November 2026 00:00:00 IST -> 2026-10-31T18:30:00.000Z
@@ -540,7 +540,7 @@
 
       ctx.font = '600 22px "Outfit", sans-serif';
       ctx.fillStyle = '#2aa8b0';
-      ctx.fillText('https://smearpathology.in/', width / 2, footerY + 78);
+      ctx.fillText('https://smearpathology.in/diwali-offer', width / 2, footerY + 78);
       ctx.restore();
 
       if (typeof callback === 'function') {
