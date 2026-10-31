@@ -18,3 +18,22 @@
   for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+# ── DIWALI CAMPAIGN REDIRECTS ───────────────────────────────
+[[redirects]]
+  from = "/diwali-offer"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/diwali-offer/"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/diwali-offer.html"
+  to = "/"
+  status = 301
+  force = true
