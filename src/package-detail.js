@@ -69,12 +69,12 @@ document.addEventListener('DOMContentLoaded', function() {
         ? window.SmearCampaign.calculatePrice(_pkg.price, 'package')
         : {
             originalPrice: _pkg.price,
-            discountPercentage: 40,
-            finalPrice: (_pkg.price !== null && _pkg.price > 0) ? Math.round(_pkg.price * 0.60) : null,
+            discountPercentage: 50,
+            finalPrice: (_pkg.price !== null && _pkg.price > 0) ? Math.round(_pkg.price * 0.50) : null,
             hasNumericPrice: (_pkg.price !== null && _pkg.price > 0),
             formattedOriginalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + _pkg.price : '',
-            formattedFinalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + Math.round(_pkg.price * 0.60) : 'Price available at lab',
-            badgeText: '40% OFF',
+            formattedFinalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + Math.round(_pkg.price * 0.50) : 'Price available at lab',
+            badgeText: '50% OFF',
             enquiryNotice: '',
             isActive: false
           };
@@ -246,12 +246,12 @@ document.addEventListener('DOMContentLoaded', function() {
             ? window.SmearCampaign.calculatePrice(rp.price, 'package')
             : {
                 originalPrice: rp.price,
-                discountPercentage: 40,
-                finalPrice: rp.price ? Math.round(rp.price * 0.6) : null,
+                discountPercentage: 50,
+                finalPrice: rp.price ? Math.round(rp.price * 0.50) : null,
                 hasNumericPrice: (rp.price !== null && rp.price > 0),
                 formattedOriginalPrice: rp.price ? '₹' + rp.price : '',
-                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.6) : 'Price available at lab',
-                badgeText: '40% OFF',
+                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.50) : 'Price available at lab',
+                badgeText: '50% OFF',
                 isActive: false
               };
           var badgeClass = rPricing.isActive ? 'pkg-card__badge diwali-badge-pill' : 'pkg-card__badge';

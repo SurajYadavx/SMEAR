@@ -314,12 +314,12 @@
         ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
         : {
             originalPrice: pkg.price,
-            discountPercentage: 40,
-            finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.60) : null,
+            discountPercentage: 50,
+            finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.50) : null,
             hasNumericPrice: (typeof pkg.price === 'number' && pkg.price > 0),
             formattedOriginalPrice: (typeof pkg.price === 'number') ? '₹' + pkg.price : '',
-            formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
-            badgeText: '40% OFF',
+            formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.50) : 'Price available at lab',
+            badgeText: '50% OFF',
             enquiryNotice: '',
             isActive: false
           };
@@ -435,12 +435,12 @@
           ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
           : {
               originalPrice: pkg.price,
-              discountPercentage: 40,
-              finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.60) : null,
+              discountPercentage: 50,
+              finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.50) : null,
               hasNumericPrice: (typeof pkg.price === 'number' && pkg.price > 0),
               formattedOriginalPrice: (typeof pkg.price === 'number') ? '₹' + pkg.price : '',
-              formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
-              badgeText: '40% OFF',
+              formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.50) : 'Price available at lab',
+              badgeText: '50% OFF',
               enquiryNotice: '',
               isActive: false
             };

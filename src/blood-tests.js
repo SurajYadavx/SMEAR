@@ -363,12 +363,12 @@
         ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
         : {
             originalPrice: rawPrice,
-            discountPercentage: 20,
-            finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80) : 0,
+            discountPercentage: 50,
+            finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.50) : 0,
             hasNumericPrice: rawPrice > 0,
             formattedOriginalPrice: '₹' + rawPrice,
-            formattedFinalPrice: '₹' + Math.round(rawPrice * 0.80),
-            badgeText: '20% OFF',
+            formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50),
+            badgeText: '50% OFF',
             isActive: false
           };
 
@@ -470,11 +470,11 @@
       ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
       : {
           originalPrice: rawPrice,
-          discountPercentage: 20,
-          finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80) : 0,
+          discountPercentage: 50,
+          finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.50) : 0,
           hasNumericPrice: rawPrice > 0,
           formattedOriginalPrice: '₹' + rawPrice,
-          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.80)
+          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50)
         };
 
     if (titleEl) {

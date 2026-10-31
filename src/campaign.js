@@ -154,8 +154,8 @@
       };
     } else {
       // Pre-campaign standard pricing
-      var standardDiscount = (itemType === 'package') ? 40 : 20;
-      var standardFinal = Math.round(numBase * (1 - standardDiscount / 100));
+      var standardDiscount = 50;
+      var standardFinal = Math.round(numBase * 0.50);
       return {
         originalPrice: numBase,
         discountPercentage: standardDiscount,
@@ -214,11 +214,11 @@
             '✨ Special Offers ✨' +
           '</h3>' +
           '<a href="packages.html" class="promo-btn promo-btn--pkg">' +
-            '<span class="promo-val">40% OFF</span>' +
+            '<span class="promo-val">50% OFF</span>' +
             '<span class="promo-txt">On All Health Packages</span>' +
           '</a>' +
           '<a href="blood-tests.html" class="promo-btn promo-btn--test">' +
-            '<span class="promo-val">20% OFF</span>' +
+            '<span class="promo-val">50% OFF</span>' +
             '<span class="promo-txt">On All Blood Tests</span>' +
           '</a>' +
         '</div>';

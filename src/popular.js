@@ -51,12 +51,12 @@
       ? window.SmearCampaign.calculatePrice(rawPrice, isPkg ? 'package' : 'test')
       : {
           originalPrice: rawPrice,
-          discountPercentage: isPkg ? 40 : 20,
-          finalPrice: Math.round(rawPrice * (isPkg ? 0.6 : 0.8)),
+          discountPercentage: 50,
+          finalPrice: Math.round(rawPrice * 0.50),
           hasNumericPrice: rawPrice > 0,
           formattedOriginalPrice: '₹' + rawPrice,
-          formattedFinalPrice: '₹' + Math.round(rawPrice * (isPkg ? 0.6 : 0.8)),
-          badgeText: isPkg ? '40% OFF' : '20% OFF',
+          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50),
+          badgeText: '50% OFF',
           isActive: false
         };
     
