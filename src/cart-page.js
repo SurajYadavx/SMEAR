@@ -38,7 +38,14 @@
         li.className = 'cart-item';
         li.setAttribute('role', 'listitem');
         
-        var priceDisplay = item.price === null ? '<span style="font-size: 0.9em; color: var(--color-text-muted)">Price available at lab</span>' : '\u20b9' + (item.price * (item.qty || 1));
+        function formatMoney(amount) {
+          if (window.SmearCampaign && window.SmearCampaign.formatINR) {
+            return window.SmearCampaign.formatINR(amount);
+          }
+          return '\u20b9' + amount;
+        }
+        var itemLinePrice = item.price !== null ? Math.round(Number(item.price) * (item.qty || 1) * 100) / 100 : null;
+        var priceDisplay = itemLinePrice === null ? '<span style="font-size: 0.9em; color: var(--color-text-muted)">Price available at lab</span>' : formatMoney(itemLinePrice);
 
         li.innerHTML = '' +
           '<div class="cart-item__icon">' +
@@ -70,11 +77,17 @@
     if (countEl) countEl.textContent = count;
     
     if (totalEl) {
+      function formatMoney(amount) {
+        if (window.SmearCampaign && window.SmearCampaign.formatINR) {
+          return window.SmearCampaign.formatINR(amount);
+        }
+        return '\u20b9' + amount;
+      }
       if (total > 0 && unpriced) {
-        totalEl.textContent = '\u20b9' + total + ' + pending items';
+        totalEl.textContent = formatMoney(total) + ' + pending items';
         totalEl.style.fontSize = '1.2rem';
       } else if (total > 0) {
-        totalEl.textContent = '\u20b9' + total;
+        totalEl.textContent = formatMoney(total);
       } else {
         totalEl.textContent = 'To be confirmed';
         totalEl.style.fontSize = '1.2rem';

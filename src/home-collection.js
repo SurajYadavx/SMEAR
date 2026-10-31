@@ -19,8 +19,18 @@
       return;
     }
     packages.forEach(function (pkg) {
-      var price    = pkg.price;
-      var discount = pkg.discount || 0;
+      var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+        ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
+        : {
+            originalPrice: pkg.price,
+            discountPercentage: 0,
+            finalPrice: pkg.price,
+            hasNumericPrice: (pkg.price !== null && pkg.price > 0),
+            formattedOriginalPrice: pkg.price ? '₹' + pkg.price : '',
+            formattedFinalPrice: pkg.price ? '₹' + pkg.price : 'Price available at lab',
+            badgeText: '',
+            isActive: false
+          };
       var imgUrl   = pkg.image_url;
 
       var card = document.createElement('div');
@@ -30,14 +40,17 @@
         ? '<img src="' + esc(imgUrl) + '" alt="' + esc(pkg.name) + '" loading="lazy" />'
         : '<div class="pkg-card__placeholder">' + (window.SmearVisuals ? window.SmearVisuals.getMotifSVG(pkg.categoryName || pkg.categoryId) : '') + '</div>';
 
-      var priceHtml = price !== null 
-        ? '<div class="pkg-card__price">₹' + Number(price).toLocaleString('en-IN') + '</div>' 
+      var priceHtml = pricing.hasNumericPrice 
+        ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice + '</div>' 
         : '<div class="pkg-card__price" style="font-size: 0.9em; color: var(--color-text-muted);">Price available at lab</div>';
+
+      var badgeClass = pricing.isActive ? 'pkg-card__badge diwali-badge-pill' : 'pkg-card__badge';
+      var badgeHtml = pricing.badgeText ? '<span class="' + badgeClass + '">' + pricing.badgeText + '</span>' : '';
 
       card.innerHTML =
         '<div class="pkg-card__img-wrap">' +
           imgHtml +
-          (discount > 0 ? '<span class="pkg-card__badge">' + discount + '% OFF</span>' : '') +
+          badgeHtml +
         '</div>' +
         '<div class="pkg-card__body">' +
           '<div class="pkg-card__category">' + esc(pkg.categoryName || pkg.categoryId) + '</div>' +
@@ -45,7 +58,7 @@
           priceHtml +
           '<div class="pkg-card__ctas">' +
             '<button class="btn btn--outline-primary view-pkg-btn" data-id="' + esc(pkg.id) + '">View Details</button>' +
-            '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + (price !== null ? price : '') + '">Add to Cart</button>' +
+            '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + (pricing.finalPrice !== null ? pricing.finalPrice : '') + '">' + (pricing.hasNumericPrice ? 'Add to Cart' : 'Enquire') + '</button>' +
           '</div>' +
         '</div>';
 
@@ -67,7 +80,7 @@
         var id    = btn.getAttribute('data-id');
         var name  = btn.getAttribute('data-name');
         var priceRaw = btn.getAttribute('data-price');
-        var price = priceRaw ? parseInt(priceRaw, 10) : null;
+        var price = (priceRaw !== '' && !isNaN(Number(priceRaw))) ? Number(priceRaw) : null;
         if (window.SmearCart) window.SmearCart.add(id, 'package', name, price);
       });
     });

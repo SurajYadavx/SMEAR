@@ -177,6 +177,89 @@
       });
       filtersContainer.appendChild(tab);
     });
+
+    // Auto-scroll active category into view
+    var activeBtn = filtersContainer.querySelector('.shop-filter-btn.active');
+    if (activeBtn && filtersContainer.scrollWidth > filtersContainer.clientWidth) {
+      activeBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    }
+    if (typeof filtersContainer._updateNav === 'function') {
+      setTimeout(filtersContainer._updateNav, 30);
+    }
+  }
+
+  /* ── Category Navigation Scroll Wiring ─────────────────────── */
+  function setupCategoryNav() {
+    var navWrap = document.querySelector('.shop-category-nav-wrap');
+    var filtersContainer = document.getElementById('shop-category-filters');
+    if (!filtersContainer || !navWrap) return;
+
+    var btnLeft = navWrap.querySelector('.category-scroll-btn--left');
+    var btnRight = navWrap.querySelector('.category-scroll-btn--right');
+
+    function updateNav() {
+      var hasOverflow = filtersContainer.scrollWidth > filtersContainer.clientWidth + 4;
+      if (hasOverflow) {
+        navWrap.classList.add('has-overflow');
+        var canLeft = filtersContainer.scrollLeft > 6;
+        var canRight = filtersContainer.scrollLeft + filtersContainer.clientWidth < filtersContainer.scrollWidth - 6;
+
+        navWrap.classList.toggle('can-scroll-left', canLeft);
+        navWrap.classList.toggle('can-scroll-right', canRight);
+
+        if (btnLeft) {
+          btnLeft.style.display = 'flex';
+          btnLeft.disabled = !canLeft;
+        }
+        if (btnRight) {
+          btnRight.style.display = 'flex';
+          btnRight.disabled = !canRight;
+        }
+      } else {
+        navWrap.classList.remove('has-overflow', 'can-scroll-left', 'can-scroll-right');
+        if (btnLeft) {
+          btnLeft.style.display = 'none';
+          btnLeft.disabled = true;
+        }
+        if (btnRight) {
+          btnRight.style.display = 'none';
+          btnRight.disabled = true;
+        }
+      }
+    }
+
+    if (btnLeft && !btnLeft._wired) {
+      btnLeft._wired = true;
+      btnLeft.addEventListener('click', function() {
+        filtersContainer.scrollBy({ left: -260, behavior: 'smooth' });
+      });
+    }
+    if (btnRight && !btnRight._wired) {
+      btnRight._wired = true;
+      btnRight.addEventListener('click', function() {
+        filtersContainer.scrollBy({ left: 260, behavior: 'smooth' });
+      });
+    }
+
+    if (!filtersContainer._wheelWired) {
+      filtersContainer._wheelWired = true;
+      filtersContainer.addEventListener('wheel', function(e) {
+        if (filtersContainer.scrollWidth <= filtersContainer.clientWidth) return;
+        var canScrollRight = (e.deltaY > 0 && filtersContainer.scrollLeft < filtersContainer.scrollWidth - filtersContainer.clientWidth - 1);
+        var canScrollLeft = (e.deltaY < 0 && filtersContainer.scrollLeft > 1);
+        if (canScrollRight || canScrollLeft) {
+          e.preventDefault();
+          filtersContainer.scrollLeft += (e.deltaY * 0.85);
+        }
+      }, { passive: false });
+
+      filtersContainer.addEventListener('scroll', updateNav, { passive: true });
+      window.addEventListener('resize', updateNav, { passive: true });
+    }
+
+    filtersContainer._updateNav = updateNav;
+    updateNav();
+    setTimeout(updateNav, 100);
   }
 
   /* ── Package Cards for Category ───────────────────────────── */
@@ -227,9 +310,19 @@
     }
 
     filtered.forEach(function(pkg) {
-      var oldPrice = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.60) : 0;
-      var discount = 40;
+      var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+        ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
+        : {
+            originalPrice: pkg.price,
+            discountPercentage: 40,
+            finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.60) : null,
+            hasNumericPrice: (typeof pkg.price === 'number' && pkg.price > 0),
+            formattedOriginalPrice: (typeof pkg.price === 'number') ? '₹' + pkg.price : '',
+            formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
+            badgeText: '40% OFF',
+            enquiryNotice: '',
+            isActive: false
+          };
       var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
       var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
@@ -241,18 +334,29 @@
         ? '<img src="' + esc(imgUrl) + '" alt="' + esc(pkg.name) + '" loading="lazy" />'
         : '<div class="pkg-card__placeholder"><span class="pkg-card__placeholder-label">' + esc(catLabel) + '</span></div>';
 
+      var badgeStyle = pricing.isActive
+        ? 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #ffd700, #f59e0b); color: #1a0624; font-weight: 800; box-shadow: 0 2px 8px rgba(245,158,11,0.45);'
+        : 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);';
+
+      var priceHtml = '';
+      if (pricing.hasNumericPrice) {
+        priceHtml = '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice + '</div>';
+      } else {
+        priceHtml = '<div class="pkg-card__price" style="font-size: 0.9em; color: var(--color-text-muted);">Price available at lab' + (pricing.enquiryNotice ? ' <span style="display:inline-block; font-size:0.75rem; color:#b45309; font-weight:600;">(' + pricing.enquiryNotice + ')</span>' : '') + '</div>';
+      }
+
       card.innerHTML =
         '<div class="pkg-card__img-wrap">' +
           imgHtml +
-          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">40% OFF</span>' +
+          (pricing.badgeText ? '<span class="pkg-card__badge" style="' + badgeStyle + '">' + pricing.badgeText + '</span>' : '') +
         '</div>' +
         '<div class="pkg-card__body">' +
           '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
           '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
-          (price > 0 ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>' : '') +
+          priceHtml +
           '<div class="pkg-card__ctas">' +
             '<button class="btn btn--outline-primary view-pkg-btn" data-id="' + esc(pkg.id) + '">View Details</button>' +
-            '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + price + '">Add to Cart</button>' +
+            '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + (pricing.finalPrice !== null ? pricing.finalPrice : '') + '">' + (pricing.hasNumericPrice ? 'Add to Cart' : 'Enquire') + '</button>' +
           '</div>' +
         '</div>';
 
@@ -272,7 +376,8 @@
         e.stopPropagation();
         var id    = btn.getAttribute('data-id');
         var name  = btn.getAttribute('data-name');
-        var price = parseInt(btn.getAttribute('data-price'), 10) || 0;
+        var priceRaw = btn.getAttribute('data-price');
+        var price = (priceRaw !== '' && !isNaN(Number(priceRaw))) ? Number(priceRaw) : null;
         if (window.SmearCart) window.SmearCart.add(id, 'package', name, price);
       });
     });
@@ -326,9 +431,19 @@
     }
 
       filtered.slice(0, 60).forEach(function(pkg) {
-        var oldPrice = typeof pkg.price === 'number' ? pkg.price : extractPrice(pkg.sourceData && pkg.sourceData.preview_content);
-        var price    = oldPrice > 0 ? Math.round(oldPrice * 0.60) : 0;
-        var discount = 40;
+        var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+          ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
+          : {
+              originalPrice: pkg.price,
+              discountPercentage: 40,
+              finalPrice: (typeof pkg.price === 'number') ? Math.round(pkg.price * 0.60) : null,
+              hasNumericPrice: (typeof pkg.price === 'number' && pkg.price > 0),
+              formattedOriginalPrice: (typeof pkg.price === 'number') ? '₹' + pkg.price : '',
+              formattedFinalPrice: (typeof pkg.price === 'number') ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
+              badgeText: '40% OFF',
+              enquiryNotice: '',
+              isActive: false
+            };
         var imgUrl   = pkg.image_url || (pkg.sourceData && pkg.sourceData.preview_image_url);
         var catObj   = _categories.find(function(c) { return c.categoryId === pkg.categoryId; });
 
@@ -339,17 +454,28 @@
           ? '<img src="' + esc(imgUrl) + '" alt="' + esc(pkg.name) + '" loading="lazy" />'
           : '<div class="pkg-card__placeholder"><span class="pkg-card__placeholder-label">' + esc(catLabel2) + '</span></div>';
 
+        var badgeStyle = pricing.isActive
+          ? 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #ffd700, #f59e0b); color: #1a0624; font-weight: 800; box-shadow: 0 2px 8px rgba(245,158,11,0.45);'
+          : 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);';
+
+        var priceHtml = '';
+        if (pricing.hasNumericPrice) {
+          priceHtml = '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice + '</div>';
+        } else {
+          priceHtml = '<div class="pkg-card__price" style="font-size: 0.9em; color: var(--color-text-muted);">Price available at lab' + (pricing.enquiryNotice ? ' <span style="display:inline-block; font-size:0.75rem; color:#b45309; font-weight:600;">(' + pricing.enquiryNotice + ')</span>' : '') + '</div>';
+        }
+
         card.innerHTML =
           '<div class="pkg-card__img-wrap">' + imgHtml +
-            '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">40% OFF</span>' +
+            (pricing.badgeText ? '<span class="pkg-card__badge" style="' + badgeStyle + '">' + pricing.badgeText + '</span>' : '') +
           '</div>' +
           '<div class="pkg-card__body">' +
             '<div class="pkg-card__category">' + esc(catObj ? catObj.categoryName : pkg.categoryId) + '</div>' +
             '<div class="pkg-card__name">' + esc(pkg.name) + '</div>' +
-            (price > 0 ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>' : '') +
+            priceHtml +
             '<div class="pkg-card__ctas">' +
               '<button class="btn btn--outline-primary view-pkg-btn" data-id="' + esc(pkg.id) + '">View Details</button>' +
-              '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + price + '">Add to Cart</button>' +
+              '<button class="btn btn--primary add-pkg-btn" data-id="' + esc(pkg.id) + '" data-name="' + esc(pkg.name) + '" data-price="' + (pricing.finalPrice !== null ? pricing.finalPrice : '') + '">' + (pricing.hasNumericPrice ? 'Add to Cart' : 'Enquire') + '</button>' +
             '</div>' +
           '</div>';
         grid.appendChild(card);
@@ -365,7 +491,9 @@
         btn.addEventListener('click', function(e) {
           e.stopPropagation();
           if (window.SmearCart) {
-            window.SmearCart.add(btn.getAttribute('data-id'), 'package', btn.getAttribute('data-name'), parseInt(btn.getAttribute('data-price'),10)||0);
+            var pRaw = btn.getAttribute('data-price');
+            var pVal = (pRaw !== '' && !isNaN(Number(pRaw))) ? Number(pRaw) : null;
+            window.SmearCart.add(btn.getAttribute('data-id'), 'package', btn.getAttribute('data-name'), pVal);
           }
         });
       });
@@ -453,7 +581,7 @@
 
     function afterLoad() {
       try {
-        _packages = _packages.filter(function(p) { return typeof p.price === 'number' && p.price > 0; });
+        // Preserve all 60 packages (do not filter out packages with unavailable prices)
         _categories = _categories.filter(function(c) {
           return _packages.some(function(p) { return p.categoryId === c.categoryId; });
         });
@@ -468,6 +596,7 @@
         renderPackagesForCategory();
 
         initSearch();
+        setupCategoryNav();
 
         // Update hero stats if elements exist
         var catCountEl = document.getElementById('pkg-stat-cats');

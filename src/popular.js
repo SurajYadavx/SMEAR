@@ -1,4 +1,6 @@
 (function() {
+  'use strict';
+
   function esc(s) {
     if (!s) return '';
     return s.toString().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
@@ -43,10 +45,20 @@
       }
     };
     
-    var oldPrice = isPkg ? (item.price || 0) : extractPrice(item.price);
-    // Use item discount if available, fallback to 40 for packages, 20 for tests
-    var discountPercent = item.discount ? parseInt(item.discount, 10) : (isPkg ? 40 : 20);
-    var price = oldPrice > 0 ? Math.round(oldPrice * (1 - discountPercent/100)) : 0;
+    // Central Campaign Pricing Utility
+    var rawPrice = isPkg ? (item.price || 0) : extractPrice(item.price);
+    var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+      ? window.SmearCampaign.calculatePrice(rawPrice, isPkg ? 'package' : 'test')
+      : {
+          originalPrice: rawPrice,
+          discountPercentage: isPkg ? 40 : 20,
+          finalPrice: Math.round(rawPrice * (isPkg ? 0.6 : 0.8)),
+          hasNumericPrice: rawPrice > 0,
+          formattedOriginalPrice: '₹' + rawPrice,
+          formattedFinalPrice: '₹' + Math.round(rawPrice * (isPkg ? 0.6 : 0.8)),
+          badgeText: isPkg ? '40% OFF' : '20% OFF',
+          isActive: false
+        };
     
     // Value indicator
     var valNum = isPkg ? (item.parameters_count || (item.profiles ? item.profiles.length : 0) || 0) : 1;
@@ -75,12 +87,13 @@
     }
 
     // Pricing
-    var discountBadge = discountPercent > 0 ? '<div class="pop-discount-tag">' + discountPercent + '% OFF</div>' : '<div></div>';
+    var badgeClass = 'pop-discount-tag' + (pricing.isActive ? ' diwali-badge-pill' : '');
+    var discountBadge = pricing.badgeText ? '<div class="' + badgeClass + '">' + pricing.badgeText + '</div>' : '<div></div>';
     var pricingHtml = '<div class="pop-price-section">' +
                         discountBadge + 
                         '<div class="pop-price-wrap">' +
-                          (price > 0 && oldPrice > price ? '<span class="pop-old-price">₹' + oldPrice + '</span>' : '') +
-                          (price > 0 ? '<span class="pop-price">₹' + price + '</span>' : '<span class="pop-price" style="font-size:1.1rem; color:var(--color-text-mid);">Price at lab</span>') +
+                          (pricing.hasNumericPrice && pricing.originalPrice > pricing.finalPrice ? '<span class="pop-old-price">' + pricing.formattedOriginalPrice + '</span>' : '') +
+                          (pricing.hasNumericPrice ? '<span class="pop-price">' + pricing.formattedFinalPrice + '</span>' : '<span class="pop-price" style="font-size:1.1rem; color:var(--color-text-mid);">Price at lab</span>') +
                         '</div>' +
                       '</div>';
 

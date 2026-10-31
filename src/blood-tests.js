@@ -166,6 +166,89 @@
       });
       filtersContainer.appendChild(tab);
     });
+
+    // Auto-scroll active category into view
+    var activeBtn = filtersContainer.querySelector('.shop-filter-btn.active');
+    if (activeBtn && filtersContainer.scrollWidth > filtersContainer.clientWidth) {
+      activeBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    }
+    if (typeof filtersContainer._updateNav === 'function') {
+      setTimeout(filtersContainer._updateNav, 30);
+    }
+  }
+
+  /* ── Category Navigation Scroll Wiring ─────────────────────── */
+  function setupCategoryNav() {
+    var navWrap = document.querySelector('.shop-category-nav-wrap');
+    var filtersContainer = document.getElementById('shop-category-filters');
+    if (!filtersContainer || !navWrap) return;
+
+    var btnLeft = navWrap.querySelector('.category-scroll-btn--left');
+    var btnRight = navWrap.querySelector('.category-scroll-btn--right');
+
+    function updateNav() {
+      var hasOverflow = filtersContainer.scrollWidth > filtersContainer.clientWidth + 4;
+      if (hasOverflow) {
+        navWrap.classList.add('has-overflow');
+        var canLeft = filtersContainer.scrollLeft > 6;
+        var canRight = filtersContainer.scrollLeft + filtersContainer.clientWidth < filtersContainer.scrollWidth - 6;
+
+        navWrap.classList.toggle('can-scroll-left', canLeft);
+        navWrap.classList.toggle('can-scroll-right', canRight);
+
+        if (btnLeft) {
+          btnLeft.style.display = 'flex';
+          btnLeft.disabled = !canLeft;
+        }
+        if (btnRight) {
+          btnRight.style.display = 'flex';
+          btnRight.disabled = !canRight;
+        }
+      } else {
+        navWrap.classList.remove('has-overflow', 'can-scroll-left', 'can-scroll-right');
+        if (btnLeft) {
+          btnLeft.style.display = 'none';
+          btnLeft.disabled = true;
+        }
+        if (btnRight) {
+          btnRight.style.display = 'none';
+          btnRight.disabled = true;
+        }
+      }
+    }
+
+    if (btnLeft && !btnLeft._wired) {
+      btnLeft._wired = true;
+      btnLeft.addEventListener('click', function() {
+        filtersContainer.scrollBy({ left: -260, behavior: 'smooth' });
+      });
+    }
+    if (btnRight && !btnRight._wired) {
+      btnRight._wired = true;
+      btnRight.addEventListener('click', function() {
+        filtersContainer.scrollBy({ left: 260, behavior: 'smooth' });
+      });
+    }
+
+    if (!filtersContainer._wheelWired) {
+      filtersContainer._wheelWired = true;
+      filtersContainer.addEventListener('wheel', function(e) {
+        if (filtersContainer.scrollWidth <= filtersContainer.clientWidth) return;
+        var canScrollRight = (e.deltaY > 0 && filtersContainer.scrollLeft < filtersContainer.scrollWidth - filtersContainer.clientWidth - 1);
+        var canScrollLeft = (e.deltaY < 0 && filtersContainer.scrollLeft > 1);
+        if (canScrollRight || canScrollLeft) {
+          e.preventDefault();
+          filtersContainer.scrollLeft += (e.deltaY * 0.85);
+        }
+      }, { passive: false });
+
+      filtersContainer.addEventListener('scroll', updateNav, { passive: true });
+      window.addEventListener('resize', updateNav, { passive: true });
+    }
+
+    filtersContainer._updateNav = updateNav;
+    updateNav();
+    setTimeout(updateNav, 100);
   }
 
   /* ── Skeleton ─────────────────────────────────────────────── */
@@ -275,14 +358,32 @@
     }
 
     paginated.forEach(function(test, idx) {
-      var oldPrice = extractPrice(test.price);
-      var price    = oldPrice > 0 ? Math.round(oldPrice * 0.80) : 0; // 20% OFF
+      var rawPrice = extractPrice(test.price);
+      var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+        ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
+        : {
+            originalPrice: rawPrice,
+            discountPercentage: 20,
+            finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80) : 0,
+            hasNumericPrice: rawPrice > 0,
+            formattedOriginalPrice: '₹' + rawPrice,
+            formattedFinalPrice: '₹' + Math.round(rawPrice * 0.80),
+            badgeText: '20% OFF',
+            isActive: false
+          };
+
       var absIdx   = startIdx + idx;
       var gradient = getGradient(test, absIdx);
       var catLabel = test.categoryName || test.categoryId || 'Laboratory Test';
-
-      /* Stable ID for correct modal lookup */
       var stableId = test.id || test.slug || ('idx-' + absIdx);
+
+      var badgeStyle = pricing.isActive
+        ? 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #ffd700, #f59e0b); color: #1a0624; font-weight: 800; box-shadow: 0 2px 8px rgba(245,158,11,0.45);'
+        : 'top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);';
+
+      var priceHtml = pricing.hasNumericPrice
+        ? '<div class="test-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice + '</div>'
+        : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>';
 
       var card = document.createElement('div');
       card.className = 'test-card tc-premium';
@@ -292,7 +393,7 @@
         '<div class="tc-visual-header" style="background:' + gradient + ';">' +
           '<div class="tc-visual-overlay"></div>' +
           '<span class="tc-visual-label">' + esc(catLabel) + '</span>' +
-          '<span class="pkg-card__badge" style="top: 8px; right: 8px; left: auto; background: linear-gradient(135deg, #FFD700, #FFA500); color: #000; box-shadow: 0 2px 6px rgba(255,165,0,0.4);">20% OFF</span>' +
+          (pricing.badgeText ? '<span class="pkg-card__badge" style="' + badgeStyle + '">' + pricing.badgeText + '</span>' : '') +
         '</div>' +
         /* ── Card body ── */
         '<div class="test-card__body-wrap">' +
@@ -303,9 +404,7 @@
                 '<span style="color:#0d3b3e; font-weight:500;">Sample:</span> ' + esc(test.specimen) +
               '</div>'
             : '') +
-          (price > 0
-            ? '<div class="test-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price + '</div>'
-            : '<div class="test-card__price" style="color:var(--color-text-muted);font-size:0.9rem;">Price on request</div>') +
+          priceHtml +
           '<div class="test-card__ctas">' +
             '<button class="btn btn--outline-primary view-test-btn" data-id="' + esc(stableId) + '">Details</button>' +
             '<button class="btn btn--primary book-test-btn" data-name="' + esc(test.name) + '">Book</button>' +
@@ -366,16 +465,25 @@
     var priceEl = document.getElementById('modal-price');
     var callBtn = document.getElementById('modal-call-btn');
     var waBtn   = document.getElementById('modal-wa-btn');
-    var oldPrice = extractPrice(test.price);
-    var price    = oldPrice > 0 ? Math.round(oldPrice * 0.80) : 0; // 20% OFF
+    var rawPrice = extractPrice(test.price);
+    var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+      ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
+      : {
+          originalPrice: rawPrice,
+          discountPercentage: 20,
+          finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80) : 0,
+          hasNumericPrice: rawPrice > 0,
+          formattedOriginalPrice: '₹' + rawPrice,
+          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.80)
+        };
 
     if (titleEl) {
       titleEl.textContent = test.name;
       titleEl.style.color = '#000';
     }
     if (priceEl) {
-      if (price > 0) {
-        priceEl.innerHTML = '<span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">₹' + oldPrice + '</span>₹' + price;
+      if (pricing.hasNumericPrice) {
+        priceEl.innerHTML = '<span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice;
       } else {
         priceEl.textContent = 'Price on request';
       }
@@ -392,7 +500,7 @@
         '<div style="font-size:0.92rem;line-height:1.7;text-align:left;">' +
         '<p style="margin-bottom:8px;"><strong>Test Name:</strong> ' + esc(test.name) + '</p>' +
         '<p style="margin-bottom:8px;"><strong>Laboratory:</strong> ' + esc(labName) + '</p>' +
-        '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (price > 0 ? '<span style="text-decoration: line-through; color: var(--color-text-muted); margin-right: 6px;">₹' + oldPrice + '</span>₹' + price : 'Contact for price') + '</p>' +
+        '<p style="margin-bottom:8px;"><strong>Price:</strong> ' + (pricing.hasNumericPrice ? '<span style="text-decoration: line-through; color: var(--color-text-muted); margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice : 'Contact for price') + '</p>' +
         (test.specimen ? '<p style="margin-bottom:8px;"><strong>Sample / Specimen:</strong> ' + esc(test.specimen) + '</p>' : '') +
         (test.report_time ? '<p style="margin-bottom:8px;"><strong>Report Time:</strong> ' + esc(test.report_time) + '</p>' : '') +
         (test.fasting && test.fasting !== 'no' ? '<p style="margin-bottom:8px;"><strong>Fasting:</strong> ' + esc(test.fasting) + '</p>' : '') +
@@ -564,6 +672,7 @@
       renderCategoryTabs();
       initSearch();
       renderTests();
+      setupCategoryNav();
     }
 
     if (window.SMEAR_TESTS) {

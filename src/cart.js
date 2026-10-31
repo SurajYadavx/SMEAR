@@ -79,8 +79,16 @@
   /**
    * Approximate price total (only sums items with numeric prices).
    */
+  function formatMoney(amount) {
+    if (window.SmearCampaign && window.SmearCampaign.formatINR) {
+      return window.SmearCampaign.formatINR(amount);
+    }
+    return '\u20b9' + amount;
+  }
+
   function cartTotal() {
-    return loadCart().reduce(function (n, i) { return n + ((i.price !== null ? i.price : 0) * (i.qty || 1)); }, 0);
+    var sum = loadCart().reduce(function (n, i) { return n + ((i.price !== null ? Number(i.price) : 0) * (i.qty || 1)); }, 0);
+    return Math.round(sum * 100) / 100;
   }
 
   /**
@@ -128,17 +136,17 @@
   function buildWhatsAppMessage(cart) {
     if (!cart || cart.length === 0) return '';
     var lines = cart.map(function (item) {
-      var priceStr = item.price === null ? 'To be confirmed' : '\u20b9' + (item.price * (item.qty || 1));
-      return '\u2022 ' + item.name + (item.qty > 1 ? ' \u00d7' + item.qty : '') + ' \u2014 ' + priceStr;
+      var linePrice = item.price !== null ? formatMoney(Math.round(Number(item.price) * (item.qty || 1) * 100) / 100) : 'To be confirmed';
+      return '\u2022 ' + item.name + (item.qty > 1 ? ' \u00d7' + item.qty : '') + ' \u2014 ' + linePrice;
     });
     var total = cartTotal();
     var unpriced = hasUnpricedItems();
 
     var totalStr = '';
     if (total > 0 && unpriced) {
-      totalStr = '\u20b9' + total + ' + pending items';
+      totalStr = formatMoney(total) + ' + pending items';
     } else if (total > 0) {
-      totalStr = '\u20b9' + total;
+      totalStr = formatMoney(total);
     } else {
       totalStr = 'To be confirmed';
     }

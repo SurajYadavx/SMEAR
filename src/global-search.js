@@ -121,7 +121,11 @@
       section.appendChild(label);
 
       pkgResults.forEach(function(pkg) {
-        var price = pkg.price;
+        var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+          ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
+          : { hasNumericPrice: pkg.price !== null, formattedFinalPrice: pkg.price !== null ? '₹' + pkg.price : '' };
+        var priceStr = pricing.hasNumericPrice ? ' · ' + pricing.formattedFinalPrice : '';
+
         var item = document.createElement('button');
         item.type = 'button';
         item.className = 'search-dropdown-item';
@@ -129,7 +133,7 @@
           '<span class="search-dropdown-item__icon">' + PKG_ICON + '</span>' +
           '<span class="search-dropdown-item__text">' +
             '<span class="search-dropdown-item__name">' + esc(pkg.name) + '</span>' +
-            '<span class="search-dropdown-item__meta">' + esc(pkg.categoryName || 'Package') + (price !== null ? ' · ₹' + price : '') + '</span>' +
+            '<span class="search-dropdown-item__meta">' + esc(pkg.categoryName || 'Package') + priceStr + '</span>' +
           '</span>';
         item.addEventListener('click', function() {
           window.location.href = 'package-detail.html?id=' + encodeURIComponent(pkg.slug || pkg.id);
@@ -154,7 +158,11 @@
       section2.appendChild(label2);
 
       testResults.forEach(function(test) {
-        var price = test.price;
+        var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+          ? window.SmearCampaign.calculatePrice(test.price, 'test')
+          : { hasNumericPrice: test.price !== null, formattedFinalPrice: test.price !== null ? '₹' + test.price : '' };
+        var priceStr = pricing.hasNumericPrice ? ' · ' + pricing.formattedFinalPrice : '';
+
         var item = document.createElement('button');
         item.type = 'button';
         item.className = 'search-dropdown-item';
@@ -162,7 +170,7 @@
           '<span class="search-dropdown-item__icon" style="background:rgba(42,168,176,0.1);">' + TEST_ICON + '</span>' +
           '<span class="search-dropdown-item__text">' +
             '<span class="search-dropdown-item__name">' + esc(test.name) + '</span>' +
-            '<span class="search-dropdown-item__meta">' + esc(test.categoryName || 'Test') + (price !== null ? ' · ₹' + price : '') + '</span>' +
+            '<span class="search-dropdown-item__meta">' + esc(test.categoryName || 'Test') + priceStr + '</span>' +
           '</span>';
         item.addEventListener('click', function() {
           window.location.href = 'blood-tests.html?search=' + encodeURIComponent(test.name);

@@ -48,6 +48,7 @@
   <link rel="stylesheet" href="./src/styles/v9-callback.css" />
   <link rel="stylesheet" href="./src/styles/v12-about.css" />
   <link rel="stylesheet" href="./src/styles/v13-upgrade.css" />
+  <link rel="stylesheet" href="./src/styles/diwali-campaign.css" />
 
   <script type="application/ld+json">
   {
@@ -465,21 +466,76 @@
         .hf-compact h3 { font-size: 0.95rem !important; margin-bottom: 2px !important; }
         .hf-compact p { font-size: 0.8rem !important; }
       </style>
-      <div class="hero-features fade-in" style="gap: 12px; width: 100%; max-width: 360px;">
-        <div class="premium-promo-card">
-          <h3 style="color: #FFD700; font-size: 1.25rem; font-family: 'Outfit', sans-serif; font-weight: 700; letter-spacing: 0.08em; margin: 0 0 16px; text-transform: uppercase; text-shadow: 0 2px 6px rgba(0,0,0,0.4);">
-            ✨ Special Offers ✨
-          </h3>
-          
-          <a href="packages.html" class="promo-btn promo-btn--pkg">
-            <span class="promo-val">40% OFF</span>
-            <span class="promo-txt">On All Health Packages</span>
+      <div class="hero-features fade-in" id="hero-campaign-slot" style="gap: 12px; width: 100%; max-width: 380px;">
+        <div class="diwali-card">
+          <div class="diwali-card__bg-pattern" aria-hidden="true"></div>
+          <div class="diwali-card__corner diwali-card__corner--tl" aria-hidden="true"></div>
+          <div class="diwali-card__corner diwali-card__corner--tr" aria-hidden="true"></div>
+          <div class="diwali-card__corner diwali-card__corner--bl" aria-hidden="true"></div>
+          <div class="diwali-card__corner diwali-card__corner--br" aria-hidden="true"></div>
+
+          <div class="diwali-eyebrow">
+            <span class="diwali-sparkle" aria-hidden="true">✦</span>
+            <span>SMEAR PATHOLOGY PRESENTS</span>
+            <span class="diwali-sparkle" aria-hidden="true">✦</span>
+          </div>
+
+          <div class="diwali-diya-wrap">
+            <div class="diwali-diya-glow"></div>
+            <svg class="diwali-diya-svg" viewBox="0 0 100 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <defs>
+                <radialGradient id="flameGrad" cx="50%" cy="80%" r="70%">
+                  <stop offset="0%" stop-color="#fff5c0" />
+                  <stop offset="25%" stop-color="#ffd700" />
+                  <stop offset="60%" stop-color="#ff7a00" />
+                  <stop offset="100%" stop-color="#d62828" stop-opacity="0.2" />
+                </radialGradient>
+                <linearGradient id="clayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#ffd700" />
+                  <stop offset="45%" stop-color="#d4af37" />
+                  <stop offset="100%" stop-color="#8a6d1b" />
+                </linearGradient>
+              </defs>
+              <g class="diwali-flame">
+                <path d="M50 8 C43 24 38 34 38 46 C38 56 43 62 50 62 C57 62 62 56 62 46 C62 34 57 24 50 8 Z" fill="url(#flameGrad)" />
+                <path d="M50 20 C46 30 43 36 43 45 C43 51 46 55 50 55 C54 55 57 51 57 45 C57 36 54 30 50 20 Z" fill="#ffffff" opacity="0.85" />
+              </g>
+              <path d="M14 52 C26 72 74 72 86 52 C89 48 83 45 74 47 C62 50 38 50 26 47 C17 45 11 48 14 52 Z" fill="url(#clayGrad)" stroke="#ffd700" stroke-width="1.2" />
+              <path d="M34 68 Q50 75 66 68 L62 74 Q50 77 38 74 Z" fill="#b8860b" />
+            </svg>
+          </div>
+
+          <h3 class="diwali-title">DIWALI HEALTH CELEBRATION</h3>
+
+          <div class="diwali-offer-hero">
+            <span class="diwali-main-val">FLAT 50% OFF</span>
+            <span class="diwali-main-sub">On All Health Packages &amp; Blood Tests</span>
+          </div>
+
+          <div class="diwali-dates-pill">
+            <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+            <span>1 – 15 November 2026</span>
+          </div>
+
+          <p class="diwali-message">Celebrate the festival of lights with a special offer on health packages and blood tests.</p>
+
+          <a href="packages.html" class="diwali-btn diwali-btn--pkg">
+            <span class="diwali-btn__val">FLAT 50% OFF</span>
+            <span class="diwali-btn__cta">EXPLORE HEALTH PACKAGES →</span>
           </a>
 
-          <a href="blood-tests.html" class="promo-btn promo-btn--test">
-            <span class="promo-val">20% OFF</span>
-            <span class="promo-txt">On All Blood Tests</span>
+          <a href="blood-tests.html" class="diwali-btn diwali-btn--test">
+            <span class="diwali-btn__val">FLAT 50% OFF</span>
+            <span class="diwali-btn__cta">EXPLORE BLOOD TESTS →</span>
           </a>
+
+          <button type="button" class="diwali-share-btn" id="diwali-open-poster-btn" aria-label="Share Diwali Offer Artwork">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle>
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+            </svg>
+            <span>SHARE DIWALI OFFER</span>
+          </button>
         </div>
       </div>
 
@@ -1636,6 +1692,7 @@
 
   <!-- ── Content files (loaded before main.js) ─────────────── -->
   <script src="./src/config.js"></script>
+  <script src="./src/campaign.js"></script>
   <script src="./src/visuals.js"></script>
   <script src="./src/content/content.en.js"></script>
   <script src="./src/content/content.mr.js"></script>

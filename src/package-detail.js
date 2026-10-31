@@ -64,29 +64,57 @@ document.addEventListener('DOMContentLoaded', function() {
       document.getElementById('pd-desc-section').style.display = 'block';
       descEl.innerHTML = '<p>' + descText.split('\n').join('</p><p>') + '</p>';
 
-      // Price
-      var pOldPrice = _pkg.price;
-      var pPrice = pOldPrice !== null && pOldPrice > 0 ? Math.round(pOldPrice * 0.60) : null; // 40% OFF
-      var pDiscount = 40;
+      // Central Campaign Pricing Utility
+      var pricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+        ? window.SmearCampaign.calculatePrice(_pkg.price, 'package')
+        : {
+            originalPrice: _pkg.price,
+            discountPercentage: 40,
+            finalPrice: (_pkg.price !== null && _pkg.price > 0) ? Math.round(_pkg.price * 0.60) : null,
+            hasNumericPrice: (_pkg.price !== null && _pkg.price > 0),
+            formattedOriginalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + _pkg.price : '',
+            formattedFinalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + Math.round(_pkg.price * 0.60) : 'Price available at lab',
+            badgeText: '40% OFF',
+            enquiryNotice: '',
+            isActive: false
+          };
 
-      if (pPrice !== null) {
-        document.getElementById('pd-price').textContent = '₹' + pPrice;
+      var pPrice = pricing.finalPrice;
+      var pOldPrice = pricing.originalPrice;
+
+      if (pricing.hasNumericPrice) {
+        document.getElementById('pd-price').textContent = pricing.formattedFinalPrice;
+        document.getElementById('pd-discount').textContent = pricing.badgeText;
+        document.getElementById('pd-discount').style.display = 'inline-block';
+        if (pricing.isActive) {
+          document.getElementById('pd-discount').style.background = 'linear-gradient(135deg, #ffd700, #f59e0b)';
+          document.getElementById('pd-discount').style.color = '#1a0624';
+          document.getElementById('pd-discount').style.fontWeight = '800';
+          document.getElementById('pd-discount').style.boxShadow = '0 2px 8px rgba(245,158,11,0.45)';
+        } else {
+          document.getElementById('pd-discount').style.background = 'linear-gradient(135deg, #FFD700, #FFA500)';
+          document.getElementById('pd-discount').style.color = '#000';
+          document.getElementById('pd-discount').style.boxShadow = '0 2px 6px rgba(255,165,0,0.4)';
+        }
+        
+        document.getElementById('pd-mrp').textContent = pricing.formattedOriginalPrice;
+        document.getElementById('pd-mrp').style.display = 'inline-block';
+        document.getElementById('pd-mrp').style.textDecoration = 'line-through';
       } else {
         document.getElementById('pd-price').textContent = 'Price available at lab';
         document.getElementById('pd-price').style.fontSize = '1.2rem';
         document.getElementById('pd-price').style.color = 'var(--color-text)';
-      }
-
-      if (pPrice !== null && pOldPrice > 0) {
-        document.getElementById('pd-discount').textContent = '40% OFF';
-        document.getElementById('pd-discount').style.display = 'inline-block';
-        document.getElementById('pd-discount').style.background = 'linear-gradient(135deg, #FFD700, #FFA500)';
-        document.getElementById('pd-discount').style.color = '#000';
-        document.getElementById('pd-discount').style.boxShadow = '0 2px 6px rgba(255,165,0,0.4)';
-        
-        document.getElementById('pd-mrp').textContent = '₹' + pOldPrice;
-        document.getElementById('pd-mrp').style.display = 'inline-block';
-        document.getElementById('pd-mrp').style.textDecoration = 'line-through';
+        if (pricing.isActive) {
+          document.getElementById('pd-discount').textContent = 'Diwali Offer on Enquiry';
+          document.getElementById('pd-discount').style.display = 'inline-block';
+          document.getElementById('pd-discount').style.background = 'rgba(212, 175, 55, 0.15)';
+          document.getElementById('pd-discount').style.color = '#b45309';
+          document.getElementById('pd-discount').style.fontWeight = '700';
+          document.getElementById('pd-discount').style.border = '1px solid rgba(212, 175, 55, 0.4)';
+        } else {
+          document.getElementById('pd-discount').style.display = 'none';
+        }
+        document.getElementById('pd-mrp').style.display = 'none';
       }
 
       // Tags (Hero)
@@ -214,8 +242,24 @@ document.addEventListener('DOMContentLoaded', function() {
         var rGrid = document.getElementById('pd-related-grid');
         // Take max 3
         related.slice(0, 3).forEach(function(rp) {
-          var rPrice = rp.price;
-          var rDisc = rp.discount || 0;
+          var rPricing = (window.SmearCampaign && window.SmearCampaign.calculatePrice)
+            ? window.SmearCampaign.calculatePrice(rp.price, 'package')
+            : {
+                originalPrice: rp.price,
+                discountPercentage: 40,
+                finalPrice: rp.price ? Math.round(rp.price * 0.6) : null,
+                hasNumericPrice: (rp.price !== null && rp.price > 0),
+                formattedOriginalPrice: rp.price ? '₹' + rp.price : '',
+                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.6) : 'Price available at lab',
+                badgeText: '40% OFF',
+                isActive: false
+              };
+          var badgeClass = rPricing.isActive ? 'pkg-card__badge diwali-badge-pill' : 'pkg-card__badge';
+          var badgeHtml = rPricing.badgeText ? '<span class="' + badgeClass + '">' + rPricing.badgeText + '</span>' : '';
+          var priceHtml = rPricing.hasNumericPrice
+            ? '<span class="price-val"><span style="text-decoration:line-through;color:var(--color-text-muted);font-size:0.85em;margin-right:6px;">' + rPricing.formattedOriginalPrice + '</span>' + rPricing.formattedFinalPrice + '</span>'
+            : '<span style="font-size:0.9em;color:var(--color-text-muted);">Price available at lab</span>';
+
           var el = document.createElement('div');
           el.className = 'pkg-card';
           el.innerHTML = `
@@ -223,13 +267,13 @@ document.addEventListener('DOMContentLoaded', function() {
               <div class="pkg-card__placeholder">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
               </div>
-              ${rDisc > 0 ? `<span class="pkg-card__badge">${rDisc}% OFF</span>` : ''}
+              ${badgeHtml}
             </div>
             <div class="pkg-card__body">
               <div class="pkg-card__category">${rp.categoryName || 'Package'}</div>
               <h3 class="pkg-card__name">${rp.name}</h3>
               <div class="pkg-card__price">
-                ${rPrice !== null ? '<span class="price-val">₹' + rPrice + '</span>' : '<span style="font-size:0.9em;color:var(--color-text-muted);">Price available at lab</span>'}
+                ${priceHtml}
               </div>
               <div class="pkg-card__ctas">
                 <a href="package-detail.html?id=${encodeURIComponent(rp.slug || rp.id)}" class="btn btn--outline-primary">View Details</a>

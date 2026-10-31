@@ -1,0 +1,519 @@
+/**
+ * ============================================================
+ *  SMEAR PATHOLOGY — DIWALI FESTIVE HEALTH OFFER 2026
+ *  Premium Festive Campaign Styling
+ * ============================================================
+ */
+
+:root {
+  --diwali-plum-dark: #160621;
+  --diwali-plum: #22092c;
+  --diwali-aubergine: #2d0c38;
+  --diwali-emerald: #092823;
+  --diwali-gold: #d4af37;
+  --diwali-gold-bright: #ffd700;
+  --diwali-gold-light: #fbeea8;
+  --diwali-ivory: #fff9f0;
+  --diwali-amber: #f59e0b;
+  --diwali-saffron: #e67e22;
+  --diwali-brand-teal: #2aa8b0;
+}
+
+/* ── HERO CAMPAIGN CARD ─────────────────────────────────────── */
+.diwali-card {
+  position: relative;
+  background: radial-gradient(circle at 50% 0%, rgba(212, 175, 55, 0.15), transparent 70%),
+              linear-gradient(145deg, #22092c 0%, #170722 45%, #082420 100%);
+  border: 1px solid rgba(212, 175, 55, 0.45);
+  border-radius: 20px;
+  padding: 22px 18px 20px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.35),
+              inset 0 1px 1px rgba(255, 235, 170, 0.4);
+  text-align: center;
+  overflow: hidden;
+  color: var(--diwali-ivory);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
+}
+
+/* Subtle Rangoli / Mandala Geometry Watermark */
+.diwali-card__bg-pattern {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.06;
+  background-image: radial-gradient(circle at center, #ffd700 1px, transparent 1px),
+                    radial-gradient(circle at center, #d4af37 1px, transparent 1px);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+}
+
+/* Corner Filigree Flourishes */
+.diwali-card__corner {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-color: rgba(212, 175, 55, 0.5);
+  pointer-events: none;
+}
+.diwali-card__corner--tl { top: 7px; left: 7px; border-top: 1px solid; border-left: 1px solid; }
+.diwali-card__corner--tr { top: 7px; right: 7px; border-top: 1px solid; border-right: 1px solid; }
+.diwali-card__corner--bl { bottom: 7px; left: 7px; border-bottom: 1px solid; border-left: 1px solid; }
+.diwali-card__corner--br { bottom: 7px; right: 7px; border-bottom: 1px solid; border-right: 1px solid; }
+
+/* Eyebrow Label */
+.diwali-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'Outfit', 'Inter', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--diwali-gold-light);
+  margin-bottom: 8px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+.diwali-eyebrow .diwali-sparkle {
+  color: var(--diwali-gold-bright);
+  font-size: 0.85rem;
+}
+
+/* Diya Visual Header */
+.diwali-diya-wrap {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px auto 8px;
+  width: 60px;
+  height: 48px;
+}
+.diwali-diya-glow {
+  position: absolute;
+  top: 4px;
+  width: 32px;
+  height: 32px;
+  background: radial-gradient(circle, rgba(255, 215, 0, 0.45) 0%, rgba(245, 158, 11, 0.2) 60%, transparent 100%);
+  border-radius: 50%;
+  animation: diyaGlow 3s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+.diwali-diya-svg {
+  position: relative;
+  width: 50px;
+  height: 42px;
+  filter: drop-shadow(0 2px 8px rgba(245, 158, 11, 0.4));
+}
+.diwali-flame {
+  transform-origin: 50% 90%;
+  animation: diyaFlicker 2.4s ease-in-out infinite alternate;
+}
+
+@keyframes diyaGlow {
+  0% { transform: scale(0.9); opacity: 0.6; }
+  100% { transform: scale(1.15); opacity: 0.95; }
+}
+
+@keyframes diyaFlicker {
+  0% { transform: scale(1) rotate(0deg); opacity: 0.95; }
+  50% { transform: scale(1.04, 1.06) rotate(1.5deg); opacity: 1; }
+  100% { transform: scale(0.98, 1.02) rotate(-1.5deg); opacity: 0.92; }
+}
+
+/* Campaign Title */
+.diwali-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.28rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: var(--diwali-ivory);
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  line-height: 1.2;
+}
+
+/* Main Offer Block */
+.diwali-offer-hero {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.18), rgba(255, 215, 0, 0.08));
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 12px;
+  padding: 10px 12px;
+  margin-bottom: 12px;
+}
+.diwali-main-val {
+  display: block;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.85rem;
+  font-weight: 800;
+  line-height: 1.05;
+  background: linear-gradient(135deg, #fff2b2 0%, #ffd700 45%, #e5a71a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));
+  letter-spacing: 0.02em;
+}
+.diwali-main-sub {
+  display: block;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--diwali-ivory);
+  margin-top: 3px;
+  letter-spacing: 0.01em;
+}
+
+/* Campaign Dates Pill */
+.diwali-dates-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 30px;
+  padding: 4px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--diwali-gold-light);
+  margin-bottom: 10px;
+  letter-spacing: 0.03em;
+}
+.diwali-dates-pill svg {
+  color: var(--diwali-gold-bright);
+}
+
+/* Supporting Message */
+.diwali-message {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: rgba(255, 249, 240, 0.88);
+  margin: 0 0 14px;
+}
+
+/* Category Action Buttons */
+.diwali-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 14px;
+  border-radius: 12px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+.diwali-btn:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.08);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+.diwali-btn--pkg {
+  background: linear-gradient(135deg, #10423d 0%, #1a6b6e 60%, #2aa8b0 100%);
+  border-color: rgba(42, 168, 176, 0.4);
+  box-shadow: 0 4px 14px rgba(16, 66, 61, 0.45);
+}
+.diwali-btn--test {
+  background: linear-gradient(135deg, #2b113a 0%, #4a1d63 60%, #6d288d 100%);
+  border-color: rgba(212, 175, 55, 0.35);
+  box-shadow: 0 4px 14px rgba(43, 17, 58, 0.45);
+}
+.diwali-btn__val {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #ffd700;
+  line-height: 1.1;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+.diwali-btn__cta {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+
+/* Share Offer Button */
+.diwali-share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 14px;
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px dashed rgba(212, 175, 55, 0.55);
+  border-radius: 10px;
+  color: var(--diwali-gold-light);
+  font-family: 'Outfit', 'Inter', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  margin-top: 4px;
+}
+.diwali-share-btn:hover {
+  background: rgba(212, 175, 55, 0.24);
+  border-color: var(--diwali-gold-bright);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+.diwali-share-btn svg {
+  color: var(--diwali-gold-bright);
+}
+
+/* ── PREVIEW STATE BANNER ───────────────────────────────────── */
+.diwali-preview-banner {
+  background: rgba(245, 158, 11, 0.18);
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #fef08a;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ── SOCIAL POSTER MODAL ────────────────────────────────────── */
+.diwali-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 4, 16, 0.82);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+.diwali-modal-overlay.is-active {
+  opacity: 1;
+  pointer-events: auto;
+}
+.diwali-modal {
+  position: relative;
+  background: linear-gradient(160deg, #1f082e 0%, #14051f 50%, #09211d 100%);
+  border: 1px solid rgba(212, 175, 55, 0.5);
+  border-radius: 20px;
+  width: 100%;
+  max-width: 580px;
+  max-height: 92vh;
+  overflow-y: auto;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6),
+              inset 0 1px 1px rgba(255, 235, 170, 0.4);
+  padding: 24px 22px;
+  color: var(--diwali-ivory);
+  text-align: center;
+}
+.diwali-modal__close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  background: rgba(0, 0, 0, 0.4);
+  color: var(--diwali-ivory);
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.diwali-modal__close:hover {
+  background: rgba(212, 175, 55, 0.3);
+  color: #ffd700;
+  transform: rotate(90deg);
+}
+.diwali-modal__header {
+  margin-bottom: 16px;
+}
+.diwali-modal__title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: #ffd700;
+  text-transform: uppercase;
+  margin: 0 0 4px;
+  letter-spacing: 0.04em;
+}
+.diwali-modal__sub {
+  font-size: 0.84rem;
+  color: rgba(255, 249, 240, 0.8);
+  margin: 0;
+}
+
+/* Format Switcher Tabs */
+.diwali-format-tabs {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 10px;
+  padding: 4px;
+  margin-bottom: 16px;
+}
+.diwali-tab-btn {
+  flex: 1;
+  padding: 8px 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 7px;
+  background: transparent;
+  color: rgba(255, 249, 240, 0.7);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.diwali-tab-btn.is-active {
+  background: linear-gradient(135deg, #d4af37, #b8860b);
+  color: #1a0624;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Poster Preview Canvas Frame */
+.diwali-preview-frame {
+  position: relative;
+  background: #000;
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 0 auto 18px;
+  max-width: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+.diwali-preview-canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 380px;
+  object-fit: contain;
+}
+
+/* Modal Action Buttons */
+.diwali-modal__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.diwali-action-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-family: 'Outfit', 'Inter', sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: none;
+}
+.diwali-action-btn--primary {
+  background: linear-gradient(135deg, #ffd700 0%, #d4af37 60%, #b8860b 100%);
+  color: #1a0624;
+  box-shadow: 0 4px 14px rgba(212, 175, 55, 0.35);
+}
+.diwali-action-btn--primary:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(212, 175, 55, 0.5);
+}
+.diwali-action-btn--secondary {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  color: var(--diwali-ivory);
+}
+.diwali-action-btn--secondary:hover {
+  background: rgba(255, 255, 255, 0.16);
+  border-color: #ffd700;
+}
+.diwali-action-feedback {
+  font-size: 0.8rem;
+  color: #4ade80;
+  margin-top: 4px;
+  min-height: 18px;
+}
+
+/* ── DIWALI BADGE FOR LISTINGS & DETAIL ──────────────────────── */
+.diwali-badge-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: linear-gradient(135deg, #ffd700, #f59e0b) !important;
+  color: #1a0624 !important;
+  font-family: 'Outfit', sans-serif !important;
+  font-weight: 800 !important;
+  font-size: 0.76rem !important;
+  letter-spacing: 0.04em !important;
+  padding: 3px 8px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 6px rgba(245, 158, 11, 0.4) !important;
+}
+
+/* ── ACCESSIBILITY: PREFERS REDUCED MOTION ──────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .diwali-card,
+  .diwali-diya-glow,
+  .diwali-flame,
+  .diwali-btn,
+  .diwali-share-btn,
+  .diwali-modal__close {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ── RESPONSIVE BREAKPOINTS ─────────────────────────────────── */
+@media (max-width: 480px) {
+  .diwali-card {
+    padding: 18px 14px 16px;
+    border-radius: 16px;
+  }
+  .diwali-title {
+    font-size: 1.15rem;
+  }
+  .diwali-main-val {
+    font-size: 1.6rem;
+  }
+  .diwali-main-sub {
+    font-size: 0.8rem;
+  }
+  .diwali-btn__val {
+    font-size: 1.15rem;
+  }
+  .diwali-btn__cta {
+    font-size: 0.8rem;
+  }
+  .diwali-modal {
+    padding: 20px 16px;
+  }
+}
+
