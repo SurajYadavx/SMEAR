@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — BLOOD-TESTS.JS v4
+ *  Shri Shankar Pathology — BLOOD-TESTS.JS v4
  *  Powers blood-tests.html
  *  - Individual blood test category filtering matching packages.html
  *  - "All" category preserving all 1,429 tests
@@ -363,12 +363,12 @@
         ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
         : {
             originalPrice: rawPrice,
-            discountPercentage: 50,
-            finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.50) : 0,
+            discountPercentage: 20,
+            finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80 * 100) / 100 : 0,
             hasNumericPrice: rawPrice > 0,
             formattedOriginalPrice: '₹' + rawPrice,
-            formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50),
-            badgeText: '50% OFF',
+            formattedFinalPrice: '₹' + (Math.round(rawPrice * 0.80 * 100) / 100),
+            badgeText: '20% OFF',
             isActive: false
           };
 
@@ -470,11 +470,11 @@
       ? window.SmearCampaign.calculatePrice(rawPrice, 'test')
       : {
           originalPrice: rawPrice,
-          discountPercentage: 50,
-          finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.50) : 0,
+          discountPercentage: 20,
+          finalPrice: rawPrice > 0 ? Math.round(rawPrice * 0.80 * 100) / 100 : 0,
           hasNumericPrice: rawPrice > 0,
           formattedOriginalPrice: '₹' + rawPrice,
-          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50)
+          formattedFinalPrice: '₹' + (Math.round(rawPrice * 0.80 * 100) / 100)
         };
 
     if (titleEl) {

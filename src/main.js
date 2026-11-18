@@ -1,5 +1,5 @@
 /**
- * SMEAR PATHOLOGY — MAIN SCRIPT v3
+ * Shri Shankar Pathology — MAIN SCRIPT v3
  * 1.CONFIG  2.i18n  3.ScrollLock  4.ContactWiring  5.CatalogueUI
  * 6.TestCards  7.Carousels  8.Modal  9.Lightbox  10.FAQ
  * 11.Header  12.MobileNav  13.FadeIn  14.FooterYear  15.HeroVideo  16.JSONLD
@@ -222,6 +222,15 @@ function buildCatalogueUI() {
   if (searchInput) searchInput.value = '';
 
   function label(k, fb) { return getNestedValue(_content, 'tests.' + k) || fb; }
+  function priceMarkup(item, type) {
+    var pricing = window.SmearCampaign && window.SmearCampaign.calculatePrice
+      ? window.SmearCampaign.calculatePrice(item.price, type)
+      : { hasNumericPrice: Number(item.price) > 0, formattedOriginalPrice: '₹' + item.price,
+          formattedFinalPrice: Number(item.price) > 0 ? '₹' + (Math.round(Number(item.price) * (type === 'package' ? 0.60 : 0.80) * 100) / 100) : 'Price available at lab' };
+    return pricing.hasNumericPrice
+      ? '<span style="text-decoration:line-through;color:var(--color-text-muted);font-size:.85em;font-weight:500;margin-right:6px">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice
+      : 'Price available at lab';
+  }
   var pfLabels = getNestedValue(_content,'tests.packageFilters') || ['All','Full Body','Diabetes','Thyroid','Heart','Women','Senior'];
   var hcLabels = getNestedValue(_content,'tests.healthConcerns') || ['Diabetes','Thyroid','Fever & Infection','Heart','Liver','Kidney','Vitamins',"Women's Health",'Anemia','Urine & Stool'];
   var activeFilter = 'all', activeSearch = '';
@@ -238,11 +247,11 @@ function buildCatalogueUI() {
     el.className = 'catalogue-card catalogue-card--package fade-in';
     el.dataset.id = item.id;
     el.setAttribute('role','button'); el.setAttribute('tabindex','0');
-    el.setAttribute('aria-label', esc(item.name) + ' \u2014 \u20b9' + item.price);
-    el.innerHTML = '<div class="catalogue-card__visual" aria-hidden="true"><div class="catalogue-card__badge">'+esc(item.sticker||'')+'</div><span>'+esc(item.sample||'')+'</span></div>'
+    el.setAttribute('aria-label', esc(item.name) + ' — 40% OFF');
+    el.innerHTML = '<div class="catalogue-card__visual" aria-hidden="true"><div class="catalogue-card__badge">40% OFF</div><span>'+esc(item.sample||'')+'</span></div>'
       +'<div class="catalogue-card__content"><div class="catalogue-card__topline"><span class="catalogue-card__chip">'+esc(item.concern||'')+'</span><span class="catalogue-card__meta">'+(item.params||0)+' '+label('parameterCount','tests')+'</span></div>'
       +'<h4>'+esc(item.name)+'</h4><p>'+esc(item.tagline||'')+'</p>'
-      +'<div class="catalogue-card__footer"><strong>\u20b9'+item.price+'</strong><span>'+label('details','Details')+' \u2192</span></div></div>';
+      +'<div class="catalogue-card__footer"><strong>'+priceMarkup(item, 'package')+'</strong><span>'+label('details','Details')+' \u2192</span></div></div>';
     function openThis() { var f=packageData.find(function(p){return p.id===item.id;}); if(f) openCatalogueItem(f,'package'); }
     el.addEventListener('click',openThis);
     el.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();openThis();}});
@@ -254,10 +263,10 @@ function buildCatalogueUI() {
     el.className = 'catalogue-card catalogue-card--test fade-in';
     el.dataset.id = item.id;
     el.setAttribute('role','button'); el.setAttribute('tabindex','0');
-    el.setAttribute('aria-label', esc(item.name)+' \u2014 \u20b9'+item.price);
+    el.setAttribute('aria-label', esc(item.name)+' — 20% OFF');
     el.innerHTML = '<div class="catalogue-card__content"><div class="catalogue-card__topline"><span class="catalogue-card__chip">'+esc(item.category||item.concern||'')+'</span><span class="catalogue-card__meta">'+esc(item.reports||'')+'</span></div>'
       +'<h4>'+esc(item.name)+'</h4><p>'+esc(item.description||'')+'</p>'
-      +'<div class="catalogue-card__footer"><strong>\u20b9'+item.price+'</strong><span>'+label('details','Details')+' \u2192</span></div></div>';
+      +'<div class="catalogue-card__footer"><strong>'+priceMarkup(item, 'test')+'</strong><span>'+label('details','Details')+' \u2192</span></div></div>';
     function openThis() { var f=testData.find(function(t){return t.id===item.id;}); if(f) openCatalogueItem(f,'test'); }
     el.addEventListener('click',openThis);
     el.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();openThis();}});
@@ -329,6 +338,7 @@ function buildTestCards() {
     card.className='test-card fade-in'; card.setAttribute('role','listitem'); card.setAttribute('tabindex','0');
     card.dataset.testId=test.id;
     card.innerHTML='<div class="test-card__img-wrap">'
+      +'<span class="pkg-card__badge" style="top:8px;right:8px;left:auto">20% OFF</span>'
       +'<img class="test-card__img" src="'+test.image+'" alt="'+test.name+' test at Shri Shankar Pathology" loading="lazy"'
       +' onerror="this.style.display=\'none\';this.parentElement.querySelector(\'.test-card__img-placeholder\').style.display=\'flex\'" />'
       +'<div class="test-card__img-placeholder" style="display:none"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">'
@@ -337,7 +347,7 @@ function buildTestCards() {
       +'</svg></div></div>'
       +'<div class="test-card__body"><h3 class="test-card__name">'+test.name+'</h3>'
       +'<p class="test-card__short">'+test.shortDesc+'</p>'
-      +'<div class="test-card__footer"><span class="test-card__price">\u20b9'+test.price+'</span>'
+      +'<div class="test-card__footer"><span class="test-card__price">'+priceMarkup(test, 'test')+'</span>'
       +'<span class="test-card__cta">'+vdLabel
       +'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>'
       +'</span></div></div>';
@@ -455,7 +465,7 @@ function initLeadInquiry() {
 function openModal(test) {
   var overlay=document.getElementById('test-modal'); if(!overlay)return;
   document.getElementById('modal-title').textContent=test.name;
-  document.getElementById('modal-price').textContent=(getNestedValue(_content,'tests.startingFrom')||'Starting from')+' \u20b9'+test.price;
+  document.getElementById('modal-price').innerHTML=priceMarkup(test, 'test');
   document.getElementById('modal-desc').textContent=test.fullDesc;
   document.getElementById('modal-call-btn').href=CONTACT_PHONE_TEL;
   var bm=getNestedValue(_content,'tests.bookingMessage')||"Hi, I'd like to book {test} at Shri Shankar Pathology.";

@@ -1,7 +1,7 @@
 /**
- * SMEAR PATHOLOGY - PACKAGE DETAIL LOGIC v3
+ * Shri Shankar Pathology - PACKAGE DETAIL LOGIC v3
 
- * Consumes the new normalized Smear Pathology catalog.
+ * Consumes the new normalized Shri Shankar Pathology catalog.
  */
 document.addEventListener('DOMContentLoaded', function() {
   var urlParams = new URLSearchParams(window.location.search);
@@ -69,12 +69,12 @@ document.addEventListener('DOMContentLoaded', function() {
         ? window.SmearCampaign.calculatePrice(_pkg.price, 'package')
         : {
             originalPrice: _pkg.price,
-            discountPercentage: 50,
-            finalPrice: (_pkg.price !== null && _pkg.price > 0) ? Math.round(_pkg.price * 0.50) : null,
+            discountPercentage: 40,
+            finalPrice: (_pkg.price !== null && _pkg.price > 0) ? Math.round(_pkg.price * 0.60 * 100) / 100 : null,
             hasNumericPrice: (_pkg.price !== null && _pkg.price > 0),
             formattedOriginalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + _pkg.price : '',
-            formattedFinalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + Math.round(_pkg.price * 0.50) : 'Price available at lab',
-            badgeText: '50% OFF',
+            formattedFinalPrice: (_pkg.price !== null && _pkg.price > 0) ? '₹' + (Math.round(_pkg.price * 0.60 * 100) / 100) : 'Price available at lab',
+            badgeText: '40% OFF',
             enquiryNotice: '',
             isActive: false
           };
@@ -247,10 +247,10 @@ document.addEventListener('DOMContentLoaded', function() {
             : {
                 originalPrice: rp.price,
                 discountPercentage: 40,
-                finalPrice: rp.price ? Math.round(rp.price * 0.60) : null,
+                finalPrice: rp.price ? Math.round(rp.price * 0.60 * 100) / 100 : null,
                 hasNumericPrice: (rp.price !== null && rp.price > 0),
                 formattedOriginalPrice: rp.price ? '₹' + rp.price : '',
-                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.60) : 'Price available at lab',
+                formattedFinalPrice: rp.price ? '₹' + (Math.round(rp.price * 0.60 * 100) / 100) : 'Price available at lab',
                 badgeText: '40% OFF',
                 isActive: false
               };

@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — HOME-COLLECTION.JS v5
+ *  Shri Shankar Pathology — HOME-COLLECTION.JS v5
  *  Logic for home-collection.html.
  *  Reads HOME_COLLECTION_AVAILABLE from config.js.
  * ============================================================
@@ -24,10 +24,10 @@
         : {
             originalPrice: pkg.price,
             discountPercentage: 40,
-            finalPrice: (pkg.price !== null && pkg.price > 0) ? Math.round(pkg.price * 0.60) : null,
+            finalPrice: (pkg.price !== null && pkg.price > 0) ? Math.round(pkg.price * 0.60 * 100) / 100 : null,
             hasNumericPrice: (pkg.price !== null && pkg.price > 0),
             formattedOriginalPrice: pkg.price ? '₹' + pkg.price : '',
-            formattedFinalPrice: (pkg.price !== null && pkg.price > 0) ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
+            formattedFinalPrice: (pkg.price !== null && pkg.price > 0) ? '₹' + (Math.round(pkg.price * 0.60 * 100) / 100) : 'Price available at lab',
             badgeText: '40% OFF',
             isActive: false
           };

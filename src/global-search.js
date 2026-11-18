@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — GLOBAL SEARCH v2
+ *  Shri Shankar Pathology — GLOBAL SEARCH v2
  *  Searches packages AND blood tests from loaded datasets.
  *  Works on all pages. Loads data lazily if not already in window.
  *

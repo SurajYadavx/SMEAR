@@ -1,5 +1,5 @@
 // ============================================================
-//  SMEAR PATHOLOGY — ENGLISH CONTENT (i18n)
+//  Shri Shankar Pathology — ENGLISH CONTENT (i18n)
 //  This file is the single source of truth for all English UI text.
 //  Mirror structure must be maintained in content.mr.js.
 //  When copy changes here, update content.mr.js to match.

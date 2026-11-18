@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — PARTIALS.JS v5.1 (WIRING ONLY)
+ *  Shri Shankar Pathology — PARTIALS.JS v5.1 (WIRING ONLY)
  *
  *  This file NO LONGER builds or injects any HTML.
  *  Every page carries its own real header/footer markup.

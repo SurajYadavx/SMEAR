@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — CART-PAGE.JS v5
+ *  Shri Shankar Pathology — CART-PAGE.JS v5
  *  Renders cart.html — shows items, summary, WhatsApp booking.
  * ============================================================
  */
@@ -102,7 +102,25 @@
   }
 
   function init() {
-    render();
+    // Rebuild saved prices from immutable catalogue prices so carts created
+    // before a campaign change cannot retain an obsolete discounted amount.
+    Promise.all([
+      fetch('./public/data/smear-packages.json').then(function (r) { return r.json(); }).catch(function () { return []; }),
+      fetch('./public/data/smear-tests.json').then(function (r) { return r.json(); }).catch(function () { return []; })
+    ]).then(function (catalogues) {
+      var byId = { package: {}, test: {} };
+      (catalogues[0] || []).forEach(function (item) { byId.package[item.id || item.slug] = item; });
+      (catalogues[1] || []).forEach(function (item) { byId.test[item.id || item.slug] = item; });
+      var cart = window.SmearCart ? window.SmearCart.get() : [];
+      cart.forEach(function (entry) {
+        var source = byId[entry.type] && byId[entry.type][entry.id];
+        if (!source) return;
+        var pricing = window.SmearCampaign.calculatePrice(source.price, entry.type);
+        entry.price = pricing.hasNumericPrice ? pricing.finalPrice : null;
+      });
+      try { localStorage.setItem('smear_cart_v1', JSON.stringify(cart)); } catch (e) {}
+      render();
+    }).catch(render);
     // Re-render on storage changes (cart modified in another tab)
     window.addEventListener('storage', function (e) {
       if (e.key === 'smear_cart_v1') render();

@@ -52,10 +52,10 @@
       : {
           originalPrice: rawPrice,
           discountPercentage: isPkg ? 40 : 20,
-          finalPrice: Math.round(rawPrice * (isPkg ? 0.60 : 0.80)),
+          finalPrice: Math.round(rawPrice * (isPkg ? 0.60 : 0.80) * 100) / 100,
           hasNumericPrice: rawPrice > 0,
           formattedOriginalPrice: '₹' + rawPrice,
-          formattedFinalPrice: '₹' + Math.round(rawPrice * (isPkg ? 0.60 : 0.80)),
+          formattedFinalPrice: '₹' + (Math.round(rawPrice * (isPkg ? 0.60 : 0.80) * 100) / 100),
           badgeText: (isPkg ? 40 : 20) + '% OFF',
           isActive: false
         };

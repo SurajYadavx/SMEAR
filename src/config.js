@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — SITE CONFIGURATION v5
+ *  Shri Shankar Pathology — SITE CONFIGURATION v5
  *  Single source of truth. Loaded on every page before partials.js.
  *  DO NOT hardcode these values anywhere else.
  * ============================================================
@@ -36,7 +36,7 @@ var SERVICE_PHONES = [
 var CONTACT_EMAIL         = 'jssmearpathology0355@gmail.com';
 var CONTACT_EMAIL_HREF    = 'mailto:' + CONTACT_EMAIL;
 var CONTACT_WHATSAPP_URL  = 'https://wa.me/91' + CONTACT_PHONE +
-  '?text=Hi%2C%20I%27d%20like%20to%20know%20more%20about%20your%20tests%20at%20Shri%20Shankar%20Pathology';
+  '?text=' + encodeURIComponent('Hi, I\'d like to know more about your tests at Shri Shankar Pathology');
 
 // ── SOCIAL & MAP ─────────────────────────────────────────────
 var INSTAGRAM_URL = 'https://www.instagram.com/smear_path0355';

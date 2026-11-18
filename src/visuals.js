@@ -1,5 +1,5 @@
 /**
- * SMEAR PATHOLOGY - VISUAL SYSTEM
+ * Shri Shankar Pathology - VISUAL SYSTEM
  * Professional, code-generated SVG icons and motifs for medical categories.
  */
 (function() {

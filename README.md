@@ -1,6 +1,6 @@
-# Smear Pathology Website
+# Shri Shankar Pathology Website
 
-**Production-grade static website for Smear Pathology, Indapur, Pune, Maharashtra.**
+**Production-grade static website for Shri Shankar Pathology, Indapur, Pune, Maharashtra.**
 
 ---
 
@@ -78,11 +78,11 @@ Smear/
 const GALLERY_IMAGES = [
   {
     src: "/assets/gallery/gallery-01.jpg",
-    alt: "Smear Pathology reception area",
+    alt: "Shri Shankar Pathology reception area",
   },
   {
     src: "/assets/gallery/gallery-02.jpg",
-    alt: "Laboratory equipment at Smear Pathology",
+    alt: "Laboratory equipment at Shri Shankar Pathology",
   },
 ];
 ```
@@ -97,7 +97,7 @@ Same process — add files to `/public/assets/reviews/`, then populate `REVIEW_I
 const REVIEW_IMAGES = [
   {
     src: "/assets/reviews/review-01.png",
-    alt: "Google review for Smear Pathology Indapur",
+    alt: "Google review for Shri Shankar Pathology Indapur",
   },
 ];
 ```
@@ -150,4 +150,4 @@ The site includes:
 
 ---
 
-_Built for Smear Pathology, Indapur, Pune, Maharashtra._
+_Built for Shri Shankar Pathology, Indapur, Pune, Maharashtra._

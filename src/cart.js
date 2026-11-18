@@ -1,6 +1,6 @@
 /**
  * ============================================================
- *  SMEAR PATHOLOGY — CART.JS v5
+ *  Shri Shankar Pathology — CART.JS v5
  *  Client-side cart state in localStorage.
  *  No backend, no payment. Cart items → WhatsApp message.
  * ============================================================

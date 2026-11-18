@@ -1,5 +1,5 @@
 // ============================================================
-//  SMEAR PATHOLOGY — MARATHI CONTENT (i18n)
+//  Shri Shankar Pathology — MARATHI CONTENT (i18n)
 //
 //  TODO: This Marathi translation was AI-generated and has NOT been reviewed
 //  by a native Marathi speaker. Verify accuracy, tone, and any medical
