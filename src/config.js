@@ -36,7 +36,7 @@ var SERVICE_PHONES = [
 var CONTACT_EMAIL         = 'jssmearpathology0355@gmail.com';
 var CONTACT_EMAIL_HREF    = 'mailto:' + CONTACT_EMAIL;
 var CONTACT_WHATSAPP_URL  = 'https://wa.me/91' + CONTACT_PHONE +
-  '?text=Hi%2C%20I%27d%20like%20to%20know%20more%20about%20your%20tests%20at%20Smear%20Pathology';
+  '?text=Hi%2C%20I%27d%20like%20to%20know%20more%20about%20your%20tests%20at%20Shri%20Shankar%20Pathology';
 
 // ── SOCIAL & MAP ─────────────────────────────────────────────
 var INSTAGRAM_URL = 'https://www.instagram.com/smear_path0355';
@@ -48,7 +48,7 @@ var MAP_EMBED_URL     = 'https://www.google.com/maps?q=' + MAP_LAT + ',' + MAP_L
 var MAP_DIRECTIONS_URL = 'https://www.google.com/maps/dir/?api=1&destination=' + MAP_LAT + ',' + MAP_LNG;
 
 // ── BUSINESS INFO ────────────────────────────────────────────
-var LAB_NAME       = 'Smear Pathology';
+var LAB_NAME       = 'Shri Shankar Pathology';
 var LAB_TAGLINE    = 'The Most Trusted Laboratory of Indapur';
 var LAB_OWNER      = 'Mr. Pradip S. Jadhav';
 var LAB_OWNER_CRED = 'BSc Microbiology, PGDMLT';
@@ -58,20 +58,20 @@ var LAB_ADDRESS    = 'Indapur, Pune District, Maharashtra \u2014 413106';
 var LAB_HOURS      = 'Call or WhatsApp to confirm today\'s hours';
 
 // ── SEO / META BASE ──────────────────────────────────────────
-var SEO_TITLE       = 'Smear Pathology \u2014 Pathology Lab & Diagnostic Centre in Indapur, Pune';
-var SEO_DESCRIPTION = 'Smear Pathology is a trusted diagnostic pathology and microbiology laboratory in Indapur, Pune. Accurate blood tests, urine tests, and microbiological reports with quick turnaround. Book via WhatsApp or call.';
+var SEO_TITLE       = 'Shri Shankar Pathology \u2014 Pathology Lab & Diagnostic Centre in Indapur, Pune';
+var SEO_DESCRIPTION = 'Shri Shankar Pathology is a trusted diagnostic pathology and microbiology laboratory in Indapur, Pune. Accurate blood tests, urine tests, and microbiological reports with quick turnaround. Book via WhatsApp or call.';
 var SITE_URL        = 'https://smearpathology.in';
 
 // ── GALLERY IMAGES ───────────────────────────────────────────
 var GALLERY_IMAGES = [
-  { src: 'public/assets/gallery/gallery-02.png', alt: 'Smear Pathology laboratory photo 1' },
-  { src: 'public/assets/gallery/gallery-04.png', alt: 'Smear Pathology laboratory photo 2' },
-  { src: 'public/assets/gallery/gallery-05.png', alt: 'Smear Pathology laboratory photo 3' },
-  { src: 'public/assets/gallery/gallery-06.png', alt: 'Smear Pathology laboratory photo 4' },
-  { src: 'public/assets/gallery/gallery-07.png', alt: 'Smear Pathology laboratory photo 5' },
-  { src: 'public/assets/gallery/gallery-10.png', alt: 'Smear Pathology laboratory photo 6' },
-  { src: 'public/assets/team/lab-equi.jpeg',     alt: 'Smear Pathology laboratory equipment' },
-  { src: 'public/assets/team/lab_work.png',      alt: 'Smear Pathology laboratory workspace' },
+  { src: 'public/assets/gallery/gallery-02.png', alt: 'Shri Shankar Pathology laboratory photo 1' },
+  { src: 'public/assets/gallery/gallery-04.png', alt: 'Shri Shankar Pathology laboratory photo 2' },
+  { src: 'public/assets/gallery/gallery-05.png', alt: 'Shri Shankar Pathology laboratory photo 3' },
+  { src: 'public/assets/gallery/gallery-06.png', alt: 'Shri Shankar Pathology laboratory photo 4' },
+  { src: 'public/assets/gallery/gallery-07.png', alt: 'Shri Shankar Pathology laboratory photo 5' },
+  { src: 'public/assets/gallery/gallery-10.png', alt: 'Shri Shankar Pathology laboratory photo 6' },
+  { src: 'public/assets/team/lab-equi.jpeg',     alt: 'Shri Shankar Pathology laboratory equipment' },
+  { src: 'public/assets/team/lab_work.png',      alt: 'Shri Shankar Pathology laboratory workspace' },
 ];
 var REVIEW_IMAGES = [];
 

@@ -51,12 +51,12 @@
       ? window.SmearCampaign.calculatePrice(rawPrice, isPkg ? 'package' : 'test')
       : {
           originalPrice: rawPrice,
-          discountPercentage: 50,
-          finalPrice: Math.round(rawPrice * 0.50),
+          discountPercentage: isPkg ? 40 : 20,
+          finalPrice: Math.round(rawPrice * (isPkg ? 0.60 : 0.80)),
           hasNumericPrice: rawPrice > 0,
           formattedOriginalPrice: '₹' + rawPrice,
-          formattedFinalPrice: '₹' + Math.round(rawPrice * 0.50),
-          badgeText: '50% OFF',
+          formattedFinalPrice: '₹' + Math.round(rawPrice * (isPkg ? 0.60 : 0.80)),
+          badgeText: (isPkg ? 40 : 20) + '% OFF',
           isActive: false
         };
     
@@ -87,7 +87,7 @@
     }
 
     // Pricing
-    var badgeClass = 'pop-discount-tag' + (pricing.isActive ? ' diwali-badge-pill' : '');
+    var badgeClass = 'pop-discount-tag';
     var discountBadge = pricing.badgeText ? '<div class="' + badgeClass + '">' + pricing.badgeText + '</div>' : '<div></div>';
     var pricingHtml = '<div class="pop-price-section">' +
                         discountBadge + 

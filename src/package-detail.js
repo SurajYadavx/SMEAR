@@ -25,12 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
       if (pdMain) pdMain.style.display = 'block';
 
       // Set page title and SEO metadata
-      document.title = _pkg.name + ' | Smear Pathology Indapur';
+      document.title = _pkg.name + ' | Shri Shankar Pathology Indapur';
 
       var metaDesc = document.querySelector('meta[name="description"]');
       if (metaDesc) {
         var paramsText = _pkg.parameters_count ? _pkg.parameters_count + " parameters included." : "";
-        var shortDesc = _pkg.description ? _pkg.description.substring(0, 150) : (_pkg.name + " test at Smear Pathology Indapur. " + paramsText);
+        var shortDesc = _pkg.description ? _pkg.description.substring(0, 150) : (_pkg.name + " test at Shri Shankar Pathology Indapur. " + paramsText);
         metaDesc.setAttribute('content', shortDesc.trim().replace(/\n/g, ' '));
       }
 
@@ -246,15 +246,15 @@ document.addEventListener('DOMContentLoaded', function() {
             ? window.SmearCampaign.calculatePrice(rp.price, 'package')
             : {
                 originalPrice: rp.price,
-                discountPercentage: 50,
-                finalPrice: rp.price ? Math.round(rp.price * 0.50) : null,
+                discountPercentage: 40,
+                finalPrice: rp.price ? Math.round(rp.price * 0.60) : null,
                 hasNumericPrice: (rp.price !== null && rp.price > 0),
                 formattedOriginalPrice: rp.price ? '₹' + rp.price : '',
-                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.50) : 'Price available at lab',
-                badgeText: '50% OFF',
+                formattedFinalPrice: rp.price ? '₹' + Math.round(rp.price * 0.60) : 'Price available at lab',
+                badgeText: '40% OFF',
                 isActive: false
               };
-          var badgeClass = rPricing.isActive ? 'pkg-card__badge diwali-badge-pill' : 'pkg-card__badge';
+          var badgeClass = 'pkg-card__badge';
           var badgeHtml = rPricing.badgeText ? '<span class="' + badgeClass + '">' + rPricing.badgeText + '</span>' : '';
           var priceHtml = rPricing.hasNumericPrice
             ? '<span class="price-val"><span style="text-decoration:line-through;color:var(--color-text-muted);font-size:0.85em;margin-right:6px;">' + rPricing.formattedOriginalPrice + '</span>' + rPricing.formattedFinalPrice + '</span>'

@@ -490,7 +490,7 @@
     }
 
     if (descEl) {
-      var labName = test.lab || test.labName || 'Smear Pathology';
+      var labName = test.lab || test.labName || 'Shri Shankar Pathology';
       var sampleBadgeHtml = test.specimen
         ? '<div class="modal-sample-badge" style="display:inline-flex; align-items:center; gap:6px; background:#e8f4f4; color:#0d3b3e; border:1px solid rgba(13,59,62,0.22); border-radius:6px; padding:6px 14px; font-weight:600; font-size:0.92rem; margin:8px 0 16px;"><span style="color:#1a6b6e; font-weight:500;">Sample:</span> ' + esc(test.specimen) + '</div>'
         : '';

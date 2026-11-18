@@ -151,7 +151,7 @@
       totalStr = 'To be confirmed';
     }
 
-    var msg = 'Hi, I would like to book the following tests at Smear Pathology:\n\n' +
+    var msg = 'Hi, I would like to book the following tests at Shri Shankar Pathology:\n\n' +
       lines.join('\n') +
       '\n\nApproximate total: ' + totalStr +
       '\n\nPlease confirm availability and final charges. Thank you.';

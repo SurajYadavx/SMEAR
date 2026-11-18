@@ -23,12 +23,12 @@
         ? window.SmearCampaign.calculatePrice(pkg.price, 'package')
         : {
             originalPrice: pkg.price,
-            discountPercentage: 0,
-            finalPrice: pkg.price,
+            discountPercentage: 40,
+            finalPrice: (pkg.price !== null && pkg.price > 0) ? Math.round(pkg.price * 0.60) : null,
             hasNumericPrice: (pkg.price !== null && pkg.price > 0),
             formattedOriginalPrice: pkg.price ? '₹' + pkg.price : '',
-            formattedFinalPrice: pkg.price ? '₹' + pkg.price : 'Price available at lab',
-            badgeText: '',
+            formattedFinalPrice: (pkg.price !== null && pkg.price > 0) ? '₹' + Math.round(pkg.price * 0.60) : 'Price available at lab',
+            badgeText: '40% OFF',
             isActive: false
           };
       var imgUrl   = pkg.image_url;
@@ -44,7 +44,7 @@
         ? '<div class="pkg-card__price"><span style="text-decoration: line-through; color: var(--color-text-muted); font-size: 0.85em; font-weight: 500; margin-right: 6px;">' + pricing.formattedOriginalPrice + '</span>' + pricing.formattedFinalPrice + '</div>' 
         : '<div class="pkg-card__price" style="font-size: 0.9em; color: var(--color-text-muted);">Price available at lab</div>';
 
-      var badgeClass = pricing.isActive ? 'pkg-card__badge diwali-badge-pill' : 'pkg-card__badge';
+      var badgeClass = 'pkg-card__badge';
       var badgeHtml = pricing.badgeText ? '<span class="' + badgeClass + '">' + pricing.badgeText + '</span>' : '';
 
       card.innerHTML =

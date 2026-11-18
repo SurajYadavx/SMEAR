@@ -266,7 +266,7 @@
             '<div class="smear-call-modal__title-wrap">' +
               '<div class="smear-call-modal__icon">' + phoneSvg + '</div>' +
               '<div>' +
-                '<h3 id="smear-call-title" class="smear-call-modal__title">Call Smear Pathology</h3>' +
+                '<h3 id="smear-call-title" class="smear-call-modal__title">Call Shri Shankar Pathology</h3>' +
                 '<p class="smear-call-modal__subtitle">Select a service number to connect</p>' +
               '</div>' +
             '</div>' +

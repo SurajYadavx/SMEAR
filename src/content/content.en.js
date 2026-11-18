@@ -64,7 +64,7 @@ window.CONTENT_EN = {
   about: {
     eyebrow: 'Who We Are',
     title: 'Trusted Diagnostics,\nRight Here in Indapur',
-    lead: 'Smear Pathology is a dedicated diagnostic pathology and microbiology laboratory established to serve the community of Indapur and the surrounding talukas of Pune district. We bring the diagnostic accuracy and quality standards you would expect from a city-level laboratory \u2014 right to your doorstep.',
+    lead: 'Shri Shankar Pathology is a dedicated diagnostic pathology and microbiology laboratory established to serve the community of Indapur and the surrounding talukas of Pune district. We bring the diagnostic accuracy and quality standards you would expect from a city-level laboratory \u2014 right to your doorstep.',
     para1: 'Our laboratory is led by Mr.\u00a0Pradip\u00a0S.\u00a0Jadhav, a qualified microbiologist holding a Bachelor of Science in Microbiology and a Post Graduate Diploma in Medical Laboratory Technology (PGDMLT). With formal academic training in pathological and microbiological sciences, Mr.\u00a0Jadhav brings both rigorous scientific methodology and genuine care for patient wellbeing to every test we process.',
     para2: 'We offer a broad range of diagnostic services spanning routine haematology, biochemistry, serology, and clinical microbiology \u2014 the tests that matter most for your family\u2019s health decisions. Every report is handled with care and delivered with accuracy, so your doctor has the clear, reliable data they need.',
     badge1Title: 'Qualified Microbiologist',
@@ -88,8 +88,8 @@ window.CONTENT_EN = {
     name: 'Mr. Pradip S. Jadhav',
     quals: 'BSc Microbiology \u2022 PGDMLT',
     role: 'Founder & Principal Scientist',
-    bio: 'Mr. Jadhav holds formal academic training in microbiology and medical laboratory technology, bringing both scientific rigour and a genuine commitment to patient care to every test processed at Smear Pathology. He established this laboratory with a straightforward goal: to make accurate, reliable diagnostics available close to home for the families of Indapur and the surrounding region, without the need to travel to Pune city. Precise results, prompt delivery, and respectful service are the standards he holds the laboratory to every day.',
-    imgAlt: 'Mr. Pradip S. Jadhav — Founder & Principal Scientist, Smear Pathology Indapur',
+    bio: 'Mr. Jadhav holds formal academic training in microbiology and medical laboratory technology, bringing both scientific rigour and a genuine commitment to patient care to every test processed at Shri Shankar Pathology. He established this laboratory with a straightforward goal: to make accurate, reliable diagnostics available close to home for the families of Indapur and the surrounding region, without the need to travel to Pune city. Precise results, prompt delivery, and respectful service are the standards he holds the laboratory to every day.',
+    imgAlt: 'Mr. Pradip S. Jadhav — Founder & Principal Scientist, Shri Shankar Pathology Indapur',
     imgPlaceholderInitials: 'PJ',
   },
 
@@ -108,7 +108,7 @@ window.CONTENT_EN = {
     packageWho: 'Who it suits',
     packageWhy: 'What it checks',
     packagePrep: 'Preparation',
-    bookingMessage: 'Hi, I\'d like to book the {test} at Smear Pathology.',
+    bookingMessage: 'Hi, I\'d like to book the {test} at Shri Shankar Pathology.',
     trust: {
       qualified: 'Qualified microbiologist',
       confidential: 'Confidential reports',
@@ -165,7 +165,7 @@ window.CONTENT_EN = {
   howItWorks: {
     eyebrow: 'Simple Process',
     title: 'How It Works',
-    subtitle: 'Getting tested at Smear Pathology is simple, quick, and hassle-free.',
+    subtitle: 'Getting tested at Shri Shankar Pathology is simple, quick, and hassle-free.',
     step1Num: '01',
     step1Title: 'Contact Us',
     // CONFIRM WITH CLIENT: is home sample collection offered? Currently shows walk-in only.
@@ -220,7 +220,7 @@ window.CONTENT_EN = {
   gallery: {
     eyebrow: 'Our Facility',
     title: 'Gallery',
-    subtitle: 'A look inside Smear Pathology \u2014 our equipment, workspaces, and team.',
+    subtitle: 'A look inside Shri Shankar Pathology \u2014 our equipment, workspaces, and team.',
     placeholder: 'Gallery photos will appear here.\nDrop .jpg files into /public/assets/gallery/.',
   },
 

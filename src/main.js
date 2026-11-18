@@ -329,7 +329,7 @@ function buildTestCards() {
     card.className='test-card fade-in'; card.setAttribute('role','listitem'); card.setAttribute('tabindex','0');
     card.dataset.testId=test.id;
     card.innerHTML='<div class="test-card__img-wrap">'
-      +'<img class="test-card__img" src="'+test.image+'" alt="'+test.name+' test at Smear Pathology" loading="lazy"'
+      +'<img class="test-card__img" src="'+test.image+'" alt="'+test.name+' test at Shri Shankar Pathology" loading="lazy"'
       +' onerror="this.style.display=\'none\';this.parentElement.querySelector(\'.test-card__img-placeholder\').style.display=\'flex\'" />'
       +'<div class="test-card__img-placeholder" style="display:none"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">'
       +'<circle cx="24" cy="20" r="8" stroke="currentColor" stroke-width="1.5" opacity=".5"/>'
@@ -458,7 +458,7 @@ function openModal(test) {
   document.getElementById('modal-price').textContent=(getNestedValue(_content,'tests.startingFrom')||'Starting from')+' \u20b9'+test.price;
   document.getElementById('modal-desc').textContent=test.fullDesc;
   document.getElementById('modal-call-btn').href=CONTACT_PHONE_TEL;
-  var bm=getNestedValue(_content,'tests.bookingMessage')||"Hi, I'd like to book {test} at Smear Pathology.";
+  var bm=getNestedValue(_content,'tests.bookingMessage')||"Hi, I'd like to book {test} at Shri Shankar Pathology.";
   var waBtn=document.getElementById('modal-wa-btn');
   waBtn.href='https://wa.me/91'+CONTACT_PHONE+'?text='+encodeURIComponent(bm.replace('{test}',test.name));
   waBtn.setAttribute('target','_blank');
@@ -575,7 +575,7 @@ function injectJSONLD() {
   if(document.getElementById('jsonld-lab'))return;
   var schema={
     '@context':'https://schema.org','@type':'MedicalBusiness',
-    'name':'Smear Pathology',
+    'name':'Shri Shankar Pathology',
     'description':'Diagnostic pathology and microbiology laboratory in Indapur, Pune, Maharashtra.',
     'url':'https://smearpathology.in','logo':'https://smearpathology.in/public/assets/logo/logo.png',
     'telephone':['+917410745222','+919096053901','+919096053801'],'email':CONTACT_EMAIL,
